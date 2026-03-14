@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>经典项目 · GitHub Hot Daily</title>
+  <meta name="description" content="精选 GitHub 上最具影响力的经典开源项目，涵盖 AI/ML、前端、后端、系统编程等领域。" />
+  <script src="js/tailwind.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css" />
+  <style type="text/tailwindcss">
+    @theme {
+      --color-primary: #f6f8fa;
+      --color-surface: #ffffff;
+      --color-border: #d0d7de;
+      --color-accent: #0969da;
+      --color-accent-dark: #0550ae;
+      --color-text: #24292f;
+      --color-muted: #57606a;
+    }
+  </style>
+</head>
+<body class="bg-[#f6f8fa] font-sans text-[#24292f]">
+
+  <!-- 顶部导航栏 -->
+  <header class="sticky top-0 z-50 bg-white border-b border-[#d0d7de] shadow-sm">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-14">
+        <a href="index.html" class="flex items-center gap-2.5 group">
+          <div class="w-8 h-8 bg-[#ddf4ff] border border-[#54aeff] rounded-lg flex items-center justify-center group-hover:border-[#0969da] transition-colors">
+            <i class="fa fa-github text-[#0969da] text-base"></i>
+          </div>
+          <div>
+            <div class="text-sm font-bold text-[#24292f] leading-tight font-mono">GitHub Hot Daily</div>
+            <div class="text-xs text-[#57606a] leading-tight">每日热门开源项目</div>
+          </div>
+        </a>
+        <nav class="hidden md:flex items-center gap-1">
+          <a href="index.html" class="px-3 py-1.5 rounded-md text-sm font-medium text-[#57606a] hover:text-[#24292f] hover:bg-[#f3f4f6] transition-colors font-mono">
+            <i class="fa fa-fire mr-1.5"></i>今日热榜
+          </a>
+          <a href="history.html" class="px-3 py-1.5 rounded-md text-sm font-medium text-[#57606a] hover:text-[#24292f] hover:bg-[#f3f4f6] transition-colors font-mono">
+            <i class="fa fa-history mr-1.5"></i>历史记录
+          </a>
+          <a href="classics.html" class="px-3 py-1.5 rounded-md text-sm font-medium text-[#0969da] bg-[#ddf4ff] border border-[#54aeff] font-mono">
+            <i class="fa fa-star mr-1.5"></i>经典项目
+          </a>
+        </nav>
+        <div class="flex items-center gap-2">
+          <div class="relative hidden sm:block">
+            <input type="text" id="headerSearch" placeholder="搜索经典项目..."
+            class="w-52 pl-8 pr-3 py-1.5 text-sm bg-[#f6f8fa] border border-[#d0d7de] rounded-md text-[#24292f] placeholder-[#8c959f] focus:outline-none focus:border-[#0969da] transition-colors font-mono" />
+            <i class="fa fa-search absolute left-2.5 top-1/2 -translate-y-1/2 text-[#8c959f] text-xs"></i>
+          </div>
+          <button id="mobileMenuBtn" class="md:hidden p-1.5 rounded-md text-[#57606a] hover:bg-[#f3f4f6]">
+            <i class="fa fa-bars"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="mobileMenu" class="hidden md:hidden border-t border-[#d0d7de] bg-white px-4 py-3 space-y-1">
+      <a href="index.html" class="flex items-center gap-2 px-3 py-2 rounded-md text-sm font-medium text-[#57606a] hover:bg-[#f3f4f6] font-mono"><i class="fa fa-fire"></i>今日热榜</a>
+      <a href="history.html" class="flex items-center gap-2 px-3 py-2 rounded-md text-sm font-medium text-[#57606a] hover:bg-[#f3f4f6] font-mono"><i class="fa fa-history"></i>历史记录</a>
+      <a href="classics.html" class="flex items-center gap-2 px-3 py-2 rounded-md text-sm font-medium text-[#0969da] bg-[#ddf4ff] font-mono"><i class="fa fa-star"></i>经典项目</a>
+    </div>
+  </header>
+
+  <!-- 主体内容 -->
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+    <div class="flex gap-6">
+
+      <!-- 左侧边栏 -->
+      <aside class="hidden lg:block w-52 flex-shrink-0">
+        <div class="sticky top-20 space-y-4">
+
+          <!-- 分类导航 -->
+          <div class="bg-white rounded-lg border border-[#d0d7de] overflow-hidden shadow-sm">
+            <div class="px-3 py-2.5 border-b border-[#d0d7de] bg-[#f6f8fa]">
+              <h3 class="text-xs font-semibold text-[#57606a] uppercase tracking-wide">
+                <i class="fa fa-th-large mr-1.5 text-[#0969da]"></i>项目分类
+              </h3>
+            </div>
+            <nav class="p-2 space-y-0.5" id="categoryNav">
+              <a href="#" class="date-nav-item active" data-category="all">
+                <span>📦 全部</span>
+                <span class="date-count" id="countAll">-</span>
+              </a>
+              <a href="#" class="date-nav-item" data-category="ai_ml">
+                <span>🤖 AI/ML</span>
+                <span class="date-count" id="countAiMl">-</span>
+              </a>
+              <a href="#" class="date-nav-item" data-category="frontend">
+                <span>🎨 前端</span>
+                <span class="date-count" id="countFrontend">-</span>
+              </a>
+              <a href="#" class="date-nav-item" data-category="backend">
+                <span>⚙️ 后端</span>
+                <span class="date-count" id="countBackend">-</span>
+              </a>
+              <a href="#" class="date-nav-item" data-category="systems">
+                <span>🔧 系统</span>
+                <span class="date-count" id="countSystems">-</span>
+              </a>
+              <a href="#" class="date-nav-item" data-category="devops">
+                <span>🚀 DevOps</span>
+                <span class="date-count" id="countDevops">-</span>
+              </a>
+              <a href="#" class="date-nav-item" data-category="mobile">
+                <span>📱 移动端</span>
+                <span class="date-count" id="countMobile">-</span>
+              </a>
+              <a href="#" class="date-nav-item" data-category="other">
+                <span>📦 其他</span>
+                <span class="date-count" id="countOther">-</span>
+              </a>
+            </nav>
+          </div>
+
+          <!-- 关于经典项目 -->
+          <div class="bg-white rounded-lg border border-[#d0d7de] p-3 shadow-sm">
+            <h3 class="text-xs font-semibold text-[#57606a] uppercase tracking-wide mb-2">
+              <i class="fa fa-info-circle mr-1.5 text-[#0969da]"></i>关于经典项目
+            </h3>
+            <p class="text-xs text-[#57606a] leading-relaxed" id="classicsDesc">
+              精选 GitHub 上最具影响力的开源项目，这些项目在各自领域具有里程碑意义，值得每位开发者了解。
+            </p>
+          </div>
+        </div>
+      </aside>
+
+      <!-- 主内容区 -->
+      <main class="flex-1 min-w-0">
+
+        <!-- 页面标题 -->
+        <div class="mb-5">
+          <h1 class="text-xl font-bold text-[#24292f] font-mono flex items-center gap-2">
+            <i class="fa fa-star text-[#9a6700]"></i>经典项目
+          </h1>
+          <p class="text-sm text-[#57606a] mt-0.5 font-mono" id="pageSubtitle">精选最具影响力的开源项目</p>
+        </div>
+
+        <!-- 搜索框 -->
+        <div class="relative mb-5">
+          <input type="text" id="searchInput" placeholder="搜索经典项目名称、描述、语言..."
+          class="w-full pl-10 pr-4 py-2.5 text-sm bg-white border border-[#d0d7de] rounded-lg text-[#24292f] placeholder-[#8c959f] focus:outline-none focus:border-[#0969da] transition-colors font-mono" />
+          <i class="fa fa-search absolute left-3.5 top-1/2 -translate-y-1/2 text-[#8c959f]"></i>
+          <button id="clearSearchBtn" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-[#8c959f] hover:text-[#57606a] transition-colors">
+            <i class="fa fa-times text-sm"></i>
+          </button>
+        </div>
+
+        <!-- 移动端分类 -->
+        <div class="lg:hidden flex flex-wrap gap-1.5 mb-5" id="mobileCategoryFilter">
+          <button class="cat-tab active" data-category="all">全部</button>
+          <button class="cat-tab" data-category="ai_ml">🤖 AI/ML</button>
+          <button class="cat-tab" data-category="frontend">🎨 前端</button>
+          <button class="cat-tab" data-category="backend">⚙️ 后端</button>
+          <button class="cat-tab" data-category="systems">🔧 系统</button>
+          <button class="cat-tab" data-category="devops">🚀 DevOps</button>
+          <button class="cat-tab" data-category="mobile">📱 移动端</button>
+          <button class="cat-tab" data-category="other">📦 其他</button>
+        </div>
+
+        <!-- 统计信息 -->
+        <div class="text-xs text-[#8c959f] mb-4 font-mono" id="statsBar"></div>
+
+        <!-- 加载状态 -->
+        <div id="loadingState" class="flex flex-col items-center justify-center py-20 text-[#8c959f]">
+          <div class="loading-spinner mb-4"></div>
+          <p class="text-sm font-mono">正在加载经典项目...</p>
+        </div>
+
+        <!-- 空状态 -->
+        <div id="emptyState" class="hidden flex flex-col items-center justify-center py-20 text-[#8c959f]">
+          <i class="fa fa-search text-5xl mb-4 opacity-30"></i>
+          <p class="text-base font-medium font-mono">暂无匹配项目</p>
+          <p class="text-sm mt-1">尝试调整搜索关键词或分类</p>
+        </div>
+
+        <!-- 项目列表 -->
+        <div id="repoList" class="space-y-3"></div>
+
+        <!-- 加载更多 -->
+        <div id="loadMoreWrap" class="hidden text-center mt-5">
+          <button id="btnLoadMore" class="px-6 py-2 text-sm font-medium text-[#0969da] border border-[#54aeff] rounded-md hover:bg-[#ddf4ff] transition-colors font-mono">
+            <i class="fa fa-chevron-down mr-2"></i>加载更多
+          </button>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <!-- 项目卡片模板 -->
+  <template id="repoTpl">
+    <article class="repo-card">
+      <div class="p-4">
+        <div class="flex items-start justify-between mb-2.5">
+          <div class="flex items-center gap-2 flex-wrap">
+            <span class="cat-badge badge"></span>
+            <div class="flex items-center gap-1.5">
+              <span class="lang-dot w-3 h-3 rounded-full flex-shrink-0"></span>
+              <span class="lang-label text-xs text-[#57606a] font-mono"></span>
+            </div>
+          </div>
+          <div class="flex items-center gap-2 flex-shrink-0">
+            <div class="today-stars-wrap hidden flex items-center gap-1">
+              <i class="fa fa-star text-[#1a7f37] text-xs"></i>
+              <span class="today-stars-num text-xs text-[#1a7f37] font-mono font-semibold"></span>
+              <span class="text-xs text-[#8c959f] font-mono">today</span>
+            </div>
+            <button class="favorite-btn p-1 rounded text-[#8c959f] hover:text-yellow-500 transition-colors" title="收藏">
+              <i class="fa fa-star-o text-sm"></i>
+            </button>
+          </div>
+        </div>
+        <div class="mb-2">
+          <a class="repo-name text-base font-semibold text-[#0969da] hover:text-[#0550ae] hover:underline transition-colors font-mono" href="#" target="_blank" rel="noopener"></a>
+          <div class="repo-chinese-name hidden text-sm text-[#24292f] mt-0.5"></div>
+        </div>
+        <p class="repo-description text-sm text-[#57606a] leading-relaxed mb-3 line-clamp-2"></p>
+        <div class="repo-analysis hidden mt-3 space-y-3 border-t border-[#d0d7de] pt-3">
+          <div>
+            <div class="flex items-center gap-1.5 mb-1.5"><span class="text-xs font-semibold text-[#57606a] uppercase tracking-wide">📋 项目描述</span></div>
+            <p class="orig-description text-sm text-[#57606a] leading-relaxed bg-[#f6f8fa] rounded-md p-3 border border-[#d0d7de]"></p>
+          </div>
+          <div class="use-case-block hidden">
+            <div class="flex items-center gap-1.5 mb-1.5"><span class="text-xs font-semibold text-[#57606a] uppercase tracking-wide">🎯 使用场景</span></div>
+            <p class="use-case-content text-sm leading-relaxed bg-[#dafbe1] rounded-md p-3 border border-[#4ac26b]/40 text-[#116329]"></p>
+          </div>
+          <div class="tech-highlights-block hidden">
+            <div class="flex items-center gap-1.5 mb-1.5"><span class="text-xs font-semibold text-[#57606a] uppercase tracking-wide">⚡ 技术亮点</span></div>
+            <ul class="highlights-list space-y-1"></ul>
+          </div>
+          <div class="why-trending-block hidden">
+            <div class="flex items-center gap-1.5 mb-1.5"><span class="text-xs font-semibold text-[#57606a] uppercase tracking-wide">🔥 为什么经典</span></div>
+            <p class="why-trending-content text-sm leading-relaxed bg-[#fff0eb] rounded-md p-3 border border-[#ff9a72]/40 text-[#bc4c00]"></p>
+          </div>
+          <div class="getting-started-block hidden">
+            <div class="flex items-center gap-1.5 mb-1.5"><span class="text-xs font-semibold text-[#57606a] uppercase tracking-wide">🚀 快速上手</span></div>
+            <p class="getting-started-content text-sm font-mono bg-[#f6f8fa] rounded-md p-3 border border-[#d0d7de] text-[#24292f]"></p>
+          </div>
+        </div>
+        <div class="flex items-center justify-between mt-3 pt-3 border-t border-[#d0d7de]">
+          <div class="flex items-center gap-3">
+            <span class="star-count flex items-center gap-1 text-xs text-[#9a6700] font-mono">
+              <i class="fa fa-star text-xs"></i><span class="star-count-num"></span>
+            </span>
+            <span class="flex items-center gap-1 text-xs text-[#57606a] font-mono">
+              <i class="fa fa-code-fork text-xs"></i><span class="fork-count-num"></span>
+            </span>
+            <div class="repo-tags flex flex-wrap gap-1"></div>
+          </div>
+          <div class="flex items-center gap-2">
+            <button class="btn-expand text-xs text-[#0969da] font-medium flex items-center gap-1 hover:text-[#0550ae] transition-colors font-mono">
+              展开详情 <i class="fa fa-chevron-down expand-icon text-xs transition-transform"></i>
+            </button>
+            <a class="btn-repo-link text-xs font-medium px-2.5 py-1 bg-[#ddf4ff] text-[#0969da] border border-[#54aeff] rounded-md hover:bg-[#b6e3ff] transition-colors font-mono" href="#" target="_blank" rel="noopener">
+              <i class="fa fa-github mr-1"></i>查看
+            </a>
+          </div>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <!-- 页脚 -->
+  <footer class="mt-12 border-t border-[#d0d7de] bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+      <div class="flex flex-col md:flex-row items-center justify-between gap-4">
+        <div class="flex items-center gap-2.5">
+          <div class="w-7 h-7 bg-[#ddf4ff] border border-[#54aeff] rounded-lg flex items-center justify-center">
+            <i class="fa fa-github text-[#0969da] text-sm"></i>
+          </div>
+          <div>
+            <div class="text-sm font-semibold text-[#24292f] font-mono">GitHub Hot Daily</div>
+            <div class="text-xs text-[#8c959f]">每日热门开源项目 · 数据来源 GitHub Trending</div>
+          </div>
+        </div>
+        <div class="flex items-center gap-5 text-sm text-[#8b949e]">
+          <a href="https://github.com/trending" target="_blank" class="hover:text-[#0969da] transition-colors font-mono">GitHub Trending</a>
+          <span class="font-mono text-xs text-[#57606a]">© 2026 GitHub Hot Daily</span>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <button id="btnTop" class="hidden fixed bottom-6 right-6 w-9 h-9 bg-white border border-[#d0d7de] text-[#0969da] rounded-lg shadow-md hover:bg-[#ddf4ff] transition-all flex items-center justify-center z-30">
+    <i class="fa fa-chevron-up text-xs"></i>
+  </button>
+
+  <script src="js/utils.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/classics.js"></script>
+</body>
+</html>

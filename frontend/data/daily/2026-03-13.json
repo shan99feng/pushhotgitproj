@@ -1,0 +1,116 @@
+{
+  "date": "2026-03-13",
+  "total": 25,
+  "repos": [
+    {
+      "repo_id": "microsoft/vscode",
+      "name": "vscode",
+      "full_name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code - Open Source (\"Code - OSS\")",
+      "language": "TypeScript",
+      "stars": 165000,
+      "forks": 29000,
+      "today_stars": 450,
+      "hot_score": 98.5,
+      "category": "frontend",
+      "topics": ["editor", "typescript", "electron", "ide"],
+      "structured_summary": {
+        "chinese_name": "VS Code 编辑器",
+        "chinese_summary": "微软开源的轻量级但功能强大的代码编辑器，支持几乎所有编程语言，拥有丰富的插件生态。",
+        "use_case": "日常代码编写、调试、版本控制，适合前端、后端、全栈开发者",
+        "tech_highlights": ["基于 Electron 构建，跨平台支持", "Language Server Protocol 支持多语言智能提示", "内置 Git 集成和调试器", "丰富的插件市场，超过 3 万个扩展"],
+        "why_trending": "持续迭代更新，AI 辅助编程功能（GitHub Copilot）集成，成为最受欢迎的代码编辑器",
+        "getting_started": "下载安装后即可使用，推荐安装 ESLint、Prettier、GitLens 等常用插件"
+      }
+    },
+    {
+      "repo_id": "ollama/ollama",
+      "name": "ollama",
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.",
+      "language": "Go",
+      "stars": 98000,
+      "forks": 7800,
+      "today_stars": 1200,
+      "hot_score": 99.2,
+      "category": "ai_ml",
+      "topics": ["llm", "ai", "machine-learning", "llama", "deepseek"],
+      "structured_summary": {
+        "chinese_name": "Ollama 本地大模型运行工具",
+        "chinese_summary": "在本地轻松运行 Llama、DeepSeek、Phi 等大型语言模型，无需云端 API，保护数据隐私。",
+        "use_case": "本地部署 LLM、离线 AI 助手、企业私有化部署、AI 应用开发测试",
+        "tech_highlights": ["支持 GPU 加速（NVIDIA/AMD/Apple Silicon）", "简单的 REST API 接口", "支持 100+ 主流开源模型", "模型自动量化，降低显存需求"],
+        "why_trending": "DeepSeek-R1 发布后本地部署需求爆发，Ollama 成为最简单的本地 LLM 运行方案",
+        "getting_started": "curl -fsSL https://ollama.com/install.sh | sh && ollama run llama3.3"
+      }
+    },
+    {
+      "repo_id": "deepseek-ai/DeepSeek-R1",
+      "name": "DeepSeek-R1",
+      "full_name": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "description": "DeepSeek R1 - Reasoning Model",
+      "language": "Python",
+      "stars": 25000,
+      "forks": 3200,
+      "today_stars": 890,
+      "hot_score": 97.8,
+      "category": "ai_ml",
+      "topics": ["llm", "reasoning", "ai", "deepseek", "rlhf"],
+      "structured_summary": {
+        "chinese_name": "DeepSeek-R1 推理模型",
+        "chinese_summary": "深度求索发布的强推理能力大语言模型，在数学、代码、逻辑推理等任务上达到 GPT-4 级别，且完全开源。",
+        "use_case": "复杂数学推理、代码生成与调试、逻辑分析、科学研究辅助",
+        "tech_highlights": ["Chain-of-Thought 推理能力", "RLHF 强化学习训练", "多种规模版本（1.5B 到 671B）", "MIT 开源协议，可商用"],
+        "why_trending": "以极低成本实现 GPT-4 级别推理能力，震撼 AI 行业，引发全球关注",
+        "getting_started": "pip install transformers && 使用 Hugging Face 加载模型"
+      }
+    },
+    {
+      "repo_id": "astral-sh/uv",
+      "name": "uv",
+      "full_name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": 42000,
+      "forks": 1200,
+      "today_stars": 680,
+      "hot_score": 96.5,
+      "category": "devops",
+      "topics": ["python", "rust", "package-manager", "pip", "virtualenv"],
+      "structured_summary": {
+        "chinese_name": "uv - 极速 Python 包管理器",
+        "chinese_summary": "用 Rust 编写的超快 Python 包和项目管理器，比 pip 快 10-100 倍，兼容 pip 命令行接口。",
+        "use_case": "Python 项目依赖管理、虚拟环境创建、包安装加速、CI/CD 流水线优化",
+        "tech_highlights": ["Rust 编写，性能极致", "兼容 pip/pip-tools/virtualenv 接口", "内置项目管理功能", "支持 Python 版本管理"],
+        "why_trending": "Python 生态的革命性工具，解决了 pip 速度慢的痛点，被越来越多项目采用",
+        "getting_started": "curl -LsSf https://astral.sh/uv/install.sh | sh && uv pip install requests"
+      }
+    },
+    {
+      "repo_id": "vercel/ai",
+      "name": "ai",
+      "full_name": "vercel/ai",
+      "url": "https://github.com/vercel/ai",
+      "description": "Build AI-powered applications with React, Svelte, Vue, and Solid",
+      "language": "TypeScript",
+      "stars": 12000,
+      "forks": 1800,
+      "today_stars": 320,
+      "hot_score": 94.2,
+      "category": "frontend",
+      "topics": ["ai", "react", "nextjs", "llm", "streaming"],
+      "structured_summary": {
+        "chinese_name": "Vercel AI SDK",
+        "chinese_summary": "Vercel 出品的 AI 应用开发 SDK，简化在 React/Next.js 中集成 LLM 的流程，支持流式响应。",
+        "use_case": "构建 AI 聊天应用、AI 辅助写作工具、智能搜索、AI 代码助手",
+        "tech_highlights": ["统一的 AI 提供商接口（OpenAI/Anthropic/Google）", "内置流式响应支持", "React Hooks 封装", "Edge Runtime 兼容"],
+        "why_trending": "AI 应用开发需求爆发，Vercel AI SDK 提供了最简洁的集成方案",
+        "getting_started": "npm install ai && 参考官方文档快速搭建 AI 聊天应用"
+      }
+    }
+  ]
+}

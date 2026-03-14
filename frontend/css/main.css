@@ -1,0 +1,473 @@
+/* ===== GitHub Hot Daily - 主样式文件 ===== */
+/* 风格：明亮清爽 + 蓝绿 GitHub 主题 */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: #f6f8fa;
+  color: #24292f;
+}
+
+/* ===== 加载动画 ===== */
+.loading-spinner {
+  width: 36px;
+  height: 36px;
+  border: 3px solid #d0d7de;
+  border-top-color: #0969da;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ===== 分类标签按钮 ===== */
+.cat-tab {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 14px;
+  border-radius: 6px;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: #57606a;
+  background: #ffffff;
+  border: 1px solid #d0d7de;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.cat-tab:hover {
+  background: #f3f4f6;
+  border-color: #0969da;
+  color: #0969da;
+}
+
+.cat-tab.active {
+  background: #ddf4ff;
+  border-color: #0969da;
+  color: #0969da;
+  font-weight: 600;
+}
+
+/* ===== 徽章 ===== */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: 9999px;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+/* 来源徽章 */
+.source-badge.github {
+  background: #ddf4ff;
+  color: #0969da;
+  border: 1px solid #54aeff;
+}
+
+/* 分类徽章 */
+.cat-badge {
+  background: #f0f6ff;
+  color: #0969da;
+  border: 1px solid #54aeff;
+}
+
+.cat-badge.ai_ml    { background: #f0f6ff; color: #0550ae; border-color: #54aeff; }
+.cat-badge.frontend { background: #fbefff; color: #8250df; border-color: #d2a8ff; }
+.cat-badge.backend  { background: #dafbe1; color: #116329; border-color: #4ac26b; }
+.cat-badge.systems  { background: #fff0eb; color: #bc4c00; border-color: #ff9a72; }
+.cat-badge.devops   { background: #fff8c5; color: #7d4e00; border-color: #e3b341; }
+.cat-badge.mobile   { background: #e6f7f8; color: #0e7490; border-color: #67e8f9; }
+.cat-badge.other    { background: #f6f8fa; color: #57606a; border-color: #d0d7de; }
+
+/* ===== 项目卡片 ===== */
+.repo-card {
+  background: #ffffff;
+  border: 1px solid #d0d7de;
+  border-radius: 10px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.1s ease;
+}
+
+.repo-card:hover {
+  border-color: #0969da;
+  box-shadow: 0 0 0 1px #0969da20, 0 4px 16px rgba(9, 105, 218, 0.08);
+  transform: translateY(-1px);
+}
+
+/* ===== 展开/折叠动画 ===== */
+.repo-analysis {
+  animation: fadeIn 0.25s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ===== 亮点列表 ===== */
+.highlights-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 0.8125rem;
+  color: #57606a;
+  line-height: 1.6;
+}
+
+.highlights-list li::before {
+  content: '▸';
+  color: #0969da;
+  font-size: 0.75rem;
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+/* ===== 日期导航 ===== */
+.date-nav-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 10px;
+  border-radius: 6px;
+  font-size: 0.8125rem;
+  color: #57606a;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  text-decoration: none;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.date-nav-item:hover {
+  background: #f3f4f6;
+  color: #0969da;
+}
+
+.date-nav-item.active {
+  background: #ddf4ff;
+  color: #0969da;
+  font-weight: 600;
+}
+
+.date-nav-item .date-count {
+  font-size: 0.6875rem;
+  color: #8c959f;
+  background: #f6f8fa;
+  padding: 1px 6px;
+  border-radius: 9999px;
+  border: 1px solid #d0d7de;
+}
+
+/* ===== 日历组件 ===== */
+.cal-day {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  font-size: 0.8125rem;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  margin: 1px auto;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.cal-day:hover:not(.cal-empty):not(.cal-no-data) {
+  background: #f3f4f6;
+  color: #0969da;
+}
+
+.cal-day.cal-has-data {
+  color: #0969da;
+  font-weight: 600;
+  background: #ddf4ff;
+}
+
+.cal-day.cal-has-data:hover {
+  background: #b6e3ff;
+}
+
+.cal-day.cal-selected {
+  background: #0969da !important;
+  color: #fff !important;
+}
+
+.cal-day.cal-today {
+  border: 2px solid #0969da;
+}
+
+.cal-day.cal-empty,
+.cal-day.cal-no-data {
+  color: #d0d7de;
+  cursor: default;
+}
+
+/* ===== 语言颜色点 ===== */
+.lang-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+/* 常见语言颜色（参考 GitHub 官方颜色） */
+.lang-python    { background: #3572A5; }
+.lang-javascript { background: #f1e05a; }
+.lang-typescript { background: #2b7489; }
+.lang-go        { background: #00ADD8; }
+.lang-rust      { background: #dea584; }
+.lang-java      { background: #b07219; }
+.lang-cpp       { background: #f34b7d; }
+.lang-c         { background: #555555; }
+.lang-swift     { background: #F05138; }
+.lang-kotlin    { background: #A97BFF; }
+.lang-dart      { background: #00B4AB; }
+.lang-ruby      { background: #701516; }
+.lang-php       { background: #4F5D95; }
+.lang-shell     { background: #89e051; }
+.lang-default   { background: #8c959f; }
+
+/* ===== Star 数显示 ===== */
+.star-count {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.8125rem;
+  color: #9a6700;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.today-stars {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.75rem;
+  color: #1a7f37;
+  font-weight: 600;
+}
+
+/* ===== 搜索结果项 ===== */
+.search-result-item {
+  padding: 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+  border: 1px solid transparent;
+}
+
+.search-result-item:hover {
+  background: #f6f8fa;
+  border-color: #d0d7de;
+}
+
+/* ===== 回到顶部按钮 ===== */
+#btnTop {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: all 0.3s ease;
+}
+
+#btnTop.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ===== 响应式调整 ===== */
+@media (max-width: 640px) {
+  .repo-card .p-5 {
+    padding: 1rem;
+  }
+}
+
+/* ===== 滚动条美化 ===== */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f6f8fa;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d0d7de;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8c959f;
+}
+
+/* ===== 文字截断 ===== */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ===== 标签 ===== */
+.repo-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  background: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-radius: 9999px;
+  font-size: 0.6875rem;
+  color: #57606a;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.repo-tag:hover {
+  border-color: #0969da;
+  color: #0969da;
+}
+
+/* ===== 技术亮点标签 ===== */
+.tech-highlight-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 12px;
+  background: #ddf4ff;
+  border: 1px solid #54aeff;
+  border-radius: 9999px;
+  font-size: 0.8125rem;
+  color: #0969da;
+  font-weight: 500;
+}
+
+/* ===== 热度进度条 ===== */
+.hot-bar {
+  height: 3px;
+  background: linear-gradient(90deg, #0969da, #54aeff);
+  border-radius: 9999px;
+  transition: width 0.5s ease;
+}
+
+/* ===== 代码块 ===== */
+.code-block {
+  background: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  padding: 12px 16px;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  font-size: 0.8125rem;
+  color: #24292f;
+  overflow-x: auto;
+}
+
+/* ===== 统计卡片 ===== */
+.stat-card {
+  background: #ffffff;
+  border: 1px solid #d0d7de;
+  border-radius: 8px;
+  padding: 12px 16px;
+  transition: border-color 0.15s ease;
+}
+
+.stat-card:hover {
+  border-color: #0969da;
+}
+
+/* ===== 分类导航按钮 ===== */
+.domain-btn {
+  transition: all 0.15s ease;
+}
+
+.domain-btn.active {
+  background: #ddf4ff !important;
+  color: #0969da !important;
+  border-color: #54aeff !important;
+}
+
+/* ===== 详情 Tab ===== */
+.detail-tab {
+  transition: all 0.15s ease;
+  color: #57606a;
+  border-bottom: 2px solid transparent;
+}
+
+.detail-tab.active {
+  color: #0969da;
+  border-bottom-color: #0969da;
+}
+
+/* ===== Toast 提示 ===== */
+#toast {
+  font-family: 'Inter', sans-serif;
+}
+
+/* ===== 贡献点列表 ===== */
+.contrib-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px 12px;
+  background: #f6f8fa;
+  border-radius: 6px;
+  font-size: 0.8125rem;
+  color: #57606a;
+  line-height: 1.5;
+  border: 1px solid #d0d7de;
+}
+
+.contrib-item-num {
+  width: 20px;
+  height: 20px;
+  background: #0969da;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+/* ===== 应用场景卡片 ===== */
+.scenario-card {
+  padding: 12px;
+  background: #ddf4ff;
+  border: 1px solid #54aeff;
+  border-radius: 8px;
+  font-size: 0.8125rem;
+  color: #0550ae;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.scenario-card::before {
+  content: '🚀';
+  font-size: 1rem;
+  flex-shrink: 0;
+}
+
+/* ===== 热度火焰动画 ===== */
+@keyframes flicker {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+.hot-icon {
+  animation: flicker 1.5s ease-in-out infinite;
+}
