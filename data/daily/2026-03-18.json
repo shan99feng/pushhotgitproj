@@ -1,0 +1,615 @@
+{
+  "date": "2026-03-18",
+  "since": "daily",
+  "generated_at": "2026-03-19T02:25:02.293739+00:00",
+  "total": 20,
+  "category_counts": {
+    "other": 2,
+    "ai_ml": 4,
+    "frontend": 5,
+    "systems": 8,
+    "devops": 1
+  },
+  "repos": [
+    {
+      "repo_id": "github-codecrafters-io-build-your-own-x",
+      "source": "github",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "category": "other",
+      "stars": 480806,
+      "forks": 45237,
+      "today_stars": 1757,
+      "hot_score": 18138.2,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "构建你自己的X",
+        "chinese_summary": "通过重新实现你喜爱的技术来学习编程",
+        "use_case": "适用于希望深入理解技术原理和实现细节的学习者",
+        "tech_highlights": [
+          "学习编程原理",
+          "实践项目开发",
+          "技术复现"
+        ],
+        "target_users": "编程初学者和进阶开发者",
+        "why_trending": "符合当前学习编程的趋势，强调实践和理解技术原理",
+        "getting_started": "从README开始，跟随项目指导逐步实现",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-pathwaycom-pathway",
+      "source": "github",
+      "full_name": "pathwaycom/pathway",
+      "owner": "pathwaycom",
+      "name": "pathway",
+      "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 60659,
+      "forks": 1609,
+      "today_stars": 902,
+      "hot_score": 9498.3,
+      "url": "https://github.com/pathwaycom/pathway",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Pathway",
+        "chinese_summary": "Python ETL框架，支持流处理、实时分析、LLM管道和RAG。",
+        "use_case": "适用于数据处理、实时分析和构建自然语言处理管道。",
+        "tech_highlights": [
+          "支持流处理和实时分析",
+          "集成LLM和RAG功能",
+          "Python编写，易于扩展"
+        ],
+        "target_users": "数据工程师、数据科学家和AI开发者",
+        "why_trending": "结合了现代数据处理技术和AI趋势，满足实时分析和自然语言处理需求",
+        "getting_started": "通过官方文档快速了解并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-n8n-io-n8n",
+      "source": "github",
+      "full_name": "n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 179881,
+      "forks": 55936,
+      "today_stars": 264,
+      "hot_score": 3165.5,
+      "url": "https://github.com/n8n-io/n8n",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "n8n",
+        "chinese_summary": "一个具备原生AI能力的工作流自动化平台，结合可视化构建与自定义代码，支持自托管或云端部署，集成400多项服务。",
+        "use_case": "适用于需要自动化工作流的企业和个人，特别是那些希望集成多种服务并加入AI元素的用户。",
+        "tech_highlights": [
+          "支持自定义代码与可视化构建",
+          "集成400多项服务",
+          "具备原生AI能力"
+        ],
+        "target_users": "需要自动化工作流的企业和个人开发者",
+        "why_trending": "得益于其强大的集成能力和原生AI功能，满足了现代企业对自动化和智能化的需求，社区活跃度高。",
+        "getting_started": "建议从官方文档开始，快速了解基本操作和工作流设计方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-widelands-widelands",
+      "source": "github",
+      "full_name": "widelands/widelands",
+      "owner": "widelands",
+      "name": "widelands",
+      "description": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.",
+      "language": "C++",
+      "category": "systems",
+      "stars": 2629,
+      "forks": 192,
+      "today_stars": 150,
+      "hot_score": 1842.0,
+      "url": "https://github.com/widelands/widelands",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Widelands",
+        "chinese_summary": "一款免费开源的即时战略游戏，支持单人战役和多人模式。",
+        "use_case": "适用于游戏爱好者和开发者。",
+        "tech_highlights": [
+          "开源代码库",
+          "多人游戏模式",
+          "丰富的单人战役"
+        ],
+        "target_users": "游戏开发者和即时战略游戏爱好者",
+        "why_trending": "作为开源项目，吸引了众多开发者贡献和学习；多人游戏模式增加了社区活跃度。",
+        "getting_started": "访问GitHub页面，阅读README文件开始了解项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-AykutSarac-jsoncrack.com",
+      "source": "github",
+      "full_name": "AykutSarac/jsoncrack.com",
+      "owner": "AykutSarac",
+      "name": "jsoncrack.com",
+      "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 43697,
+      "forks": 3524,
+      "today_stars": 126,
+      "hot_score": 1724.0,
+      "url": "https://github.com/AykutSarac/jsoncrack.com",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "JSON可视化工具",
+        "chinese_summary": "将JSON、YAML、XML和CSV等数据格式转换为交互式图表的应用",
+        "use_case": "适用于数据分析师、前端开发者和数据可视化爱好者",
+        "tech_highlights": [
+          "支持多种数据格式",
+          "交互式图表展示",
+          "开源"
+        ],
+        "target_users": "数据处理和可视化专业人士",
+        "why_trending": "顺应数据可视化趋势，提供便捷的数据转换工具，受到开发者社区欢迎",
+        "getting_started": "通过npm安装依赖并运行项目，快速开始探索数据可视化",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 95091,
+      "forks": 5140,
+      "today_stars": 99,
+      "hot_score": 1487.8,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的自托管照片和视频管理解决方案",
+        "use_case": "适用于需要自托管且高性能的照片和视频管理场景",
+        "tech_highlights": [
+          "高性能",
+          "自托管",
+          "TypeScript 开发"
+        ],
+        "target_users": "需要自托管的照片和视频管理解决方案的用户",
+        "why_trending": "因其高性能和自托管特性，满足了用户对隐私和控制的高要求，同时TypeScript的使用也增加了开发效率",
+        "getting_started": "通过官方文档快速了解项目架构，开始本地部署",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-huggingface-transformers",
+      "source": "github",
+      "full_name": "huggingface/transformers",
+      "owner": "huggingface",
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 158043,
+      "forks": 32536,
+      "today_stars": 87,
+      "hot_score": 1389.9,
+      "url": "https://github.com/huggingface/transformers",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hugging Face Transformers",
+        "chinese_summary": "用于文本、视觉、音频和多模态模型的先进机器学习模型框架，支持推理和训练。",
+        "use_case": "适用于自然语言处理、计算机视觉、音频处理和多模态模型的应用场景。",
+        "tech_highlights": [
+          "支持多种模型架构",
+          "丰富的预训练模型库",
+          "易于扩展和定制"
+        ],
+        "target_users": "机器学习工程师、数据科学家、研究学者",
+        "why_trending": "因其强大的功能和广泛的社区支持，成为当前热门的模型框架之一。",
+        "getting_started": "通过安装库并参考文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 438437,
+      "forks": 43692,
+      "today_stars": 80,
+      "hot_score": 1364.2,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "freeCodeCamp开源项目",
+        "chinese_summary": "一个提供免费学习数学、编程和计算机科学的开源平台。",
+        "use_case": "在线学习和自我提升编程技能。",
+        "tech_highlights": [
+          "丰富的学习资源",
+          "社区驱动的开发",
+          "多语言支持"
+        ],
+        "target_users": "编程初学者和自学者",
+        "why_trending": "得益于其高质量的免费教育资源和活跃的社区参与，吸引了大量学习者。",
+        "getting_started": "访问官网，选择学习路径开始学习。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-jj-vcs-jj",
+      "source": "github",
+      "full_name": "jj-vcs/jj",
+      "owner": "jj-vcs",
+      "name": "jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 27046,
+      "forks": 968,
+      "today_stars": 88,
+      "hot_score": 1323.2,
+      "url": "https://github.com/jj-vcs/jj",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "jj",
+        "chinese_summary": "一个简单且强大的Git兼容版本控制系统",
+        "use_case": "适用于需要Git兼容性但希望简化工作流程的开发者",
+        "tech_highlights": [
+          "Rust编写，性能优异",
+          "Git兼容，易于迁移",
+          "简洁的命令行接口"
+        ],
+        "target_users": "希望简化Git使用流程的开发者",
+        "why_trending": "结合了Git的兼容性和Rust的性能，满足了现代开发者的高效需求",
+        "getting_started": "通过文档快速了解基本命令，开始使用jj",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-qlib",
+      "source": "github",
+      "full_name": "microsoft/qlib",
+      "owner": "microsoft",
+      "name": "qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 38975,
+      "forks": 6075,
+      "today_stars": 76,
+      "hot_score": 1219.1,
+      "url": "https://github.com/microsoft/qlib",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "QLib",
+        "chinese_summary": "一个基于AI的量化投资平台，用于量化研究和生产实施。",
+        "use_case": "适用于量化研究和投资策略开发。",
+        "tech_highlights": [
+          "支持多种机器学习模型",
+          "集成市场动态建模",
+          "支持强化学习"
+        ],
+        "target_users": "量化分析师、数据科学家、AI工程师",
+        "why_trending": "结合AI技术提升量化投资效率，符合当前AI在金融领域的应用趋势。",
+        "getting_started": "通过官方文档快速了解并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 109588,
+      "forks": 16344,
+      "today_stars": 67,
+      "hot_score": 1174.0,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一个用于自托管的开源远程桌面应用，替代TeamViewer。",
+        "use_case": "适用于需要远程访问和控制桌面的场景。",
+        "tech_highlights": [
+          "使用Rust编写，保证高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台兼容性强"
+        ],
+        "target_users": "需要远程访问桌面的个人和企业用户",
+        "why_trending": "得益于Rust语言的优势和开源社区的支持，RustDesk在性能和安全性方面表现出色，吸引了大量关注。",
+        "getting_started": "访问GitHub页面，按照README中的说明快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-mnfst-manifest",
+      "source": "github",
+      "full_name": "mnfst/manifest",
+      "owner": "mnfst",
+      "name": "manifest",
+      "description": "Smart LLM Routing for OpenClaw. Cut Costs up to 70% 🦞🦚",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 3897,
+      "forks": 194,
+      "today_stars": 73,
+      "hot_score": 1089.1,
+      "url": "https://github.com/mnfst/manifest",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "智能LLM路由",
+        "chinese_summary": "OpenClaw的智能LLM路由方案，降低高达70%的成本。",
+        "use_case": "适用于需要高效管理和降低成本的LLM部署。",
+        "tech_highlights": [
+          "智能路由算法",
+          "成本优化",
+          "兼容OpenClaw"
+        ],
+        "target_users": "LLM部署者和成本敏感型企业",
+        "why_trending": "通过智能路由优化成本，符合当前降低运营成本的技术趋势。",
+        "getting_started": "快速阅读README，了解基本配置和使用方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-ajeetdsouza",
+      "source": "github",
+      "full_name": "sponsors/ajeetdsouza",
+      "owner": "sponsors",
+      "name": "ajeetdsouza",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 34633,
+      "forks": 747,
+      "today_stars": 59,
+      "hot_score": 1043.9,
+      "url": "https://github.com/sponsors/ajeetdsouza",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "更智能的cd命令",
+        "chinese_summary": "支持多种主流shell的智能cd命令",
+        "use_case": "在多种shell环境中更高效地切换目录",
+        "tech_highlights": [
+          "跨shell兼容性",
+          "智能路径建议",
+          "Rust编写"
+        ],
+        "target_users": "经常在不同shell环境中切换目录的开发者",
+        "why_trending": "结合Rust的性能优势和智能特性，满足现代开发者的高效需求",
+        "getting_started": "通过Cargo安装并配置到shell中",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ggml-org-whisper.cpp",
+      "source": "github",
+      "full_name": "ggml-org/whisper.cpp",
+      "owner": "ggml-org",
+      "name": "whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "category": "systems",
+      "stars": 47673,
+      "forks": 5311,
+      "today_stars": 36,
+      "hot_score": 827.8,
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "whisper.cpp",
+        "chinese_summary": "C/C++实现的OpenAI Whisper模型",
+        "use_case": "适用于需要轻量级语音识别和转录的应用场景。",
+        "tech_highlights": [
+          "跨平台兼容性强",
+          "代码量小",
+          "性能优化"
+        ],
+        "target_users": "需要轻量级语音识别解决方案的开发者",
+        "why_trending": "得益于模型轻量化和跨平台特性，适合嵌入式和移动应用，社区活跃度高。",
+        "getting_started": "建议从README开始，快速了解项目结构和编译方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-electron-electron",
+      "source": "github",
+      "full_name": "electron/electron",
+      "owner": "electron",
+      "name": "electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "category": "systems",
+      "stars": 120539,
+      "forks": 17062,
+      "today_stars": 28,
+      "hot_score": 788.1,
+      "url": "https://github.com/electron/electron",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Electron",
+        "chinese_summary": "使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用",
+        "use_case": "适用于需要丰富前端体验的桌面应用开发",
+        "tech_highlights": [
+          "跨平台支持",
+          "使用 Web 技术栈",
+          "强大的渲染器进程"
+        ],
+        "target_users": "前端开发者、桌面应用开发者",
+        "why_trending": "得益于 Web 技术的普及和跨平台需求的增长，Electron 成为热门选择",
+        "getting_started": "通过官方文档快速开始项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-quickemu-project-quickemu",
+      "source": "github",
+      "full_name": "quickemu-project/quickemu",
+      "owner": "quickemu-project",
+      "name": "quickemu",
+      "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
+      "language": "Shell",
+      "category": "devops",
+      "stars": 14724,
+      "forks": 659,
+      "today_stars": 36,
+      "hot_score": 776.8,
+      "url": "https://github.com/quickemu-project/quickemu",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "快速虚拟机",
+        "chinese_summary": "一键创建并运行优化的 Windows、macOS 和 Linux 虚拟机",
+        "use_case": "适用于需要快速搭建开发环境或测试不同操作系统的用户",
+        "tech_highlights": [
+          "跨平台支持",
+          "自动化配置",
+          "资源优化"
+        ],
+        "target_users": "开发人员、测试工程师和系统管理员",
+        "why_trending": "随着远程工作和多操作系统开发需求增加，该工具提供了便捷的虚拟机管理解决方案",
+        "getting_started": "通过安装脚本快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-rust-unofficial-awesome-rust",
+      "source": "github",
+      "full_name": "rust-unofficial/awesome-rust",
+      "owner": "rust-unofficial",
+      "name": "awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 56224,
+      "forks": 3238,
+      "today_stars": 28,
+      "hot_score": 755.0,
+      "url": "https://github.com/rust-unofficial/awesome-rust",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Rust 优秀资源",
+        "chinese_summary": "Rust 语言的精选代码和资源列表",
+        "use_case": "为 Rust 学习者和开发者提供学习和参考资源",
+        "tech_highlights": [
+          "Rust 语言特性",
+          "社区贡献",
+          "资源多样性"
+        ],
+        "target_users": "Rust 编程学习者和开发者",
+        "why_trending": "Rust 语言因其性能和安全性受到关注，社区活跃度高，资源丰富",
+        "getting_started": "直接访问 GitHub 仓库，浏览分类资源",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-PostHog-posthog",
+      "source": "github",
+      "full_name": "PostHog/posthog",
+      "owner": "PostHog",
+      "name": "posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 32116,
+      "forks": 2413,
+      "today_stars": 29,
+      "hot_score": 740.7,
+      "url": "https://github.com/PostHog/posthog",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PostHog",
+        "chinese_summary": "一站式产品开发平台，提供产品分析、网站分析、会话重放、错误跟踪等功能",
+        "use_case": "适用于需要全面产品数据分析和管理的开发者和产品团队",
+        "tech_highlights": [
+          "全栈解决方案",
+          "易于集成",
+          "开源免费"
+        ],
+        "target_users": "开发者、产品经理、数据分析师",
+        "why_trending": "因其提供一站式产品开发工具，满足了现代产品团队的需求，同时开源免费吸引了大量用户",
+        "getting_started": "访问官网或GitHub仓库，按照文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-binhnguyennus-awesome-scalability",
+      "source": "github",
+      "full_name": "binhnguyennus/awesome-scalability",
+      "owner": "binhnguyennus",
+      "name": "awesome-scalability",
+      "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+      "language": "",
+      "category": "other",
+      "stars": 69500,
+      "forks": 6895,
+      "today_stars": 25,
+      "hot_score": 734.2,
+      "url": "https://github.com/binhnguyennus/awesome-scalability",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "超大规模系统优秀模式",
+        "chinese_summary": "提供可扩展、可靠和高性能的大规模系统设计模式",
+        "use_case": "适用于需要处理大量数据和高并发请求的系统设计",
+        "tech_highlights": [
+          "分布式系统设计模式",
+          "高性能架构实践",
+          "可靠性保障策略"
+        ],
+        "target_users": "系统架构师、软件开发者和IT专业人士",
+        "why_trending": "随着云计算和大数据的普及，对大规模系统的需求增加，该项目提供了实用的设计模式和实践指导",
+        "getting_started": "建议从阅读项目概述和常见模式开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nautechsystems-nautilus_trader",
+      "source": "github",
+      "full_name": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 21274,
+      "forks": 2525,
+      "today_stars": 30,
+      "hot_score": 732.8,
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纳utilus交易引擎",
+        "chinese_summary": "基于 Rust 的高性能、确定性事件驱动交易引擎",
+        "use_case": "适用于高频交易、算法交易等需要高性能和确定性的交易场景。",
+        "tech_highlights": [
+          "使用 Rust 语言实现高性能",
+          "事件驱动架构确保交易确定性",
+          "模块化设计便于扩展"
+        ],
+        "target_users": "高频交易员、算法交易工程师、交易系统开发者",
+        "why_trending": "得益于 Rust 的性能和安全性，以及事件驱动架构的广泛应用，该项目受到广泛关注。",
+        "getting_started": "建议从官方文档开始，快速了解项目架构和核心概念",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
