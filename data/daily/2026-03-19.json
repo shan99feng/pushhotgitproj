@@ -1,0 +1,615 @@
+{
+  "date": "2026-03-19",
+  "since": "daily",
+  "generated_at": "2026-03-20T02:10:49.029082+00:00",
+  "total": 20,
+  "category_counts": {
+    "ai_ml": 5,
+    "frontend": 8,
+    "other": 1,
+    "systems": 5,
+    "backend": 1
+  },
+  "repos": [
+    {
+      "repo_id": "github-pathwaycom-pathway",
+      "source": "github",
+      "full_name": "pathwaycom/pathway",
+      "owner": "pathwaycom",
+      "name": "pathway",
+      "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 61087,
+      "forks": 1610,
+      "today_stars": 465,
+      "hot_score": 5128.6,
+      "url": "https://github.com/pathwaycom/pathway",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Pathway",
+        "chinese_summary": "Python ETL框架，用于流处理、实时分析、LLM管道和RAG。",
+        "use_case": "适用于数据处理、实时数据分析和构建大规模语言模型管道。",
+        "tech_highlights": [
+          "支持流处理",
+          "实时分析能力",
+          "集成LLM和RAG"
+        ],
+        "target_users": "数据工程师、数据科学家、AI开发者",
+        "why_trending": "结合了ETL与实时分析的最新需求，支持先进的人工智能技术。",
+        "getting_started": "通过官方文档快速了解并开始使用Pathway",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-n8n-io-n8n",
+      "source": "github",
+      "full_name": "n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 180082,
+      "forks": 55974,
+      "today_stars": 221,
+      "hot_score": 2735.5,
+      "url": "https://github.com/n8n-io/n8n",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "n8n",
+        "chinese_summary": "一个具备原生AI能力的工作流自动化平台，结合可视化构建与自定义代码，支持自托管或云服务，集成400多项功能。",
+        "use_case": "适用于需要自动化工作流的企业和个人，特别是那些希望集成多种服务和应用的用户。",
+        "tech_highlights": [
+          "原生AI能力",
+          "可视化构建与自定义代码结合",
+          "丰富的集成选项"
+        ],
+        "target_users": "需要自动化工作流的企业和个人开发者",
+        "why_trending": "得益于其强大的工作流自动化能力和易于使用的界面，n8n吸引了大量用户，特别是在AI和自动化领域。",
+        "getting_started": "建议从官方文档开始，了解基本概念和操作流程。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-langchain-ai-langchain",
+      "source": "github",
+      "full_name": "langchain-ai/langchain",
+      "owner": "langchain-ai",
+      "name": "langchain",
+      "description": "The agent engineering platform",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 130274,
+      "forks": 21485,
+      "today_stars": 182,
+      "hot_score": 2331.5,
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "LangChain",
+        "chinese_summary": "基于Python的智能代理工程平台",
+        "use_case": "用于构建和管理智能代理系统，支持多模态交互",
+        "tech_highlights": [
+          "多模态交互支持",
+          "灵活的代理工程框架",
+          "丰富的API接口"
+        ],
+        "target_users": "AI工程师、数据科学家、系统架构师",
+        "why_trending": "得益于AI技术的快速发展和社区的积极参与，LangChain提供了强大的代理构建工具，满足了当前对智能代理系统的需求",
+        "getting_started": "通过官方文档快速了解项目结构和基本用法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-qlib",
+      "source": "github",
+      "full_name": "microsoft/qlib",
+      "owner": "microsoft",
+      "name": "qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 39053,
+      "forks": 6088,
+      "today_stars": 118,
+      "hot_score": 1639.2,
+      "url": "https://github.com/microsoft/qlib",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "QLib",
+        "chinese_summary": "一个基于AI的量化投资平台，用于量化研究和生产实施。",
+        "use_case": "适用于量化研究和投资策略开发。",
+        "tech_highlights": [
+          "支持多种机器学习模型",
+          "集成市场动态建模",
+          "支持强化学习"
+        ],
+        "target_users": "量化分析师和研究人员",
+        "why_trending": "结合AI技术提升量化投资效率，符合当前技术趋势。",
+        "getting_started": "通过官方文档快速了解并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 95190,
+      "forks": 5157,
+      "today_stars": 99,
+      "hot_score": 1487.9,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的自托管照片和视频管理解决方案",
+        "use_case": "适用于个人和团队的照片和视频管理，支持自托管。",
+        "tech_highlights": [
+          "高性能",
+          "自托管",
+          "多平台支持"
+        ],
+        "target_users": "个人用户、团队和开发者",
+        "why_trending": "因其高性能和自托管特性，满足用户对隐私和控制的高要求，同时支持多平台，易于部署。",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-huggingface-transformers",
+      "source": "github",
+      "full_name": "huggingface/transformers",
+      "owner": "huggingface",
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 158117,
+      "forks": 32551,
+      "today_stars": 81,
+      "hot_score": 1329.9,
+      "url": "https://github.com/huggingface/transformers",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "HuggingFace Transformers",
+        "chinese_summary": "一个用于文本、视觉、音频和多模态模型的先进机器学习模型框架。",
+        "use_case": "适用于模型训练和推理。",
+        "tech_highlights": [
+          "支持多种模型架构",
+          "丰富的模型库",
+          "易于扩展"
+        ],
+        "target_users": "机器学习工程师、研究人员",
+        "why_trending": "因其强大的模型支持和易用性，以及在自然语言处理领域的广泛应用。",
+        "getting_started": "通过pip安装并查阅文档快速开始。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C#",
+      "category": "other",
+      "stars": 130719,
+      "forks": 7795,
+      "today_stars": 75,
+      "hot_score": 1261.6,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "Windows系统增强工具集合，提高生产力和个性化设置",
+        "use_case": "适用于需要提高Windows系统效率和定制化设置的用户",
+        "tech_highlights": [
+          "跨平台支持",
+          "C#开发",
+          "丰富的功能模块"
+        ],
+        "target_users": "Windows系统高级用户和开发者",
+        "why_trending": "因其强大的功能和高度的用户自定义能力，满足了现代办公和开发需求，受到广泛好评",
+        "getting_started": "访问GitHub页面，按照README文件指引快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 109650,
+      "forks": 16359,
+      "today_stars": 66,
+      "hot_score": 1164.0,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一款开源远程桌面应用，支持自我托管。",
+        "use_case": "适用于需要远程访问和控制桌面的场景。",
+        "tech_highlights": [
+          "使用 Rust 语言开发，保证高性能和安全性",
+          "支持自我托管，无需依赖第三方服务",
+          "跨平台兼容性"
+        ],
+        "target_users": "需要远程访问桌面的个人和企业用户",
+        "why_trending": "得益于 Rust 的安全性和性能，以及开源社区的支持，RustDesk 在远程访问领域受到关注。",
+        "getting_started": "访问项目仓库，按照 README 文件中的说明进行安装和配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 84585,
+      "forks": 5320,
+      "today_stars": 66,
+      "hot_score": 1152.7,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "用于Web测试和自动化，提供单一API支持Chromium、Firefox和WebKit。",
+        "use_case": "主要用于前端Web应用的自动化测试。",
+        "tech_highlights": [
+          "单一API支持多浏览器",
+          "内置等待和重试机制",
+          "支持Node.js和Python"
+        ],
+        "target_users": "前端开发者和测试工程师",
+        "why_trending": "因其强大的跨浏览器测试能力和简洁的API设计，受到广泛欢迎。",
+        "getting_started": "通过npm或yarn安装后，快速阅读官方文档开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-supabase",
+      "source": "github",
+      "full_name": "sponsors/supabase",
+      "owner": "sponsors",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 99302,
+      "forks": 11837,
+      "today_stars": 62,
+      "hot_score": 1119.7,
+      "url": "https://github.com/sponsors/supabase",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Supabase",
+        "chinese_summary": "提供专用PostgreSQL数据库，用于构建Web、移动和AI应用。",
+        "use_case": "适用于需要PostgreSQL数据库支持的Web、移动和AI应用开发。",
+        "tech_highlights": [
+          "支持PostgreSQL数据库",
+          "易于集成的API",
+          "开源免费"
+        ],
+        "target_users": "Web、移动和AI应用开发者",
+        "why_trending": "得益于PostgreSQL的强大功能和开源社区的支持，Supabase受到开发者欢迎。",
+        "getting_started": "通过官方文档快速开始使用Supabase",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-ReVanced",
+      "source": "github",
+      "full_name": "sponsors/ReVanced",
+      "owner": "sponsors",
+      "name": "ReVanced",
+      "description": "💊 Application to use ReVanced on Android",
+      "language": "Kotlin",
+      "category": "backend",
+      "stars": 26784,
+      "forks": 1057,
+      "today_stars": 60,
+      "hot_score": 1042.8,
+      "url": "https://github.com/sponsors/ReVanced",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ReVanced 应用",
+        "chinese_summary": "一个用于 Android 设备上使用 ReVanced 的应用",
+        "use_case": "主要用于安装和管理 ReVanced 的模块，提升 YouTube 等应用的功能。",
+        "tech_highlights": [
+          "跨平台支持",
+          "模块化设计",
+          "强大的定制功能"
+        ],
+        "target_users": "喜欢自定义应用功能的 Android 用户",
+        "why_trending": "因为它提供了高度的自定义选项，满足了用户对应用功能的个性化需求，同时社区活跃度高。",
+        "getting_started": "建议先了解 ReVanced 的基本概念，然后参考项目文档开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-ajeetdsouza",
+      "source": "github",
+      "full_name": "sponsors/ajeetdsouza",
+      "owner": "sponsors",
+      "name": "ajeetdsouza",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 34701,
+      "forks": 749,
+      "today_stars": 53,
+      "hot_score": 984.0,
+      "url": "https://github.com/sponsors/ajeetdsouza",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "更智能的cd命令",
+        "chinese_summary": "支持多种主流Shell的智能cd命令",
+        "use_case": "在多种Shell环境中快速切换目录",
+        "tech_highlights": [
+          "跨Shell兼容性",
+          "智能路径建议",
+          "命令行增强"
+        ],
+        "target_users": "经常使用命令行的开发者",
+        "why_trending": "得益于Rust语言的性能和安全性，以及命令行工具的持续需求",
+        "getting_started": "通过Cargo安装并快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-Eugeny",
+      "source": "github",
+      "full_name": "sponsors/Eugeny",
+      "owner": "sponsors",
+      "name": "Eugeny",
+      "description": "A terminal for a more modern age",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 69659,
+      "forks": 3915,
+      "today_stars": 39,
+      "hot_score": 874.3,
+      "url": "https://github.com/sponsors/Eugeny",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "终端新纪元",
+        "chinese_summary": "一个面向现代时代的终端工具",
+        "use_case": "用于日常开发、系统管理和自动化任务",
+        "tech_highlights": [
+          "使用 TypeScript 编写",
+          "现代 UI 设计",
+          "跨平台兼容性"
+        ],
+        "target_users": "开发者、系统管理员和技术爱好者",
+        "why_trending": "结合现代前端技术提升终端体验，满足用户对高效工具的需求",
+        "getting_started": "通过 npm 安装并快速阅读文档开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-AykutSarac-jsoncrack.com",
+      "source": "github",
+      "full_name": "AykutSarac/jsoncrack.com",
+      "owner": "AykutSarac",
+      "name": "jsoncrack.com",
+      "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 43731,
+      "forks": 3527,
+      "today_stars": 41,
+      "hot_score": 874.1,
+      "url": "https://github.com/AykutSarac/jsoncrack.com",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "JSON可视化工具",
+        "chinese_summary": "将JSON、YAML、XML和CSV等数据格式转换为交互式图表的应用程序",
+        "use_case": "适用于数据分析师、前端开发者和数据可视化爱好者",
+        "tech_highlights": [
+          "支持多种数据格式",
+          "交互式图表展示",
+          "开源"
+        ],
+        "target_users": "数据处理和可视化专业人士",
+        "why_trending": "顺应数据可视化趋势，提供直观的数据展示方式，满足用户对数据可视化的高需求",
+        "getting_started": "通过npm安装依赖并运行项目，快速开始探索数据可视化",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-sveltejs",
+      "source": "github",
+      "full_name": "sponsors/sveltejs",
+      "owner": "sponsors",
+      "name": "sveltejs",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 86106,
+      "forks": 4814,
+      "today_stars": 32,
+      "hot_score": 813.5,
+      "url": "https://github.com/sponsors/sveltejs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "SvelteJS",
+        "chinese_summary": "用于构建用户界面的轻量级前端框架",
+        "use_case": "适用于构建响应式和可维护的Web应用",
+        "tech_highlights": [
+          "编译时构建",
+          "体积小",
+          "性能高"
+        ],
+        "target_users": "前端开发者，特别是需要高性能应用的开发者",
+        "why_trending": "因其编译时构建特性，使得应用加载更快，社区活跃度高",
+        "getting_started": "通过官方文档快速开始学习和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-mnfst-manifest",
+      "source": "github",
+      "full_name": "mnfst/manifest",
+      "owner": "mnfst",
+      "name": "manifest",
+      "description": "Smart LLM Routing for OpenClaw. Cut Costs up to 70% 🦞🦚",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 3929,
+      "forks": 195,
+      "today_stars": 43,
+      "hot_score": 789.4,
+      "url": "https://github.com/mnfst/manifest",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "mnfst/manifest",
+        "chinese_summary": "智能LLM路由，降低OpenClaw成本高达70%",
+        "use_case": "适用于需要高效管理和降低成本的大型语言模型部署场景。",
+        "tech_highlights": [
+          "智能路由算法",
+          "成本优化",
+          "灵活性高"
+        ],
+        "target_users": "大型语言模型部署者和成本敏感型企业",
+        "why_trending": "顺应AI成本优化趋势，提供高效解决方案，受到社区关注。",
+        "getting_started": "快速阅读文档并安装依赖，开始探索智能路由功能。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-systemd-systemd",
+      "source": "github",
+      "full_name": "systemd/systemd",
+      "owner": "systemd",
+      "name": "systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "category": "systems",
+      "stars": 15482,
+      "forks": 4306,
+      "today_stars": 37,
+      "hot_score": 789.0,
+      "url": "https://github.com/systemd/systemd",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "systemd",
+        "chinese_summary": "系统和服务管理器，用于系统初始化和管理服务",
+        "use_case": "主要用于Linux发行版的系统初始化、服务管理和系统监控",
+        "tech_highlights": [
+          "微内核架构",
+          "动态加载模块",
+          "强大的日志系统"
+        ],
+        "target_users": "Linux发行版开发者和系统管理员",
+        "why_trending": "因其在系统初始化和管理方面的高效性和灵活性，受到广泛采用，社区活跃度高",
+        "getting_started": "通过阅读官方文档和参与社区讨论快速入门",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-PostHog-posthog",
+      "source": "github",
+      "full_name": "PostHog/posthog",
+      "owner": "PostHog",
+      "name": "posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 32135,
+      "forks": 2417,
+      "today_stars": 28,
+      "hot_score": 730.7,
+      "url": "https://github.com/PostHog/posthog",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PostHog",
+        "chinese_summary": "一站式产品数据分析平台，涵盖产品、网站、错误追踪等多功能",
+        "use_case": "适用于需要全面了解产品性能和用户行为的开发者和产品经理",
+        "tech_highlights": [
+          "多模块集成",
+          "实时数据分析",
+          "用户数据统一管理"
+        ],
+        "target_users": "产品团队、开发团队、数据分析师",
+        "why_trending": "结合了多种现代产品分析工具，满足一站式需求；社区活跃，持续更新",
+        "getting_started": "快速阅读官方文档并安装运行示例项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nautechsystems-nautilus_trader",
+      "source": "github",
+      "full_name": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 21297,
+      "forks": 2528,
+      "today_stars": 29,
+      "hot_score": 722.8,
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纳utilus交易引擎",
+        "chinese_summary": "一个用Rust编写的高性能确定性事件驱动交易引擎",
+        "use_case": "适用于高频交易和量化交易策略实现",
+        "tech_highlights": [
+          "Rust语言的高性能",
+          "事件驱动架构",
+          "确定性执行"
+        ],
+        "target_users": "高频交易员、量化交易员和交易系统开发者",
+        "why_trending": "得益于Rust语言的性能和安全性，以及事件驱动架构的灵活性，吸引了大量关注",
+        "getting_started": "通过官方文档快速了解项目结构和安装方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ClickHouse-ClickHouse",
+      "source": "github",
+      "full_name": "ClickHouse/ClickHouse",
+      "owner": "ClickHouse",
+      "name": "ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "category": "systems",
+      "stars": 46412,
+      "forks": 8204,
+      "today_stars": 24,
+      "hot_score": 706.7,
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ClickHouse",
+        "chinese_summary": "一种实时分析数据库管理系统",
+        "use_case": "适用于实时分析和大规模数据处理",
+        "tech_highlights": [
+          "支持SQL查询",
+          "高并发处理能力",
+          "列式存储"
+        ],
+        "target_users": "数据分析师、数据库管理员",
+        "why_trending": "因其高效的数据处理能力和易于使用的特点，受到广泛关注",
+        "getting_started": "建议从官方文档开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
