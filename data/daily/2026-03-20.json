@@ -1,0 +1,614 @@
+{
+  "date": "2026-03-20",
+  "since": "daily",
+  "generated_at": "2026-03-21T02:05:08.665099+00:00",
+  "total": 20,
+  "category_counts": {
+    "ai_ml": 6,
+    "systems": 7,
+    "frontend": 4,
+    "other": 2,
+    "backend": 1
+  },
+  "repos": [
+    {
+      "repo_id": "github-pathwaycom-pathway",
+      "source": "github",
+      "full_name": "pathwaycom/pathway",
+      "owner": "pathwaycom",
+      "name": "pathway",
+      "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 61443,
+      "forks": 1610,
+      "today_stars": 438,
+      "hot_score": 4858.8,
+      "url": "https://github.com/pathwaycom/pathway",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Pathway",
+        "chinese_summary": "Python ETL框架，用于流处理、实时分析、LLM管道和RAG。",
+        "use_case": "适用于数据处理、实时分析和构建自然语言处理应用。",
+        "tech_highlights": [
+          "支持流处理",
+          "实时数据分析",
+          "集成LLM和RAG"
+        ],
+        "target_users": "数据工程师、数据科学家和AI开发者",
+        "why_trending": "结合了ETL和实时分析能力，满足现代数据处理需求，受到AI社区关注。",
+        "getting_started": "通过官方文档快速了解并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-yt-dlp-yt-dlp",
+      "source": "github",
+      "full_name": "yt-dlp/yt-dlp",
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 152297,
+      "forks": 12353,
+      "today_stars": 173,
+      "hot_score": 2248.3,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yt-dlp/yt-dlp",
+        "chinese_summary": "一个功能丰富的命令行音频/视频下载工具",
+        "use_case": "用于从各种在线视频平台下载音频和视频文件。",
+        "tech_highlights": [
+          "支持多种视频平台",
+          "强大的命令行选项",
+          "持续更新和维护"
+        ],
+        "target_users": "视频爱好者、开发者和内容创作者",
+        "why_trending": "因其强大的功能和广泛的平台支持，以及社区的积极参与和贡献。",
+        "getting_started": "通过pip安装并使用帮助文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-langchain-ai-langchain",
+      "source": "github",
+      "full_name": "langchain-ai/langchain",
+      "owner": "langchain-ai",
+      "name": "langchain",
+      "description": "The agent engineering platform",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 130393,
+      "forks": 21491,
+      "today_stars": 161,
+      "hot_score": 2121.5,
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "LangChain",
+        "chinese_summary": "一个智能代理工程平台，用于构建和部署复杂的AI代理系统。",
+        "use_case": "适用于需要复杂交互和决策的AI代理应用。",
+        "tech_highlights": [
+          "模块化架构",
+          "多模态支持",
+          "强大的API接口"
+        ],
+        "target_users": "AI工程师、研究人员和开发者",
+        "why_trending": "得益于其强大的功能和易用性，LangChain在AI代理领域受到广泛关注。",
+        "getting_started": "建议从官方文档开始，快速了解核心概念和API使用方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-astral-sh-ruff",
+      "source": "github",
+      "full_name": "astral-sh/ruff",
+      "owner": "astral-sh",
+      "name": "ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 46549,
+      "forks": 1936,
+      "today_stars": 152,
+      "hot_score": 1986.8,
+      "url": "https://github.com/astral-sh/ruff",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ruff",
+        "chinese_summary": "一个用 Rust 编写的超快 Python 代码检查和格式化工具。",
+        "use_case": "用于 Python 代码的静态检查和自动格式化。",
+        "tech_highlights": [
+          "用 Rust 编写，性能卓越",
+          "支持多种 Python 标准库和第三方库",
+          "可配置性强，支持自定义规则"
+        ],
+        "target_users": "Python 开发者，特别是需要高效代码检查和格式化的用户",
+        "why_trending": "因其卓越的性能和强大的功能，受到 Python 社区的广泛关注和喜爱",
+        "getting_started": "通过 pip 安装并配置即可快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 95287,
+      "forks": 5154,
+      "today_stars": 126,
+      "hot_score": 1757.9,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的自托管照片和视频管理解决方案",
+        "use_case": "适用于个人和团队的照片和视频管理",
+        "tech_highlights": [
+          "基于 TypeScript 开发",
+          "高性能自托管",
+          "支持照片和视频管理"
+        ],
+        "target_users": "个人用户、团队和组织",
+        "why_trending": "得益于其高性能和自托管特性，满足了用户对隐私和性能的需求",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-openai-whisper",
+      "source": "github",
+      "full_name": "openai/whisper",
+      "owner": "openai",
+      "name": "whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 96354,
+      "forks": 11905,
+      "today_stars": 81,
+      "hot_score": 1308.4,
+      "url": "https://github.com/openai/whisper",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Whisper",
+        "chinese_summary": "通过大规模弱监督实现稳健的语音识别",
+        "use_case": "适用于语音转文字、音频内容分析等场景",
+        "tech_highlights": [
+          "大规模弱监督学习",
+          "端到端语音识别模型",
+          "多语言支持"
+        ],
+        "target_users": "语音识别开发者、研究人员、音频内容处理人员",
+        "why_trending": "因其在多语言和噪声环境下的卓越表现，以及开源社区的广泛支持",
+        "getting_started": "通过官方文档快速了解并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 109710,
+      "forks": 16378,
+      "today_stars": 72,
+      "hot_score": 1224.0,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一个用于自托管的开源远程桌面应用，替代TeamViewer。",
+        "use_case": "适用于需要远程访问和控制计算机的场景。",
+        "tech_highlights": [
+          "使用Rust编写，确保高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台兼容性"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "得益于Rust语言的安全性和性能，以及开源社区的支持，RustDesk吸引了大量关注。",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-jaywcjlove",
+      "source": "github",
+      "full_name": "sponsors/jaywcjlove",
+      "owner": "sponsors",
+      "name": "jaywcjlove",
+      "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 100569,
+      "forks": 7511,
+      "today_stars": 72,
+      "hot_score": 1220.2,
+      "url": "https://github.com/sponsors/jaywcjlove",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Jaywcjlove 项目",
+        "chinese_summary": "收集各类优质软件的平台",
+        "use_case": "为用户提供便捷的软件获取途径，满足不同需求。",
+        "tech_highlights": [
+          "JavaScript 开发",
+          "软件分类整理"
+        ],
+        "target_users": "软件爱好者和开发者",
+        "why_trending": "随着开源文化的发展和软件需求的多样化，该平台提供了丰富的资源，满足了用户的需求。",
+        "getting_started": "直接访问项目页面，浏览和下载所需软件",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-huggingface-transformers",
+      "source": "github",
+      "full_name": "huggingface/transformers",
+      "owner": "huggingface",
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 158153,
+      "forks": 32556,
+      "today_stars": 63,
+      "hot_score": 1149.9,
+      "url": "https://github.com/huggingface/transformers",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hugging Face Transformers",
+        "chinese_summary": "一个用于文本、视觉、音频和多模态模型的先进机器学习模型框架。",
+        "use_case": "适用于模型的训练和推理。",
+        "tech_highlights": [
+          "支持多种模型架构",
+          "易于扩展和集成",
+          "丰富的预训练模型库"
+        ],
+        "target_users": "机器学习工程师、数据科学家、研究人员",
+        "why_trending": "因其强大的功能和广泛的社区支持而受到关注，推动了模型开发的便捷性和效率。",
+        "getting_started": "通过安装库和使用示例代码快速开始。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-qlib",
+      "source": "github",
+      "full_name": "microsoft/qlib",
+      "owner": "microsoft",
+      "name": "qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 39102,
+      "forks": 6093,
+      "today_stars": 65,
+      "hot_score": 1109.2,
+      "url": "https://github.com/microsoft/qlib",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "QLib",
+        "chinese_summary": "一个以AI赋能量化研究的平台，支持多种机器学习模型。",
+        "use_case": "适用于量化投资研究和自动化研发过程。",
+        "tech_highlights": [
+          "支持多种机器学习模型",
+          "集成市场动态建模",
+          "支持强化学习"
+        ],
+        "target_users": "量化分析师、数据科学家和研究人员",
+        "why_trending": "结合AI技术提升量化研究效率，符合当前AI在金融领域的应用趋势。",
+        "getting_started": "建议从官方文档开始，快速了解项目结构和使用方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C#",
+      "category": "other",
+      "stars": 130762,
+      "forks": 7800,
+      "today_stars": 58,
+      "hot_score": 1091.6,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "增强Windows生产力和自定义的工具集合",
+        "use_case": "提高Windows操作系统的使用效率和个性化设置",
+        "tech_highlights": [
+          "C#开发",
+          "跨平台兼容",
+          "模块化设计"
+        ],
+        "target_users": "Windows系统用户，尤其是需要提高工作效率的开发者和专业人士",
+        "why_trending": "得益于其强大的功能和用户友好的界面，PowerToys在开源社区中获得了广泛的认可和使用，吸引了大量用户和贡献者。",
+        "getting_started": "访问GitHub页面，按照README文件中的说明进行安装和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-ajeetdsouza",
+      "source": "github",
+      "full_name": "sponsors/ajeetdsouza",
+      "owner": "sponsors",
+      "name": "ajeetdsouza",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 34734,
+      "forks": 750,
+      "today_stars": 52,
+      "hot_score": 974.1,
+      "url": "https://github.com/sponsors/ajeetdsouza",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "更智能的cd命令",
+        "chinese_summary": "支持多种主流Shell的智能cd命令",
+        "use_case": "在多种Shell环境中快速切换目录",
+        "tech_highlights": [
+          "跨Shell兼容性",
+          "智能路径解析"
+        ],
+        "target_users": "Shell脚本开发者和系统管理员",
+        "why_trending": "得益于Rust语言的性能和安全性，以及对现代开发环境的支持",
+        "getting_started": "通过Cargo安装并快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-qdrant",
+      "source": "github",
+      "full_name": "sponsors/qdrant",
+      "owner": "sponsors",
+      "name": "qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 29727,
+      "forks": 2116,
+      "today_stars": 49,
+      "hot_score": 937.3,
+      "url": "https://github.com/sponsors/qdrant",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Qdrant",
+        "chinese_summary": "高性能、大规模向量数据库和搜索引擎，支持下一代AI应用",
+        "use_case": "适用于大规模向量数据的存储和检索，支持AI应用中的相似性搜索",
+        "tech_highlights": [
+          "高性能",
+          "大规模向量支持",
+          "云服务"
+        ],
+        "target_users": "AI开发者、数据科学家、大规模数据处理需求的用户",
+        "why_trending": "得益于AI技术的发展和对大规模数据处理需求的增加，Qdrant作为高性能的向量数据库和搜索引擎，满足了市场的需求",
+        "getting_started": "通过官方文档快速了解和开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-systemd-systemd",
+      "source": "github",
+      "full_name": "systemd/systemd",
+      "owner": "systemd",
+      "name": "systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "category": "systems",
+      "stars": 15509,
+      "forks": 4325,
+      "today_stars": 47,
+      "hot_score": 889.1,
+      "url": "https://github.com/systemd/systemd",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "systemd",
+        "chinese_summary": "系统和服务管理器，用于系统初始化和进程管理",
+        "use_case": "主要用于Linux发行版的系统初始化、服务管理和系统监控",
+        "tech_highlights": [
+          "服务和依赖管理",
+          "动态调度",
+          "日志系统"
+        ],
+        "target_users": "Linux系统管理员和开发者",
+        "why_trending": "因其强大的系统初始化和管理功能，以及在现代Linux发行版中的广泛应用",
+        "getting_started": "可以通过安装包管理器安装systemd并查阅官方文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-n0-computer-iroh",
+      "source": "github",
+      "full_name": "n0-computer/iroh",
+      "owner": "n0-computer",
+      "name": "iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 8056,
+      "forks": 374,
+      "today_stars": 49,
+      "hot_score": 880.6,
+      "url": "https://github.com/n0-computer/iroh",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Iroh",
+        "chinese_summary": "Rust 编写的模块化网络栈，替代 IP 地址使用拨号键。",
+        "use_case": "适用于需要灵活网络配置和管理的场景。",
+        "tech_highlights": [
+          "Rust 语言编写，保证高效和安全",
+          "模块化设计，易于扩展和维护",
+          "替代传统 IP 地址使用拨号键"
+        ],
+        "target_users": "网络开发人员和系统管理员",
+        "why_trending": "结合 Rust 的性能优势和模块化设计，满足现代网络需求，社区活跃度高。",
+        "getting_started": "通过官方文档快速了解项目结构和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-helix-editor-helix",
+      "source": "github",
+      "full_name": "helix-editor/helix",
+      "owner": "helix-editor",
+      "name": "helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 43558,
+      "forks": 3369,
+      "today_stars": 39,
+      "hot_score": 853.9,
+      "url": "https://github.com/helix-editor/helix",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Helix 编辑器",
+        "chinese_summary": "一款现代模式化文本编辑器",
+        "use_case": "适用于需要高效文本编辑和代码编写的工作场景",
+        "tech_highlights": [
+          "使用 Rust 语言开发",
+          "支持多种编程语言和主题",
+          "具有高度可定制性"
+        ],
+        "target_users": "程序员、开发者和需要高效文本编辑的用户",
+        "why_trending": "得益于 Rust 的性能和安全性，以及对现代编辑器特性的支持，吸引了大量开发者关注",
+        "getting_started": "通过官方文档快速了解基本操作和功能",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-makeplane-plane",
+      "source": "github",
+      "full_name": "makeplane/plane",
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 46805,
+      "forks": 3767,
+      "today_stars": 38,
+      "hot_score": 847.0,
+      "url": "https://github.com/makeplane/plane",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Plane",
+        "chinese_summary": "一个现代的项目管理平台，用于任务、冲刺、文档管理及问题排查。",
+        "use_case": "适用于团队项目管理、任务分配、文档协作及问题跟踪。",
+        "tech_highlights": [
+          "基于 TypeScript 开发",
+          "支持多种项目管理工具集成",
+          "现代化用户界面"
+        ],
+        "target_users": "项目管理团队、开发团队、产品经理",
+        "why_trending": "结合了 Jira 等工具的功能，同时提供现代化的用户体验，满足了市场对更高效项目管理工具的需求。",
+        "getting_started": "访问 GitHub 仓库，按照 README 文件中的步骤快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-binhnguyennus-awesome-scalability",
+      "source": "github",
+      "full_name": "binhnguyennus/awesome-scalability",
+      "owner": "binhnguyennus",
+      "name": "awesome-scalability",
+      "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+      "language": "",
+      "category": "other",
+      "stars": 69571,
+      "forks": 6896,
+      "today_stars": 35,
+      "hot_score": 834.2,
+      "url": "https://github.com/binhnguyennus/awesome-scalability",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "超大规模系统优秀实践",
+        "chinese_summary": "提供构建可扩展、可靠和高性能大型系统的设计模式",
+        "use_case": "适用于构建和优化大型分布式系统",
+        "tech_highlights": [
+          "设计模式",
+          "可扩展性",
+          "可靠性",
+          "高性能"
+        ],
+        "target_users": "系统架构师、开发人员和运维工程师",
+        "why_trending": "随着云计算和大数据的发展，对大型系统的需求增加，该项目提供了实用的设计模式，受到广泛关注",
+        "getting_started": "阅读文档，了解常见设计模式及其应用场景",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-traefik",
+      "source": "github",
+      "full_name": "sponsors/traefik",
+      "owner": "sponsors",
+      "name": "traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "category": "backend",
+      "stars": 62294,
+      "forks": 5881,
+      "today_stars": 35,
+      "hot_score": 829.4,
+      "url": "https://github.com/sponsors/traefik",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Traefik",
+        "chinese_summary": "云原生应用代理，简化服务发现与负载均衡",
+        "use_case": "主要用于Kubernetes集群中的服务发现与负载均衡",
+        "tech_highlights": [
+          "支持多种后端服务发现机制",
+          "动态配置更新",
+          "轻量级高性能"
+        ],
+        "target_users": "Kubernetes集群管理员和开发者",
+        "why_trending": "因其轻量级和高度可配置性，符合云原生应用的需求，社区活跃度高",
+        "getting_started": "通过Docker安装快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-SigNoz-signoz",
+      "source": "github",
+      "full_name": "SigNoz/signoz",
+      "owner": "SigNoz",
+      "name": "signoz",
+      "description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) &amp; Observability tool",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 26204,
+      "forks": 2040,
+      "today_stars": 38,
+      "hot_score": 821.8,
+      "url": "https://github.com/SigNoz/signoz",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "SigNoz",
+        "chinese_summary": "SigNoz 是一个基于 OpenTelemetry 的开源可观测性平台，集成日志、跟踪和指标",
+        "use_case": "适用于需要统一管理应用性能监控和可观测性的企业",
+        "tech_highlights": [
+          "支持 OpenTelemetry 标准",
+          "集成日志、跟踪和指标",
+          "开源替代 DataDog 和 NewRelic"
+        ],
+        "target_users": "需要应用性能监控和可观测性的开发者和运维团队",
+        "why_trending": "得益于开源社区的支持和技术趋势，SigNoz 提供了强大的可观测性解决方案，满足了企业对统一监控工具的需求",
+        "getting_started": "通过官方文档快速开始使用 SigNoz",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
