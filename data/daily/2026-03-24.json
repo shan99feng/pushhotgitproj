@@ -1,0 +1,615 @@
+{
+  "date": "2026-03-24",
+  "since": "daily",
+  "generated_at": "2026-03-25T02:27:01.618284+00:00",
+  "total": 20,
+  "category_counts": {
+    "ai_ml": 5,
+    "backend": 7,
+    "frontend": 2,
+    "systems": 5,
+    "other": 1
+  },
+  "repos": [
+    {
+      "repo_id": "github-langchain-ai-langchain",
+      "source": "github",
+      "full_name": "langchain-ai/langchain",
+      "owner": "langchain-ai",
+      "name": "langchain",
+      "description": "The agent engineering platform",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 130934,
+      "forks": 21559,
+      "today_stars": 196,
+      "hot_score": 2471.7,
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "LangChain",
+        "chinese_summary": "一个代理工程平台，用于构建和管理AI代理",
+        "use_case": "用于构建复杂的AI代理系统，管理对话流程和知识库",
+        "tech_highlights": [
+          "支持多代理协作",
+          "灵活的知识库管理",
+          "强大的API接口"
+        ],
+        "target_users": "AI代理开发者、研究人员和企业技术团队",
+        "why_trending": "得益于AI代理技术的发展和社区的积极参与，LangChain提供了强大的工具支持，使其在构建复杂代理系统方面脱颖而出",
+        "getting_started": "通过官方文档快速了解基本概念和快速入门示例",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 340111,
+      "forks": 55018,
+      "today_stars": 152,
+      "hot_score": 2073.2,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计 primer",
+        "chinese_summary": "学习如何设计大规模系统，为系统设计面试做准备，包含 Anki 闪卡。",
+        "use_case": "适用于准备系统设计面试和技术面试的开发者。",
+        "tech_highlights": [
+          "包含 Anki 闪卡辅助学习",
+          "涵盖多种系统设计场景"
+        ],
+        "target_users": "准备系统设计面试的开发者",
+        "why_trending": "随着云计算和分布式系统的发展，系统设计成为技术面试的重要环节，该项目提供系统设计的全面指南。",
+        "getting_started": "直接克隆仓库并按照 README 文件中的指导开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-avelino",
+      "source": "github",
+      "full_name": "sponsors/avelino",
+      "owner": "sponsors",
+      "name": "avelino",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "category": "backend",
+      "stars": 168159,
+      "forks": 13089,
+      "today_stars": 105,
+      "hot_score": 1572.6,
+      "url": "https://github.com/sponsors/avelino",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Go 优秀框架与库",
+        "chinese_summary": "一个精选的 Go 语言框架、库和软件列表",
+        "use_case": "为开发者提供选择 Go 语言项目时的参考",
+        "tech_highlights": [
+          "精选优质资源",
+          "易于维护",
+          "社区活跃"
+        ],
+        "target_users": "Go 语言开发者",
+        "why_trending": "反映了 Go 语言在开发领域的流行趋势，社区贡献活跃",
+        "getting_started": "直接浏览或贡献自己的项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-aquasecurity-trivy",
+      "source": "github",
+      "full_name": "aquasecurity/trivy",
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "category": "backend",
+      "stars": 33998,
+      "forks": 192,
+      "today_stars": 104,
+      "hot_score": 1493.1,
+      "url": "https://github.com/aquasecurity/trivy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Trivy",
+        "chinese_summary": "扫描容器、Kubernetes、代码仓库、云等中的漏洞、配置错误、秘密和SBOM",
+        "use_case": "用于安全扫描和合规检查，确保软件供应链的安全性。",
+        "tech_highlights": [
+          "支持多种扫描目标",
+          "开源且高度可扩展",
+          "内置大量漏洞数据库"
+        ],
+        "target_users": "安全工程师、DevOps工程师、软件开发人员",
+        "why_trending": "随着云原生和容器技术的普及，安全扫描工具的需求增加；Trivy因其强大的功能和易用性受到欢迎。",
+        "getting_started": "通过安装命令行工具并运行扫描命令快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 84921,
+      "forks": 5351,
+      "today_stars": 78,
+      "hot_score": 1272.9,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Microsoft Playwright",
+        "chinese_summary": "Playwright 是一个用于 Web 测试和自动化框架，支持使用单一 API 测试 Chromium、Firefox 和 WebKit。",
+        "use_case": "主要用于 Web 应用的自动化测试，支持多种浏览器。",
+        "tech_highlights": [
+          "支持多种浏览器",
+          "单一 API 接口",
+          "内置性能测试"
+        ],
+        "target_users": "Web 测试工程师和自动化测试开发者",
+        "why_trending": "因其强大的跨浏览器测试能力和简洁的 API 设计，受到开发者欢迎。",
+        "getting_started": "通过官方文档快速开始使用 Playwright 进行自动化测试",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-jaywcjlove",
+      "source": "github",
+      "full_name": "sponsors/jaywcjlove",
+      "owner": "sponsors",
+      "name": "jaywcjlove",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 100824,
+      "forks": 7530,
+      "today_stars": 75,
+      "hot_score": 1250.4,
+      "url": "https://github.com/sponsors/jaywcjlove",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Jaywcjlove 的 macOS 软件库",
+        "chinese_summary": "一个分类整理的 macOS 软件集合，便于搜索和使用。",
+        "use_case": "适用于需要系统化管理 macOS 软件的用户。",
+        "tech_highlights": [
+          "使用 JavaScript 开发",
+          "按类别组织软件"
+        ],
+        "target_users": "macOS 用户，特别是需要系统化管理软件的用户",
+        "why_trending": "随着 macOS 用户对软件管理需求的增加，此类项目越来越受欢迎。",
+        "getting_started": "直接访问项目页面，按类别浏览和搜索软件。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 109968,
+      "forks": 16429,
+      "today_stars": 68,
+      "hot_score": 1184.1,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "开源远程桌面应用，支持自托管，替代TeamViewer。",
+        "use_case": "适用于远程访问和控制个人或企业计算机。",
+        "tech_highlights": [
+          "使用Rust编写，保证高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台兼容性"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "得益于Rust语言的流行和开源社区的支持，RustDesk在性能和安全性方面表现出色，吸引了大量关注。",
+        "getting_started": "访问GitHub仓库，按照README中的说明快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-coollabsio",
+      "source": "github",
+      "full_name": "sponsors/coollabsio",
+      "owner": "sponsors",
+      "name": "coollabsio",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
+      "language": "PHP",
+      "category": "backend",
+      "stars": 52063,
+      "forks": 3874,
+      "today_stars": 47,
+      "hot_score": 941.7,
+      "url": "https://github.com/sponsors/coollabsio",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "CoolLabs",
+        "chinese_summary": "一个开源的自托管 PaaS 平台，替代 Vercel、Heroku 和 Netlify，轻松部署静态站点、数据库、全栈应用和 280+ 一键服务。",
+        "use_case": "适用于需要自托管服务的企业和个人开发者。",
+        "tech_highlights": [
+          "支持多种部署类型",
+          "丰富的预置服务",
+          "自托管特性"
+        ],
+        "target_users": "需要自托管服务的企业和个人开发者",
+        "why_trending": "随着自托管需求的增长和开源社区的推动，CoolLabs 提供了灵活且强大的自托管解决方案，吸引了大量关注。",
+        "getting_started": "通过官方文档快速了解部署流程",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-OpenBB-finance",
+      "source": "github",
+      "full_name": "sponsors/OpenBB-finance",
+      "owner": "sponsors",
+      "name": "OpenBB-finance",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 63535,
+      "forks": 6247,
+      "today_stars": 45,
+      "hot_score": 930.3,
+      "url": "https://github.com/sponsors/OpenBB-finance",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "OpenBB 财经平台",
+        "chinese_summary": "为分析师、量化交易员和AI代理提供金融数据平台。",
+        "use_case": "用于数据分析、量化交易策略开发和AI辅助投资。",
+        "tech_highlights": [
+          "支持多种金融数据源",
+          "Python开发，易于扩展",
+          "API接口丰富"
+        ],
+        "target_users": "金融分析师、量化交易员、AI开发者",
+        "why_trending": "结合AI和金融数据，满足现代投资分析需求；社区活跃，持续更新。",
+        "getting_started": "通过官方文档快速了解项目结构，安装依赖并运行示例代码",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-run-llama-llama_index",
+      "source": "github",
+      "full_name": "run-llama/llama_index",
+      "owner": "run-llama",
+      "name": "llama_index",
+      "description": "LlamaIndex is the leading document agent and OCR platform",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 47959,
+      "forks": 7085,
+      "today_stars": 43,
+      "hot_score": 898.1,
+      "url": "https://github.com/run-llama/llama_index",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "LlamaIndex",
+        "chinese_summary": "文档代理和OCR平台，用于处理和分析文档内容。",
+        "use_case": "适用于需要处理大量文档和进行OCR识别的场景。",
+        "tech_highlights": [
+          "支持多种文档格式处理",
+          "先进的OCR技术",
+          "灵活的API接口"
+        ],
+        "target_users": "文档处理和OCR应用开发者",
+        "why_trending": "得益于其强大的OCR能力和文档处理功能，满足了当前数字化转型的需求。",
+        "getting_started": "通过官方文档快速了解基本用法并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-PowerShell-PowerShell",
+      "source": "github",
+      "full_name": "PowerShell/PowerShell",
+      "owner": "PowerShell",
+      "name": "PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "category": "other",
+      "stars": 52109,
+      "forks": 8234,
+      "today_stars": 42,
+      "hot_score": 891.7,
+      "url": "https://github.com/PowerShell/PowerShell",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerShell",
+        "chinese_summary": "跨平台的命令行 shell 和任务自动化工具",
+        "use_case": "用于系统管理和自动化任务",
+        "tech_highlights": [
+          "跨平台支持",
+          "丰富的命令集",
+          "模块化设计"
+        ],
+        "target_users": "系统管理员、开发人员和IT专业人员",
+        "why_trending": "得益于其强大的自动化能力和跨平台支持，受到广泛欢迎",
+        "getting_started": "访问官方文档，从基础命令开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 66110,
+      "forks": 7285,
+      "today_stars": 39,
+      "hot_score": 872.0,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ghidra",
+        "chinese_summary": "软件逆向工程框架，用于分析和修改二进制代码",
+        "use_case": "主要用于逆向分析恶意软件、分析二进制文件和逆向工程",
+        "tech_highlights": [
+          "支持多种架构和操作系统",
+          "强大的逆向工程功能",
+          "开源且免费"
+        ],
+        "target_users": "软件逆向工程师、安全研究人员、恶意软件分析师",
+        "why_trending": "因其强大的逆向工程能力和开源特性，受到安全研究社区的广泛关注",
+        "getting_started": "访问GitHub页面，下载最新版本并参考官方文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-jj-vcs-jj",
+      "source": "github",
+      "full_name": "jj-vcs/jj",
+      "owner": "jj-vcs",
+      "name": "jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 27275,
+      "forks": 982,
+      "today_stars": 38,
+      "hot_score": 823.6,
+      "url": "https://github.com/jj-vcs/jj",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "jj",
+        "chinese_summary": "一个简单而强大的Git兼容版本控制系统",
+        "use_case": "适用于需要Git兼容性但希望简化版本控制流程的开发者",
+        "tech_highlights": [
+          "使用Rust编写，性能优秀",
+          "兼容Git，易于迁移",
+          "设计简洁，易于使用"
+        ],
+        "target_users": "希望简化Git使用流程的开发者",
+        "why_trending": "得益于Rust的性能优势和简洁设计，吸引了追求高效和易用性的开发者",
+        "getting_started": "通过文档快速了解基本命令，开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-supabase",
+      "source": "github",
+      "full_name": "sponsors/supabase",
+      "owner": "sponsors",
+      "name": "supabase",
+      "description": "Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 1789,
+      "forks": 389,
+      "today_stars": 49,
+      "hot_score": 815.3,
+      "url": "https://github.com/sponsors/supabase",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Supabase CLI",
+        "chinese_summary": "Supabase CLI 管理 PostgreSQL 迁移，本地运行 Supabase，部署边缘函数，生成数据库类型。",
+        "use_case": "适用于需要管理 PostgreSQL 数据库迁移和本地开发部署的开发者。",
+        "tech_highlights": [
+          "支持 PostgreSQL 迁移管理",
+          "本地运行和部署 Supabase",
+          "边缘函数部署",
+          "数据库类型生成"
+        ],
+        "target_users": "数据库管理员和前端开发者",
+        "why_trending": "随着 Serverless 和边缘计算的发展，Supabase 提供了便捷的本地开发和部署工具，受到开发者欢迎。",
+        "getting_started": "通过文档快速安装并配置 Supabase CLI，开始管理数据库和部署功能。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-qdrant",
+      "source": "github",
+      "full_name": "sponsors/qdrant",
+      "owner": "sponsors",
+      "name": "qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 29814,
+      "forks": 2127,
+      "today_stars": 35,
+      "hot_score": 797.4,
+      "url": "https://github.com/sponsors/qdrant",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Qdrant",
+        "chinese_summary": "高性能、大规模向量数据库和搜索引擎，支持下一代AI应用。",
+        "use_case": "适用于需要高效处理大规模向量数据的场景，如推荐系统、图像搜索等。",
+        "tech_highlights": [
+          "支持大规模向量数据存储与检索",
+          "高性能搜索能力",
+          "云服务支持"
+        ],
+        "target_users": "数据科学家、AI工程师、云服务用户",
+        "why_trending": "得益于其高性能和易用性，满足了AI领域对高效向量处理的需求，同时云服务的推出进一步扩大了其应用范围。",
+        "getting_started": "通过官方文档快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rclone",
+      "source": "github",
+      "full_name": "sponsors/rclone",
+      "owner": "sponsors",
+      "name": "rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "category": "backend",
+      "stars": 56242,
+      "forks": 4993,
+      "today_stars": 29,
+      "hot_score": 765.0,
+      "url": "https://github.com/sponsors/rclone",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "rclone",
+        "chinese_summary": "用于云存储的rsync工具，支持多种云存储服务",
+        "use_case": "用于文件同步、备份和迁移至各种云存储服务",
+        "tech_highlights": [
+          "支持多种云存储服务",
+          "命令行界面",
+          "加密传输"
+        ],
+        "target_users": "云存储管理员、开发者、系统管理员",
+        "why_trending": "因其强大的跨平台支持和丰富的功能，满足了用户对云存储管理的高需求",
+        "getting_started": "通过官方文档快速了解基本命令和配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-GyulyVGC",
+      "source": "github",
+      "full_name": "sponsors/GyulyVGC",
+      "owner": "sponsors",
+      "name": "GyulyVGC",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 33070,
+      "forks": 1219,
+      "today_stars": 30,
+      "hot_score": 751.9,
+      "url": "https://github.com/sponsors/GyulyVGC",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "网络流量监控器",
+        "chinese_summary": "舒适地监控您的互联网流量",
+        "use_case": "适用于需要实时监控网络流量的个人和企业。",
+        "tech_highlights": [
+          "使用 Rust 语言编写，性能高且安全",
+          "跨平台支持",
+          "提供丰富的监控功能"
+        ],
+        "target_users": "网络管理员、安全专家和对网络流量监控有需求的用户",
+        "why_trending": "得益于 Rust 的性能和安全性，以及对网络安全监控需求的增加",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-systemd-systemd",
+      "source": "github",
+      "full_name": "systemd/systemd",
+      "owner": "systemd",
+      "name": "systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "category": "systems",
+      "stars": 16113,
+      "forks": 4386,
+      "today_stars": 33,
+      "hot_score": 750.7,
+      "url": "https://github.com/systemd/systemd",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "systemd",
+        "chinese_summary": "系统和服务管理器，用于初始化系统和管理服务",
+        "use_case": "主要用于 Linux 系统的初始化和管理服务",
+        "tech_highlights": [
+          "服务管理",
+          "初始化系统",
+          "日志系统",
+          "网络守护进程"
+        ],
+        "target_users": "Linux 系统管理员和开发者",
+        "why_trending": "因其强大的服务管理和初始化系统功能，受到广泛认可，社区活跃度高",
+        "getting_started": "通过文档和示例快速了解 systemd 的基本用法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-Dao-AILab-flash-attention",
+      "source": "github",
+      "full_name": "Dao-AILab/flash-attention",
+      "owner": "Dao-AILab",
+      "name": "flash-attention",
+      "description": "Fast and memory-efficient exact attention",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 22959,
+      "forks": 2548,
+      "today_stars": 30,
+      "hot_score": 736.1,
+      "url": "https://github.com/Dao-AILab/flash-attention",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Dao-AILab/闪存注意力机制",
+        "chinese_summary": "一种快速且内存高效的精确注意力机制实现",
+        "use_case": "适用于需要高效处理大量数据的自然语言处理任务",
+        "tech_highlights": [
+          "内存效率高",
+          "计算速度快",
+          "精确的注意力机制实现"
+        ],
+        "target_users": "自然语言处理领域的开发者和研究人员",
+        "why_trending": "得益于其在处理大规模数据时的高效性和准确性，吸引了广泛的关注",
+        "getting_started": "建议先阅读README文件，了解基本用法和配置要求",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nektos-act",
+      "source": "github",
+      "full_name": "nektos/act",
+      "owner": "nektos",
+      "name": "act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "category": "backend",
+      "stars": 69510,
+      "forks": 1887,
+      "today_stars": 22,
+      "hot_score": 704.2,
+      "url": "https://github.com/nektos/act",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "nektos/act",
+        "chinese_summary": "本地运行 GitHub Actions",
+        "use_case": "用于本地测试和调试 GitHub Actions 工作流。",
+        "tech_highlights": [
+          "支持多种 GitHub Actions",
+          "跨平台兼容性",
+          "命令行界面友好"
+        ],
+        "target_users": "GitHub Actions 开发者和测试人员",
+        "why_trending": "随着云原生和 DevOps 的发展，本地测试和调试的需求增加，该项目提供了便捷的解决方案。",
+        "getting_started": "通过安装命令和基本配置快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
