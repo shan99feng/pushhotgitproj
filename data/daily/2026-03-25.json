@@ -1,0 +1,613 @@
+{
+  "date": "2026-03-25",
+  "since": "daily",
+  "generated_at": "2026-03-26T02:30:24.156556+00:00",
+  "total": 20,
+  "category_counts": {
+    "frontend": 7,
+    "backend": 4,
+    "ai_ml": 4,
+    "systems": 5
+  },
+  "repos": [
+    {
+      "repo_id": "github-n8n-io-n8n",
+      "source": "github",
+      "full_name": "n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 181084,
+      "forks": 56166,
+      "today_stars": 212,
+      "hot_score": 2645.8,
+      "url": "https://github.com/n8n-io/n8n",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "n8n",
+        "chinese_summary": "一个具备原生AI能力的可视化工作流自动化平台，结合图形化构建与自定义代码。",
+        "use_case": "适用于需要自动化工作流的企业和开发者。",
+        "tech_highlights": [
+          "图形化构建工作流",
+          "内置AI功能",
+          "丰富的集成插件"
+        ],
+        "target_users": "需要自动化流程的企业和开发者",
+        "why_trending": "结合AI与图形化构建，满足现代企业对自动化的需求；社区活跃，插件丰富。",
+        "getting_started": "通过官方文档快速了解基本操作",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-aquasecurity-trivy",
+      "source": "github",
+      "full_name": "aquasecurity/trivy",
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "category": "backend",
+      "stars": 34128,
+      "forks": 206,
+      "today_stars": 195,
+      "hot_score": 2403.3,
+      "url": "https://github.com/aquasecurity/trivy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Trivy",
+        "chinese_summary": "扫描容器、Kubernetes、代码仓库等中的漏洞、配置错误、密钥和SBOM",
+        "use_case": "用于安全扫描和合规性检查，确保软件供应链的安全",
+        "tech_highlights": [
+          "支持多种扫描目标",
+          "开源免费",
+          "易于集成"
+        ],
+        "target_users": "软件开发团队、安全团队、DevOps工程师",
+        "why_trending": "随着云原生技术的普及，安全扫描工具需求增加；Trivy作为开源项目，社区活跃度高",
+        "getting_started": "通过Docker镜像快速启动Trivy进行扫描",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-langchain-ai-langchain",
+      "source": "github",
+      "full_name": "langchain-ai/langchain",
+      "owner": "langchain-ai",
+      "name": "langchain",
+      "description": "The agent engineering platform",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 131096,
+      "forks": 21587,
+      "today_stars": 177,
+      "hot_score": 2281.8,
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "LangChain",
+        "chinese_summary": "基于 Python 的智能代理工程平台",
+        "use_case": "用于构建和管理智能代理系统",
+        "tech_highlights": [
+          "支持多种 AI 模型集成",
+          "模块化设计便于扩展",
+          "提供丰富的 API 接口"
+        ],
+        "target_users": "AI 工程师、研究者和开发者",
+        "why_trending": "顺应 AI 工程化趋势，社区活跃度高",
+        "getting_started": "通过官方文档快速了解基本概念和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 84998,
+      "forks": 5360,
+      "today_stars": 85,
+      "hot_score": 1342.9,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "用于Web测试和自动化，提供单一API支持Chromium、Firefox和WebKit。",
+        "use_case": "适用于Web应用的自动化测试和前端功能验证。",
+        "tech_highlights": [
+          "单一API支持多浏览器",
+          "内置性能分析工具",
+          "支持Node.js和Python"
+        ],
+        "target_users": "Web测试工程师和前端开发者",
+        "why_trending": "得益于其强大的跨浏览器支持和高效的性能分析功能，吸引了大量关注。",
+        "getting_started": "通过npm安装并快速开始编写测试脚本",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-huggingface-transformers",
+      "source": "github",
+      "full_name": "huggingface/transformers",
+      "owner": "huggingface",
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 158413,
+      "forks": 32607,
+      "today_stars": 76,
+      "hot_score": 1280.0,
+      "url": "https://github.com/huggingface/transformers",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "HuggingFace Transformers",
+        "chinese_summary": "一个用于文本、视觉、音频和多模态模型的先进机器学习模型框架。",
+        "use_case": "适用于模型的训练和推理。",
+        "tech_highlights": [
+          "支持多种模型架构",
+          "丰富的模型库",
+          "易于扩展和定制"
+        ],
+        "target_users": "机器学习工程师、研究人员",
+        "why_trending": "因其强大的模型支持和易用性，以及在自然语言处理领域的广泛应用，吸引了大量关注。",
+        "getting_started": "通过安装库和使用示例代码快速开始。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 110009,
+      "forks": 16444,
+      "today_stars": 57,
+      "hot_score": 1074.1,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "开源远程桌面应用，支持自我托管。",
+        "use_case": "适用于需要远程访问和控制桌面的场景。",
+        "tech_highlights": [
+          "使用 Rust 编写，保证高性能和安全性",
+          "支持自我托管，无需依赖第三方服务",
+          "跨平台兼容性"
+        ],
+        "target_users": "需要远程访问桌面的个人和企业用户",
+        "why_trending": "得益于 Rust 的安全性和性能，以及开源社区的支持，RustDesk 近期受到了广泛关注。",
+        "getting_started": "通过官方文档快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 66150,
+      "forks": 7290,
+      "today_stars": 49,
+      "hot_score": 972.1,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ghidra",
+        "chinese_summary": "Ghidra 是一个软件逆向工程框架",
+        "use_case": "主要用于分析和逆向工程二进制代码，帮助理解软件内部逻辑。",
+        "tech_highlights": [
+          "支持多种编程语言的逆向分析",
+          "强大的反汇编和反编译功能",
+          "可扩展的插件架构"
+        ],
+        "target_users": "软件安全专家、逆向工程师和研究人员",
+        "why_trending": "因其强大的逆向分析能力，满足了网络安全领域对高级逆向工具的需求，社区活跃度高。",
+        "getting_started": "建议从官方文档开始，了解基本操作和常用插件。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-run-llama-llama_index",
+      "source": "github",
+      "full_name": "run-llama/llama_index",
+      "owner": "run-llama",
+      "name": "llama_index",
+      "description": "LlamaIndex is the leading document agent and OCR platform",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 47986,
+      "forks": 7091,
+      "today_stars": 35,
+      "hot_score": 818.1,
+      "url": "https://github.com/run-llama/llama_index",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "LlamaIndex",
+        "chinese_summary": "领先的文档代理和OCR平台",
+        "use_case": "用于处理和提取文档中的信息，支持OCR识别",
+        "tech_highlights": [
+          "支持多种文档格式",
+          "高效的OCR技术",
+          "灵活的API接口"
+        ],
+        "target_users": "文档处理和OCR应用开发者",
+        "why_trending": "得益于其强大的OCR能力和文档处理功能，满足了当前对自动化信息提取的需求",
+        "getting_started": "通过官方文档快速了解基本用法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-apache-superset",
+      "source": "github",
+      "full_name": "apache/superset",
+      "owner": "apache",
+      "name": "superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 71124,
+      "forks": 16849,
+      "today_stars": 33,
+      "hot_score": 815.2,
+      "url": "https://github.com/apache/superset",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Apache Superset",
+        "chinese_summary": "一个数据可视化和数据探索平台",
+        "use_case": "用于企业级数据可视化和分析",
+        "tech_highlights": [
+          "支持多种数据源",
+          "丰富的可视化组件",
+          "支持SQL查询"
+        ],
+        "target_users": "数据分析师、数据科学家、业务分析师",
+        "why_trending": "因其强大的数据处理能力和易用性，受到广泛欢迎",
+        "getting_started": "通过官方文档快速了解基本操作",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-makeplane-plane",
+      "source": "github",
+      "full_name": "makeplane/plane",
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 46961,
+      "forks": 3805,
+      "today_stars": 34,
+      "hot_score": 807.2,
+      "url": "https://github.com/makeplane/plane",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Plane",
+        "chinese_summary": "一个现代的项目管理平台，用于任务、冲刺、文档管理及问题排查。",
+        "use_case": "适用于团队协作、项目规划和日常任务管理。",
+        "tech_highlights": [
+          "支持多种项目管理工具集成",
+          "现代化的用户界面",
+          "灵活的任务和文档管理"
+        ],
+        "target_users": "需要进行项目管理和任务分配的团队",
+        "why_trending": "结合了Jira等工具的优点，提供了一个现代化的替代方案，受到开发者和团队欢迎。",
+        "getting_started": "访问GitHub页面，按照README中的说明快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ventoy-Ventoy",
+      "source": "github",
+      "full_name": "ventoy/Ventoy",
+      "owner": "ventoy",
+      "name": "Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "category": "systems",
+      "stars": 75279,
+      "forks": 4723,
+      "today_stars": 30,
+      "hot_score": 787.7,
+      "url": "https://github.com/ventoy/Ventoy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ventoy",
+        "chinese_summary": "一个全新的可启动USB解决方案",
+        "use_case": "用于创建和管理可启动USB驱动器，方便快速部署操作系统。",
+        "tech_highlights": [
+          "支持多种操作系统启动",
+          "无需安装，即插即用",
+          "支持多种文件系统"
+        ],
+        "target_users": "IT管理员、系统开发者和普通用户",
+        "why_trending": "由于其便捷性和多功能性，特别适合快速部署和测试不同操作系统，因此受到广泛欢迎。",
+        "getting_started": "访问GitHub页面，按照README文件中的步骤操作即可快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ClickHouse-ClickHouse",
+      "source": "github",
+      "full_name": "ClickHouse/ClickHouse",
+      "owner": "ClickHouse",
+      "name": "ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "category": "systems",
+      "stars": 46536,
+      "forks": 8232,
+      "today_stars": 28,
+      "hot_score": 746.8,
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ClickHouse",
+        "chinese_summary": "ClickHouse 是一个实时分析数据库管理系统",
+        "use_case": "适用于需要实时分析和查询大量数据的场景",
+        "tech_highlights": [
+          "支持列式存储",
+          "高并发查询能力",
+          "实时数据处理"
+        ],
+        "target_users": "大数据分析和实时数据处理的开发者和团队",
+        "why_trending": "因其卓越的性能和实时处理能力，受到大数据领域的广泛关注",
+        "getting_started": "建议从官方文档开始，快速了解基本概念和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-vadimdemedes-ink",
+      "source": "github",
+      "full_name": "vadimdemedes/ink",
+      "owner": "vadimdemedes",
+      "name": "ink",
+      "description": "🌈 React for interactive command-line apps",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 35771,
+      "forks": 880,
+      "today_stars": 29,
+      "hot_score": 745.4,
+      "url": "https://github.com/vadimdemedes/ink",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ink",
+        "chinese_summary": "React 库，用于创建交互式命令行应用",
+        "use_case": "适用于需要丰富交互体验的命令行应用开发",
+        "tech_highlights": [
+          "基于 React 的组件化开发",
+          "丰富的 UI 组件",
+          "TypeScript 支持"
+        ],
+        "target_users": "命令行应用开发者",
+        "why_trending": "结合现代前端技术提升命令行应用的用户体验，社区活跃",
+        "getting_started": "通过 npm 安装并参考官方文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-jj-vcs-jj",
+      "source": "github",
+      "full_name": "jj-vcs/jj",
+      "owner": "jj-vcs",
+      "name": "jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 27302,
+      "forks": 986,
+      "today_stars": 30,
+      "hot_score": 743.6,
+      "url": "https://github.com/jj-vcs/jj",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "jj",
+        "chinese_summary": "一个简单且强大的Git兼容版本控制系统",
+        "use_case": "适用于需要Git兼容性但希望简化操作的开发者",
+        "tech_highlights": [
+          "Rust编写，性能优越",
+          "Git兼容，易于迁移",
+          "简洁的命令行接口"
+        ],
+        "target_users": "希望简化版本控制流程的开发者",
+        "why_trending": "得益于Rust的性能和简洁的命令行设计，吸引了追求高效和简洁的开发者",
+        "getting_started": "通过文档快速了解基本命令，开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-anchore-grype",
+      "source": "github",
+      "full_name": "anchore/grype",
+      "owner": "anchore",
+      "name": "grype",
+      "description": "A vulnerability scanner for container images and filesystems",
+      "language": "Go",
+      "category": "backend",
+      "stars": 11847,
+      "forks": 761,
+      "today_stars": 33,
+      "hot_score": 737.4,
+      "url": "https://github.com/anchore/grype",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Grype 容器漏洞扫描器",
+        "chinese_summary": "用于扫描容器镜像和文件系统的漏洞扫描器",
+        "use_case": "主要用于企业内部的容器镜像安全检查和漏洞管理。",
+        "tech_highlights": [
+          "基于 Go 语言开发",
+          "支持多种漏洞数据库",
+          "命令行界面友好"
+        ],
+        "target_users": "IT 安全团队和 DevOps 工程师",
+        "why_trending": "随着容器技术的普及，安全检查的需求增加，Grype 提供了便捷的漏洞扫描解决方案。",
+        "getting_started": "通过安装 Go 环境并运行 `grype <image>` 命令快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-jgraph-drawio-desktop",
+      "source": "github",
+      "full_name": "jgraph/drawio-desktop",
+      "owner": "jgraph",
+      "name": "drawio-desktop",
+      "description": "Official electron build of draw.io",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 60038,
+      "forks": 5627,
+      "today_stars": 25,
+      "hot_score": 727.8,
+      "url": "https://github.com/jgraph/drawio-desktop",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "draw.io桌面版",
+        "chinese_summary": "基于 Electron 的 draw.io 官方桌面应用",
+        "use_case": "适用于需要在桌面环境中绘制图表和流程图的用户",
+        "tech_highlights": [
+          "使用 Electron 框架构建",
+          "支持多种图表类型",
+          "集成在线版本功能"
+        ],
+        "target_users": "需要在桌面环境中绘制图表的专业人士",
+        "why_trending": "得益于 Electron 技术的普及和在线协作需求的增长",
+        "getting_started": "直接下载安装包即可快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-hoppscotch",
+      "source": "github",
+      "full_name": "sponsors/hoppscotch",
+      "owner": "sponsors",
+      "name": "hoppscotch",
+      "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem &amp; Cloud • Web, Desktop &amp; CLI • Open-Source Alternative to Postman, Insomnia",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 78615,
+      "forks": 5725,
+      "today_stars": 23,
+      "hot_score": 719.6,
+      "url": "https://github.com/sponsors/hoppscotch",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hoppscotch",
+        "chinese_summary": "一个开源的API开发生态系统，提供离线、本地和云服务。",
+        "use_case": "适用于API开发、测试和管理。",
+        "tech_highlights": [
+          "支持Web、桌面和命令行界面",
+          "开源替代Postman和Insomnia",
+          "支持离线和云服务"
+        ],
+        "target_users": "API开发人员、测试人员和管理人员",
+        "why_trending": "作为开源项目，它提供了灵活的API开发和测试解决方案，符合当前开源和API经济的趋势。",
+        "getting_started": "访问官网文档，快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rclone",
+      "source": "github",
+      "full_name": "sponsors/rclone",
+      "owner": "sponsors",
+      "name": "rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "category": "backend",
+      "stars": 56265,
+      "forks": 4995,
+      "today_stars": 24,
+      "hot_score": 715.0,
+      "url": "https://github.com/sponsors/rclone",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "rclone",
+        "chinese_summary": "用于云存储的rsync工具，支持多种云存储服务",
+        "use_case": "用于文件同步、备份和管理多种云存储服务",
+        "tech_highlights": [
+          "支持多种云存储服务",
+          "命令行界面",
+          "加密传输"
+        ],
+        "target_users": "需要管理多云存储的开发者和系统管理员",
+        "why_trending": "由于云存储需求增加和技术成熟度提高，rclone成为云存储管理的首选工具",
+        "getting_started": "通过官方文档快速了解基本命令和配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-SimplifyJobs-Summer2026-Internships",
+      "source": "github",
+      "full_name": "SimplifyJobs/Summer2026-Internships",
+      "owner": "SimplifyJobs",
+      "name": "Summer2026-Internships",
+      "description": "Collection of Summer 2026 tech internships!",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 43931,
+      "forks": 3169,
+      "today_stars": 23,
+      "hot_score": 694.3,
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Summer2026 实习岗位集合",
+        "chinese_summary": "收集了2026年夏季的技术实习岗位信息",
+        "use_case": "为即将毕业的学生和实习生提供实习机会信息",
+        "tech_highlights": [
+          "实习岗位信息收集",
+          "Python 编程语言"
+        ],
+        "target_users": "即将毕业的学生和实习生",
+        "why_trending": "随着技术行业的快速发展，夏季实习机会备受关注，该项目为求职者提供了便利",
+        "getting_started": "直接访问项目页面查看实习岗位信息",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-GyulyVGC",
+      "source": "github",
+      "full_name": "sponsors/GyulyVGC",
+      "owner": "sponsors",
+      "name": "GyulyVGC",
+      "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 33086,
+      "forks": 1220,
+      "today_stars": 24,
+      "hot_score": 692.0,
+      "url": "https://github.com/sponsors/GyulyVGC",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "GyulyVGC",
+        "chinese_summary": "舒适地监控您的互联网流量",
+        "use_case": "适用于需要实时监控网络流量的个人和企业。",
+        "tech_highlights": [
+          "使用 Rust 编写，性能高且安全",
+          "跨平台支持",
+          "易于扩展"
+        ],
+        "target_users": "网络管理员、安全专家和对网络流量监控有需求的用户",
+        "why_trending": "得益于 Rust 的高性能和安全性，以及对网络监控需求的增加",
+        "getting_started": "通过文档快速开始，安装依赖并运行项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
