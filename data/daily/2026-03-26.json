@@ -1,0 +1,615 @@
+{
+  "date": "2026-03-26",
+  "since": "daily",
+  "generated_at": "2026-03-27T02:31:54.561312+00:00",
+  "total": 20,
+  "category_counts": {
+    "frontend": 6,
+    "ai_ml": 3,
+    "mobile": 1,
+    "systems": 7,
+    "backend": 3
+  },
+  "repos": [
+    {
+      "repo_id": "github-n8n-io-n8n",
+      "source": "github",
+      "full_name": "n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 181255,
+      "forks": 56210,
+      "today_stars": 219,
+      "hot_score": 2715.8,
+      "url": "https://github.com/n8n-io/n8n",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "n8n",
+        "chinese_summary": "一个具备原生AI能力的工作流自动化平台，结合可视化构建与自定义代码，支持自托管或云托管，拥有400多种集成。",
+        "use_case": "适用于需要自动化多种任务的企业和个人，如数据处理、自动化办公流程等。",
+        "tech_highlights": [
+          "支持自定义代码与可视化构建",
+          "具备原生AI能力",
+          "丰富的集成库"
+        ],
+        "target_users": "需要自动化工作流的企业和个人开发者",
+        "why_trending": "结合AI与工作流自动化，满足现代企业对智能自动化的需求；社区活跃，持续更新。",
+        "getting_started": "通过官方文档快速了解基本操作，开始构建自己的工作流",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-langchain-ai-langchain",
+      "source": "github",
+      "full_name": "langchain-ai/langchain",
+      "owner": "langchain-ai",
+      "name": "langchain",
+      "description": "The agent engineering platform",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 131247,
+      "forks": 21610,
+      "today_stars": 171,
+      "hot_score": 2221.8,
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "LangChain",
+        "chinese_summary": "智能代理工程平台，构建自动化任务解决系统",
+        "use_case": "用于构建和管理自动化任务解决系统，如聊天机器人、知识检索等。",
+        "tech_highlights": [
+          "支持多种AI模型集成",
+          "模块化设计便于扩展",
+          "灵活的任务调度与管理"
+        ],
+        "target_users": "AI工程师、数据科学家、系统架构师",
+        "why_trending": "得益于AI技术的快速发展和社区的积极参与，LangChain提供了强大的工具支持，满足了开发者构建复杂AI应用的需求。",
+        "getting_started": "建议从官方文档开始，快速了解核心概念和快速搭建示例项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-ente-io",
+      "source": "github",
+      "full_name": "sponsors/ente-io",
+      "owner": "sponsors",
+      "name": "ente-io",
+      "description": "💚 End-to-end encrypted cloud for everything.",
+      "language": "Dart",
+      "category": "mobile",
+      "stars": 25565,
+      "forks": 1508,
+      "today_stars": 144,
+      "hot_score": 1880.8,
+      "url": "https://github.com/sponsors/ente-io",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ente-io",
+        "chinese_summary": "端到端加密的全方位云服务",
+        "use_case": "适用于需要高度数据安全的个人和企业",
+        "tech_highlights": [
+          "端到端加密",
+          "跨平台支持",
+          "云存储"
+        ],
+        "target_users": "需要数据安全的个人和企业",
+        "why_trending": "随着数据安全意识的提高和云服务的普及，端到端加密的云服务越来越受到关注",
+        "getting_started": "访问项目文档，按照指南快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-openai-whisper",
+      "source": "github",
+      "full_name": "openai/whisper",
+      "owner": "openai",
+      "name": "whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 96694,
+      "forks": 11928,
+      "today_stars": 84,
+      "hot_score": 1338.5,
+      "url": "https://github.com/openai/whisper",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Whisper",
+        "chinese_summary": "通过大规模弱监督实现稳健的语音识别",
+        "use_case": "适用于需要高精度语音识别的场景，如语音转文字、语音搜索等。",
+        "tech_highlights": [
+          "大规模弱监督学习",
+          "端到端的语音识别模型",
+          "多语言支持"
+        ],
+        "target_users": "从事语音识别、自然语言处理的研究人员和开发者",
+        "why_trending": "因其在多语言和低资源环境下的表现优异，引起了广泛关注。",
+        "getting_started": "可以参考README文件快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 85057,
+      "forks": 5364,
+      "today_stars": 71,
+      "hot_score": 1203.0,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "Playwright 是一个用于 Web 测试和自动化框架，支持使用单一 API 测试 Chromium、Firefox 和 WebKit。",
+        "use_case": "主要用于前端 Web 应用的自动化测试，支持多浏览器兼容性测试。",
+        "tech_highlights": [
+          "支持多浏览器（Chromium、Firefox 和 WebKit）",
+          "单一 API 简化测试流程",
+          "内置等待机制确保稳定测试"
+        ],
+        "target_users": "前端开发者、测试工程师",
+        "why_trending": "因其强大的多浏览器支持和简化测试流程的技术亮点，受到开发者欢迎。",
+        "getting_started": "通过官方文档快速了解基本用法，开始编写测试脚本。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 110068,
+      "forks": 16450,
+      "today_stars": 58,
+      "hot_score": 1084.2,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一个用于自我托管的开源远程桌面应用，替代TeamViewer。",
+        "use_case": "适用于需要远程访问和控制桌面的场景，如技术支持、远程办公等。",
+        "tech_highlights": [
+          "使用Rust编写，保证高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台兼容性"
+        ],
+        "target_users": "需要远程访问桌面的个人和企业用户",
+        "why_trending": "得益于Rust语言的性能和安全性，以及开源社区的支持，RustDesk吸引了大量关注。",
+        "getting_started": "访问GitHub页面，按照README文件的指引快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 66202,
+      "forks": 7294,
+      "today_stars": 50,
+      "hot_score": 982.1,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ghidra",
+        "chinese_summary": "Ghidra 是一个软件逆向工程框架",
+        "use_case": "主要用于分析和修改二进制代码，帮助理解软件内部结构。",
+        "tech_highlights": [
+          "支持多种编程语言的逆向分析",
+          "强大的反汇编和反编译功能",
+          "跨平台设计"
+        ],
+        "target_users": "软件安全专家、逆向工程师和研究人员",
+        "why_trending": "随着网络安全威胁的增加，软件逆向工程的需求上升，Ghidra 作为强大的开源工具受到关注。",
+        "getting_started": "访问 GitHub 页面，下载最新版本并参考官方文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-aquasecurity-trivy",
+      "source": "github",
+      "full_name": "aquasecurity/trivy",
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "category": "backend",
+      "stars": 34156,
+      "forks": 209,
+      "today_stars": 49,
+      "hot_score": 943.3,
+      "url": "https://github.com/aquasecurity/trivy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Trivy",
+        "chinese_summary": "用于检测容器、Kubernetes、代码仓库、云等中的漏洞、配置错误、秘密和SBOM",
+        "use_case": "用于安全扫描和合规检查，确保软件供应链的安全性。",
+        "tech_highlights": [
+          "支持多种扫描目标",
+          "开源且社区活跃",
+          "提供详细的漏洞信息"
+        ],
+        "target_users": "安全工程师、DevSecOps团队、云安全专家",
+        "why_trending": "随着云原生和容器技术的普及，安全需求增加，Trivy提供了一站式的解决方案，满足了这一需求。",
+        "getting_started": "通过Docker安装并运行Trivy，快速进行安全扫描。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-meilisearch-meilisearch",
+      "source": "github",
+      "full_name": "meilisearch/meilisearch",
+      "owner": "meilisearch",
+      "name": "meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 56776,
+      "forks": 2450,
+      "today_stars": 37,
+      "hot_score": 845.4,
+      "url": "https://github.com/meilisearch/meilisearch",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "MeiliSearch",
+        "chinese_summary": "一个快速的搜索引擎 API，提供 AI 动力的混合搜索。",
+        "use_case": "适用于网站和应用程序的全文搜索和智能搜索。",
+        "tech_highlights": [
+          "使用 Rust 编写，性能优异",
+          "支持 AI 动力的混合搜索",
+          "易于集成和使用"
+        ],
+        "target_users": "开发网站和应用程序的开发者",
+        "why_trending": "得益于其高性能和易用性，结合了 AI 技术，满足了现代搜索需求。",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ggml-org-whisper.cpp",
+      "source": "github",
+      "full_name": "ggml-org/whisper.cpp",
+      "owner": "ggml-org",
+      "name": "whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "category": "systems",
+      "stars": 47992,
+      "forks": 5343,
+      "today_stars": 37,
+      "hot_score": 838.1,
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Whisper.cpp",
+        "chinese_summary": "C/C++实现的OpenAI Whisper模型",
+        "use_case": "适用于需要高效语音识别和翻译的场景",
+        "tech_highlights": [
+          "跨平台兼容性强",
+          "性能优化良好",
+          "开源社区活跃"
+        ],
+        "target_users": "需要语音识别和翻译功能的开发者",
+        "why_trending": "得益于模型的高性能和跨平台特性，以及社区对开源项目的热情",
+        "getting_started": "建议从README开始，快速了解项目结构和编译方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-apache-superset",
+      "source": "github",
+      "full_name": "apache/superset",
+      "owner": "apache",
+      "name": "superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 71157,
+      "forks": 16861,
+      "today_stars": 34,
+      "hot_score": 825.2,
+      "url": "https://github.com/apache/superset",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Apache Superset",
+        "chinese_summary": "一个数据可视化和数据探索平台",
+        "use_case": "适用于企业级数据分析师和数据科学家进行数据探索和可视化。",
+        "tech_highlights": [
+          "支持多种数据源",
+          "丰富的可视化图表",
+          "灵活的数据探索功能"
+        ],
+        "target_users": "数据分析师、数据科学家、企业数据团队",
+        "why_trending": "因其强大的数据处理能力和易用性，受到广泛好评，社区活跃度高。",
+        "getting_started": "建议从官方文档开始，快速了解核心功能和使用方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-qdrant",
+      "source": "github",
+      "full_name": "sponsors/qdrant",
+      "owner": "sponsors",
+      "name": "qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 29875,
+      "forks": 2138,
+      "today_stars": 33,
+      "hot_score": 777.5,
+      "url": "https://github.com/sponsors/qdrant",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Qdrant",
+        "chinese_summary": "高性能、大规模向量数据库和搜索引擎，支持下一代AI应用。",
+        "use_case": "适用于需要高效处理大规模向量数据的场景，如推荐系统、图像搜索等。",
+        "tech_highlights": [
+          "支持大规模向量数据存储和检索",
+          "高性能搜索能力",
+          "云服务支持"
+        ],
+        "target_users": "需要处理大规模向量数据的开发者和企业",
+        "why_trending": "得益于AI技术的发展和对大规模数据处理需求的增加，Qdrant因其高性能和易用性受到关注。",
+        "getting_started": "通过官方文档快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-withastro",
+      "source": "github",
+      "full_name": "sponsors/withastro",
+      "owner": "sponsors",
+      "name": "withastro",
+      "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 57900,
+      "forks": 3274,
+      "today_stars": 30,
+      "hot_score": 776.3,
+      "url": "https://github.com/sponsors/withastro",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Withastro",
+        "chinese_summary": "用于内容驱动型网站的 Web 框架",
+        "use_case": "适用于需要高效构建内容丰富的网站",
+        "tech_highlights": [
+          "TypeScript 编程语言",
+          "现代 Web 开发技术栈",
+          "专注于内容的网站构建"
+        ],
+        "target_users": "内容驱动型网站开发者",
+        "why_trending": "结合了现代 Web 开发技术和内容管理的需求，受到开发者欢迎",
+        "getting_started": "快速阅读官方文档并开始构建项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-anchore-grype",
+      "source": "github",
+      "full_name": "anchore/grype",
+      "owner": "anchore",
+      "name": "grype",
+      "description": "A vulnerability scanner for container images and filesystems",
+      "language": "Go",
+      "category": "backend",
+      "stars": 11870,
+      "forks": 762,
+      "today_stars": 36,
+      "hot_score": 767.4,
+      "url": "https://github.com/anchore/grype",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "grype",
+        "chinese_summary": "一个用于容器镜像和文件系统的漏洞扫描器",
+        "use_case": "用于检测和管理容器镜像和文件系统的安全漏洞",
+        "tech_highlights": [
+          "基于Go语言开发",
+          "支持多种漏洞数据库",
+          "命令行界面友好"
+        ],
+        "target_users": "开发人员、安全工程师和运维人员",
+        "why_trending": "随着容器技术的普及，安全检测需求增加，grype提供了一种简单有效的解决方案",
+        "getting_started": "通过安装命令快速启动，例如：`curl -sSf https://dl.grype.dev/install.sh | sudo bash`",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-sharkdp",
+      "source": "github",
+      "full_name": "sponsors/sharkdp",
+      "owner": "sponsors",
+      "name": "sharkdp",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 42211,
+      "forks": 1013,
+      "today_stars": 26,
+      "hot_score": 722.5,
+      "url": "https://github.com/sponsors/sharkdp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "鲨鱼快查",
+        "chinese_summary": "一个简单、快速且用户友好的查找工具，替代 'find'",
+        "use_case": "用于文件查找和管理，提高工作效率",
+        "tech_highlights": [
+          "使用 Rust 编写，性能优异",
+          "用户界面友好",
+          "功能简洁高效"
+        ],
+        "target_users": "需要频繁文件查找和管理的开发者和系统管理员",
+        "why_trending": "得益于 Rust 的性能优势和简洁高效的设计，吸引了大量开发者关注",
+        "getting_started": "通过 Cargo 安装并快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-electron-electron",
+      "source": "github",
+      "full_name": "electron/electron",
+      "owner": "electron",
+      "name": "electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "category": "systems",
+      "stars": 120656,
+      "forks": 17080,
+      "today_stars": 21,
+      "hot_score": 718.2,
+      "url": "https://github.com/electron/electron",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Electron",
+        "chinese_summary": "使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用",
+        "use_case": "开发跨平台的桌面应用，如笔记应用、IDE、图形编辑器等",
+        "tech_highlights": [
+          "基于 Chromium 和 Node.js",
+          "使用 Web 技术开发桌面应用",
+          "跨平台兼容性"
+        ],
+        "target_users": "前端开发者、跨平台应用开发者",
+        "why_trending": "得益于 Web 技术的成熟和跨平台需求的增长，Electron 成为热门选择",
+        "getting_started": "通过官方文档快速开始项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-jgraph-drawio-desktop",
+      "source": "github",
+      "full_name": "jgraph/drawio-desktop",
+      "owner": "jgraph",
+      "name": "drawio-desktop",
+      "description": "Official electron build of draw.io",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 60059,
+      "forks": 5631,
+      "today_stars": 24,
+      "hot_score": 717.9,
+      "url": "https://github.com/jgraph/drawio-desktop",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "draw.io桌面版",
+        "chinese_summary": "基于Electron的draw.io官方桌面应用",
+        "use_case": "适用于需要在本地环境中绘制图表和流程图的用户",
+        "tech_highlights": [
+          "基于Electron跨平台开发",
+          "支持多种图表和流程图绘制",
+          "集成在线版本功能"
+        ],
+        "target_users": "需要在本地绘制图表和流程图的专业人士和团队",
+        "why_trending": "得益于Electron的普及和跨平台特性，以及在线协作需求的增长",
+        "getting_started": "下载安装包，双击运行即可开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ClickHouse-ClickHouse",
+      "source": "github",
+      "full_name": "ClickHouse/ClickHouse",
+      "owner": "ClickHouse",
+      "name": "ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "category": "systems",
+      "stars": 46556,
+      "forks": 8235,
+      "today_stars": 22,
+      "hot_score": 686.8,
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ClickHouse",
+        "chinese_summary": "实时分析型数据库管理系统",
+        "use_case": "适用于实时分析、在线分析处理（OLAP）等场景",
+        "tech_highlights": [
+          "支持SQL查询",
+          "高并发处理能力",
+          "列式存储"
+        ],
+        "target_users": "数据分析师、数据库管理员",
+        "why_trending": "因其高效的数据处理能力和易于部署的特点，受到广泛关注",
+        "getting_started": "建议从官方文档开始学习，快速了解基本概念和操作",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-SimplifyJobs-Summer2026-Internships",
+      "source": "github",
+      "full_name": "SimplifyJobs/Summer2026-Internships",
+      "owner": "SimplifyJobs",
+      "name": "Summer2026-Internships",
+      "description": "Collection of Summer 2026 tech internships!",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 43948,
+      "forks": 3169,
+      "today_stars": 22,
+      "hot_score": 684.3,
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Summer2026 实习汇总",
+        "chinese_summary": "收集2026年夏季技术实习信息",
+        "use_case": "为即将毕业的学生和实习生提供实习机会信息",
+        "tech_highlights": [
+          "实习信息收集",
+          "自动化数据抓取",
+          "实习机会推荐"
+        ],
+        "target_users": "即将毕业的学生和实习生",
+        "why_trending": "随着技术行业的快速发展，实习机会成为求职者的重要途径，该项目汇总了最新的实习信息，受到广泛关注。",
+        "getting_started": "直接访问项目页面查看最新的实习机会",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-calcom-cal.com",
+      "source": "github",
+      "full_name": "calcom/cal.com",
+      "owner": "calcom",
+      "name": "cal.com",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 40721,
+      "forks": 12316,
+      "today_stars": 21,
+      "hot_score": 671.0,
+      "url": "https://github.com/calcom/cal.com",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Cal.com",
+        "chinese_summary": "提供全面的日程管理基础设施。",
+        "use_case": "适用于企业、团队和个人的日程安排和管理。",
+        "tech_highlights": [
+          "使用 TypeScript 编写",
+          "开放的 API 接口",
+          "支持多种日历格式"
+        ],
+        "target_users": "企业、团队和个人用户",
+        "why_trending": "随着远程办公和协作需求增加，日程管理工具受到广泛关注。",
+        "getting_started": "通过官方文档快速了解项目结构和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
