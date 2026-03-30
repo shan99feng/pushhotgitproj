@@ -1,0 +1,617 @@
+{
+  "date": "2026-03-29",
+  "since": "daily",
+  "generated_at": "2026-03-30T02:37:43.105449+00:00",
+  "total": 20,
+  "category_counts": {
+    "frontend": 3,
+    "ai_ml": 7,
+    "other": 3,
+    "backend": 6,
+    "systems": 1
+  },
+  "repos": [
+    {
+      "repo_id": "github-apache-superset",
+      "source": "github",
+      "full_name": "apache/superset",
+      "owner": "apache",
+      "name": "superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 71640,
+      "forks": 16920,
+      "today_stars": 430,
+      "hot_score": 4785.5,
+      "url": "https://github.com/apache/superset",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Apache Superset",
+        "chinese_summary": "一个数据可视化和数据探索平台，帮助用户快速分析和展示数据。",
+        "use_case": "适用于企业数据分析、数据科学家和业务分析师进行数据探索和可视化。",
+        "tech_highlights": [
+          "支持多种数据源",
+          "丰富的可视化组件",
+          "强大的SQL引擎"
+        ],
+        "target_users": "数据科学家、业务分析师、数据工程师",
+        "why_trending": "因其强大的数据处理能力和易用性，受到广泛欢迎；社区活跃，持续更新。",
+        "getting_started": "建议从官方文档开始，快速了解基本操作和功能。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-Z4nzu-hackingtool",
+      "source": "github",
+      "full_name": "Z4nzu/hackingtool",
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 56352,
+      "forks": 6172,
+      "today_stars": 377,
+      "hot_score": 4245.1,
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Z4nzu 全功能黑客工具",
+        "chinese_summary": "一个集成了多种黑客攻击手段的多功能工具箱",
+        "use_case": "用于网络渗透测试、安全研究和漏洞挖掘",
+        "tech_highlights": [
+          "多功能集成",
+          "Python 编写",
+          "模块化设计"
+        ],
+        "target_users": "网络安全专家、渗透测试人员",
+        "why_trending": "因其集成了多种黑客工具，方便快捷，受到安全研究者的欢迎",
+        "getting_started": "建议先阅读README文档，了解各个模块的功能",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-yt-dlp-yt-dlp",
+      "source": "github",
+      "full_name": "yt-dlp/yt-dlp",
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 153871,
+      "forks": 12486,
+      "today_stars": 159,
+      "hot_score": 2108.7,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yt-dlp/yt-dlp",
+        "chinese_summary": "一个功能丰富的命令行音频/视频下载工具",
+        "use_case": "用于从各种在线视频平台下载音频和视频文件。",
+        "tech_highlights": [
+          "支持多种视频平台",
+          "命令行界面",
+          "丰富的功能选项"
+        ],
+        "target_users": "视频爱好者和开发者",
+        "why_trending": "因其强大的功能和广泛的平台支持，满足了大量用户需求，社区活跃度高。",
+        "getting_started": "通过pip安装后，使用帮助文档快速开始下载",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-OpenBB-finance",
+      "source": "github",
+      "full_name": "sponsors/OpenBB-finance",
+      "owner": "sponsors",
+      "name": "OpenBB-finance",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 64061,
+      "forks": 6310,
+      "today_stars": 137,
+      "hot_score": 1850.7,
+      "url": "https://github.com/sponsors/OpenBB-finance",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "OpenBB 财经平台",
+        "chinese_summary": "为分析师、量化交易员和AI代理提供金融数据平台",
+        "use_case": "用于金融数据分析、量化交易策略开发和AI金融应用",
+        "tech_highlights": [
+          "支持多种数据源接入",
+          "提供丰富的API接口",
+          "易于扩展和定制"
+        ],
+        "target_users": "金融分析师、量化交易员、AI开发者",
+        "why_trending": "得益于AI在金融领域的应用增长和开源社区的推动",
+        "getting_started": "通过官方文档快速了解项目结构和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 439206,
+      "forks": 43850,
+      "today_stars": 122,
+      "hot_score": 1784.3,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "freeCodeCamp 代码库",
+        "chinese_summary": "提供免费的数学、编程和计算机科学学习资源",
+        "use_case": "在线学习和自我提升",
+        "tech_highlights": [
+          "开源代码库",
+          "丰富的学习资源",
+          "社区驱动"
+        ],
+        "target_users": "编程初学者和自学者",
+        "why_trending": "社区活跃，内容丰富，符合当前在线学习趋势",
+        "getting_started": "访问官网，选择课程开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 340609,
+      "forks": 55100,
+      "today_stars": 118,
+      "hot_score": 1733.2,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计 primer",
+        "chinese_summary": "学习大型系统设计，准备系统设计面试，包含 Anki 闪卡。",
+        "use_case": "适用于准备系统设计面试和技术面试的开发者。",
+        "tech_highlights": [
+          "系统设计知识整理",
+          "Anki 闪卡辅助学习",
+          "实战案例分析"
+        ],
+        "target_users": "技术面试和系统设计面试准备中的开发者",
+        "why_trending": "随着云计算和分布式系统的普及，系统设计成为技术面试中的热点话题，该项目提供了系统设计的实战指导。",
+        "getting_started": "直接克隆项目并按照 README 文件中的指导开始学习。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-binhnguyennus-awesome-scalability",
+      "source": "github",
+      "full_name": "binhnguyennus/awesome-scalability",
+      "owner": "binhnguyennus",
+      "name": "awesome-scalability",
+      "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+      "language": "",
+      "category": "other",
+      "stars": 70002,
+      "forks": 6924,
+      "today_stars": 113,
+      "hot_score": 1614.5,
+      "url": "https://github.com/binhnguyennus/awesome-scalability",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "BinhNguyenNUS/优秀可扩展性模式",
+        "chinese_summary": "大型系统中可扩展、可靠和高性能的设计模式集合",
+        "use_case": "适用于构建和优化大型分布式系统",
+        "tech_highlights": [
+          "分布式系统设计模式",
+          "高性能架构",
+          "可靠性保证"
+        ],
+        "target_users": "系统架构师、开发人员、技术管理者",
+        "why_trending": "随着云计算和大数据的发展，对大型系统的需求增加，该项目提供了系统设计的最佳实践",
+        "getting_started": "阅读文档，了解各种模式及其应用场景",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-upscayl-upscayl",
+      "source": "github",
+      "full_name": "upscayl/upscayl",
+      "owner": "upscayl",
+      "name": "upscayl",
+      "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 44258,
+      "forks": 2146,
+      "today_stars": 77,
+      "hot_score": 1234.6,
+      "url": "https://github.com/upscayl/upscayl",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Upscayl",
+        "chinese_summary": "一款免费开源的AI图像放大器，支持Linux、MacOS和Windows。",
+        "use_case": "用于提升低分辨率图片的清晰度。",
+        "tech_highlights": [
+          "基于AI技术实现图像放大",
+          "跨平台兼容性",
+          "开源免费"
+        ],
+        "target_users": "需要提升图片清晰度的用户",
+        "why_trending": "利用AI技术提升图像质量，满足用户对高清图片的需求；开源社区活跃，持续更新。",
+        "getting_started": "直接下载对应系统的安装包即可快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-openai-whisper",
+      "source": "github",
+      "full_name": "openai/whisper",
+      "owner": "openai",
+      "name": "whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 96857,
+      "forks": 11943,
+      "today_stars": 72,
+      "hot_score": 1218.6,
+      "url": "https://github.com/openai/whisper",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Whisper",
+        "chinese_summary": "通过大规模弱监督实现稳健的语音识别",
+        "use_case": "适用于需要高精度语音识别的场景，如语音转文字、语音搜索等。",
+        "tech_highlights": [
+          "大规模弱监督训练",
+          "多语言支持",
+          "端到端模型"
+        ],
+        "target_users": "语音识别开发者、研究人员和需要语音识别技术的开发者",
+        "why_trending": "因其在多语言支持和高精度识别方面的突破，以及开源社区的广泛参与和贡献。",
+        "getting_started": "通过官方文档快速了解项目结构和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C#",
+      "category": "other",
+      "stars": 131128,
+      "forks": 7834,
+      "today_stars": 65,
+      "hot_score": 1161.8,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "微软PowerToys",
+        "chinese_summary": "一套增强Windows生产力和自定义的实用工具",
+        "use_case": "提高Windows系统的使用效率和个性化设置",
+        "tech_highlights": [
+          "跨平台支持",
+          "高度可定制",
+          "C#编写"
+        ],
+        "target_users": "Windows系统用户，特别是开发者和高级用户",
+        "why_trending": "因其强大的功能和高度的可定制性，满足了用户对提高工作效率的需求，同时社区活跃度高，更新频繁",
+        "getting_started": "访问GitHub页面，按照README文件中的说明开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-gitleaks-gitleaks",
+      "source": "github",
+      "full_name": "gitleaks/gitleaks",
+      "owner": "gitleaks",
+      "name": "gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "category": "backend",
+      "stars": 25671,
+      "forks": 1968,
+      "today_stars": 62,
+      "hot_score": 1060.9,
+      "url": "https://github.com/gitleaks/gitleaks",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Gitleaks",
+        "chinese_summary": "用于检测代码库中泄露的敏感信息",
+        "use_case": "主要用于代码审查和安全审计",
+        "tech_highlights": [
+          "支持多种加密格式检测",
+          "实时扫描代码库",
+          "可自定义规则"
+        ],
+        "target_users": "安全工程师、开发团队",
+        "why_trending": "随着安全意识提升，代码库安全检查成为常态，Gitleaks 作为高效工具受到欢迎",
+        "getting_started": "通过安装命令快速启动，运行 `gitleaks --help` 查看更多选项",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 66327,
+      "forks": 7308,
+      "today_stars": 56,
+      "hot_score": 1042.2,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ghidra",
+        "chinese_summary": "软件逆向工程框架，用于分析和修改软件代码。",
+        "use_case": "主要用于逆向分析恶意软件、分析未知软件和进行安全研究。",
+        "tech_highlights": [
+          "支持多种文件格式和架构",
+          "强大的反汇编和反编译功能",
+          "开源且免费"
+        ],
+        "target_users": "安全研究人员、逆向工程师和软件开发者",
+        "why_trending": "因其强大的逆向工程能力和开源特性，受到安全社区的广泛关注。",
+        "getting_started": "访问GitHub页面，下载最新版本并参考官方文档开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-usememos",
+      "source": "github",
+      "full_name": "sponsors/usememos",
+      "owner": "sponsors",
+      "name": "usememos",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 58339,
+      "forks": 4225,
+      "today_stars": 50,
+      "hot_score": 976.6,
+      "url": "https://github.com/sponsors/usememos",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "UseMemos",
+        "chinese_summary": "快速记录的开源自托管笔记工具，支持 Markdown，轻量且完全属于你。",
+        "use_case": "适用于需要快速记录和整理笔记的场景。",
+        "tech_highlights": [
+          "自托管特性",
+          "Markdown 支持",
+          "Go 语言编写"
+        ],
+        "target_users": "需要自托管笔记工具的开发者和自由职业者",
+        "why_trending": "由于其自托管特性，满足了用户对数据安全和隐私的高要求，同时 Go 语言的高效性也吸引了开发者。",
+        "getting_started": "通过文档快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-coollabsio",
+      "source": "github",
+      "full_name": "sponsors/coollabsio",
+      "owner": "sponsors",
+      "name": "coollabsio",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
+      "language": "PHP",
+      "category": "backend",
+      "stars": 52358,
+      "forks": 3934,
+      "today_stars": 48,
+      "hot_score": 951.9,
+      "url": "https://github.com/sponsors/coollabsio",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "CoolLabs",
+        "chinese_summary": "一个开源的、可自我托管的 PaaS 平台，替代 Vercel、Heroku 和 Netlify，轻松部署静态站点、数据库、全栈应用和 280+ 一键服务。",
+        "use_case": "适用于需要在自托管服务器上部署应用的开发者和团队。",
+        "tech_highlights": [
+          "支持多种部署类型",
+          "丰富的预置服务",
+          "可自我托管"
+        ],
+        "target_users": "需要自托管部署服务的开发者和团队",
+        "why_trending": "随着对数据安全和控制需求的增加，越来越多的开发者倾向于自托管解决方案，CoolLabs 满足了这一需求。",
+        "getting_started": "通过官方文档快速开始部署服务",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-neovim",
+      "source": "github",
+      "full_name": "sponsors/neovim",
+      "owner": "sponsors",
+      "name": "neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "category": "other",
+      "stars": 97605,
+      "forks": 6685,
+      "today_stars": 45,
+      "hot_score": 948.9,
+      "url": "https://github.com/sponsors/neovim",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Neovim",
+        "chinese_summary": "一个专注于可扩展性和易用性的 Vim 改良版本",
+        "use_case": "适用于需要高度定制化文本编辑功能的开发者",
+        "tech_highlights": [
+          "支持 Lua 脚本",
+          "丰富的插件生态系统",
+          "跨平台兼容性"
+        ],
+        "target_users": "追求高效编程体验的开发者",
+        "why_trending": "得益于强大的插件支持和持续的技术创新，吸引了大量开发者社区的关注",
+        "getting_started": "通过安装 Neovim 并配置插件来快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-9001",
+      "source": "github",
+      "full_name": "sponsors/9001",
+      "owner": "sponsors",
+      "name": "9001",
+      "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 43876,
+      "forks": 1791,
+      "today_stars": 48,
+      "hot_score": 944.2,
+      "url": "https://github.com/sponsors/9001",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "9001 文件服务器",
+        "chinese_summary": "集成了加速断点续传、去重、WebDAV、SFTP、FTP、TFTP、零配置、媒体索引等功能的一体化文件服务器",
+        "use_case": "适用于需要高效文件传输和管理的场景，如企业内部文件共享、个人云存储等。",
+        "tech_highlights": [
+          "支持多种协议",
+          "断点续传",
+          "去重存储",
+          "零配置部署",
+          "媒体索引"
+        ],
+        "target_users": "需要高效文件传输和管理的企业和个人用户",
+        "why_trending": "由于其多功能性和易用性，满足了用户对一体化文件管理解决方案的需求，因此受到欢迎。",
+        "getting_started": "通过安装和配置即可快速开始使用，文档详细易懂。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-supabase",
+      "source": "github",
+      "full_name": "sponsors/supabase",
+      "owner": "sponsors",
+      "name": "supabase",
+      "description": "Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 1895,
+      "forks": 398,
+      "today_stars": 54,
+      "hot_score": 867.8,
+      "url": "https://github.com/sponsors/supabase",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Supabase CLI",
+        "chinese_summary": "Supabase CLI 管理 Postgres 迁移、本地运行 Supabase、部署边缘函数等。",
+        "use_case": "适用于需要管理 Postgres 数据库迁移、本地开发和部署 Supabase 项目的开发者。",
+        "tech_highlights": [
+          "支持 Postgres 迁移管理",
+          "本地运行和部署 Supabase",
+          "边缘函数部署"
+        ],
+        "target_users": "Postgres 数据库管理和 Supabase 开发者",
+        "why_trending": "随着云原生和边缘计算的发展，Supabase CLI 提供了便捷的本地开发和部署工具，受到开发者欢迎。",
+        "getting_started": "通过官方文档快速了解 Supabase CLI 的基本用法和功能。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-AUTOMATIC1111-stable-diffusion-webui",
+      "source": "github",
+      "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+      "owner": "AUTOMATIC1111",
+      "name": "stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 162015,
+      "forks": 30212,
+      "today_stars": 34,
+      "hot_score": 861.0,
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "稳定扩散Web界面",
+        "chinese_summary": "提供Stable Diffusion模型的Web界面，便于用户生成图像",
+        "use_case": "适用于需要通过Web界面使用Stable Diffusion模型生成图像的用户",
+        "tech_highlights": [
+          "基于Python开发",
+          "提供Web界面",
+          "支持Stable Diffusion模型"
+        ],
+        "target_users": "图像生成爱好者和专业用户",
+        "why_trending": "得益于Stable Diffusion模型的突破性进展和易于使用的Web界面，吸引了大量用户",
+        "getting_started": "通过GitHub页面快速安装和启动",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-junegunn",
+      "source": "github",
+      "full_name": "sponsors/junegunn",
+      "owner": "sponsors",
+      "name": "junegunn",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "category": "backend",
+      "stars": 79108,
+      "forks": 2741,
+      "today_stars": 37,
+      "hot_score": 859.8,
+      "url": "https://github.com/sponsors/junegunn",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "junegunn 命令行模糊查找工具",
+        "chinese_summary": "一个命令行模糊查找工具，帮助用户快速定位文件和目录",
+        "use_case": "主要用于在命令行环境中快速查找文件和目录，提高工作效率",
+        "tech_highlights": [
+          "使用 Go 语言开发",
+          "支持模糊查找",
+          "命令行界面友好"
+        ],
+        "target_users": "需要在命令行环境中频繁查找文件和目录的开发者",
+        "why_trending": "得益于其高效性和简洁性，受到开发者欢迎，社区活跃",
+        "getting_started": "通过安装 Go 环境并运行相关命令即可快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-chroma-core-chroma",
+      "source": "github",
+      "full_name": "chroma-core/chroma",
+      "owner": "chroma-core",
+      "name": "chroma",
+      "description": "Data infrastructure for AI",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 27025,
+      "forks": 2158,
+      "today_stars": 40,
+      "hot_score": 843.2,
+      "url": "https://github.com/chroma-core/chroma",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Chroma 核心",
+        "chinese_summary": "用于AI的数据基础设施",
+        "use_case": "用于构建大规模向量数据库和检索系统",
+        "tech_highlights": [
+          "高性能的向量相似度计算",
+          "支持多种数据存储方式",
+          "灵活的查询与索引机制"
+        ],
+        "target_users": "数据科学家、工程师和AI系统开发者",
+        "why_trending": "得益于AI技术的发展和对大规模数据处理需求的增加，Chroma因其高效性和灵活性而受到关注",
+        "getting_started": "通过官方文档快速了解基本概念和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
