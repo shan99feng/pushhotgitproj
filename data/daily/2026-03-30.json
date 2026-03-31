@@ -1,0 +1,614 @@
+{
+  "date": "2026-03-30",
+  "since": "daily",
+  "generated_at": "2026-03-31T02:31:57.177178+00:00",
+  "total": 20,
+  "category_counts": {
+    "ai_ml": 7,
+    "other": 4,
+    "frontend": 4,
+    "systems": 2,
+    "backend": 2,
+    "mobile": 1
+  },
+  "repos": [
+    {
+      "repo_id": "github-Z4nzu-hackingtool",
+      "source": "github",
+      "full_name": "Z4nzu/hackingtool",
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 56891,
+      "forks": 6240,
+      "today_stars": 862,
+      "hot_score": 9095.5,
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hackingtool",
+        "chinese_summary": "一站式黑客工具集，涵盖多种黑客攻击手段",
+        "use_case": "适用于黑客学习、安全测试和漏洞挖掘",
+        "tech_highlights": [
+          "集成多种黑客工具",
+          "Python 编写，易于扩展",
+          "模块化设计，方便定制"
+        ],
+        "target_users": "黑客、安全研究人员和网络安全测试人员",
+        "why_trending": "随着网络安全威胁的增加，黑客工具的需求上升；开源社区活跃，贡献者众多",
+        "getting_started": "安装依赖后，通过命令行运行相应模块快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-OpenBB-finance",
+      "source": "github",
+      "full_name": "sponsors/OpenBB-finance",
+      "owner": "sponsors",
+      "name": "OpenBB-finance",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 64572,
+      "forks": 6350,
+      "today_stars": 502,
+      "hot_score": 5501.0,
+      "url": "https://github.com/sponsors/OpenBB-finance",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "OpenBB 财经平台",
+        "chinese_summary": "为分析师、量化交易员和AI代理提供金融数据平台。",
+        "use_case": "用于金融数据分析、量化交易策略开发和AI模型训练。",
+        "tech_highlights": [
+          "支持多种金融数据源",
+          "提供丰富的API接口",
+          "易于扩展和定制"
+        ],
+        "target_users": "金融分析师、量化交易员、数据科学家",
+        "why_trending": "得益于对金融数据的全面支持和易用性，吸引了大量开发者和金融机构的兴趣。",
+        "getting_started": "通过官方文档快速了解项目结构和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-codecrafters-io-build-your-own-x",
+      "source": "github",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "category": "other",
+      "stars": 484857,
+      "forks": 45611,
+      "today_stars": 486,
+      "hot_score": 5428.6,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "从零构建你喜爱的技术",
+        "chinese_summary": "通过重新构建你喜爱的技术来学习编程",
+        "use_case": "个人学习编程、技术爱好者、初学者",
+        "tech_highlights": [
+          "从零开始构建技术",
+          "学习底层实现原理",
+          "实践项目实战经验"
+        ],
+        "target_users": "编程初学者和技术爱好者",
+        "why_trending": "顺应自学编程趋势，提供实践机会，增强技术理解",
+        "getting_started": "阅读项目文档，选择感兴趣的项目开始实践",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 439770,
+      "forks": 43900,
+      "today_stars": 368,
+      "hot_score": 4244.3,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "freeCodeCamp开源代码库",
+        "chinese_summary": "提供免费的数学、编程和计算机科学学习资源",
+        "use_case": "在线学习、开源贡献",
+        "tech_highlights": [
+          "使用TypeScript开发",
+          "开放源代码",
+          "丰富的学习资源"
+        ],
+        "target_users": "编程初学者和技术爱好者",
+        "why_trending": "符合开源和在线学习的流行趋势，社区活跃",
+        "getting_started": "访问官网，选择学习路径开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-fastfetch-cli-fastfetch",
+      "source": "github",
+      "full_name": "fastfetch-cli/fastfetch",
+      "owner": "fastfetch-cli",
+      "name": "fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "category": "systems",
+      "stars": 21431,
+      "forks": 726,
+      "today_stars": 276,
+      "hot_score": 3193.1,
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "fastfetch-cli",
+        "chinese_summary": "一个维护良好、功能丰富且性能导向的系统信息工具，类似 neofetch。",
+        "use_case": "用于系统信息的快速展示，适用于开发者和系统管理员。",
+        "tech_highlights": [
+          "C 语言编写，性能优秀",
+          "功能丰富，可自定义输出",
+          "维护良好，社区活跃"
+        ],
+        "target_users": "开发者和系统管理员",
+        "why_trending": "由于其高性能和丰富的功能，以及社区的持续维护和更新，吸引了大量用户。",
+        "getting_started": "通过安装命令快速开始使用，文档详细易懂。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-n8n-io-n8n",
+      "source": "github",
+      "full_name": "n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 181778,
+      "forks": 56326,
+      "today_stars": 181,
+      "hot_score": 2336.0,
+      "url": "https://github.com/n8n-io/n8n",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "n8n",
+        "chinese_summary": "一个具备AI能力的工作流自动化平台，结合可视化构建与自定义代码，支持自托管或云服务。",
+        "use_case": "适用于需要自动化流程的企业和个人。",
+        "tech_highlights": [
+          "支持400+集成",
+          "内置AI功能",
+          "支持自定义代码"
+        ],
+        "target_users": "需要自动化工作流的企业和个人开发者",
+        "why_trending": "由于其强大的集成能力和易于使用的特性，受到开发者社区的广泛关注。",
+        "getting_started": "通过官网文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-yt-dlp-yt-dlp",
+      "source": "github",
+      "full_name": "yt-dlp/yt-dlp",
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 154018,
+      "forks": 12510,
+      "today_stars": 172,
+      "hot_score": 2238.8,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yt-dlp/yt-dlp",
+        "chinese_summary": "一个功能丰富的命令行音频/视频下载工具",
+        "use_case": "主要用于从各种网站下载音频和视频文件",
+        "tech_highlights": [
+          "支持多种视频网站",
+          "命令行界面",
+          "丰富的功能选项"
+        ],
+        "target_users": "视频和音频下载爱好者",
+        "why_trending": "因其强大的功能和广泛的兼容性，满足了大量用户的需求，社区活跃度高",
+        "getting_started": "通过pip安装后，使用简单的命令即可开始下载",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-lukasz-madon-awesome-remote-job",
+      "source": "github",
+      "full_name": "lukasz-madon/awesome-remote-job",
+      "owner": "lukasz-madon",
+      "name": "awesome-remote-job",
+      "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
+      "language": "",
+      "category": "other",
+      "stars": 44485,
+      "forks": 4529,
+      "today_stars": 157,
+      "hot_score": 2034.8,
+      "url": "https://github.com/lukasz-madon/awesome-remote-job",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "超赞远程工作",
+        "chinese_summary": "一个精选的远程工作和资源列表",
+        "use_case": "为寻找远程工作的求职者和提供远程职位的雇主提供资源",
+        "tech_highlights": [
+          "开源项目",
+          "持续更新",
+          "社区贡献"
+        ],
+        "target_users": "求职者、雇主、自由职业者",
+        "why_trending": "随着远程工作的普及和技术的发展，该列表成为寻找和提供远程工作的宝贵资源",
+        "getting_started": "直接浏览或贡献资源以丰富列表",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-neovim",
+      "source": "github",
+      "full_name": "sponsors/neovim",
+      "owner": "sponsors",
+      "name": "neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "category": "other",
+      "stars": 97701,
+      "forks": 6694,
+      "today_stars": 147,
+      "hot_score": 1969.0,
+      "url": "https://github.com/sponsors/neovim",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Neovim",
+        "chinese_summary": "专注于可扩展性和易用性的 Vim 改进版本",
+        "use_case": "适用于需要强大文本编辑功能和高度自定义的开发环境",
+        "tech_highlights": [
+          "支持多种编程语言",
+          "丰富的插件生态系统",
+          "高性能"
+        ],
+        "target_users": "高级开发者和需要高度定制化编辑器的用户",
+        "why_trending": "因其强大的功能和高度的可定制性，受到开发者社区的广泛欢迎",
+        "getting_started": "通过安装 Neovim 并配置插件开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 340731,
+      "forks": 55124,
+      "today_stars": 135,
+      "hot_score": 1903.2,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计入门",
+        "chinese_summary": "学习如何设计大型系统，为系统设计面试做准备，包含Anki闪卡。",
+        "use_case": "适用于准备系统设计面试和技术面试的开发者。",
+        "tech_highlights": [
+          "包含Anki闪卡辅助学习",
+          "涵盖多种系统设计场景"
+        ],
+        "target_users": "系统设计面试准备中的开发者",
+        "why_trending": "随着云计算和分布式系统的发展，系统设计成为技术面试的重要环节，该项目提供了系统化的学习资源。",
+        "getting_started": "直接访问GitHub页面，按照README中的指导开始学习。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-calcom-cal.com",
+      "source": "github",
+      "full_name": "calcom/cal.com",
+      "owner": "calcom",
+      "name": "cal.com",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 40853,
+      "forks": 12378,
+      "today_stars": 82,
+      "hot_score": 1281.1,
+      "url": "https://github.com/calcom/cal.com",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Cal.com",
+        "chinese_summary": "为所有人提供日程安排的基础架构",
+        "use_case": "适用于企业、团队和个人的日程管理",
+        "tech_highlights": [
+          "使用 TypeScript 编写",
+          "开放的社区贡献机制",
+          "丰富的功能模块"
+        ],
+        "target_users": "企业、团队和个人用户",
+        "why_trending": "得益于其强大的日程管理功能和社区的广泛支持，满足了用户多样化的日程需求",
+        "getting_started": "通过官方文档快速了解项目结构并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-usememos",
+      "source": "github",
+      "full_name": "sponsors/usememos",
+      "owner": "sponsors",
+      "name": "usememos",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 58398,
+      "forks": 4230,
+      "today_stars": 70,
+      "hot_score": 1176.6,
+      "url": "https://github.com/sponsors/usememos",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "UseMemos",
+        "chinese_summary": "快速笔记工具，支持 Markdown，自托管，轻量级。",
+        "use_case": "适用于需要快速记录和整理笔记的个人和团队。",
+        "tech_highlights": [
+          "自托管",
+          "Markdown 支持",
+          "Go 语言开发"
+        ],
+        "target_users": "需要自托管笔记工具的个人和团队",
+        "why_trending": "自托管特性满足用户对隐私和控制的需求，Markdown 支持提升了用户体验。",
+        "getting_started": "通过文档快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-jaywcjlove",
+      "source": "github",
+      "full_name": "sponsors/jaywcjlove",
+      "owner": "sponsors",
+      "name": "jaywcjlove",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "language": "Swift",
+      "category": "mobile",
+      "stars": 101109,
+      "forks": 7550,
+      "today_stars": 59,
+      "hot_score": 1090.5,
+      "url": "https://github.com/sponsors/jaywcjlove",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "macOS 软件库",
+        "chinese_summary": "一个收集和分类 macOS 软件的项目，便于搜索和使用。",
+        "use_case": "为 macOS 用户提供便捷的软件查找和分类服务。",
+        "tech_highlights": [
+          "Swift 编程语言",
+          "系统化分类",
+          "高质量软件收集"
+        ],
+        "target_users": "macOS 用户",
+        "why_trending": "随着 macOS 用户对软件管理需求的增加，该项目提供了便捷的解决方案，受到用户欢迎。",
+        "getting_started": "直接访问项目页面，浏览和下载所需的 macOS 软件。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-binhnguyennus-awesome-scalability",
+      "source": "github",
+      "full_name": "binhnguyennus/awesome-scalability",
+      "owner": "binhnguyennus",
+      "name": "awesome-scalability",
+      "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+      "language": "",
+      "category": "other",
+      "stars": 70032,
+      "forks": 6923,
+      "today_stars": 60,
+      "hot_score": 1084.5,
+      "url": "https://github.com/binhnguyennus/awesome-scalability",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "BinhNguyenNUS/awesome-scalability",
+        "chinese_summary": "大型系统可扩展性、可靠性和高性能的设计模式集合",
+        "use_case": "适用于构建和优化大规模分布式系统",
+        "tech_highlights": [
+          "全面覆盖可扩展性模式",
+          "注重系统可靠性和性能",
+          "提供多种技术实现方案"
+        ],
+        "target_users": "系统架构师、开发人员、技术管理者",
+        "why_trending": "随着云计算和分布式系统的普及，可扩展性成为关键议题，该项目汇集了大量实用模式，受到广泛关注",
+        "getting_started": "通过阅读文档和案例研究快速了解可扩展性设计模式",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-qlib",
+      "source": "github",
+      "full_name": "microsoft/qlib",
+      "owner": "microsoft",
+      "name": "qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 39545,
+      "forks": 6185,
+      "today_stars": 59,
+      "hot_score": 1049.7,
+      "url": "https://github.com/microsoft/qlib",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "QLib",
+        "chinese_summary": "一个基于AI的量化投资平台，支持多种机器学习模型。",
+        "use_case": "用于量化研究和投资策略的开发。",
+        "tech_highlights": [
+          "支持多种机器学习模型",
+          "集成市场动态建模",
+          "支持强化学习"
+        ],
+        "target_users": "量化分析师和研究人员",
+        "why_trending": "结合AI技术提升量化投资效率，符合当前AI在金融领域的应用趋势。",
+        "getting_started": "通过官方文档快速了解并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 66370,
+      "forks": 7312,
+      "today_stars": 56,
+      "hot_score": 1042.2,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ghidra",
+        "chinese_summary": "Ghidra 是一个软件逆向工程框架",
+        "use_case": "主要用于分析和逆向工程二进制代码，帮助理解软件内部结构。",
+        "tech_highlights": [
+          "支持多种架构和操作系统",
+          "强大的反汇编和反编译功能",
+          "模块化设计便于扩展"
+        ],
+        "target_users": "软件安全专家、逆向工程师和研究人员",
+        "why_trending": "随着软件安全威胁的增加，逆向工程的需求上升，Ghidra 提供了强大的工具支持。",
+        "getting_started": "建议从官方文档开始学习，了解基本操作和常用功能",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-huggingface-transformers",
+      "source": "github",
+      "full_name": "huggingface/transformers",
+      "owner": "huggingface",
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 158566,
+      "forks": 32689,
+      "today_stars": 50,
+      "hot_score": 1020.0,
+      "url": "https://github.com/huggingface/transformers",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hugging Face Transformers",
+        "chinese_summary": "用于文本、视觉、音频和多模态模型的先进机器学习模型框架",
+        "use_case": "适用于模型的训练和推理",
+        "tech_highlights": [
+          "支持多种模型架构",
+          "易于扩展和集成",
+          "提供丰富的预训练模型"
+        ],
+        "target_users": "机器学习工程师、数据科学家、研究者",
+        "why_trending": "因其强大的功能和广泛的社区支持，成为机器学习领域的热门项目",
+        "getting_started": "通过安装库和使用示例代码快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-ajeetdsouza",
+      "source": "github",
+      "full_name": "sponsors/ajeetdsouza",
+      "owner": "sponsors",
+      "name": "ajeetdsouza",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 35078,
+      "forks": 759,
+      "today_stars": 56,
+      "hot_score": 1014.5,
+      "url": "https://github.com/sponsors/ajeetdsouza",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "更智能的cd命令",
+        "chinese_summary": "支持多种主流Shell的智能cd命令",
+        "use_case": "在多种Shell环境中快速切换目录",
+        "tech_highlights": [
+          "跨Shell兼容性",
+          "智能目录建议"
+        ],
+        "target_users": "Shell脚本开发者和系统管理员",
+        "why_trending": "得益于Rust语言的性能和安全性，以及对现代开发环境的支持",
+        "getting_started": "通过Cargo安装并配置到PATH中",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-apache-superset",
+      "source": "github",
+      "full_name": "apache/superset",
+      "owner": "apache",
+      "name": "superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 71967,
+      "forks": 16939,
+      "today_stars": 49,
+      "hot_score": 975.7,
+      "url": "https://github.com/apache/superset",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Apache Superset",
+        "chinese_summary": "一个数据可视化和数据探索平台，帮助用户快速分析和展示数据。",
+        "use_case": "适用于数据分析团队、数据科学家和业务分析师进行数据探索和可视化。",
+        "tech_highlights": [
+          "支持多种数据源",
+          "丰富的可视化图表",
+          "灵活的数据探索功能"
+        ],
+        "target_users": "数据分析师、数据科学家、业务分析师",
+        "why_trending": "随着大数据和数据可视化需求的增长，Superset因其易用性和功能丰富性受到欢迎。",
+        "getting_started": "访问官方文档，快速搭建并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-khoj-ai",
+      "source": "github",
+      "full_name": "sponsors/khoj-ai",
+      "owner": "sponsors",
+      "name": "khoj-ai",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 33724,
+      "forks": 2093,
+      "today_stars": 48,
+      "hot_score": 932.8,
+      "url": "https://github.com/sponsors/khoj-ai",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Khoj-AI",
+        "chinese_summary": "个人自主AI，从网络或文档中获取答案，构建自定义代理，自动化任务。",
+        "use_case": "用于个人研究、自动化任务和信息检索。",
+        "tech_highlights": [
+          "支持多种LLM模型",
+          "自托管",
+          "高度可定制"
+        ],
+        "target_users": "技术爱好者、研究人员、开发者",
+        "why_trending": "结合AI趋势和自托管理念，提供灵活的AI解决方案，满足个性化需求。",
+        "getting_started": "访问GitHub页面，按照README快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
