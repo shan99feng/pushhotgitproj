@@ -1,0 +1,614 @@
+{
+  "date": "2026-04-02",
+  "since": "daily",
+  "generated_at": "2026-04-03T02:29:42.623357+00:00",
+  "total": 20,
+  "category_counts": {
+    "frontend": 8,
+    "ai_ml": 4,
+    "systems": 5,
+    "other": 1,
+    "backend": 2
+  },
+  "repos": [
+    {
+      "repo_id": "github-sponsors-f",
+      "source": "github",
+      "full_name": "sponsors/f",
+      "owner": "sponsors",
+      "name": "f",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "category": "frontend",
+      "stars": 156754,
+      "forks": 20566,
+      "today_stars": 1024,
+      "hot_score": 10759.5,
+      "url": "https://github.com/sponsors/f",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Awesome ChatGPT 提示",
+        "chinese_summary": "分享、发现和收集社区提示，支持自托管以保护隐私。",
+        "use_case": "适用于需要自定义 ChatGPT 对话提示的组织和个人。",
+        "tech_highlights": [
+          "开源免费",
+          "支持自托管",
+          "社区贡献内容"
+        ],
+        "target_users": "需要自定义 ChatGPT 对话提示的组织和个人",
+        "why_trending": "由于支持自托管和保护用户隐私，以及社区贡献的内容丰富，吸引了大量用户。",
+        "getting_started": "直接访问项目页面，开始探索和使用提示",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-vadimdemedes-ink",
+      "source": "github",
+      "full_name": "vadimdemedes/ink",
+      "owner": "vadimdemedes",
+      "name": "ink",
+      "description": "🌈 React for interactive command-line apps",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 36974,
+      "forks": 928,
+      "today_stars": 305,
+      "hot_score": 3506.8,
+      "url": "https://github.com/vadimdemedes/ink",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ink",
+        "chinese_summary": "React 库，用于构建交互式命令行应用",
+        "use_case": "适用于需要丰富交互体验的命令行应用开发",
+        "tech_highlights": [
+          "基于 React 的组件化开发",
+          "丰富的交互功能",
+          "TypeScript 编写"
+        ],
+        "target_users": "命令行应用开发者",
+        "why_trending": "结合了现代前端开发技术和命令行应用的需求，满足了开发者对交互体验的追求",
+        "getting_started": "通过官方文档快速了解 Ink 的基本用法和组件",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-qlib",
+      "source": "github",
+      "full_name": "microsoft/qlib",
+      "owner": "microsoft",
+      "name": "qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 40070,
+      "forks": 6268,
+      "today_stars": 243,
+      "hot_score": 2890.3,
+      "url": "https://github.com/microsoft/qlib",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "QLib",
+        "chinese_summary": "一个基于AI的量化投资平台，支持多种机器学习模型。",
+        "use_case": "用于量化研究和投资策略的开发。",
+        "tech_highlights": [
+          "支持多种机器学习模型",
+          "集成市场动态建模",
+          "支持强化学习"
+        ],
+        "target_users": "量化分析师、数据科学家和AI工程师",
+        "why_trending": "结合AI技术提升量化投资效率，符合当前AI在金融领域的应用趋势。",
+        "getting_started": "通过官方文档快速了解并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-Z4nzu-hackingtool",
+      "source": "github",
+      "full_name": "Z4nzu/hackingtool",
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 57571,
+      "forks": 6392,
+      "today_stars": 224,
+      "hot_score": 2716.0,
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "HackingTool",
+        "chinese_summary": "一站式黑客工具集，涵盖多种攻击和防御技术",
+        "use_case": "适用于黑客、安全研究人员进行漏洞扫描、渗透测试等",
+        "tech_highlights": [
+          "集成多种黑客工具",
+          "Python 编写，易于扩展",
+          "命令行界面，操作简便"
+        ],
+        "target_users": "黑客、安全研究人员、渗透测试人员",
+        "why_trending": "随着网络安全威胁的增加，自动化黑客工具受到关注；开源社区活跃，贡献者众多",
+        "getting_started": "安装依赖后，通过命令行运行相应模块快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-axios",
+      "source": "github",
+      "full_name": "sponsors/axios",
+      "owner": "sponsors",
+      "name": "axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 109003,
+      "forks": 11594,
+      "today_stars": 215,
+      "hot_score": 2653.7,
+      "url": "https://github.com/sponsors/axios",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "axios",
+        "chinese_summary": "基于 Promise 的浏览器和 Node.js HTTP 客户端",
+        "use_case": "用于构建高效的网络请求",
+        "tech_highlights": [
+          "基于 Promise 的异步处理",
+          "支持拦截器",
+          "支持取消请求"
+        ],
+        "target_users": "前端开发者和 Node.js 开发者",
+        "why_trending": "因其简洁易用且功能强大，符合现代前端开发需求，社区活跃",
+        "getting_started": "通过 npm 安装并快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 85497,
+      "forks": 5405,
+      "today_stars": 76,
+      "hot_score": 1253.2,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "Playwright 是一个用于 Web 测试和自动化框架，支持使用单一 API 测试 Chromium、Firefox 和 WebKit。",
+        "use_case": "主要用于 Web 应用的自动化测试，支持多种浏览器。",
+        "tech_highlights": [
+          "支持多种浏览器的单一 API",
+          "内置网络模拟和日志记录功能",
+          "支持 Node.js 和 TypeScript"
+        ],
+        "target_users": "Web 测试工程师和自动化测试开发者",
+        "why_trending": "因其强大的跨浏览器测试能力和简洁的 API 设计，受到开发者欢迎。",
+        "getting_started": "通过 npm 安装并快速开始编写测试脚本",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-oven-sh-bun",
+      "source": "github",
+      "full_name": "oven-sh/bun",
+      "owner": "oven-sh",
+      "name": "bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Zig",
+      "category": "systems",
+      "stars": 88700,
+      "forks": 4260,
+      "today_stars": 65,
+      "hot_score": 1144.8,
+      "url": "https://github.com/oven-sh/bun",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Bun",
+        "chinese_summary": "一款快速的 JavaScript 运行时、打包工具、测试运行器和包管理器",
+        "use_case": "适用于需要高性能的 Web 开发和 Node.js 应用",
+        "tech_highlights": [
+          "使用 Zig 编译器提高性能",
+          "支持现代 JavaScript 和 TypeScript",
+          "内置测试和包管理功能"
+        ],
+        "target_users": "Web 开发者、Node.js 开发者",
+        "why_trending": "因其卓越的性能和简洁的命令行界面受到开发者关注，同时支持现代 JavaScript 特性",
+        "getting_started": "通过 `curl -fsSL https://bun.sh/install | bash` 安装并使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-jellyfin-jellyfin",
+      "source": "github",
+      "full_name": "jellyfin/jellyfin",
+      "owner": "jellyfin",
+      "name": "jellyfin",
+      "description": "The Free Software Media System - Server Backend &amp; API",
+      "language": "C#",
+      "category": "other",
+      "stars": 49921,
+      "forks": 4607,
+      "today_stars": 63,
+      "hot_score": 1099.8,
+      "url": "https://github.com/jellyfin/jellyfin",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Jellyfin",
+        "chinese_summary": "免费的媒体系统，提供服务器后端及API",
+        "use_case": "用于家庭媒体服务器，支持多种媒体格式播放和管理。",
+        "tech_highlights": [
+          "支持多种媒体格式",
+          "跨平台兼容性",
+          "开源免费"
+        ],
+        "target_users": "家庭用户、媒体爱好者",
+        "why_trending": "因其实用性和开源特性受到欢迎，社区活跃度高。",
+        "getting_started": "访问官网文档，快速搭建个人媒体服务器",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ranaroussi-yfinance",
+      "source": "github",
+      "full_name": "ranaroussi/yfinance",
+      "owner": "ranaroussi",
+      "name": "yfinance",
+      "description": "Download market data from Yahoo! Finance's API",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 22552,
+      "forks": 3130,
+      "today_stars": 39,
+      "hot_score": 825.3,
+      "url": "https://github.com/ranaroussi/yfinance",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yfinance",
+        "chinese_summary": "从雅虎财经API下载市场数据",
+        "use_case": "用于金融数据分析、量化交易和市场研究",
+        "tech_highlights": [
+          "支持多种市场数据下载",
+          "易于集成到Python项目中",
+          "提供丰富的API接口"
+        ],
+        "target_users": "金融分析师、量化交易员、数据科学家",
+        "why_trending": "得益于Python生态系统的强大支持和金融数据需求的增长",
+        "getting_started": "安装后直接导入使用，简单易上手",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-qdrant",
+      "source": "github",
+      "full_name": "sponsors/qdrant",
+      "owner": "sponsors",
+      "name": "qdrant",
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 29998,
+      "forks": 2149,
+      "today_stars": 33,
+      "hot_score": 777.7,
+      "url": "https://github.com/sponsors/qdrant",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Qdrant",
+        "chinese_summary": "高性能大规模向量数据库和搜索引擎，支持下一代AI应用",
+        "use_case": "适用于需要高效处理大规模向量数据的场景，如推荐系统、搜索引擎等。",
+        "tech_highlights": [
+          "支持大规模向量数据存储与检索",
+          "高性能搜索能力",
+          "易于扩展的分布式架构"
+        ],
+        "target_users": "AI开发者、数据科学家、系统架构师",
+        "why_trending": "得益于对大规模向量数据处理的优化，契合当前AI技术的发展趋势，社区活跃度高。",
+        "getting_started": "通过官方文档快速了解项目结构和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-khoj-ai",
+      "source": "github",
+      "full_name": "sponsors/khoj-ai",
+      "owner": "sponsors",
+      "name": "khoj-ai",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 33827,
+      "forks": 2106,
+      "today_stars": 32,
+      "hot_score": 772.9,
+      "url": "https://github.com/sponsors/khoj-ai",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Khoj-AI",
+        "chinese_summary": "个人自主AI，从网络或文档中获取答案，构建自定义代理，执行自动化任务。",
+        "use_case": "适用于需要个性化AI助手进行信息检索、自动化任务调度和深度研究的用户。",
+        "tech_highlights": [
+          "支持多种LLM模型",
+          "自托管能力",
+          "高度可定制"
+        ],
+        "target_users": "需要自主AI助手进行信息检索和自动化任务的个人和团队",
+        "why_trending": "结合了AI和自托管的趋势，满足用户对隐私和定制化的需求，同时支持多种LLM模型。",
+        "getting_started": "访问GitHub页面，按照README快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-meilisearch-meilisearch",
+      "source": "github",
+      "full_name": "meilisearch/meilisearch",
+      "owner": "meilisearch",
+      "name": "meilisearch",
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 56922,
+      "forks": 2482,
+      "today_stars": 25,
+      "hot_score": 725.5,
+      "url": "https://github.com/meilisearch/meilisearch",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "MeiliSearch",
+        "chinese_summary": "一个快速的搜索引擎 API，提供 AI 动力的混合搜索。",
+        "use_case": "适用于网站和应用程序的搜索功能优化。",
+        "tech_highlights": [
+          "使用 Rust 语言开发",
+          "支持 AI 动力的混合搜索",
+          "高性能"
+        ],
+        "target_users": "需要优化搜索功能的开发者和团队",
+        "why_trending": "得益于其高性能和 AI 功能，吸引了大量开发者关注，社区活跃。",
+        "getting_started": "访问官方文档，快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-appsmithorg-appsmith",
+      "source": "github",
+      "full_name": "appsmithorg/appsmith",
+      "owner": "appsmithorg",
+      "name": "appsmith",
+      "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 39502,
+      "forks": 4515,
+      "today_stars": 21,
+      "hot_score": 669.7,
+      "url": "https://github.com/appsmithorg/appsmith",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Appsmith",
+        "chinese_summary": "构建管理面板、内部工具和仪表板的平台，支持25+数据库和任何API。",
+        "use_case": "适用于需要快速构建复杂前端界面的应用场景。",
+        "tech_highlights": [
+          "低代码开发",
+          "多数据库集成",
+          "API 支持"
+        ],
+        "target_users": "需要快速构建前端应用的开发者和团队",
+        "why_trending": "低代码开发趋势推动，社区活跃度高",
+        "getting_started": "访问官方文档，快速开始构建项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-supabase",
+      "source": "github",
+      "full_name": "sponsors/supabase",
+      "owner": "sponsors",
+      "name": "supabase",
+      "description": "Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 2017,
+      "forks": 408,
+      "today_stars": 32,
+      "hot_score": 650.5,
+      "url": "https://github.com/sponsors/supabase",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Supabase 命令行工具",
+        "chinese_summary": "管理 PostgreSQL 迁移、本地运行 Supabase、部署边缘函数等",
+        "use_case": "适用于需要管理 Supabase 和 PostgreSQL 数据库的开发者",
+        "tech_highlights": [
+          "支持 PostgreSQL 迁移管理",
+          "本地运行和部署功能",
+          "生成数据库类型"
+        ],
+        "target_users": "数据库管理员和前端开发者",
+        "why_trending": "结合了数据库管理和边缘计算的优势，符合现代全栈开发的需求",
+        "getting_started": "通过官方文档快速了解基本命令和操作",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-authelia-authelia",
+      "source": "github",
+      "full_name": "authelia/authelia",
+      "owner": "authelia",
+      "name": "authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+      "language": "Go",
+      "category": "backend",
+      "stars": 27396,
+      "forks": 1369,
+      "today_stars": 18,
+      "hot_score": 623.8,
+      "url": "https://github.com/authelia/authelia",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Authelia",
+        "chinese_summary": "一个用于Web应用的单点登录多因素认证门户",
+        "use_case": "适用于需要安全认证的Web应用",
+        "tech_highlights": [
+          "支持多种认证方式",
+          "OpenID认证",
+          "易于扩展"
+        ],
+        "target_users": "需要增强Web应用认证安全性的开发者和管理员",
+        "why_trending": "因其强大的安全性和易用性，满足了现代Web应用对认证安全的需求",
+        "getting_started": "通过官方文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-type-challenges-type-challenges",
+      "source": "github",
+      "full_name": "type-challenges/type-challenges",
+      "owner": "type-challenges",
+      "name": "type-challenges",
+      "description": "Collection of TypeScript type challenges with online judge",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 47910,
+      "forks": 5238,
+      "today_stars": 15,
+      "hot_score": 618.0,
+      "url": "https://github.com/type-challenges/type-challenges",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "类型挑战",
+        "chinese_summary": "TypeScript 类型挑战集合，附带在线评测系统",
+        "use_case": "用于提升 TypeScript 类型系统的理解和实践能力",
+        "tech_highlights": [
+          "TypeScript 类型挑战",
+          "在线评测系统",
+          "社区贡献"
+        ],
+        "target_users": "TypeScript 开发者和技术爱好者",
+        "why_trending": "随着 TypeScript 在企业中的普及，开发者对提升类型系统理解的需求增加，该项目提供了丰富的练习资源，因此受到欢迎",
+        "getting_started": "直接访问 GitHub 仓库，按照 README 指引开始挑战",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-koodo-reader-koodo-reader",
+      "source": "github",
+      "full_name": "koodo-reader/koodo-reader",
+      "owner": "koodo-reader",
+      "name": "koodo-reader",
+      "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 26446,
+      "forks": 1953,
+      "today_stars": 17,
+      "hot_score": 612.2,
+      "url": "https://github.com/koodo-reader/koodo-reader",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Koodo阅读器",
+        "chinese_summary": "跨平台电子书管理与阅读软件，支持同步和备份",
+        "use_case": "适用于需要在不同设备间同步和管理电子书的用户",
+        "tech_highlights": [
+          "多平台支持",
+          "云同步与备份",
+          "现代用户界面"
+        ],
+        "target_users": "电子书爱好者和多设备用户",
+        "why_trending": "得益于其强大的跨平台能力和便捷的同步备份功能，满足了现代用户对电子书管理的高需求",
+        "getting_started": "通过GitHub页面下载安装包，或直接在支持的平台上访问Web版本",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-servo",
+      "source": "github",
+      "full_name": "sponsors/servo",
+      "owner": "sponsors",
+      "name": "servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 36164,
+      "forks": 3563,
+      "today_stars": 14,
+      "hot_score": 595.8,
+      "url": "https://github.com/sponsors/servo",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Servo",
+        "chinese_summary": "Servo 是一个轻量级、高性能的 Web 技术嵌入解决方案。",
+        "use_case": "适用于需要高性能 Web 内容渲染的应用场景。",
+        "tech_highlights": [
+          "使用 Rust 编写，确保高性能和安全性",
+          "模块化设计，易于扩展和定制",
+          "支持 Web 标准，确保兼容性"
+        ],
+        "target_users": "需要高性能 Web 渲染引擎的应用开发者",
+        "why_trending": "得益于 Rust 的性能和安全性，Servo 在嵌入式 Web 技术领域受到关注，同时社区也在积极贡献和维护。",
+        "getting_started": "通过官方文档快速了解 Servo 的基本概念和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-nlohmann",
+      "source": "github",
+      "full_name": "sponsors/nlohmann",
+      "owner": "sponsors",
+      "name": "nlohmann",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "category": "systems",
+      "stars": 49292,
+      "forks": 7345,
+      "today_stars": 12,
+      "hot_score": 589.3,
+      "url": "https://github.com/sponsors/nlohmann",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "现代C++的JSON库",
+        "chinese_summary": "提供现代C++风格的JSON解析和生成",
+        "use_case": "适用于需要高效处理JSON数据的C++项目",
+        "tech_highlights": [
+          "支持C++11及以上标准",
+          "类型安全",
+          "易于使用"
+        ],
+        "target_users": "C++开发者",
+        "why_trending": "因其简洁高效的设计和对现代C++标准的支持，受到广泛欢迎",
+        "getting_started": "通过CMake或直接包含头文件快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-sudheerj",
+      "source": "github",
+      "full_name": "sponsors/sudheerj",
+      "owner": "sponsors",
+      "name": "sudheerj",
+      "description": "List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!!",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 44439,
+      "forks": 10314,
+      "today_stars": 12,
+      "hot_score": 584.8,
+      "url": "https://github.com/sponsors/sudheerj",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ReactJS 面试宝典",
+        "chinese_summary": "包含500个ReactJS面试问题及答案，即将增加编程练习题。",
+        "use_case": "用于准备ReactJS面试，学习和复习相关知识。",
+        "tech_highlights": [
+          "涵盖大量面试问题和答案",
+          "即将增加编程练习题"
+        ],
+        "target_users": "ReactJS开发者和面试者",
+        "why_trending": "随着ReactJS的流行，面试准备资源需求增加；社区对高质量学习资源的需求推动热度。",
+        "getting_started": "直接访问项目页面，查看和下载问题及答案。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
