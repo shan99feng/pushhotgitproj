@@ -1,0 +1,600 @@
+{
+  "date": "2026-04-11",
+  "since": "daily",
+  "generated_at": "2026-04-12T02:42:06.134731+00:00",
+  "total": 20,
+  "category_counts": {
+    "ai_ml": 5,
+    "frontend": 7,
+    "backend": 2,
+    "systems": 6
+  },
+  "repos": [
+    {
+      "repo_id": "github-yt-dlp-yt-dlp",
+      "source": "github",
+      "full_name": "yt-dlp/yt-dlp",
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 156224,
+      "forks": 12833,
+      "today_stars": 216,
+      "hot_score": 2679.4,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yt-dlp/yt-dlp",
+        "chinese_summary": "一个功能丰富的命令行音视频下载工具",
+        "use_case": "用于从各种网站下载音视频文件",
+        "tech_highlights": [
+          "支持多种音视频格式",
+          "高度可配置",
+          "跨平台"
+        ],
+        "target_users": "需要从网络下载音视频的用户",
+        "why_trending": "因其强大的功能和广泛的兼容性，满足了大量用户需求",
+        "getting_started": "安装后使用命令即可开始下载，如：yt-dlp <URL>",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-vinta-awesome-python",
+      "source": "github",
+      "full_name": "vinta/awesome-python",
+      "owner": "vinta",
+      "name": "awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 291789,
+      "forks": 27646,
+      "today_stars": 184,
+      "hot_score": 2386.5,
+      "url": "https://github.com/vinta/awesome-python",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "优秀 Python 资源",
+        "chinese_summary": "一个精选的 Python 框架、库、工具和资源列表",
+        "use_case": "为开发者提供 Python 相关资源的参考",
+        "tech_highlights": [
+          "资源丰富",
+          "分类清晰",
+          "更新及时"
+        ],
+        "target_users": "Python 开发者",
+        "why_trending": "因其全面性和实用性，受到开发者广泛认可",
+        "getting_started": "直接访问 GitHub 仓库浏览资源",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-n8n-io-n8n",
+      "source": "github",
+      "full_name": "n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 183608,
+      "forks": 56698,
+      "today_stars": 170,
+      "hot_score": 2226.4,
+      "url": "https://github.com/n8n-io/n8n",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "n8n",
+        "chinese_summary": "基于AI的工作流自动化平台，结合可视化构建和自定义代码，支持自托管或云部署。",
+        "use_case": "适用于需要自动化工作流的企业和开发者。",
+        "tech_highlights": [
+          "支持400+集成",
+          "内置AI能力",
+          "自托管或云部署选项"
+        ],
+        "target_users": "需要自动化工作流的企业和开发者",
+        "why_trending": "得益于强大的集成能力和AI支持，满足了现代企业对自动化工具的需求。",
+        "getting_started": "通过官方文档快速了解基本操作并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 97636,
+      "forks": 5361,
+      "today_stars": 106,
+      "hot_score": 1559.0,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的自托管照片和视频管理解决方案",
+        "use_case": "适用于个人和团队的自托管照片和视频管理",
+        "tech_highlights": [
+          "高性能",
+          "自托管",
+          "TypeScript 编程语言"
+        ],
+        "target_users": "个人、团队和小型企业",
+        "why_trending": "得益于自托管特性，满足用户对数据隐私和控制的需求；TypeScript 使得代码更加现代化和易于维护。",
+        "getting_started": "访问 GitHub 页面，按照 README 文件中的说明进行安装和配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 67040,
+      "forks": 7384,
+      "today_stars": 88,
+      "hot_score": 1362.6,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ghidra",
+        "chinese_summary": "Ghidra 是一个软件逆向工程框架",
+        "use_case": "用于分析和修改二进制代码，支持逆向分析和逆向工程。",
+        "tech_highlights": [
+          "支持多种编程语言的逆向分析",
+          "提供强大的代码分析工具",
+          "开源且免费"
+        ],
+        "target_users": "软件逆向工程师和安全研究人员",
+        "why_trending": "因其强大的逆向分析功能和开源特性，吸引了大量安全研究者的关注。",
+        "getting_started": "访问 GitHub 页面，下载最新版本开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-jesseduffield",
+      "source": "github",
+      "full_name": "sponsors/jesseduffield",
+      "owner": "sponsors",
+      "name": "jesseduffield",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "category": "backend",
+      "stars": 76232,
+      "forks": 2745,
+      "today_stars": 82,
+      "hot_score": 1308.2,
+      "url": "https://github.com/sponsors/jesseduffield",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Git 终端简易界面",
+        "chinese_summary": "一个简单的 Git 命令终端 UI 工具",
+        "use_case": "适用于需要通过终端操作 Git 的开发者",
+        "tech_highlights": [
+          "使用 Go 语言开发",
+          "提供简单易用的终端 UI"
+        ],
+        "target_users": "需要频繁使用 Git 命令的开发者",
+        "why_trending": "随着终端操作需求增加，简洁易用的工具受到欢迎",
+        "getting_started": "通过安装 Go 环境并运行项目快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 86150,
+      "forks": 5477,
+      "today_stars": 77,
+      "hot_score": 1263.5,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "用于Web测试和自动化，提供单一API支持Chromium、Firefox和WebKit。",
+        "use_case": "适用于Web应用的端到端测试和自动化任务。",
+        "tech_highlights": [
+          "跨浏览器支持",
+          "高性能",
+          "内置等待和重试机制"
+        ],
+        "target_users": "Web测试工程师和自动化测试开发者",
+        "why_trending": "因其强大的跨浏览器支持和高效的测试执行能力，受到开发者欢迎。",
+        "getting_started": "通过npm安装并快速阅读官方文档开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-openai-whisper",
+      "source": "github",
+      "full_name": "openai/whisper",
+      "owner": "openai",
+      "name": "whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 97585,
+      "forks": 12022,
+      "today_stars": 72,
+      "hot_score": 1218.9,
+      "url": "https://github.com/openai/whisper",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Whisper",
+        "chinese_summary": "通过大规模弱监督实现稳健的语音识别",
+        "use_case": "适用于需要高精度语音识别的场景，如语音转文字、语音搜索等。",
+        "tech_highlights": [
+          "大规模弱监督学习",
+          "端到端语音识别模型",
+          "多语言支持"
+        ],
+        "target_users": "语音识别开发者、研究人员、需要语音转文字的用户",
+        "why_trending": "因其在多语言和低资源环境下的卓越表现，以及开源社区的广泛支持而火热。",
+        "getting_started": "建议从官方文档开始，快速了解项目结构和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-dora-rs-dora",
+      "source": "github",
+      "full_name": "dora-rs/dora",
+      "owner": "dora-rs",
+      "name": "dora",
+      "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 3412,
+      "forks": 363,
+      "today_stars": 80,
+      "hot_score": 1153.3,
+      "url": "https://github.com/dora-rs/dora",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "DORA (数据导向的机器人架构)",
+        "chinese_summary": "简化AI机器人应用开发的低延迟、可组合分布式数据流中间件",
+        "use_case": "适用于需要高效数据处理和机器人应用开发的场景",
+        "tech_highlights": [
+          "低延迟数据流",
+          "可组合性",
+          "分布式架构"
+        ],
+        "target_users": "机器人开发者和AI应用开发者",
+        "why_trending": "得益于其高效的分布式数据处理能力和易于组合的应用模型，DORA 在机器人和AI领域受到关注",
+        "getting_started": "通过官方文档快速了解基本概念和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 111020,
+      "forks": 16624,
+      "today_stars": 54,
+      "hot_score": 1044.5,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一个用于自托管的开源远程桌面应用，替代TeamViewer。",
+        "use_case": "适用于需要远程访问和控制桌面的场景。",
+        "tech_highlights": [
+          "使用Rust编写，保证高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台设计，支持多种操作系统"
+        ],
+        "target_users": "需要远程访问桌面的个人和企业用户",
+        "why_trending": "得益于Rust语言的流行和技术优势，以及开源社区的支持和贡献",
+        "getting_started": "通过官方文档快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-EmulatorJS-EmulatorJS",
+      "source": "github",
+      "full_name": "EmulatorJS/EmulatorJS",
+      "owner": "EmulatorJS",
+      "name": "EmulatorJS",
+      "description": "A web-based frontend for RetroArch",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 3519,
+      "forks": 875,
+      "today_stars": 68,
+      "hot_score": 1034.6,
+      "url": "https://github.com/EmulatorJS/EmulatorJS",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "EmulatorJS",
+        "chinese_summary": "基于网页的RetroArch前端",
+        "use_case": "为用户提供便捷的复古游戏模拟器体验，无需安装软件。",
+        "tech_highlights": [
+          "跨平台兼容",
+          "Web技术实现",
+          "图形界面优化"
+        ],
+        "target_users": "复古游戏爱好者，游戏开发者，技术爱好者",
+        "why_trending": "利用Web技术提供便捷的游戏体验，符合现代互联网使用习惯；社区活跃，持续更新。",
+        "getting_started": "直接访问项目网站，选择游戏开始体验",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-makeplane-plane",
+      "source": "github",
+      "full_name": "makeplane/plane",
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 47636,
+      "forks": 3940,
+      "today_stars": 54,
+      "hot_score": 1007.8,
+      "url": "https://github.com/makeplane/plane",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Plane",
+        "chinese_summary": "一个现代的项目管理平台，用于任务、冲刺、文档管理及问题排查。",
+        "use_case": "适用于团队项目管理、任务分配、文档协作及问题跟踪。",
+        "tech_highlights": [
+          "基于 TypeScript 开发",
+          "支持多种项目管理工具集成",
+          "现代化的用户界面"
+        ],
+        "target_users": "项目团队、开发团队、产品经理等",
+        "why_trending": "结合了现代项目管理的最新趋势，提供灵活的集成选项和用户友好的界面，吸引了大量开发者和团队的关注。",
+        "getting_started": "访问 GitHub 页面，按照 README 文件中的说明快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-hummingbot",
+      "source": "github",
+      "full_name": "sponsors/hummingbot",
+      "owner": "sponsors",
+      "name": "hummingbot",
+      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 18084,
+      "forks": 4600,
+      "today_stars": 56,
+      "hot_score": 985.7,
+      "url": "https://github.com/sponsors/hummingbot",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hummingbot",
+        "chinese_summary": "帮助创建和部署高频加密货币交易机器人",
+        "use_case": "适用于高频交易者和自动化交易策略开发者。",
+        "tech_highlights": [
+          "支持多种加密货币交易所",
+          "Python 编程语言",
+          "开源代码"
+        ],
+        "target_users": "高频交易者和自动化交易策略开发者",
+        "why_trending": "得益于高频交易技术的发展和社区活跃度的提升",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-AUTOMATIC1111-stable-diffusion-webui",
+      "source": "github",
+      "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+      "owner": "AUTOMATIC1111",
+      "name": "stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 162319,
+      "forks": 30259,
+      "today_stars": 37,
+      "hot_score": 891.0,
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "稳定扩散Web界面",
+        "chinese_summary": "一个基于Stable Diffusion的Web用户界面，用于生成图像",
+        "use_case": "用于生成艺术图像、概念设计等创意应用",
+        "tech_highlights": [
+          "基于Stable Diffusion的图像生成技术",
+          "用户友好的Web界面",
+          "高度可定制"
+        ],
+        "target_users": "艺术家、设计师、AI爱好者",
+        "why_trending": "结合了强大的生成模型和易用的界面，满足了创意社区的需求",
+        "getting_started": "访问GitHub页面，按照README中的说明进行安装和配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-vadimdemedes-ink",
+      "source": "github",
+      "full_name": "vadimdemedes/ink",
+      "owner": "vadimdemedes",
+      "name": "ink",
+      "description": "🌈 React for interactive command-line apps",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 37559,
+      "forks": 954,
+      "today_stars": 38,
+      "hot_score": 837.5,
+      "url": "https://github.com/vadimdemedes/ink",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ink",
+        "chinese_summary": "React 库，用于构建交互式命令行应用",
+        "use_case": "适用于需要丰富用户界面的命令行应用开发",
+        "tech_highlights": [
+          "基于 React 的组件化开发",
+          "丰富的 UI 组件",
+          "TypeScript 支持"
+        ],
+        "target_users": "命令行应用开发者",
+        "why_trending": "结合了现代前端开发的灵活性与命令行应用的实用性，满足开发者对交互性需求的增长",
+        "getting_started": "通过 npm 安装并参考官方文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nautechsystems-nautilus_trader",
+      "source": "github",
+      "full_name": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 21805,
+      "forks": 2626,
+      "today_stars": 40,
+      "hot_score": 833.9,
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纳utilus交易引擎",
+        "chinese_summary": "基于 Rust 的高性能、确定性事件驱动交易引擎",
+        "use_case": "适用于高频交易、算法交易等场景",
+        "tech_highlights": [
+          "Rust 语言特性",
+          "事件驱动架构",
+          "高性能"
+        ],
+        "target_users": "高频交易员、算法交易工程师",
+        "why_trending": "得益于 Rust 的安全性和性能，以及事件驱动架构的灵活性",
+        "getting_started": "阅读官方文档，安装依赖，运行示例",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-fastfetch-cli-fastfetch",
+      "source": "github",
+      "full_name": "fastfetch-cli/fastfetch",
+      "owner": "fastfetch-cli",
+      "name": "fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "category": "systems",
+      "stars": 21849,
+      "forks": 735,
+      "today_stars": 40,
+      "hot_score": 833.9,
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "fastfetch-cli",
+        "chinese_summary": "一个维护良好、功能丰富且性能导向的系统信息工具，类似 neofetch。",
+        "use_case": "适用于需要快速查看系统信息的开发者和系统管理员。",
+        "tech_highlights": [
+          "C 语言编写，性能优秀",
+          "功能丰富，可自定义输出",
+          "维护良好，持续更新"
+        ],
+        "target_users": "开发者、系统管理员和对系统信息有需求的用户",
+        "why_trending": "由于其高性能和丰富的功能，以及持续的维护更新，吸引了大量用户和贡献者。",
+        "getting_started": "通过安装命令快速开始使用，文档详细，易于上手",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ggml-org-whisper.cpp",
+      "source": "github",
+      "full_name": "ggml-org/whisper.cpp",
+      "owner": "ggml-org",
+      "name": "whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "category": "systems",
+      "stars": 48512,
+      "forks": 5398,
+      "today_stars": 36,
+      "hot_score": 828.6,
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "topics": [],
+      "structured_summary": null
+    },
+    {
+      "repo_id": "github-hyprwm-Hyprland",
+      "source": "github",
+      "full_name": "hyprwm/Hyprland",
+      "owner": "hyprwm",
+      "name": "Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "category": "systems",
+      "stars": 35003,
+      "forks": 1666,
+      "today_stars": 37,
+      "hot_score": 824.4,
+      "url": "https://github.com/hyprwm/Hyprland",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hyprland",
+        "chinese_summary": "Hyprland 是一个独立的、高度可定制的动态排列 Wayland 桌面环境",
+        "use_case": "适用于追求美观和高度自定义的 Wayland 桌面用户",
+        "tech_highlights": [
+          "支持动态排列",
+          "高度可定制",
+          "美观"
+        ],
+        "target_users": "追求美观和高度自定义的 Wayland 桌面用户",
+        "why_trending": "因其高度可定制性和美观的设计，Hyprland 在追求个性化桌面体验的用户中受到欢迎",
+        "getting_started": "通过官方文档快速了解 Hyprland 的基本配置和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-withastro",
+      "source": "github",
+      "full_name": "sponsors/withastro",
+      "owner": "sponsors",
+      "name": "withastro",
+      "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 58367,
+      "forks": 3343,
+      "today_stars": 34,
+      "hot_score": 816.6,
+      "url": "https://github.com/sponsors/withastro",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Withastro",
+        "chinese_summary": "用于内容驱动型网站的 Web 框架",
+        "use_case": "适用于需要高效构建内容丰富的网站",
+        "tech_highlights": [
+          "基于 Astro 技术栈",
+          "TypeScript 支持",
+          "静态生成"
+        ],
+        "target_users": "内容创作者和技术开发者",
+        "why_trending": "结合现代前端技术，提供高性能的静态网站生成解决方案，受到开发者欢迎",
+        "getting_started": "通过官方文档快速开始项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
