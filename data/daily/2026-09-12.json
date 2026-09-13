@@ -1,0 +1,612 @@
+{
+  "date": "2026-09-12",
+  "since": "daily",
+  "generated_at": "2026-09-13T03:34:12.251116+00:00",
+  "total": 20,
+  "category_counts": {
+    "other": 2,
+    "systems": 8,
+    "ai_ml": 4,
+    "frontend": 2,
+    "backend": 4
+  },
+  "repos": [
+    {
+      "repo_id": "github-codecrafters-io-build-your-own-x",
+      "source": "github",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "category": "other",
+      "stars": 546864,
+      "forks": 51463,
+      "today_stars": 235,
+      "hot_score": 2923.8,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "从零构建你喜爱的技术",
+        "chinese_summary": "通过重新实现你喜爱的技术来掌握编程",
+        "use_case": "适用于希望深入理解技术原理和实现细节的学习者",
+        "tech_highlights": [
+          "从零开始实现技术",
+          "学习编程原理",
+          "实战项目经验"
+        ],
+        "target_users": "编程初学者和中级开发者",
+        "why_trending": "符合当前编程学习趋势，强调实践和理解技术原理",
+        "getting_started": "从README开始，跟随项目一步步实现技术",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-armory3d-armorpaint",
+      "source": "github",
+      "full_name": "armory3d/armorpaint",
+      "owner": "armory3d",
+      "name": "armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "category": "systems",
+      "stars": 4926,
+      "forks": 549,
+      "today_stars": 237,
+      "hot_score": 2739.2,
+      "url": "https://github.com/armory3d/armorpaint",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "装甲画笔",
+        "chinese_summary": "一款用于图形创作的工具",
+        "use_case": "适用于游戏开发、动画制作等需要图形创作的场景",
+        "tech_highlights": [
+          "使用 C 语言开发",
+          "支持多种图形格式",
+          "跨平台"
+        ],
+        "target_users": "游戏开发者、动画师、图形设计师",
+        "why_trending": "作为 C 语言开发的图形创作工具，它在性能和跨平台支持上有优势，吸引了对性能要求高的用户群体",
+        "getting_started": "建议从官网文档开始学习，快速了解基本操作",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-yt-dlp-yt-dlp",
+      "source": "github",
+      "full_name": "yt-dlp/yt-dlp",
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 190704,
+      "forks": 16553,
+      "today_stars": 199,
+      "hot_score": 2518.0,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yt-dlp/yt-dlp",
+        "chinese_summary": "一个功能丰富的命令行音频/视频下载器",
+        "use_case": "用于从各种网站下载音频和视频文件。",
+        "tech_highlights": [
+          "支持多种视频网站",
+          "命令行界面",
+          "丰富的下载选项"
+        ],
+        "target_users": "视频和音频内容下载者",
+        "why_trending": "因其强大的功能和广泛的兼容性，满足了大量用户的需求。",
+        "getting_started": "通过pip安装后，使用简单的命令即可开始下载。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 113941,
+      "forks": 6894,
+      "today_stars": 80,
+      "hot_score": 1305.7,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的自托管照片和视频管理解决方案",
+        "use_case": "适用于需要自托管且高性能的照片和视频管理场景",
+        "tech_highlights": [
+          "高性能",
+          "自托管",
+          "TypeScript 编程语言"
+        ],
+        "target_users": "需要自托管照片和视频管理的用户",
+        "why_trending": "得益于其高性能和自托管特性，满足了用户对隐私和控制的需求，同时TypeScript的使用也增加了代码的可维护性",
+        "getting_started": "通过官方文档快速了解项目结构和安装方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-hagezi-dns-blocklists",
+      "source": "github",
+      "full_name": "hagezi/dns-blocklists",
+      "owner": "hagezi",
+      "name": "dns-blocklists",
+      "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
+      "language": "Text",
+      "category": "other",
+      "stars": 26331,
+      "forks": 807,
+      "today_stars": 85,
+      "hot_score": 1292.0,
+      "url": "https://github.com/hagezi/dns-blocklists",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "DNS-阻塞列表",
+        "chinese_summary": "提供DNS阻塞列表，改善网络环境",
+        "use_case": "用于过滤不良内容，提升网络安全性",
+        "tech_highlights": [
+          "提供多种阻塞列表",
+          "易于集成到DNS服务器",
+          "社区维护更新频繁"
+        ],
+        "target_users": "网络管理员、安全专家、普通用户",
+        "why_trending": "随着网络安全意识增强，DNS过滤成为主流手段，该项目提供便捷的解决方案",
+        "getting_started": "直接下载列表并配置到DNS服务器",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 123281,
+      "forks": 18997,
+      "today_stars": 77,
+      "hot_score": 1279.1,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一个开源远程桌面应用，支持自托管，替代TeamViewer。",
+        "use_case": "适用于远程访问和控制个人或企业计算机。",
+        "tech_highlights": [
+          "使用Rust编写，保证高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台设计，兼容多种操作系统"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "得益于Rust语言的安全性和性能，以及开源社区的支持，RustDesk受到广泛关注。",
+        "getting_started": "访问GitHub仓库，按照README中的说明快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-bobeff-open-source-games",
+      "source": "github",
+      "full_name": "bobeff/open-source-games",
+      "owner": "bobeff",
+      "name": "open-source-games",
+      "description": "A list of open source games.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 13959,
+      "forks": 1124,
+      "today_stars": 66,
+      "hot_score": 1074.5,
+      "url": "https://github.com/bobeff/open-source-games",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "开源游戏合集",
+        "chinese_summary": "一个包含多种开源游戏的列表。",
+        "use_case": "为开发者提供游戏开发参考，为玩家提供免费游戏体验。",
+        "tech_highlights": [
+          "游戏多样性",
+          "开源代码可读性强",
+          "社区活跃度高"
+        ],
+        "target_users": "游戏开发者和游戏爱好者",
+        "why_trending": "由于开源文化的发展和游戏开发社区的活跃，越来越多的游戏选择开源，使得此类项目受到关注。",
+        "getting_started": "直接访问项目页面，查看游戏列表和代码库，快速开始探索或贡献代码。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-makeplane-plane",
+      "source": "github",
+      "full_name": "makeplane/plane",
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 59293,
+      "forks": 5720,
+      "today_stars": 43,
+      "hot_score": 907.3,
+      "url": "https://github.com/makeplane/plane",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Plane",
+        "chinese_summary": "一款现代项目管理平台，替代 Jira、Linear、Monday 和 ClickUp。",
+        "use_case": "适用于团队项目管理、任务分配、文档协作和问题跟踪。",
+        "tech_highlights": [
+          "基于 TypeScript 开发",
+          "支持多种项目管理工具集成",
+          "现代化用户界面"
+        ],
+        "target_users": "项目管理团队和需要协作工具的开发者",
+        "why_trending": "响应敏捷开发需求，提供灵活的项目管理解决方案，受到开发者社区欢迎。",
+        "getting_started": "访问官网，注册账号并创建项目开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-SimplifyJobs-Summer2027-Internships",
+      "source": "github",
+      "full_name": "SimplifyJobs/Summer2027-Internships",
+      "owner": "SimplifyJobs",
+      "name": "Summer2027-Internships",
+      "description": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 47370,
+      "forks": 3247,
+      "today_stars": 38,
+      "hot_score": 847.6,
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Summer2027 实习岗位",
+        "chinese_summary": "提供2027年夏季软件工程、数据科学等实习岗位信息，每日更新。",
+        "use_case": "供求职者寻找实习机会，企业发布实习职位。",
+        "tech_highlights": [
+          "实习岗位信息更新及时",
+          "涵盖多个技术领域"
+        ],
+        "target_users": "求职者和企业",
+        "why_trending": "由于实习岗位需求大，求职者寻找机会的需求高，加之每日更新保持新鲜度。",
+        "getting_started": "访问项目页面查看最新实习岗位信息",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-trufflesecurity-trufflehog",
+      "source": "github",
+      "full_name": "trufflesecurity/trufflehog",
+      "owner": "trufflesecurity",
+      "name": "trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "category": "backend",
+      "stars": 27847,
+      "forks": 2579,
+      "today_stars": 38,
+      "hot_score": 824.5,
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "TruffleHog",
+        "chinese_summary": "查找、验证和分析泄露的凭证",
+        "use_case": "主要用于代码仓库中查找和分析敏感信息泄露问题。",
+        "tech_highlights": [
+          "支持多种版本控制系统",
+          "强大的正则表达式匹配",
+          "多语言支持"
+        ],
+        "target_users": "安全工程师、开发团队、运维人员",
+        "why_trending": "随着数据安全问题的日益突出，TruffleHog因其高效性和易用性受到广泛关注。",
+        "getting_started": "通过安装Go环境并运行命令即可快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-DioxusLabs",
+      "source": "github",
+      "full_name": "sponsors/DioxusLabs",
+      "owner": "sponsors",
+      "name": "DioxusLabs",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 39067,
+      "forks": 1885,
+      "today_stars": 33,
+      "hot_score": 789.2,
+      "url": "https://github.com/sponsors/DioxusLabs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Dioxus",
+        "chinese_summary": "基于 Rust 的全栈应用框架，支持 Web、桌面和移动平台。",
+        "use_case": "适用于需要高性能和安全性的 Web、桌面和移动应用开发。",
+        "tech_highlights": [
+          "基于 Rust 的高性能",
+          "支持多种平台",
+          "组件化开发"
+        ],
+        "target_users": "对性能和安全性有高要求的开发者",
+        "why_trending": "得益于 Rust 的安全性与性能，以及跨平台支持，吸引了大量关注。",
+        "getting_started": "通过官方文档快速了解 Rust 和组件化开发概念",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-junegunn",
+      "source": "github",
+      "full_name": "sponsors/junegunn",
+      "owner": "sponsors",
+      "name": "junegunn",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "category": "backend",
+      "stars": 82949,
+      "forks": 2869,
+      "today_stars": 27,
+      "hot_score": 761.9,
+      "url": "https://github.com/sponsors/junegunn",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "junegunn 赞助者",
+        "chinese_summary": "一个命令行模糊查找工具",
+        "use_case": "用于快速查找文件、命令等",
+        "tech_highlights": [
+          "使用 Go 语言开发",
+          "支持模糊匹配"
+        ],
+        "target_users": "开发者和需要快速查找工具的用户",
+        "why_trending": "因其简洁高效且易于使用，受到开发者欢迎",
+        "getting_started": "通过安装 Go 环境并运行 `sponsors` 命令即可开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-Z4nzu-hackingtool",
+      "source": "github",
+      "full_name": "Z4nzu/hackingtool",
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 79437,
+      "forks": 9002,
+      "today_stars": 26,
+      "hot_score": 750.0,
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Z4nzu 全功能黑客工具",
+        "chinese_summary": "集成了多种黑客工具的一站式解决方案",
+        "use_case": "适用于黑客、安全研究人员进行网络攻击模拟和安全测试",
+        "tech_highlights": [
+          "多语言支持",
+          "模块化设计",
+          "自动化攻击链"
+        ],
+        "target_users": "黑客、安全研究人员、渗透测试人员",
+        "why_trending": "结合了最新的安全技术和自动化攻击流程，满足了当前安全测试的需求，受到安全社区的广泛关注",
+        "getting_started": "通过安装依赖和运行脚本快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-ajeetdsouza",
+      "source": "github",
+      "full_name": "sponsors/ajeetdsouza",
+      "owner": "sponsors",
+      "name": "ajeetdsouza",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 39431,
+      "forks": 899,
+      "today_stars": 29,
+      "hot_score": 749.6,
+      "url": "https://github.com/sponsors/ajeetdsouza",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "更智能的cd命令",
+        "chinese_summary": "支持多种主流Shell的智能cd命令",
+        "use_case": "在多种Shell环境中快速切换目录",
+        "tech_highlights": [
+          "跨Shell兼容性",
+          "智能目录建议"
+        ],
+        "target_users": "频繁使用cd命令的开发者",
+        "why_trending": "得益于Rust语言的性能和安全性，以及对Shell环境的广泛支持",
+        "getting_started": "通过Cargo安装并配置到Shell中",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-gitleaks-gitleaks",
+      "source": "github",
+      "full_name": "gitleaks/gitleaks",
+      "owner": "gitleaks",
+      "name": "gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "category": "backend",
+      "stars": 29279,
+      "forks": 2231,
+      "today_stars": 27,
+      "hot_score": 716.7,
+      "url": "https://github.com/gitleaks/gitleaks",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Gitleaks",
+        "chinese_summary": "用于检测代码库中泄露的敏感信息",
+        "use_case": "主要用于检测和防止在代码库中泄露API密钥、数据库凭证等敏感信息",
+        "tech_highlights": [
+          "支持多种加密格式检测",
+          "高度可配置的规则引擎",
+          "集成多种版本控制系统"
+        ],
+        "target_users": "开发团队、安全团队和版本控制系统管理员",
+        "why_trending": "随着云原生和DevSecOps的兴起，敏感信息泄露的风险增加，Gitleaks提供了一种简单有效的解决方案",
+        "getting_started": "通过安装命令行工具并配置规则来快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-electron-electron",
+      "source": "github",
+      "full_name": "electron/electron",
+      "owner": "electron",
+      "name": "electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "category": "systems",
+      "stars": 123016,
+      "forks": 17492,
+      "today_stars": 20,
+      "hot_score": 709.0,
+      "url": "https://github.com/electron/electron",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Electron",
+        "chinese_summary": "使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用",
+        "use_case": "适用于需要丰富用户界面和复杂功能的桌面应用开发",
+        "tech_highlights": [
+          "跨平台支持",
+          "基于 Chromium 和 Node.js",
+          "使用 Web 技术"
+        ],
+        "target_users": "前端开发者、桌面应用开发者",
+        "why_trending": "得益于 Web 技术的发展和对跨平台应用的需求增加",
+        "getting_started": "通过官方文档快速开始项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-shellphish-how2heap",
+      "source": "github",
+      "full_name": "shellphish/how2heap",
+      "owner": "shellphish",
+      "name": "how2heap",
+      "description": "A repository for learning various heap exploitation techniques.",
+      "language": "C",
+      "category": "systems",
+      "stars": 8849,
+      "forks": 1284,
+      "today_stars": 31,
+      "hot_score": 704.7,
+      "url": "https://github.com/shellphish/how2heap",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "如何利用堆",
+        "chinese_summary": "学习各种堆利用技术的资源库",
+        "use_case": "主要用于学习和研究内存利用攻击技术",
+        "tech_highlights": [
+          "详细的技术文档",
+          "丰富的利用案例",
+          "易于理解的代码实现"
+        ],
+        "target_users": "安全研究人员和高级开发人员",
+        "why_trending": "随着安全威胁的增加，内存利用攻击的研究变得越来越重要，该项目提供了学习资源，因此受到关注",
+        "getting_started": "建议从阅读项目文档开始，逐步了解各种技术细节",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-windmill-labs-windmill",
+      "source": "github",
+      "full_name": "windmill-labs/windmill",
+      "owner": "windmill-labs",
+      "name": "windmill",
+      "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 17911,
+      "forks": 1096,
+      "today_stars": 27,
+      "hot_score": 695.3,
+      "url": "https://github.com/windmill-labs/windmill",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Windmill",
+        "chinese_summary": "开源开发者平台，将脚本转换为Webhook、工作流和UI",
+        "use_case": "用于自动化工作流、监控和管理基础设施",
+        "tech_highlights": [
+          "Rust 编程语言",
+          "高性能工作流引擎（13倍于 Airflow）",
+          "开源替代 Retool 和 Temporal"
+        ],
+        "target_users": "开发者、运维工程师、数据工程师",
+        "why_trending": "结合了现代编程语言的性能优势和开源社区的活力，提供了一种快速、灵活的工作流管理解决方案",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-astral-sh-ruff",
+      "source": "github",
+      "full_name": "astral-sh/ruff",
+      "owner": "astral-sh",
+      "name": "ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 49613,
+      "forks": 2405,
+      "today_stars": 22,
+      "hot_score": 689.6,
+      "url": "https://github.com/astral-sh/ruff",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ruff",
+        "chinese_summary": "一个用 Rust 编写的超快 Python 代码检查和格式化工具。",
+        "use_case": "用于 Python 代码的静态分析和自动格式化。",
+        "tech_highlights": [
+          "用 Rust 编写，性能卓越",
+          "支持多种 Python 代码规范",
+          "插件扩展性强"
+        ],
+        "target_users": "Python 开发者和团队",
+        "why_trending": "因其高性能和强大的功能，受到 Python 社区的广泛关注。",
+        "getting_started": "通过 pip 安装并配置即可快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-tailscale-tailscale",
+      "source": "github",
+      "full_name": "tailscale/tailscale",
+      "owner": "tailscale",
+      "name": "tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 36394,
+      "forks": 3188,
+      "today_stars": 22,
+      "hot_score": 676.1,
+      "url": "https://github.com/tailscale/tailscale",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Tailscale",
+        "chinese_summary": "使用 WireGuard 和双因素认证的最简单、最安全的方式",
+        "use_case": "适用于需要简单、安全网络连接的个人和团队",
+        "tech_highlights": [
+          "支持 WireGuard",
+          "内置双因素认证",
+          "易于安装和使用"
+        ],
+        "target_users": "需要简单安全网络连接的个人和团队",
+        "why_trending": "得益于其简单易用性和安全性，满足了当前对网络安全日益增长的需求",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
