@@ -1,0 +1,613 @@
+{
+  "date": "2026-09-14",
+  "since": "daily",
+  "generated_at": "2026-09-15T03:44:22.195193+00:00",
+  "total": 20,
+  "category_counts": {
+    "backend": 5,
+    "ai_ml": 9,
+    "frontend": 3,
+    "systems": 3
+  },
+  "repos": [
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 75962,
+      "forks": 8347,
+      "today_stars": 700,
+      "hot_score": 7488.1,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "国家安全局/Ghidra",
+        "chinese_summary": "一个软件逆向工程框架，用于分析和修改二进制代码。",
+        "use_case": "主要用于逆向分析恶意软件、分析二进制文件和进行逆向工程研究。",
+        "tech_highlights": [
+          "支持多种架构和操作系统",
+          "强大的反汇编和反编译功能",
+          "可扩展的插件系统"
+        ],
+        "target_users": "软件逆向工程师、安全研究人员和恶意软件分析师",
+        "why_trending": "由于其强大的逆向工程能力和开源特性，吸引了大量安全研究社区的关注。",
+        "getting_started": "建议从官方文档开始学习，了解基本操作和插件使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-huggingface-transformers",
+      "source": "github",
+      "full_name": "huggingface/transformers",
+      "owner": "huggingface",
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 166042,
+      "forks": 34580,
+      "today_stars": 536,
+      "hot_score": 5882.0,
+      "url": "https://github.com/huggingface/transformers",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hugging Face Transformers",
+        "chinese_summary": "用于文本、视觉、音频和多模态模型的先进机器学习模型框架。",
+        "use_case": "适用于模型训练和推理。",
+        "tech_highlights": [
+          "支持多种模型架构",
+          "丰富的模型库",
+          "易于扩展和自定义"
+        ],
+        "target_users": "机器学习工程师、研究人员和开发者",
+        "why_trending": "因其强大的功能和广泛的社区支持而受到关注，推动了模型的快速迭代和创新。",
+        "getting_started": "通过安装库和阅读文档快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-yt-dlp-yt-dlp",
+      "source": "github",
+      "full_name": "yt-dlp/yt-dlp",
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 191221,
+      "forks": 16600,
+      "today_stars": 313,
+      "hot_score": 3658.2,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yt-dlp/yt-dlp",
+        "chinese_summary": "一个功能丰富的命令行音频/视频下载工具",
+        "use_case": "用于从各种在线视频平台下载音频和视频文件",
+        "tech_highlights": [
+          "支持多种视频平台",
+          "命令行界面",
+          "丰富的功能选项"
+        ],
+        "target_users": "视频爱好者和开发者",
+        "why_trending": "因其强大的功能和对多种视频平台的支持，以及社区的活跃度",
+        "getting_started": "通过pip安装并运行命令即可快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 370049,
+      "forks": 58428,
+      "today_stars": 214,
+      "hot_score": 2696.8,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计入门",
+        "chinese_summary": "学习如何设计大规模系统，为系统设计面试做准备。",
+        "use_case": "适用于准备系统设计面试或希望了解大规模系统设计原理的开发者。",
+        "tech_highlights": [
+          "包含Anki闪卡辅助学习",
+          "涵盖多种系统设计场景"
+        ],
+        "target_users": "系统设计面试准备者和希望提升系统设计能力的开发者",
+        "why_trending": "随着云计算和分布式系统的发展，系统设计成为重要技能，社区活跃度高。",
+        "getting_started": "直接访问GitHub页面，按照README中的指导开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-NangoHQ-nango",
+      "source": "github",
+      "full_name": "NangoHQ/nango",
+      "owner": "NangoHQ",
+      "name": "nango",
+      "description": "Build product integrations with AI.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 12090,
+      "forks": 1329,
+      "today_stars": 166,
+      "hot_score": 2068.2,
+      "url": "https://github.com/NangoHQ/nango",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Nango",
+        "chinese_summary": "构建产品集成，利用AI增强功能",
+        "use_case": "适用于需要快速集成多个SaaS应用和服务的企业和开发者。",
+        "tech_highlights": [
+          "支持多种API集成",
+          "使用TypeScript开发",
+          "内置AI增强功能"
+        ],
+        "target_users": "需要集成多个SaaS应用的企业和开发者",
+        "why_trending": "得益于对现代集成需求的精准把握和AI技术的应用，Nango在集成领域迅速崛起。",
+        "getting_started": "通过官方文档快速了解项目结构和快速搭建环境",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 123534,
+      "forks": 19020,
+      "today_stars": 153,
+      "hot_score": 2039.2,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一款开源远程桌面应用，支持自托管，替代TeamViewer。",
+        "use_case": "适用于需要远程访问和控制计算机的场景。",
+        "tech_highlights": [
+          "使用Rust编写，安全可靠",
+          "支持自托管，无需依赖第三方服务",
+          "界面简洁，操作便捷"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "得益于Rust语言的安全性和性能，以及开源社区的支持，RustDesk受到广泛关注。",
+        "getting_started": "访问GitHub页面，按照README文件的指引快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 114169,
+      "forks": 6914,
+      "today_stars": 127,
+      "hot_score": 1775.8,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的自托管照片和视频管理解决方案",
+        "use_case": "适用于需要自托管且高性能的照片和视频管理场景",
+        "tech_highlights": [
+          "高性能",
+          "自托管",
+          "TypeScript 编程语言"
+        ],
+        "target_users": "需要自托管照片和视频管理的用户",
+        "why_trending": "得益于其高性能和自托管特性，满足了用户对隐私和控制的需求，同时TypeScript的使用也增加了开发效率",
+        "getting_started": "通过官方文档快速了解项目结构并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-avelino",
+      "source": "github",
+      "full_name": "sponsors/avelino",
+      "owner": "sponsors",
+      "name": "avelino",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "category": "backend",
+      "stars": 184177,
+      "forks": 13562,
+      "today_stars": 120,
+      "hot_score": 1726.5,
+      "url": "https://github.com/sponsors/avelino",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "awesome-go",
+        "chinese_summary": "一个精选的 Go 语言框架、库和软件列表",
+        "use_case": "为 Go 开发者提供资源和工具",
+        "tech_highlights": [
+          "精选内容",
+          "社区维护",
+          "易于访问"
+        ],
+        "target_users": "Go 开发者",
+        "why_trending": "由于 Go 语言的流行和社区的活跃度增加，该列表成为开发者寻找资源的重要参考",
+        "getting_started": "直接访问 GitHub 仓库，浏览分类列表",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-majd",
+      "source": "github",
+      "full_name": "sponsors/majd",
+      "owner": "sponsors",
+      "name": "majd",
+      "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 11231,
+      "forks": 938,
+      "today_stars": 122,
+      "hot_score": 1625.0,
+      "url": "https://github.com/sponsors/majd",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "majd",
+        "chinese_summary": "一款命令行工具，用于搜索和下载iOS、iPadOS、tvOS、visionOS和macOS应用。",
+        "use_case": "适用于需要批量下载或自动化处理App Store应用的开发者。",
+        "tech_highlights": [
+          "支持多种操作系统平台",
+          "命令行界面友好",
+          "自动化下载功能"
+        ],
+        "target_users": "开发者和自动化工具使用者",
+        "why_trending": "随着自动化工具需求增加和技术趋势发展，此类工具受到关注。",
+        "getting_started": "通过安装Go环境并运行相关命令快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-dgtlmoon-changedetection.io",
+      "source": "github",
+      "full_name": "dgtlmoon/changedetection.io",
+      "owner": "dgtlmoon",
+      "name": "changedetection.io",
+      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 34152,
+      "forks": 2046,
+      "today_stars": 114,
+      "hot_score": 1593.3,
+      "url": "https://github.com/dgtlmoon/changedetection.io",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "网站变更检测工具",
+        "chinese_summary": "用于网站变更检测、网页监控和变更提醒的最佳简单工具。",
+        "use_case": "适用于跟踪内容变更、价格下降、库存恢复提醒和网站篡改监控。",
+        "tech_highlights": [
+          "免费使用",
+          "支持SaaS计划",
+          "易于使用"
+        ],
+        "target_users": "网站管理员、电商从业者、内容创作者",
+        "why_trending": "因其免费性和易用性，受到广泛欢迎，特别是在电商领域。",
+        "getting_started": "直接访问官网，按照指引快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-usememos",
+      "source": "github",
+      "full_name": "sponsors/usememos",
+      "owner": "sponsors",
+      "name": "usememos",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 63062,
+      "forks": 4755,
+      "today_stars": 81,
+      "hot_score": 1290.0,
+      "url": "https://github.com/sponsors/usememos",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "UseMemos",
+        "chinese_summary": "快速笔记工具，支持 Markdown，轻量级且完全属于你。",
+        "use_case": "适用于需要快速记录和整理笔记的个人和团队。",
+        "tech_highlights": [
+          "自托管特性",
+          "Markdown 支持",
+          "Go 语言编写"
+        ],
+        "target_users": "需要快速记录和整理笔记的个人和团队",
+        "why_trending": "自托管特性满足了用户对数据安全和隐私的需求，同时 Markdown 支持提升了用户体验。",
+        "getting_started": "通过文档快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-makeplane-plane",
+      "source": "github",
+      "full_name": "makeplane/plane",
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 59401,
+      "forks": 5743,
+      "today_stars": 60,
+      "hot_score": 1077.4,
+      "url": "https://github.com/makeplane/plane",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Plane",
+        "chinese_summary": "一款现代的开源项目管理平台，替代 Jira、Linear、Monday 和 ClickUp。",
+        "use_case": "适用于团队项目管理、任务分配、文档协作和问题跟踪。",
+        "tech_highlights": [
+          "基于 TypeScript 开发",
+          "支持多种项目管理工具的替代功能",
+          "现代界面设计"
+        ],
+        "target_users": "项目管理者、开发团队、产品团队",
+        "why_trending": "得益于开源社区的支持和现代化的功能设计， Plane 在项目管理领域受到关注。",
+        "getting_started": "访问 GitHub 仓库，按照 README 文件中的说明快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-LibreTranslate",
+      "source": "github",
+      "full_name": "sponsors/LibreTranslate",
+      "owner": "sponsors",
+      "name": "LibreTranslate",
+      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 16579,
+      "forks": 1696,
+      "today_stars": 65,
+      "hot_score": 1072.0,
+      "url": "https://github.com/sponsors/LibreTranslate",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "LibreTranslate",
+        "chinese_summary": "免费开源的机器翻译API，支持离线使用。",
+        "use_case": "适用于需要自托管且离线使用的机器翻译场景。",
+        "tech_highlights": [
+          "自托管",
+          "离线能力",
+          "易于部署"
+        ],
+        "target_users": "需要自托管机器翻译服务的开发者和组织",
+        "why_trending": "由于其开源、自托管和离线能力，吸引了大量寻求隐私和控制权的用户。",
+        "getting_started": "通过文档快速设置并使用LibreTranslate",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nautechsystems-nautilus_trader",
+      "source": "github",
+      "full_name": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 28947,
+      "forks": 3786,
+      "today_stars": 59,
+      "hot_score": 1036.2,
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纳utilus交易引擎",
+        "chinese_summary": "一个用Rust编写的高性能、确定性的事件驱动交易引擎",
+        "use_case": "适用于高频交易、算法交易等对性能和确定性要求高的场景",
+        "tech_highlights": [
+          "使用Rust语言编写，保证了高性能和安全性",
+          "事件驱动架构，确保交易处理的确定性",
+          "模块化设计，易于扩展和维护"
+        ],
+        "target_users": "高频交易员、量化交易团队、金融技术开发者",
+        "why_trending": "得益于Rust语言的流行和事件驱动架构的广泛应用，以及金融行业对高性能交易引擎的需求",
+        "getting_started": "建议从官方文档开始，了解基本概念和快速入门指南",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-OpenBB-finance",
+      "source": "github",
+      "full_name": "sponsors/OpenBB-finance",
+      "owner": "sponsors",
+      "name": "OpenBB-finance",
+      "description": "Open Data Platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 73016,
+      "forks": 7553,
+      "today_stars": 54,
+      "hot_score": 1026.3,
+      "url": "https://github.com/sponsors/OpenBB-finance",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "OpenBB 财经数据平台",
+        "chinese_summary": "为分析师、量化交易员和AI代理提供开源财经数据平台。",
+        "use_case": "用于金融数据分析、量化交易策略开发和AI模型训练。",
+        "tech_highlights": [
+          "支持多种数据源接入",
+          "提供API和SDK",
+          "可扩展性强"
+        ],
+        "target_users": "金融分析师、量化交易员、AI开发者",
+        "why_trending": "顺应开源趋势，满足AI在金融领域的应用需求，社区活跃。",
+        "getting_started": "通过官方文档快速了解项目结构和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "category": "systems",
+      "stars": 138662,
+      "forks": 8568,
+      "today_stars": 51,
+      "hot_score": 1024.2,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "Windows系统增强工具集合，提高生产力和个性化设置",
+        "use_case": "适用于需要高效操作和自定义Windows系统的用户",
+        "tech_highlights": [
+          "跨平台开发",
+          "C语言编写",
+          "模块化设计"
+        ],
+        "target_users": "Windows系统高级用户和开发者",
+        "why_trending": "因其强大的功能和高度的自定义性，满足了用户对系统优化的高需求，社区活跃度高",
+        "getting_started": "访问GitHub页面，按照README文件指引快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-Z4nzu-hackingtool",
+      "source": "github",
+      "full_name": "Z4nzu/hackingtool",
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 79512,
+      "forks": 9007,
+      "today_stars": 49,
+      "hot_score": 980.0,
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Z4nzu 全功能黑客工具",
+        "chinese_summary": "集成了多种黑客攻击工具的综合平台",
+        "use_case": "适用于黑客、安全研究人员进行网络攻击测试和安全评估",
+        "tech_highlights": [
+          "多功能集成",
+          "Python 编写",
+          "持续更新"
+        ],
+        "target_users": "黑客、安全研究人员",
+        "why_trending": "由于其多功能性和便捷性，受到黑客和安全社区的广泛关注",
+        "getting_started": "通过安装依赖和运行脚本快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nektos-act",
+      "source": "github",
+      "full_name": "nektos/act",
+      "owner": "nektos",
+      "name": "act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "category": "backend",
+      "stars": 72005,
+      "forks": 2033,
+      "today_stars": 41,
+      "hot_score": 895.7,
+      "url": "https://github.com/nektos/act",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "nektos/act",
+        "chinese_summary": "本地运行 GitHub Actions",
+        "use_case": "用于开发和测试 GitHub Actions 工作流",
+        "tech_highlights": [
+          "Go 语言实现",
+          "支持多种 GitHub Actions",
+          "本地模拟 GitHub 环境"
+        ],
+        "target_users": "GitHub Actions 开发者和测试人员",
+        "why_trending": "简化 GitHub Actions 的开发和测试流程，提高开发效率",
+        "getting_started": "通过文档快速设置和运行本地环境",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-goauthentik",
+      "source": "github",
+      "full_name": "sponsors/goauthentik",
+      "owner": "sponsors",
+      "name": "goauthentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 25512,
+      "forks": 2015,
+      "today_stars": 42,
+      "hot_score": 860.7,
+      "url": "https://github.com/sponsors/goauthentik",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "goauthentik",
+        "chinese_summary": "提供身份验证服务的中间件",
+        "use_case": "用于构建安全的身份验证系统",
+        "tech_highlights": [
+          "支持多种身份验证方式",
+          "高度可配置",
+          "易于集成"
+        ],
+        "target_users": "需要实现身份验证功能的开发者",
+        "why_trending": "随着微服务架构的普及，身份验证的需求增加，该项目提供了一种灵活的解决方案",
+        "getting_started": "通过官方文档快速了解并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-AUTOMATIC1111-stable-diffusion-webui",
+      "source": "github",
+      "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+      "owner": "AUTOMATIC1111",
+      "name": "stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 164939,
+      "forks": 30553,
+      "today_stars": 33,
+      "hot_score": 851.7,
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "自动1111 稳定扩散 Web 界面",
+        "chinese_summary": "一个基于 Stable Diffusion 的图形用户界面，用于生成图像",
+        "use_case": "主要用于艺术创作、图像生成和创意设计",
+        "tech_highlights": [
+          "基于 Stable Diffusion 的图像生成技术",
+          "用户友好的图形界面",
+          "高度可定制"
+        ],
+        "target_users": "艺术家、设计师、创意工作者和 AI 爱好者",
+        "why_trending": "结合了先进的图像生成技术和易用性，满足了创意社区的需求",
+        "getting_started": "通过安装 Python 环境和运行脚本快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
