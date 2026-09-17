@@ -1,0 +1,615 @@
+{
+  "date": "2026-09-16",
+  "since": "daily",
+  "generated_at": "2026-09-17T03:46:08.287150+00:00",
+  "total": 20,
+  "category_counts": {
+    "backend": 4,
+    "frontend": 6,
+    "systems": 2,
+    "ai_ml": 7,
+    "mobile": 1
+  },
+  "repos": [
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 77933,
+      "forks": 8623,
+      "today_stars": 1059,
+      "hot_score": 11079.2,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "国家安全局/Ghidra",
+        "chinese_summary": "Ghidra 是一个软件逆向工程框架，用于分析和修改二进制代码。",
+        "use_case": "主要用于逆向分析恶意软件、漏洞挖掘和代码逆向工程。",
+        "tech_highlights": [
+          "开源免费",
+          "支持多种架构",
+          "强大的逆向分析工具"
+        ],
+        "target_users": "软件逆向工程师、安全研究人员",
+        "why_trending": "由于其强大的功能和开源特性，吸引了大量安全研究人员和逆向工程师的兴趣。",
+        "getting_started": "访问 GitHub 页面，下载最新版本并参考官方文档快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-n8n-io-n8n",
+      "source": "github",
+      "full_name": "n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 204689,
+      "forks": 60720,
+      "today_stars": 225,
+      "hot_score": 2781.1,
+      "url": "https://github.com/n8n-io/n8n",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "n8n",
+        "chinese_summary": "基于AI的工作流自动化平台，结合可视化构建和自定义代码，提供400+集成。",
+        "use_case": "适用于需要自动化工作流的企业和开发者，支持自托管或云部署。",
+        "tech_highlights": [
+          "支持自定义代码和可视化构建",
+          "内置AI功能",
+          "丰富的集成库"
+        ],
+        "target_users": "需要自动化工作流的企业和个人开发者",
+        "why_trending": "结合AI和工作流自动化，满足现代企业需求；社区活跃，持续更新。",
+        "getting_started": "通过官方文档快速了解基本概念和操作流程",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 123922,
+      "forks": 19103,
+      "today_stars": 185,
+      "hot_score": 2359.3,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一款开源远程桌面应用，支持自托管，替代TeamViewer。",
+        "use_case": "适用于需要远程访问和控制计算机的场景。",
+        "tech_highlights": [
+          "使用Rust编写，安全可靠",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台兼容性"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "基于Rust的高性能和安全性，以及开源社区的支持，吸引了大量关注。",
+        "getting_started": "访问GitHub仓库，按照README中的说明快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 114464,
+      "forks": 6970,
+      "today_stars": 147,
+      "hot_score": 1975.9,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的自托管照片和视频管理解决方案",
+        "use_case": "适用于需要自托管且注重性能的照片和视频管理场景",
+        "tech_highlights": [
+          "高性能",
+          "自托管",
+          "TypeScript 编程语言"
+        ],
+        "target_users": "需要自托管的照片和视频管理解决方案的用户",
+        "why_trending": "得益于其高性能和自托管特性，满足了用户对隐私和性能的需求，同时TypeScript的使用也增加了开发效率",
+        "getting_started": "通过官方文档快速了解项目结构和安装步骤",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 455632,
+      "forks": 46465,
+      "today_stars": 135,
+      "hot_score": 1915.9,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "freeCodeCamp 开源项目",
+        "chinese_summary": "一个提供免费数学、编程和计算机科学课程的开源平台。",
+        "use_case": "在线学习编程和相关技能。",
+        "tech_highlights": [
+          "丰富的课程内容",
+          "社区驱动的开发",
+          "多语言支持"
+        ],
+        "target_users": "编程初学者和自学者",
+        "why_trending": "因其免费性和社区活跃度而受到关注，符合当前在线教育和开源文化的发展趋势。",
+        "getting_started": "访问官网或GitHub页面开始学习和贡献代码。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-supabase",
+      "source": "github",
+      "full_name": "sponsors/supabase",
+      "owner": "sponsors",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 109803,
+      "forks": 14054,
+      "today_stars": 120,
+      "hot_score": 1704.1,
+      "url": "https://github.com/sponsors/supabase",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Supabase",
+        "chinese_summary": "Postgres 开发平台，提供专用 Postgres 数据库用于构建 Web、移动和 AI 应用。",
+        "use_case": "适用于需要 Postgres 数据库支持的 Web、移动和 AI 应用开发。",
+        "tech_highlights": [
+          "支持 Postgres 数据库",
+          "易于集成的 API",
+          "开源免费"
+        ],
+        "target_users": "Web、移动和 AI 应用开发者",
+        "why_trending": "得益于对 Postgres 数据库的强大支持和易用性，以及开源免费的特性，吸引了大量开发者。",
+        "getting_started": "快速阅读官方文档并创建项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-dgtlmoon-changedetection.io",
+      "source": "github",
+      "full_name": "dgtlmoon/changedetection.io",
+      "owner": "dgtlmoon",
+      "name": "changedetection.io",
+      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 34345,
+      "forks": 2061,
+      "today_stars": 124,
+      "hot_score": 1693.6,
+      "url": "https://github.com/dgtlmoon/changedetection.io",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "网站变更检测工具",
+        "chinese_summary": "用于网站变更检测、网页监控和网站变更提醒的最佳工具。",
+        "use_case": "适用于跟踪内容变化、价格下降、库存补货提醒和网站篡改监控。",
+        "tech_highlights": [
+          "简洁易用的界面",
+          "免费版本和付费SaaS计划",
+          "强大的变更检测算法"
+        ],
+        "target_users": "网站管理员、电商从业者、内容创作者",
+        "why_trending": "结合了免费和付费服务，满足不同用户需求；利用AI技术提高变更检测的准确性。",
+        "getting_started": "直接访问官网，选择适合的版本开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-antoniaci-blackbird",
+      "source": "github",
+      "full_name": "antoniaci/blackbird",
+      "owner": "antoniaci",
+      "name": "blackbird",
+      "description": "An OSINT tool to search for accounts by username and email in social networks.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 8266,
+      "forks": 950,
+      "today_stars": 105,
+      "hot_score": 1441.7,
+      "url": "https://github.com/antoniaci/blackbird",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "黑鸟",
+        "chinese_summary": "通过用户名和邮箱在社交网络中搜索账号的开源工具",
+        "use_case": "用于社交媒体账号的查找和监控",
+        "tech_highlights": [
+          "支持多社交网络平台",
+          "使用Python编写",
+          "开源社区活跃"
+        ],
+        "target_users": "安全研究人员、社交媒体分析师",
+        "why_trending": "随着OSINT技术的发展和社区的推动，该项目受到关注",
+        "getting_started": "通过安装依赖和运行示例代码快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-huggingface-transformers",
+      "source": "github",
+      "full_name": "huggingface/transformers",
+      "owner": "huggingface",
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 166261,
+      "forks": 34606,
+      "today_stars": 90,
+      "hot_score": 1422.1,
+      "url": "https://github.com/huggingface/transformers",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hugging Face Transformers",
+        "chinese_summary": "用于文本、视觉、音频和多模态模型的先进机器学习模型框架。",
+        "use_case": "适用于模型的训练和推理。",
+        "tech_highlights": [
+          "支持多种模型架构",
+          "提供丰富的模型库",
+          "易于扩展和定制"
+        ],
+        "target_users": "机器学习工程师、研究人员和数据科学家",
+        "why_trending": "由于其强大的功能和广泛的社区支持，吸引了大量关注。",
+        "getting_started": "通过安装库和查阅文档快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-langchain-ai-langchain",
+      "source": "github",
+      "full_name": "langchain-ai/langchain",
+      "owner": "langchain-ai",
+      "name": "langchain",
+      "description": "The agent engineering platform.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 146476,
+      "forks": 24493,
+      "today_stars": 89,
+      "hot_score": 1406.6,
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Langchain",
+        "chinese_summary": "基于 Python 的智能代理工程平台。",
+        "use_case": "用于构建和管理复杂的代理系统。",
+        "tech_highlights": [
+          "支持多种代理类型",
+          "灵活的模块化设计",
+          "强大的扩展性"
+        ],
+        "target_users": "AI 工程师和研究人员",
+        "why_trending": "得益于其强大的代理管理和扩展能力，以及对最新 AI 技术的支持。",
+        "getting_started": "通过官方文档快速了解基本概念和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-openai-whisper",
+      "source": "github",
+      "full_name": "openai/whisper",
+      "owner": "openai",
+      "name": "whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 109236,
+      "forks": 13246,
+      "today_stars": 80,
+      "hot_score": 1303.8,
+      "url": "https://github.com/openai/whisper",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Whisper",
+        "chinese_summary": "通过大规模弱监督实现稳健的语音识别",
+        "use_case": "适用于语音转文字、语音搜索、语音助手等领域",
+        "tech_highlights": [
+          "大规模弱监督训练",
+          "多语言支持",
+          "端到端模型"
+        ],
+        "target_users": "语音识别开发者、研究者、多语言处理专家",
+        "why_trending": "因其在多语言和噪声环境下的卓越表现，以及开源社区的广泛支持",
+        "getting_started": "访问GitHub页面，按照README文件中的说明快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-coder-coder",
+      "source": "github",
+      "full_name": "coder/coder",
+      "owner": "coder",
+      "name": "coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "category": "backend",
+      "stars": 14624,
+      "forks": 1478,
+      "today_stars": 83,
+      "hot_score": 1246.5,
+      "url": "https://github.com/coder/coder",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Coder",
+        "chinese_summary": "为开发者和代理提供安全环境",
+        "use_case": "用于构建和部署安全的开发环境",
+        "tech_highlights": [
+          "支持多云部署",
+          "安全的代理通信",
+          "灵活的配置管理"
+        ],
+        "target_users": "开发人员和云原生应用开发者",
+        "why_trending": "得益于云原生技术的普及和对安全环境的需求增加",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-bobeff-open-source-games",
+      "source": "github",
+      "full_name": "bobeff/open-source-games",
+      "owner": "bobeff",
+      "name": "open-source-games",
+      "description": "A list of open source games.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 14469,
+      "forks": 1189,
+      "today_stars": 77,
+      "hot_score": 1186.0,
+      "url": "https://github.com/bobeff/open-source-games",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "开源游戏合集",
+        "chinese_summary": "一个包含多种开源游戏的列表。",
+        "use_case": "供开发者学习、参考和贡献开源游戏代码。",
+        "tech_highlights": [
+          "游戏多样性",
+          "开源许可",
+          "社区贡献"
+        ],
+        "target_users": "游戏开发者、爱好者和贡献者",
+        "why_trending": "由于开源文化的发展和游戏开发社区的活跃，此类项目越来越受到关注。",
+        "getting_started": "直接访问项目仓库，查看README文件中的说明快速开始。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nestjs-nest",
+      "source": "github",
+      "full_name": "nestjs/nest",
+      "owner": "nestjs",
+      "name": "nest",
+      "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 76732,
+      "forks": 8553,
+      "today_stars": 63,
+      "hot_score": 1118.5,
+      "url": "https://github.com/nestjs/nest",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "NestJS",
+        "chinese_summary": "基于TypeScript的渐进式Node.js框架，用于构建高效、可扩展的企业级后端应用。",
+        "use_case": "适用于需要高效、可扩展的企业级应用开发。",
+        "tech_highlights": [
+          "基于TypeScript",
+          "模块化架构",
+          "集成多种流行的库"
+        ],
+        "target_users": "企业级应用开发者",
+        "why_trending": "因其强大的功能和TypeScript的支持，吸引了大量开发者，社区活跃。",
+        "getting_started": "通过官方文档快速开始项目开发",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 96236,
+      "forks": 6450,
+      "today_stars": 54,
+      "hot_score": 1038.3,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "Playwright 是一个用于 Web 测试和自动化框架，提供单一 API 测试 Chromium、Firefox 和 WebKit。",
+        "use_case": "主要用于前端 Web 应用的自动化测试。",
+        "tech_highlights": [
+          "单一 API 支持多浏览器",
+          "内置 DevTools API",
+          "支持网络模拟"
+        ],
+        "target_users": "前端开发者和测试工程师",
+        "why_trending": "因其强大的跨浏览器测试能力和易用性而受到关注，符合当前 Web 开发的趋势。",
+        "getting_started": "通过 npm 安装并快速阅读官方文档开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-paperless-ngx-paperless-ngx",
+      "source": "github",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "owner": "paperless-ngx",
+      "name": "paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 45231,
+      "forks": 3118,
+      "today_stars": 57,
+      "hot_score": 1035.5,
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纸less-ngx",
+        "chinese_summary": "一个社区支持的增强型文档管理系统：扫描、索引和归档所有文档",
+        "use_case": "适用于需要高效管理大量文档的企业和个人",
+        "tech_highlights": [
+          "支持扫描和OCR技术",
+          "强大的索引和搜索功能",
+          "可扩展性强"
+        ],
+        "target_users": "需要高效管理文档的企业和个人用户",
+        "why_trending": "得益于其强大的功能和社区的支持，满足了用户对高效文档管理的需求",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nautechsystems-nautilus_trader",
+      "source": "github",
+      "full_name": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 29047,
+      "forks": 3810,
+      "today_stars": 48,
+      "hot_score": 926.3,
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纳utilus交易引擎",
+        "chinese_summary": "基于 Rust 的高性能交易引擎，采用确定性事件驱动架构",
+        "use_case": "适用于高频交易、算法交易等需要高性能和确定性的交易场景",
+        "tech_highlights": [
+          "高性能",
+          "确定性事件驱动",
+          "Rust 编程语言"
+        ],
+        "target_users": "高频交易员、算法交易工程师",
+        "why_trending": "得益于 Rust 的安全性和性能，以及事件驱动架构的高效性，吸引了大量关注",
+        "getting_started": "建议从官方文档开始，快速了解项目结构和核心概念",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-exelban",
+      "source": "github",
+      "full_name": "sponsors/exelban",
+      "owner": "sponsors",
+      "name": "exelban",
+      "description": "macOS system monitor in your menu bar",
+      "language": "Swift",
+      "category": "mobile",
+      "stars": 41878,
+      "forks": 1529,
+      "today_stars": 46,
+      "hot_score": 922.2,
+      "url": "https://github.com/sponsors/exelban",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Exelban",
+        "chinese_summary": "macOS 系统监控器，置于菜单栏",
+        "use_case": "适用于需要实时监控 macOS 系统性能的用户",
+        "tech_highlights": [
+          "Swift 编程语言",
+          "菜单栏集成",
+          "系统监控功能"
+        ],
+        "target_users": "需要监控 macOS 系统性能的用户",
+        "why_trending": "随着远程办公需求增加，系统监控工具受到更多关注；Exelban 作为轻量级解决方案，易于集成到日常使用中",
+        "getting_started": "通过 Homebrew 安装，快速启动并使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-tailscale-tailscale",
+      "source": "github",
+      "full_name": "tailscale/tailscale",
+      "owner": "tailscale",
+      "name": "tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 36563,
+      "forks": 3215,
+      "today_stars": 41,
+      "hot_score": 866.3,
+      "url": "https://github.com/tailscale/tailscale",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Tailscale",
+        "chinese_summary": "使用 WireGuard 和双因素认证的简单安全网络连接工具",
+        "use_case": "适用于需要简单安全网络连接的个人和团队",
+        "tech_highlights": [
+          "支持 WireGuard",
+          "内置双因素认证",
+          "易于安装和使用"
+        ],
+        "target_users": "需要简单安全网络连接的个人和团队",
+        "why_trending": "得益于其简单易用性和安全性，特别是在远程工作和网络安全需求增加的背景下",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-usememos",
+      "source": "github",
+      "full_name": "sponsors/usememos",
+      "owner": "sponsors",
+      "name": "usememos",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 63119,
+      "forks": 4764,
+      "today_stars": 38,
+      "hot_score": 860.0,
+      "url": "https://github.com/sponsors/usememos",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "使用记忆笔记",
+        "chinese_summary": "快速捕捉的自托管笔记工具，支持 Markdown，轻量且完全属于你。",
+        "use_case": "适用于需要快速记录和整理笔记的个人和团队。",
+        "tech_highlights": [
+          "自托管特性",
+          "Markdown 支持",
+          "Go 语言编写"
+        ],
+        "target_users": "需要自托管笔记工具的个人和团队",
+        "why_trending": "自托管趋势增长，Go 语言的高效性能和社区活跃度",
+        "getting_started": "通过文档快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
