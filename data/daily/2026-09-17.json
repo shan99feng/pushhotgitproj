@@ -1,0 +1,615 @@
+{
+  "date": "2026-09-17",
+  "since": "daily",
+  "generated_at": "2026-09-18T03:32:06.871069+00:00",
+  "total": 20,
+  "category_counts": {
+    "backend": 7,
+    "frontend": 5,
+    "other": 1,
+    "systems": 4,
+    "ai_ml": 3
+  },
+  "repos": [
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 78576,
+      "forks": 8687,
+      "today_stars": 912,
+      "hot_score": 9609.5,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "国家安全局/Ghidra",
+        "chinese_summary": "Ghidra 是一个软件逆向工程框架",
+        "use_case": "用于分析和修改二进制代码，帮助理解软件内部结构。",
+        "tech_highlights": [
+          "支持多种编程语言的逆向分析",
+          "强大的反汇编和反编译功能",
+          "开源且免费"
+        ],
+        "target_users": "软件逆向工程师、安全研究人员",
+        "why_trending": "由于其强大的逆向工程能力和开源特性，吸引了大量安全研究者的关注。",
+        "getting_started": "访问 GitHub 页面，下载最新版本并参考官方文档开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-supabase",
+      "source": "github",
+      "full_name": "sponsors/supabase",
+      "owner": "sponsors",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 109928,
+      "forks": 14174,
+      "today_stars": 586,
+      "hot_score": 6364.1,
+      "url": "https://github.com/sponsors/supabase",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Supabase",
+        "chinese_summary": "Postgres 开发平台，提供专用 Postgres 数据库用于构建 Web、移动和 AI 应用。",
+        "use_case": "适用于需要 Postgres 数据库支持的 Web、移动和 AI 应用开发。",
+        "tech_highlights": [
+          "支持 Postgres 数据库",
+          "易于集成",
+          "丰富的 API 接口"
+        ],
+        "target_users": "Web、移动和 AI 应用开发者",
+        "why_trending": "得益于对 Postgres 数据库的强大支持和易用性，Supabase 在开发者社区中受到欢迎。",
+        "getting_started": "通过官方文档快速了解 Supabase 的基本用法和功能。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-n8n-io-n8n",
+      "source": "github",
+      "full_name": "n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 205068,
+      "forks": 60748,
+      "today_stars": 281,
+      "hot_score": 3341.2,
+      "url": "https://github.com/n8n-io/n8n",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "n8n",
+        "chinese_summary": "一个具备原生AI能力的工作流自动化平台，结合可视化构建与自定义代码，支持自托管或云端部署。",
+        "use_case": "适用于需要自动化工作流的企业和个人，尤其是需要集成多种服务和应用的场景。",
+        "tech_highlights": [
+          "支持自定义代码和可视化构建",
+          "内置AI功能",
+          "400+服务集成"
+        ],
+        "target_users": "需要自动化工作流的企业和个人开发者",
+        "why_trending": "因其强大的工作流自动化能力和易于使用的界面，结合了AI技术，满足了现代企业对自动化工具的需求。",
+        "getting_started": "建议从官方文档开始，快速了解基本操作和工作流构建方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-codecrafters-io-build-your-own-x",
+      "source": "github",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "category": "other",
+      "stars": 547927,
+      "forks": 51531,
+      "today_stars": 241,
+      "hot_score": 2983.9,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "从零构建你喜爱的技术",
+        "chinese_summary": "通过重新实现你喜爱的技术来学习编程",
+        "use_case": "适用于希望深入理解技术原理和实践编程技能的学习者",
+        "tech_highlights": [
+          "从零开始实现技术",
+          "学习底层原理",
+          "实践编程技能"
+        ],
+        "target_users": "编程初学者和希望深化技术理解的开发者",
+        "why_trending": "符合当前编程学习趋势，强调实践和理解，社区活跃度高",
+        "getting_started": "阅读项目文档，选择一个感兴趣的项目开始实现",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 123887,
+      "forks": 19126,
+      "today_stars": 230,
+      "hot_score": 2809.3,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "开源远程桌面应用，支持自托管，替代TeamViewer。",
+        "use_case": "适用于远程访问和控制个人或企业计算机。",
+        "tech_highlights": [
+          "使用Rust编写，保证高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台兼容性"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "得益于Rust语言的性能和安全性，以及开源社区的支持，RustDesk受到了广泛关注。",
+        "getting_started": "通过官方文档快速了解安装和配置步骤",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-sharkdp",
+      "source": "github",
+      "full_name": "sponsors/sharkdp",
+      "owner": "sponsors",
+      "name": "sharkdp",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 44469,
+      "forks": 1139,
+      "today_stars": 155,
+      "hot_score": 2014.8,
+      "url": "https://github.com/sponsors/sharkdp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "鲨鱼快查",
+        "chinese_summary": "一个简单、快速且用户友好的‘find’替代工具",
+        "use_case": "用于文件搜索和管理",
+        "tech_highlights": [
+          "使用 Rust 编写",
+          "性能优秀",
+          "用户界面友好"
+        ],
+        "target_users": "开发人员和系统管理员",
+        "why_trending": "得益于 Rust 的性能和跨平台特性，以及简洁易用的设计",
+        "getting_started": "通过 Cargo 安装并快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-coder-coder",
+      "source": "github",
+      "full_name": "coder/coder",
+      "owner": "coder",
+      "name": "coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "category": "backend",
+      "stars": 14900,
+      "forks": 1487,
+      "today_stars": 145,
+      "hot_score": 1867.3,
+      "url": "https://github.com/coder/coder",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Coder",
+        "chinese_summary": "为开发者和代理提供安全环境",
+        "use_case": "用于构建和部署安全的开发环境",
+        "tech_highlights": [
+          "支持多云环境",
+          "安全的代理管理",
+          "灵活的配置"
+        ],
+        "target_users": "开发者和云原生应用运维人员",
+        "why_trending": "顺应云原生安全趋势，社区活跃度高",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-dora-rs-dora",
+      "source": "github",
+      "full_name": "dora-rs/dora",
+      "owner": "dora-rs",
+      "name": "dora",
+      "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 3963,
+      "forks": 439,
+      "today_stars": 147,
+      "hot_score": 1829.8,
+      "url": "https://github.com/dora-rs/dora",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "DORA (数据导向机器人架构)",
+        "chinese_summary": "简化AI机器人应用开发的低延迟、可组合、分布式数据流中间件",
+        "use_case": "适用于需要高效数据处理和机器人应用开发的场景",
+        "tech_highlights": [
+          "低延迟数据流处理",
+          "可组合的应用开发",
+          "分布式架构"
+        ],
+        "target_users": "机器人开发者、AI工程师",
+        "why_trending": "得益于Rust语言的性能优势和数据流处理的新兴需求",
+        "getting_started": "建议从官方文档开始，快速了解基本概念和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 455701,
+      "forks": 46559,
+      "today_stars": 111,
+      "hot_score": 1675.9,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "免费编程营开源代码库",
+        "chinese_summary": "提供免费的数学、编程和计算机科学学习资源",
+        "use_case": "在线学习、个人技能提升、开源贡献",
+        "tech_highlights": [
+          "使用 TypeScript 编写",
+          "开源社区维护",
+          "丰富的学习资源"
+        ],
+        "target_users": "编程初学者、自学者、开源贡献者",
+        "why_trending": "符合当前在线学习和开源文化趋势，社区活跃",
+        "getting_started": "访问官网，选择课程开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-antoniaci-blackbird",
+      "source": "github",
+      "full_name": "antoniaci/blackbird",
+      "owner": "antoniaci",
+      "name": "blackbird",
+      "description": "An OSINT tool to search for accounts by username and email in social networks.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 8382,
+      "forks": 976,
+      "today_stars": 123,
+      "hot_score": 1622.3,
+      "url": "https://github.com/antoniaci/blackbird",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "黑鸟",
+        "chinese_summary": "通过用户名和邮箱在社交网络中搜索账号的开源工具",
+        "use_case": "用于社交媒体账号的搜索和信息收集",
+        "tech_highlights": [
+          "支持多种社交网络平台",
+          "强大的搜索功能",
+          "开源且可定制"
+        ],
+        "target_users": "网络安全专家、数据分析师和社交媒体研究人员",
+        "why_trending": "随着开源和网络安全意识的提高，此类工具越来越受欢迎",
+        "getting_started": "通过安装依赖和运行示例代码快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nats-io-nats-server",
+      "source": "github",
+      "full_name": "nats-io/nats-server",
+      "owner": "nats-io",
+      "name": "nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 20741,
+      "forks": 1961,
+      "today_stars": 112,
+      "hot_score": 1551.7,
+      "url": "https://github.com/nats-io/nats-server",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "NATS.io 服务器",
+        "chinese_summary": "高性能 NATS.io 消息系统服务器，适用于云和边缘计算场景。",
+        "use_case": "适用于需要高性能、低延迟的消息传递场景，如事件驱动架构、微服务通信等。",
+        "tech_highlights": [
+          "支持高并发和低延迟的消息传递",
+          "轻量级且易于部署",
+          "广泛兼容多种编程语言和框架"
+        ],
+        "target_users": "微服务架构师、事件驱动架构开发者、云和边缘计算工程师",
+        "why_trending": "得益于其高性能和低延迟特性，以及在云和边缘计算领域的广泛应用，吸引了大量开发者关注。",
+        "getting_started": "通过官方文档快速了解基本配置和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 114485,
+      "forks": 6983,
+      "today_stars": 100,
+      "hot_score": 1505.9,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的本地照片和视频管理解决方案",
+        "use_case": "适用于个人和团队的照片和视频管理，支持自托管。",
+        "tech_highlights": [
+          "基于 TypeScript 开发",
+          "高性能",
+          "自托管"
+        ],
+        "target_users": "个人用户、团队和组织",
+        "why_trending": "由于其高性能和自托管特性，吸引了大量寻求隐私保护和数据控制的用户。",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-langchain-ai-langchain",
+      "source": "github",
+      "full_name": "langchain-ai/langchain",
+      "owner": "langchain-ai",
+      "name": "langchain",
+      "description": "The agent engineering platform.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 146560,
+      "forks": 24508,
+      "today_stars": 87,
+      "hot_score": 1386.6,
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Langchain",
+        "chinese_summary": "基于Python的智能代理工程平台",
+        "use_case": "用于构建和管理复杂的代理系统",
+        "tech_highlights": [
+          "支持多种代理类型",
+          "灵活的模块化设计",
+          "强大的API接口"
+        ],
+        "target_users": "AI工程师和研究人员",
+        "why_trending": "得益于AI技术的发展和社区的积极参与",
+        "getting_started": "通过官方文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "category": "systems",
+      "stars": 138799,
+      "forks": 8581,
+      "today_stars": 78,
+      "hot_score": 1294.2,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "Windows系统增强工具集合，提高生产力和个性化设置",
+        "use_case": "适用于需要高效操作和自定义Windows系统的用户",
+        "tech_highlights": [
+          "跨平台开发",
+          "C语言编写",
+          "模块化设计"
+        ],
+        "target_users": "追求高效操作和个性化设置的Windows用户",
+        "why_trending": "结合了多种实用工具，满足用户多样化需求；社区活跃，持续更新",
+        "getting_started": "访问GitHub页面，按照README快速安装和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-caddyserver-caddy",
+      "source": "github",
+      "full_name": "caddyserver/caddy",
+      "owner": "caddyserver",
+      "name": "caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "category": "backend",
+      "stars": 75835,
+      "forks": 4968,
+      "today_stars": 74,
+      "hot_score": 1228.0,
+      "url": "https://github.com/caddyserver/caddy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Caddy",
+        "chinese_summary": "快速且可扩展的多平台HTTP/1-2-3网络服务器，自动提供HTTPS",
+        "use_case": "适用于网站托管、API服务、静态文件服务等场景",
+        "tech_highlights": [
+          "自动HTTPS配置",
+          "简洁的配置语言",
+          "丰富的插件生态系统"
+        ],
+        "target_users": "网站开发者、API服务提供者、小型企业",
+        "why_trending": "得益于其易用性和强大的功能，Caddy在自动化和安全性方面满足了现代网络服务的需求",
+        "getting_started": "通过官方文档快速了解基本配置，轻松开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-coollabsio",
+      "source": "github",
+      "full_name": "sponsors/coollabsio",
+      "owner": "sponsors",
+      "name": "coollabsio",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
+      "language": "PHP",
+      "category": "backend",
+      "stars": 61962,
+      "forks": 5489,
+      "today_stars": 69,
+      "hot_score": 1169.2,
+      "url": "https://github.com/sponsors/coollabsio",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Coollabs",
+        "chinese_summary": "一个自托管的 PaaS 平台，支持部署静态站点、数据库、全栈应用及 280+ 一键服务。",
+        "use_case": "适用于需要自托管部署的开发者和团队。",
+        "tech_highlights": [
+          "支持多种部署类型",
+          "自托管特性",
+          "丰富的预置服务"
+        ],
+        "target_users": "需要自托管部署服务的开发者和团队",
+        "why_trending": "随着对数据安全和控制需求的增加，自托管解决方案越来越受欢迎。",
+        "getting_started": "访问项目文档，按照指南快速开始部署",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-junegunn",
+      "source": "github",
+      "full_name": "sponsors/junegunn",
+      "owner": "sponsors",
+      "name": "junegunn",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "category": "backend",
+      "stars": 83088,
+      "forks": 3023,
+      "today_stars": 59,
+      "hot_score": 1082.0,
+      "url": "https://github.com/sponsors/junegunn",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "junegunn 赞助",
+        "chinese_summary": "一个命令行模糊查找工具",
+        "use_case": "用于快速查找文件、目录等",
+        "tech_highlights": [
+          "Go 语言编写",
+          "命令行界面",
+          "模糊搜索"
+        ],
+        "target_users": "开发者和需要高效文件查找的用户",
+        "why_trending": "因其高效性和简洁性受到开发者欢迎，符合当前对轻量级工具的需求",
+        "getting_started": "通过安装 Go 环境并运行 `sponsors/junegunn` 命令开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-projectdiscovery-nuclei",
+      "source": "github",
+      "full_name": "projectdiscovery/nuclei",
+      "owner": "projectdiscovery",
+      "name": "nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 31278,
+      "forks": 3874,
+      "today_stars": 62,
+      "hot_score": 1069.5,
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Nuclei",
+        "chinese_summary": "基于 YAML 语法的快速可定制漏洞扫描工具",
+        "use_case": "用于发现应用程序、API、网络、DNS 和云配置中的漏洞",
+        "tech_highlights": [
+          "基于全球安全社区的漏洞库",
+          "使用 YAML 语法的简单 DSL",
+          "高度可定制"
+        ],
+        "target_users": "安全研究人员、开发人员和运维人员",
+        "why_trending": "得益于其强大的漏洞库和易于使用的 YAML 语法，吸引了大量安全社区的关注",
+        "getting_started": "通过安装 Go 环境并运行 `go get -u projectdiscovery.io/nuclei` 快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 96290,
+      "forks": 6456,
+      "today_stars": 57,
+      "hot_score": 1068.4,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "Playwright 是一个用于 Web 测试和自动化框架，提供单一 API 测试 Chromium、Firefox 和 WebKit。",
+        "use_case": "适用于需要跨浏览器测试的 Web 应用开发。",
+        "tech_highlights": [
+          "跨浏览器支持",
+          "单一 API",
+          "性能优化"
+        ],
+        "target_users": "Web 应用开发者和测试工程师",
+        "why_trending": "因其强大的跨浏览器测试能力和简洁的 API 设计，受到广泛关注。",
+        "getting_started": "通过官方文档快速开始使用 Playwright 进行自动化测试。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-Data-Science-For-Beginners",
+      "source": "github",
+      "full_name": "microsoft/Data-Science-For-Beginners",
+      "owner": "microsoft",
+      "name": "Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "language": "Jupyter Notebook",
+      "category": "ai_ml",
+      "stars": 37099,
+      "forks": 7502,
+      "today_stars": 53,
+      "hot_score": 986.9,
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "初学者数据科学入门",
+        "chinese_summary": "一个为期10周，包含20个课程的数据科学基础教程。",
+        "use_case": "适合数据科学初学者学习和实践数据科学的基本概念和技术。",
+        "tech_highlights": [
+          "Jupyter Notebook 交互式编程环境",
+          "涵盖数据科学基础概念",
+          "实战项目练习"
+        ],
+        "target_users": "数据科学初学者",
+        "why_trending": "适合自学，内容丰富，易于上手，紧跟数据科学教育趋势。",
+        "getting_started": "直接访问 GitHub 仓库，按照课程顺序学习。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
