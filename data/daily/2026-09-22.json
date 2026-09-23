@@ -1,0 +1,613 @@
+{
+  "date": "2026-09-22",
+  "since": "daily",
+  "generated_at": "2026-09-23T03:39:14.772599+00:00",
+  "total": 20,
+  "category_counts": {
+    "backend": 4,
+    "frontend": 5,
+    "ai_ml": 6,
+    "systems": 4,
+    "other": 1
+  },
+  "repos": [
+    {
+      "repo_id": "github-coder-coder",
+      "source": "github",
+      "full_name": "coder/coder",
+      "owner": "coder",
+      "name": "coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "category": "backend",
+      "stars": 16613,
+      "forks": 1578,
+      "today_stars": 290,
+      "hot_score": 3322.0,
+      "url": "https://github.com/coder/coder",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Coder",
+        "chinese_summary": "为开发者和代理提供安全环境",
+        "use_case": "用于构建和部署安全的开发环境",
+        "tech_highlights": [
+          "基于Go语言开发",
+          "安全的环境管理",
+          "支持多云部署"
+        ],
+        "target_users": "开发者和云环境管理员",
+        "why_trending": "随着云原生和安全需求的增加，安全的开发环境管理变得越来越重要",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-upscayl-upscayl",
+      "source": "github",
+      "full_name": "upscayl/upscayl",
+      "owner": "upscayl",
+      "name": "upscayl",
+      "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 49801,
+      "forks": 2520,
+      "today_stars": 200,
+      "hot_score": 2469.7,
+      "url": "https://github.com/upscayl/upscayl",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Upscayl",
+        "chinese_summary": "一款基于AI的免费开源图像放大工具，支持Linux、MacOS和Windows。",
+        "use_case": "用于提高图像分辨率，适用于摄影师、设计师和普通用户。",
+        "tech_highlights": [
+          "使用先进的AI技术进行图像放大",
+          "开源代码，支持社区贡献"
+        ],
+        "target_users": "摄影师、设计师、普通用户",
+        "why_trending": "结合了AI技术与开源精神，满足用户对高质量图像的需求，社区活跃。",
+        "getting_started": "通过GitHub页面快速安装并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 371343,
+      "forks": 58567,
+      "today_stars": 163,
+      "hot_score": 2187.0,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计先驱",
+        "chinese_summary": "学习如何设计大规模系统，准备系统设计面试，包含Anki闪卡。",
+        "use_case": "适用于准备系统设计面试和技术面试的开发者。",
+        "tech_highlights": [
+          "涵盖广泛的设计案例",
+          "包含Anki闪卡辅助学习",
+          "提供系统设计面试指南"
+        ],
+        "target_users": "技术面试准备者和系统设计学习者",
+        "why_trending": "随着云计算和分布式系统的发展，系统设计成为技术面试中的热点话题，该项目提供了系统设计的实战指导，因此受到关注。",
+        "getting_started": "直接访问GitHub页面，按照README中的步骤快速开始学习。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 124300,
+      "forks": 19216,
+      "today_stars": 106,
+      "hot_score": 1569.4,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一款开源远程桌面应用，支持自托管，替代 TeamViewer。",
+        "use_case": "适用于需要远程访问和控制桌面的场景。",
+        "tech_highlights": [
+          "使用 Rust 语言开发，性能高且安全",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台兼容性好"
+        ],
+        "target_users": "需要远程访问桌面的个人和企业用户",
+        "why_trending": "得益于 Rust 语言的安全性和性能，以及开源社区的推动",
+        "getting_started": "通过官方文档快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-caddyserver-caddy",
+      "source": "github",
+      "full_name": "caddyserver/caddy",
+      "owner": "caddyserver",
+      "name": "caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "category": "backend",
+      "stars": 76000,
+      "forks": 4991,
+      "today_stars": 76,
+      "hot_score": 1248.1,
+      "url": "https://github.com/caddyserver/caddy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Caddy",
+        "chinese_summary": "快速且可扩展的多平台HTTP/1-2-3网络服务器，自动提供HTTPS",
+        "use_case": "适用于网站托管、API服务、静态文件服务等场景",
+        "tech_highlights": [
+          "自动HTTPS配置",
+          "简洁的配置语言",
+          "丰富的插件生态系统"
+        ],
+        "target_users": "网站开发者、API服务提供者、小型企业",
+        "why_trending": "因其简洁配置和自动化的安全特性，受到开发者欢迎，社区活跃度高",
+        "getting_started": "通过官方文档快速了解基本配置，开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-paperless-ngx-paperless-ngx",
+      "source": "github",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "owner": "paperless-ngx",
+      "name": "paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 45913,
+      "forks": 3178,
+      "today_stars": 75,
+      "hot_score": 1216.2,
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纸less-ngx",
+        "chinese_summary": "一款强大的文档管理系统，支持扫描、索引和归档所有文档。",
+        "use_case": "适用于企业、个人和团队的文档管理需求。",
+        "tech_highlights": [
+          "支持多种文档格式",
+          "强大的OCR功能",
+          "高度可定制化"
+        ],
+        "target_users": "需要高效管理文档的企业和个人用户",
+        "why_trending": "得益于其强大的OCR功能和高度的可定制性，满足了用户对文档管理的高要求。",
+        "getting_started": "通过官方文档快速了解安装和配置步骤",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 96529,
+      "forks": 6484,
+      "today_stars": 52,
+      "hot_score": 1018.5,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "Playwright 是一个用于 Web 测试和自动化框架，支持使用单一 API 测试 Chromium、Firefox 和 WebKit。",
+        "use_case": "主要用于前端 Web 应用的自动化测试。",
+        "tech_highlights": [
+          "支持多种浏览器引擎",
+          "单一 API 接口",
+          "内置性能测试"
+        ],
+        "target_users": "前端开发者和测试工程师",
+        "why_trending": "因其强大的跨浏览器测试能力，以及简化测试流程的特点，受到开发者欢迎。",
+        "getting_started": "通过官方文档快速了解 Playwright 的基本用法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-binhnguyennus-awesome-scalability",
+      "source": "github",
+      "full_name": "binhnguyennus/awesome-scalability",
+      "owner": "binhnguyennus",
+      "name": "awesome-scalability",
+      "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+      "language": "",
+      "category": "other",
+      "stars": 74194,
+      "forks": 7143,
+      "today_stars": 43,
+      "hot_score": 917.0,
+      "url": "https://github.com/binhnguyennus/awesome-scalability",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "超大规模系统优秀实践",
+        "chinese_summary": "提供可扩展、可靠和高性能的大规模系统设计模式",
+        "use_case": "适用于构建和优化大型分布式系统",
+        "tech_highlights": [
+          "分布式系统设计模式",
+          "高性能架构实践",
+          "可靠性保障策略"
+        ],
+        "target_users": "系统架构师、开发工程师",
+        "why_trending": "随着云计算和大数据的发展，对大规模系统的需求增加，该项目提供了宝贵的实践指导",
+        "getting_started": "阅读文档，了解常见设计模式和实践建议",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-makeplane-plane",
+      "source": "github",
+      "full_name": "makeplane/plane",
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 59760,
+      "forks": 5837,
+      "today_stars": 43,
+      "hot_score": 907.6,
+      "url": "https://github.com/makeplane/plane",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Plane",
+        "chinese_summary": "一款现代的项目管理平台，用于任务、冲刺、文档管理及问题排查。",
+        "use_case": "适用于团队协作、项目规划和日常任务管理。",
+        "tech_highlights": [
+          "支持多种项目管理工具集成",
+          "现代化的用户界面设计",
+          "灵活的任务和文档管理"
+        ],
+        "target_users": "需要高效项目管理的团队和开发者。",
+        "why_trending": "因其简洁易用且支持多种项目管理工具集成，符合当前敏捷开发和远程协作的趋势。",
+        "getting_started": "访问官网，注册账号并创建项目开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "category": "systems",
+      "stars": 138919,
+      "forks": 8594,
+      "today_stars": 34,
+      "hot_score": 854.3,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "Windows系统增强工具集合，提高生产力和个性化设置",
+        "use_case": "适用于需要提高Windows系统效率和自定义设置的用户",
+        "tech_highlights": [
+          "跨平台开发",
+          "C语言编写",
+          "高度可定制"
+        ],
+        "target_users": "Windows系统高级用户和开发者",
+        "why_trending": "得益于其强大的功能和高度的可定制性，以及活跃的社区支持",
+        "getting_started": "访问GitHub页面，按照README文件中的说明开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-jesseduffield",
+      "source": "github",
+      "full_name": "sponsors/jesseduffield",
+      "owner": "sponsors",
+      "name": "jesseduffield",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "category": "backend",
+      "stars": 82584,
+      "forks": 3045,
+      "today_stars": 32,
+      "hot_score": 811.7,
+      "url": "https://github.com/sponsors/jesseduffield",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Git 终端简易界面",
+        "chinese_summary": "一个简单的 Git 命令终端界面工具",
+        "use_case": "主要用于简化 Git 命令操作，提高开发效率",
+        "tech_highlights": [
+          "Go 语言编写",
+          "命令行界面",
+          "简化 Git 操作"
+        ],
+        "target_users": "Git 用户，尤其是需要频繁使用命令行的开发者",
+        "why_trending": "随着命令行工具需求增加，简化操作的工具受到欢迎",
+        "getting_started": "通过安装 Go 环境并运行相关命令快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ventoy-Ventoy",
+      "source": "github",
+      "full_name": "ventoy/Ventoy",
+      "owner": "ventoy",
+      "name": "Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "category": "systems",
+      "stars": 79482,
+      "forks": 4949,
+      "today_stars": 31,
+      "hot_score": 800.0,
+      "url": "https://github.com/ventoy/Ventoy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ventoy",
+        "chinese_summary": "一个全新的可引导USB解决方案",
+        "use_case": "用于创建可引导USB驱动器，方便安装操作系统",
+        "tech_highlights": [
+          "支持多种操作系统引导",
+          "无需安装即可使用",
+          "易于创建和管理可引导USB"
+        ],
+        "target_users": "需要创建可引导USB的用户",
+        "why_trending": "随着无盘安装需求的增长和社区活跃度提升，Ventoy受到越来越多的关注",
+        "getting_started": "访问GitHub页面，按照README文件指引快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-getwud-wud",
+      "source": "github",
+      "full_name": "getwud/wud",
+      "owner": "getwud",
+      "name": "wud",
+      "description": "Keep your containers up-to-date!",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 3905,
+      "forks": 144,
+      "today_stars": 44,
+      "hot_score": 799.2,
+      "url": "https://github.com/getwud/wud",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "WUD",
+        "chinese_summary": "保持容器最新，确保应用稳定运行",
+        "use_case": "适用于需要定期更新容器镜像的企业和开发者",
+        "tech_highlights": [
+          "自动化更新机制",
+          "多平台支持",
+          "日志监控"
+        ],
+        "target_users": "需要自动化管理容器更新的技术团队",
+        "why_trending": "顺应容器化技术的发展趋势，提供便捷的容器管理工具",
+        "getting_started": "通过文档快速了解项目结构，开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-SimplifyJobs-Summer2027-Internships",
+      "source": "github",
+      "full_name": "SimplifyJobs/Summer2027-Internships",
+      "owner": "SimplifyJobs",
+      "name": "Summer2027-Internships",
+      "description": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 47610,
+      "forks": 3255,
+      "today_stars": 33,
+      "hot_score": 797.8,
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Summer2027 实习岗位",
+        "chinese_summary": "提供2027年夏季软件工程、数据科学等实习岗位信息。",
+        "use_case": "为学生和求职者提供实习机会信息。",
+        "tech_highlights": [
+          "每日更新实习岗位",
+          "涵盖多种技术领域"
+        ],
+        "target_users": "学生、求职者",
+        "why_trending": "紧跟技术趋势，提供最新实习信息；社区热度高，更新及时。",
+        "getting_started": "直接访问 GitHub 仓库查看最新实习岗位。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-usememos",
+      "source": "github",
+      "full_name": "sponsors/usememos",
+      "owner": "sponsors",
+      "name": "usememos",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 63263,
+      "forks": 4775,
+      "today_stars": 29,
+      "hot_score": 770.1,
+      "url": "https://github.com/sponsors/usememos",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "UseMemos",
+        "chinese_summary": "快速笔记工具，支持 Markdown，轻量级且完全属于你。",
+        "use_case": "适用于需要快速记录和整理笔记的个人和团队。",
+        "tech_highlights": [
+          "自托管特性",
+          "Markdown 支持",
+          "Go 语言开发"
+        ],
+        "target_users": "需要快速记录和整理笔记的个人和团队",
+        "why_trending": "自托管和完全私有化的特点迎合了用户对数据安全和隐私保护的需求，同时 Go 语言的高效性也增加了项目的吸引力。",
+        "getting_started": "通过 GitHub 仓库快速克隆和安装，开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-qlib",
+      "source": "github",
+      "full_name": "microsoft/qlib",
+      "owner": "microsoft",
+      "name": "qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 48764,
+      "forks": 7712,
+      "today_stars": 29,
+      "hot_score": 758.8,
+      "url": "https://github.com/microsoft/qlib",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "QLib",
+        "chinese_summary": "AI驱动的量化投资平台，支持多种机器学习模型。",
+        "use_case": "用于量化研究和投资策略开发。",
+        "tech_highlights": [
+          "支持多种机器学习模型",
+          "集成市场动态建模",
+          "支持强化学习"
+        ],
+        "target_users": "量化分析师和研究人员",
+        "why_trending": "结合AI技术，提高量化投资效率；社区活跃，持续更新。",
+        "getting_started": "通过官方文档快速了解项目结构和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-darkroomengineering",
+      "source": "github",
+      "full_name": "sponsors/darkroomengineering",
+      "owner": "sponsors",
+      "name": "darkroomengineering",
+      "description": "Smooth scroll as it should be",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 15964,
+      "forks": 686,
+      "today_stars": 33,
+      "hot_score": 750.3,
+      "url": "https://github.com/sponsors/darkroomengineering",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "暗室工程赞助者",
+        "chinese_summary": "实现平滑滚动的库",
+        "use_case": "适用于需要流畅滚动效果的网页开发",
+        "tech_highlights": [
+          "使用 TypeScript 编写",
+          "提供平滑滚动效果",
+          "易于集成和配置"
+        ],
+        "target_users": "前端开发者和网站设计师",
+        "why_trending": "随着对用户体验要求的提高，平滑滚动成为网页设计的重要组成部分，该项目因其高质量实现而受到关注",
+        "getting_started": "通过 npm 安装并快速集成到项目中",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-electron-electron",
+      "source": "github",
+      "full_name": "electron/electron",
+      "owner": "electron",
+      "name": "electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "category": "systems",
+      "stars": 123203,
+      "forks": 17546,
+      "today_stars": 24,
+      "hot_score": 749.1,
+      "url": "https://github.com/electron/electron",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Electron",
+        "chinese_summary": "使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用",
+        "use_case": "适用于需要丰富用户界面和复杂交互的桌面应用开发",
+        "tech_highlights": [
+          "基于 Chromium 和 Node.js",
+          "跨平台兼容性",
+          "使用 Web 技术开发"
+        ],
+        "target_users": "前端开发者、桌面应用开发者",
+        "why_trending": "顺应 Web 技术的发展趋势，提供强大的跨平台开发能力，社区活跃",
+        "getting_started": "通过官方文档快速开始项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-hummingbot",
+      "source": "github",
+      "full_name": "sponsors/hummingbot",
+      "owner": "sponsors",
+      "name": "hummingbot",
+      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 20162,
+      "forks": 4953,
+      "today_stars": 30,
+      "hot_score": 730.5,
+      "url": "https://github.com/sponsors/hummingbot",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hummingbot",
+        "chinese_summary": "帮助您创建和部署高频加密货币交易机器人",
+        "use_case": "适用于高频交易者和自动化交易策略开发者。",
+        "tech_highlights": [
+          "支持多种加密货币交易所",
+          "Python 编写，易于扩展",
+          "开源社区活跃"
+        ],
+        "target_users": "高频交易者和自动化交易策略开发者",
+        "why_trending": "得益于高频交易市场的增长和社区的积极参与，Hummingbot 成为自动化交易领域的热门项目。",
+        "getting_started": "建议从官方文档开始，了解基本概念和安装方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-pwndbg",
+      "source": "github",
+      "full_name": "sponsors/pwndbg",
+      "owner": "sponsors",
+      "name": "pwndbg",
+      "description": "Exploit Development and Reverse Engineering with GDB &amp; LLDB Made Easy",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 10925,
+      "forks": 1280,
+      "today_stars": 32,
+      "hot_score": 723.8,
+      "url": "https://github.com/sponsors/pwndbg",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "pwndbg",
+        "chinese_summary": "简化 GDB 和 LLDB 的漏洞开发与逆向工程工具",
+        "use_case": "用于漏洞开发和逆向工程的调试工具",
+        "tech_highlights": [
+          "支持 GDB 和 LLDB",
+          "丰富的调试命令",
+          "易于扩展的插件系统"
+        ],
+        "target_users": "漏洞研究人员和逆向工程师",
+        "why_trending": "随着安全研究的深入，逆向工程和漏洞开发的需求增加，pwndbg 提供了强大的调试支持，因此受到关注。",
+        "getting_started": "通过安装 pwndbg 并配置 GDB 或 LLDB 开始调试",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
