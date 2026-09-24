@@ -1,0 +1,611 @@
+{
+  "date": "2026-09-23",
+  "since": "daily",
+  "generated_at": "2026-09-24T03:30:11.753898+00:00",
+  "total": 20,
+  "category_counts": {
+    "ai_ml": 4,
+    "mobile": 1,
+    "frontend": 6,
+    "systems": 4,
+    "backend": 5
+  },
+  "repos": [
+    {
+      "repo_id": "github-yt-dlp-yt-dlp",
+      "source": "github",
+      "full_name": "yt-dlp/yt-dlp",
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 193251,
+      "forks": 16770,
+      "today_stars": 264,
+      "hot_score": 3168.6,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yt-dlp/yt-dlp",
+        "chinese_summary": "一个功能丰富的命令行音视频下载工具",
+        "use_case": "用于从各种网站下载音视频文件",
+        "tech_highlights": [
+          "支持多种音视频格式",
+          "高度可配置",
+          "支持多平台"
+        ],
+        "target_users": "音视频爱好者、开发者、内容创作者",
+        "why_trending": "因其强大的功能和广泛的兼容性，满足了用户多样化的下载需求",
+        "getting_started": "通过pip安装后，使用命令即可开始下载",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-jaywcjlove",
+      "source": "github",
+      "full_name": "sponsors/jaywcjlove",
+      "owner": "sponsors",
+      "name": "jaywcjlove",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "language": "Swift",
+      "category": "mobile",
+      "stars": 114686,
+      "forks": 8954,
+      "today_stars": 250,
+      "hot_score": 3006.0,
+      "url": "https://github.com/sponsors/jaywcjlove",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Jaywcjlove 的 macOS 软件库",
+        "chinese_summary": "一个按类别整理的 macOS 软件集合，方便搜索和使用。",
+        "use_case": "适用于需要系统化管理 macOS 软件的用户。",
+        "tech_highlights": [
+          "Swift 编程语言",
+          "分类整理软件"
+        ],
+        "target_users": "macOS 用户，特别是需要高效管理软件的用户",
+        "why_trending": "由于 macOS 用户对软件管理的需求增加，以及开源社区的推动。",
+        "getting_started": "直接浏览项目页面，按类别查找所需软件",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 371481,
+      "forks": 58586,
+      "today_stars": 186,
+      "hot_score": 2417.0,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计 primer",
+        "chinese_summary": "学习如何设计大规模系统，为系统设计面试做准备。",
+        "use_case": "适用于准备系统设计面试和技术面试的开发者。",
+        "tech_highlights": [
+          "包含 Anki 闪卡辅助学习",
+          "涵盖多种系统设计场景"
+        ],
+        "target_users": "技术面试准备中的开发者",
+        "why_trending": "随着云计算和分布式系统的发展，系统设计成为技术面试中的热点话题；社区贡献丰富，持续更新。",
+        "getting_started": "直接访问 GitHub 仓库，按照 README 指引开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-f",
+      "source": "github",
+      "full_name": "sponsors/f",
+      "owner": "sponsors",
+      "name": "f",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "category": "frontend",
+      "stars": 171129,
+      "forks": 21985,
+      "today_stars": 132,
+      "hot_score": 1843.3,
+      "url": "https://github.com/sponsors/f",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Awesome ChatGPT 提示",
+        "chinese_summary": "分享、发现和收集来自社区的 ChatGPT 提示。",
+        "use_case": "组织内部自托管，保护隐私。",
+        "tech_highlights": [
+          "开源项目",
+          "社区驱动",
+          "自托管"
+        ],
+        "target_users": "技术爱好者、开发者、ChatGPT 用户",
+        "why_trending": "开源且注重隐私保护，符合当前技术趋势和用户需求。",
+        "getting_started": "直接访问项目页面，开始探索和使用提示。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-xCuri0-ReBarUEFI",
+      "source": "github",
+      "full_name": "xCuri0/ReBarUEFI",
+      "owner": "xCuri0",
+      "name": "ReBarUEFI",
+      "description": "Resizable BAR for (almost) any UEFI system",
+      "language": "C",
+      "category": "systems",
+      "stars": 2511,
+      "forks": 116,
+      "today_stars": 118,
+      "hot_score": 1520.0,
+      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ReBarUEFI",
+        "chinese_summary": "UEFI系统中实现可扩展BAR功能",
+        "use_case": "适用于需要优化内存访问性能的UEFI系统",
+        "tech_highlights": [
+          "支持广泛的UEFI系统",
+          "提高内存访问效率",
+          "C语言实现"
+        ],
+        "target_users": "UEFI系统开发者和性能优化工程师",
+        "why_trending": "随着UEFI技术的发展和对系统性能要求的提高，此类项目受到关注",
+        "getting_started": "阅读README文件，了解编译和运行步骤",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 124380,
+      "forks": 19240,
+      "today_stars": 95,
+      "hot_score": 1459.5,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一款开源远程桌面应用，支持自我托管。",
+        "use_case": "适用于需要远程访问和控制桌面的场景。",
+        "tech_highlights": [
+          "使用 Rust 编写，安全性高",
+          "支持自我托管，无需依赖第三方服务",
+          "跨平台兼容性"
+        ],
+        "target_users": "需要远程访问桌面的个人和企业用户",
+        "why_trending": "由于其安全性、自我托管特性以及跨平台支持，吸引了大量关注。",
+        "getting_started": "访问项目文档，按照指南快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 456052,
+      "forks": 46985,
+      "today_stars": 87,
+      "hot_score": 1435.9,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "freeCodeCamp 开源项目",
+        "chinese_summary": "提供免费的数学、编程和计算机科学学习资源",
+        "use_case": "在线学习和自我提升",
+        "tech_highlights": [
+          "丰富的学习资源",
+          "社区驱动的开发",
+          "多语言支持"
+        ],
+        "target_users": "编程初学者和技术爱好者",
+        "why_trending": "响应开源和终身学习的趋势，社区活跃度高",
+        "getting_started": "访问官网，选择课程开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-langchain-ai-langchain",
+      "source": "github",
+      "full_name": "langchain-ai/langchain",
+      "owner": "langchain-ai",
+      "name": "langchain",
+      "description": "The agent engineering platform.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 146957,
+      "forks": 24587,
+      "today_stars": 82,
+      "hot_score": 1336.7,
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Langchain",
+        "chinese_summary": "基于 Python 的智能代理工程平台。",
+        "use_case": "用于构建和管理智能代理系统。",
+        "tech_highlights": [
+          "支持多种 AI 模型集成",
+          "模块化设计便于扩展",
+          "提供丰富的代理操作接口"
+        ],
+        "target_users": "AI 开发者、研究人员和系统集成商",
+        "why_trending": "得益于 AI 技术的快速发展和社区的积极参与，Langchain 成为热门项目。",
+        "getting_started": "通过官方文档快速了解并开始使用 Langchain",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-upscayl-upscayl",
+      "source": "github",
+      "full_name": "upscayl/upscayl",
+      "owner": "upscayl",
+      "name": "upscayl",
+      "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 49849,
+      "forks": 2522,
+      "today_stars": 67,
+      "hot_score": 1139.8,
+      "url": "https://github.com/upscayl/upscayl",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Upscayl - 免费开源AI图像放大器",
+        "chinese_summary": "Upscayl 是一个免费开源的 AI 图像放大工具，支持 Linux、MacOS 和 Windows 系统。",
+        "use_case": "用于提升低分辨率图片的清晰度，适用于摄影师、设计师和普通用户。",
+        "tech_highlights": [
+          "基于 AI 技术实现图像放大",
+          "多平台支持（Linux、MacOS、Windows）",
+          "开源免费"
+        ],
+        "target_users": "摄影师、设计师、普通用户",
+        "why_trending": "得益于 AI 技术的进步和开源文化的推动，Upscayl 提供了高质量的图像放大解决方案，满足了用户对图像处理的高需求。",
+        "getting_started": "访问项目页面，按照说明快速安装和使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-coder-coder",
+      "source": "github",
+      "full_name": "coder/coder",
+      "owner": "coder",
+      "name": "coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "category": "backend",
+      "stars": 16661,
+      "forks": 1581,
+      "today_stars": 64,
+      "hot_score": 1062.2,
+      "url": "https://github.com/coder/coder",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Coder",
+        "chinese_summary": "为开发者和代理提供安全环境",
+        "use_case": "用于构建和部署安全的开发环境",
+        "tech_highlights": [
+          "支持多云环境",
+          "基于Go语言开发",
+          "安全性和隐私保护"
+        ],
+        "target_users": "开发人员和云原生应用运维人员",
+        "why_trending": "顺应云原生和安全趋势，社区活跃度高",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-aquasecurity-trivy",
+      "source": "github",
+      "full_name": "aquasecurity/trivy",
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "category": "backend",
+      "stars": 38048,
+      "forks": 710,
+      "today_stars": 40,
+      "hot_score": 858.0,
+      "url": "https://github.com/aquasecurity/trivy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Trivy",
+        "chinese_summary": "用于检测容器、Kubernetes、代码仓库、云环境等中的漏洞、配置错误、秘密和SBOM",
+        "use_case": "用于安全审计、持续集成/持续部署（CI/CD）流程、合规性检查等",
+        "tech_highlights": [
+          "支持多种扫描目标",
+          "提供详细的漏洞信息",
+          "易于集成到CI/CD流程"
+        ],
+        "target_users": "安全工程师、DevOps工程师、系统管理员",
+        "why_trending": "随着云原生技术的普及，安全检测工具的需求增加，Trivy因其多功能性和易用性而受到关注",
+        "getting_started": "通过安装命令快速启动，或参考官方文档进行配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-gobackup-gobackup",
+      "source": "github",
+      "full_name": "gobackup/gobackup",
+      "owner": "gobackup",
+      "name": "gobackup",
+      "description": "🗄 CLI tool for backup your databases, files to cloud storages in schedully.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 3048,
+      "forks": 340,
+      "today_stars": 50,
+      "hot_score": 848.4,
+      "url": "https://github.com/gobackup/gobackup",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "gobackup",
+        "chinese_summary": "一个用于定期备份数据库和文件到云存储的命令行工具",
+        "use_case": "适用于需要定期备份数据的企业和个人用户",
+        "tech_highlights": [
+          "支持多种云存储服务",
+          "命令行界面",
+          "支持多种数据库"
+        ],
+        "target_users": "需要定期备份数据的企业和个人用户",
+        "why_trending": "随着云计算和数据安全意识的提高，定期备份的需求增加，gobackup提供了便捷的解决方案",
+        "getting_started": "通过安装Go环境并运行`go get -u github.com/gobackup/gobackup`快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-SimplifyJobs-Summer2027-Internships",
+      "source": "github",
+      "full_name": "SimplifyJobs/Summer2027-Internships",
+      "owner": "SimplifyJobs",
+      "name": "Summer2027-Internships",
+      "description": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 47641,
+      "forks": 3257,
+      "today_stars": 33,
+      "hot_score": 797.8,
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Summer2027暑期实习",
+        "chinese_summary": "提供2027年夏季软件工程、数据科学、AI、量化、产品管理和硬件实习职位信息。",
+        "use_case": "为学生和求职者提供最新的实习机会信息。",
+        "tech_highlights": [
+          "每日更新职位信息",
+          "由Simplify和Pitt CSC维护"
+        ],
+        "target_users": "学生、应届毕业生和求职者",
+        "why_trending": "由于实习职位信息的实时更新和高质量维护，受到求职者的广泛关注。",
+        "getting_started": "访问项目页面查看最新的实习职位信息。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ventoy-Ventoy",
+      "source": "github",
+      "full_name": "ventoy/Ventoy",
+      "owner": "ventoy",
+      "name": "Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "category": "systems",
+      "stars": 79507,
+      "forks": 4949,
+      "today_stars": 30,
+      "hot_score": 790.0,
+      "url": "https://github.com/ventoy/Ventoy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ventoy",
+        "chinese_summary": "一个全新的可启动USB解决方案",
+        "use_case": "用于创建和启动可启动的USB驱动器，支持多种操作系统。",
+        "tech_highlights": [
+          "支持多种文件系统",
+          "易于使用和管理",
+          "跨平台兼容"
+        ],
+        "target_users": "需要创建可启动USB的用户，如系统安装者、软件开发者等",
+        "why_trending": "随着远程工作和便携式计算需求增加，Ventoy因其便捷性而受到欢迎。",
+        "getting_started": "访问GitHub页面，按照README文件中的说明进行操作",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rclone",
+      "source": "github",
+      "full_name": "sponsors/rclone",
+      "owner": "sponsors",
+      "name": "rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "category": "backend",
+      "stars": 59925,
+      "forks": 5424,
+      "today_stars": 31,
+      "hot_score": 787.8,
+      "url": "https://github.com/sponsors/rclone",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "rclone",
+        "chinese_summary": "用于云存储的rsync工具",
+        "use_case": "用于同步和管理多种云存储服务的数据",
+        "tech_highlights": [
+          "支持多种云存储服务",
+          "命令行界面",
+          "强大的数据同步功能"
+        ],
+        "target_users": "云存储管理员和技术爱好者",
+        "why_trending": "因其强大的跨平台数据同步功能和广泛的云存储支持，受到开发者和管理员的青睐",
+        "getting_started": "通过官方文档快速了解基本命令和配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-projectdiscovery-nuclei",
+      "source": "github",
+      "full_name": "projectdiscovery/nuclei",
+      "owner": "projectdiscovery",
+      "name": "nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 31471,
+      "forks": 3888,
+      "today_stars": 33,
+      "hot_score": 779.8,
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Nuclei",
+        "chinese_summary": "基于 YAML 的 DSL 的快速可定制漏洞扫描工具",
+        "use_case": "用于发现应用程序、API、网络、DNS 和云配置中的漏洞",
+        "tech_highlights": [
+          "基于 YAML 的 DSL",
+          "社区驱动",
+          "快速扫描"
+        ],
+        "target_users": "安全研究人员、开发人员和运维人员",
+        "why_trending": "得益于其强大的社区支持和易于定制的特性，Nuclei 成为了漏洞扫描领域的热门工具",
+        "getting_started": "通过安装 Go 环境并运行 `go install projectdiscovery/nuclei` 快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-activepieces-activepieces",
+      "source": "github",
+      "full_name": "activepieces/activepieces",
+      "owner": "activepieces",
+      "name": "activepieces",
+      "description": "AI Agents &amp; MCPs &amp; AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows &amp; AI Agents • MCPs for AI Agents",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 24700,
+      "forks": 4241,
+      "today_stars": 31,
+      "hot_score": 749.3,
+      "url": "https://github.com/activepieces/activepieces",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "活跃片段",
+        "chinese_summary": "AI自动化平台，用于构建和管理AI代理和MCP",
+        "use_case": "适用于需要自动化AI流程的企业和开发者",
+        "tech_highlights": [
+          "支持多种AI代理和MCP",
+          "灵活的AI工作流自动化",
+          "大规模MCP服务器支持"
+        ],
+        "target_users": "AI开发者、企业IT团队、自动化流程需求者",
+        "why_trending": "结合了AI代理和MCP技术，满足复杂AI自动化需求，符合当前AI技术发展趋势",
+        "getting_started": "通过官方文档快速了解项目架构和快速搭建环境",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-HackTricks-wiki-hacktricks",
+      "source": "github",
+      "full_name": "HackTricks-wiki/hacktricks",
+      "owner": "HackTricks-wiki",
+      "name": "hacktricks",
+      "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
+      "language": "CSS",
+      "category": "frontend",
+      "stars": 12343,
+      "forks": 3183,
+      "today_stars": 34,
+      "hot_score": 749.1,
+      "url": "https://github.com/HackTricks-wiki/hacktricks",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "HackTricks",
+        "chinese_summary": "CTFs、实际应用和研究中学习的技巧和技术汇总",
+        "use_case": "用于学习和实践网络安全技巧",
+        "tech_highlights": [
+          "丰富的技巧和技术内容",
+          "易于访问和学习的结构"
+        ],
+        "target_users": "网络安全爱好者和从业者",
+        "why_trending": "随着网络安全威胁的增加，学习和分享安全技巧的需求上升",
+        "getting_started": "直接访问网站并浏览分类的技巧和技术",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-electron-electron",
+      "source": "github",
+      "full_name": "electron/electron",
+      "owner": "electron",
+      "name": "electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "category": "systems",
+      "stars": 123226,
+      "forks": 17552,
+      "today_stars": 24,
+      "hot_score": 749.1,
+      "url": "https://github.com/electron/electron",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Electron",
+        "chinese_summary": "使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用",
+        "use_case": "开发跨平台的桌面应用程序，如笔记应用、图像编辑器等",
+        "tech_highlights": [
+          "基于 Chromium 和 Node.js",
+          "使用 Web 技术开发桌面应用",
+          "跨平台兼容性强"
+        ],
+        "target_users": "前端开发者、跨平台应用开发者",
+        "why_trending": "得益于 Web 技术的成熟和跨平台需求的增长，Electron 成为热门选择",
+        "getting_started": "通过官方文档快速了解 Electron 的基本概念和开发流程",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nestjs-nest",
+      "source": "github",
+      "full_name": "nestjs/nest",
+      "owner": "nestjs",
+      "name": "nest",
+      "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 76716,
+      "forks": 8559,
+      "today_stars": 24,
+      "hot_score": 728.5,
+      "url": "https://github.com/nestjs/nest",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "NestJS",
+        "chinese_summary": "基于TypeScript的高效、可扩展的企业级Node.js框架",
+        "use_case": "适用于构建复杂的后端服务",
+        "tech_highlights": [
+          "TypeScript支持",
+          "模块化设计",
+          "集成多种库"
+        ],
+        "target_users": "Node.js开发者，尤其是使用TypeScript的开发者",
+        "why_trending": "因其强大的模块化设计和TypeScript支持，受到开发者青睐",
+        "getting_started": "通过官方文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
