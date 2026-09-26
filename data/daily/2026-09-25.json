@@ -1,0 +1,610 @@
+{
+  "date": "2026-09-25",
+  "since": "daily",
+  "generated_at": "2026-09-26T03:53:19.219709+00:00",
+  "total": 20,
+  "category_counts": {
+    "other": 2,
+    "frontend": 7,
+    "ai_ml": 7,
+    "systems": 2,
+    "devops": 2
+  },
+  "repos": [
+    {
+      "repo_id": "github-sponsors-sindresorhus",
+      "source": "github",
+      "full_name": "sponsors/sindresorhus",
+      "owner": "sponsors",
+      "name": "sindresorhus",
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "language": "",
+      "category": "other",
+      "stars": 510530,
+      "forks": 37089,
+      "today_stars": 541,
+      "hot_score": 5980.8,
+      "url": "https://github.com/sponsors/sindresorhus",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "sindresorhus 的精选列表",
+        "chinese_summary": "一个包含各种有趣主题的精选列表",
+        "use_case": "用于查找和分享关于各种主题的有趣资源",
+        "tech_highlights": [
+          "丰富的主题资源",
+          "易于维护的结构"
+        ],
+        "target_users": "开发者、技术爱好者",
+        "why_trending": "由于其广泛覆盖的主题和易于访问的资源，吸引了大量技术社区的关注",
+        "getting_started": "直接浏览或贡献自己的列表",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ripienaar-free-for-dev",
+      "source": "github",
+      "full_name": "ripienaar/free-for-dev",
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "category": "frontend",
+      "stars": 138533,
+      "forks": 14613,
+      "today_stars": 281,
+      "hot_score": 3324.2,
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ripienaar/free-for-dev",
+        "chinese_summary": "提供给开发运维和基础设施开发人员的免费云服务列表",
+        "use_case": "帮助开发者和运维人员找到免费的云服务进行测试和开发",
+        "tech_highlights": [
+          "免费资源丰富",
+          "涵盖多种云服务类型"
+        ],
+        "target_users": "开发运维和基础设施开发人员",
+        "why_trending": "随着云计算普及，免费资源需求增加；社区贡献活跃，持续更新",
+        "getting_started": "直接访问项目页面查看最新免费资源列表",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-codecrafters-io-build-your-own-x",
+      "source": "github",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "category": "other",
+      "stars": 549614,
+      "forks": 51635,
+      "today_stars": 261,
+      "hot_score": 3184.0,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "构建你自己的X",
+        "chinese_summary": "通过从零开始重建你喜爱的技术，掌握编程。",
+        "use_case": "适用于希望深入理解技术原理和实现细节的学习者。",
+        "tech_highlights": [
+          "从零开始构建技术",
+          "学习底层实现",
+          "实践编程技能"
+        ],
+        "target_users": "编程学习者和技术爱好者",
+        "why_trending": "符合当前编程学习趋势，强调实践和理解，社区活跃度高",
+        "getting_started": "阅读项目文档，选择一个感兴趣的项目开始动手",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-vinta-awesome-python",
+      "source": "github",
+      "full_name": "vinta/awesome-python",
+      "owner": "vinta",
+      "name": "awesome-python",
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 323041,
+      "forks": 28804,
+      "today_stars": 234,
+      "hot_score": 2890.9,
+      "url": "https://github.com/vinta/awesome-python",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "awesome-python",
+        "chinese_summary": "Python领域工具推荐列表",
+        "use_case": "帮助开发者快速找到适合的Python工具",
+        "tech_highlights": [
+          "全面覆盖Python工具",
+          "分类清晰",
+          "持续更新"
+        ],
+        "target_users": "Python开发者",
+        "why_trending": "随着Python应用领域的扩大，社区对高质量工具的需求增加",
+        "getting_started": "直接访问GitHub页面浏览推荐列表",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 371817,
+      "forks": 58626,
+      "today_stars": 185,
+      "hot_score": 2407.0,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计 primer",
+        "chinese_summary": "学习如何设计大型系统，准备系统设计面试，包含 Anki 闪卡。",
+        "use_case": "适用于准备系统设计面试和技术面试的开发者。",
+        "tech_highlights": [
+          "包含 Anki 闪卡帮助记忆",
+          "涵盖多种系统设计场景"
+        ],
+        "target_users": "准备系统设计面试的开发者",
+        "why_trending": "随着云计算和分布式系统的发展，系统设计成为技术面试的重要环节，该项目提供系统设计的实战指导。",
+        "getting_started": "直接克隆项目并按照 README 中的说明开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 124544,
+      "forks": 19266,
+      "today_stars": 89,
+      "hot_score": 1399.5,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一个用于自我托管的开源远程桌面应用，替代TeamViewer。",
+        "use_case": "适用于需要远程访问和控制计算机的场景，如技术支持、远程办公等。",
+        "tech_highlights": [
+          "使用Rust编写，保证高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台兼容性"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "得益于Rust语言的性能和安全性，以及开源社区的支持，RustDesk受到广泛关注。",
+        "getting_started": "通过官方文档快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 456173,
+      "forks": 47344,
+      "today_stars": 79,
+      "hot_score": 1355.9,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "freeCodeCamp 开源项目",
+        "chinese_summary": "一个提供免费数学、编程和计算机科学学习资源的开源平台。",
+        "use_case": "供个人自学或机构提供免费编程教育。",
+        "tech_highlights": [
+          "丰富的学习资源和课程",
+          "使用 TypeScript 编写",
+          "社区驱动的开源项目"
+        ],
+        "target_users": "编程初学者、自学者和教育机构",
+        "why_trending": "顺应开源和在线教育趋势，社区活跃度高，持续更新内容。",
+        "getting_started": "访问官网，选择相应的学习路径开始学习。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-langchain-ai-langchain",
+      "source": "github",
+      "full_name": "langchain-ai/langchain",
+      "owner": "langchain-ai",
+      "name": "langchain",
+      "description": "The agent engineering platform.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 147072,
+      "forks": 24610,
+      "today_stars": 69,
+      "hot_score": 1206.8,
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Langchain",
+        "chinese_summary": "基于 Python 的智能代理工程平台",
+        "use_case": "用于构建和管理智能代理系统",
+        "tech_highlights": [
+          "支持多种 AI 模型集成",
+          "模块化设计便于扩展",
+          "提供丰富的 API 接口"
+        ],
+        "target_users": "AI 工程师、数据科学家和系统开发者",
+        "why_trending": "顺应 AI 工程化趋势，社区活跃度高",
+        "getting_started": "通过官方文档快速了解基础用法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-Z4nzu-hackingtool",
+      "source": "github",
+      "full_name": "Z4nzu/hackingtool",
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 79756,
+      "forks": 9039,
+      "today_stars": 56,
+      "hot_score": 1050.2,
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Z4nzu 全能黑客工具",
+        "chinese_summary": "一个集成了多种黑客攻击手段的多功能工具",
+        "use_case": "适用于黑客学习、安全测试和渗透测试",
+        "tech_highlights": [
+          "多功能集成",
+          "Python 编写",
+          "自动化攻击"
+        ],
+        "target_users": "黑客、安全测试人员和安全研究人员",
+        "why_trending": "因其多功能性和自动化攻击能力，受到黑客和安全研究人员的广泛关注",
+        "getting_started": "建议先阅读文档，了解各个模块的功能和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-SimplifyJobs-Summer2027-Internships",
+      "source": "github",
+      "full_name": "SimplifyJobs/Summer2027-Internships",
+      "owner": "SimplifyJobs",
+      "name": "Summer2027-Internships",
+      "description": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 47701,
+      "forks": 3257,
+      "today_stars": 49,
+      "hot_score": 957.9,
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Summer2027暑期实习",
+        "chinese_summary": "提供2027年暑期软件工程、数据科学、AI、量化、产品管理和硬件实习职位信息。",
+        "use_case": "为学生和求职者提供最新的实习机会信息。",
+        "tech_highlights": [
+          "每日更新职位信息",
+          "由Simplify和Pitt CSC维护"
+        ],
+        "target_users": "学生、应届毕业生和求职者",
+        "why_trending": "由于实习机会的及时性和准确性，受到求职者欢迎。",
+        "getting_started": "访问项目页面查看最新实习职位",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-makeplane-plane",
+      "source": "github",
+      "full_name": "makeplane/plane",
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 59892,
+      "forks": 5876,
+      "today_stars": 47,
+      "hot_score": 947.7,
+      "url": "https://github.com/makeplane/plane",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Plane",
+        "chinese_summary": "一款开源的项目管理平台，替代 Jira、Linear、Monday 和 ClickUp。",
+        "use_case": "适用于团队项目管理、任务分配、文档协作和问题跟踪。",
+        "tech_highlights": [
+          "基于 TypeScript 开发",
+          "支持多种项目管理工具的替代功能",
+          "现代化的用户界面"
+        ],
+        "target_users": "项目管理和团队协作的开发者和团队",
+        "why_trending": "得益于其现代化的设计和开源特性，吸引了大量开发者和团队的兴趣。",
+        "getting_started": "通过官方文档快速了解 Plane 的基本功能和使用方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ophub-amlogic-s9xxx-armbian",
+      "source": "github",
+      "full_name": "ophub/amlogic-s9xxx-armbian",
+      "owner": "ophub",
+      "name": "amlogic-s9xxx-armbian",
+      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+      "language": "Shell",
+      "category": "devops",
+      "stars": 10034,
+      "forks": 3167,
+      "today_stars": 54,
+      "hot_score": 940.1,
+      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ophub/amlogic-s9xxx-armbian",
+        "chinese_summary": "支持在Amlogic、Allwinner和Rockchip设备上运行Armbian",
+        "use_case": "适用于需要在这些特定ARM架构设备上安装和运行Armbian操作系统的场景。",
+        "tech_highlights": [
+          "支持多种Amlogic、Allwinner和Rockchip设备",
+          "基于Armbian的定制化发行版",
+          "Shell脚本实现"
+        ],
+        "target_users": "嵌入式系统开发者、设备制造商、爱好者",
+        "why_trending": "随着物联网和嵌入式设备的普及，对定制化操作系统的需求增加，Armbian因其轻量级和灵活性受到欢迎。",
+        "getting_started": "阅读README文件，按照步骤进行安装和配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 96682,
+      "forks": 6502,
+      "today_stars": 44,
+      "hot_score": 938.5,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "微软Playwright",
+        "chinese_summary": "Playwright 是一个用于 Web 测试和自动化框架，支持使用单一 API 测试 Chromium、Firefox 和 WebKit。",
+        "use_case": "主要用于 Web 应用的自动化测试和前端开发中的自动化任务。",
+        "tech_highlights": [
+          "跨浏览器支持",
+          "单个 API 测试多个浏览器",
+          "内置网络模拟"
+        ],
+        "target_users": "前端开发者、测试工程师",
+        "why_trending": "因其强大的跨浏览器测试能力和简洁的 API 设计，受到广泛欢迎。",
+        "getting_started": "通过官方文档快速开始使用，官网提供了详细的入门指南。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "category": "systems",
+      "stars": 139025,
+      "forks": 8607,
+      "today_stars": 39,
+      "hot_score": 904.3,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "Windows系统增强工具集合，提高生产力和个性化设置",
+        "use_case": "适用于需要高效操作和个性化设置的Windows用户",
+        "tech_highlights": [
+          "跨平台支持",
+          "C语言开发",
+          "模块化设计"
+        ],
+        "target_users": "Windows系统高级用户和开发者",
+        "why_trending": "因其强大的功能和高度的自定义性，受到广泛好评，社区活跃度高",
+        "getting_started": "通过GitHub页面快速安装并探索各个模块",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-qlib",
+      "source": "github",
+      "full_name": "microsoft/qlib",
+      "owner": "microsoft",
+      "name": "qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 48857,
+      "forks": 7735,
+      "today_stars": 43,
+      "hot_score": 898.9,
+      "url": "https://github.com/microsoft/qlib",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "QLib",
+        "chinese_summary": "一个基于AI的量化投资平台，支持多种机器学习模型。",
+        "use_case": "用于量化研究和投资策略的开发。",
+        "tech_highlights": [
+          "支持多种机器学习模型",
+          "集成市场动态建模",
+          "支持强化学习"
+        ],
+        "target_users": "量化分析师和研究人员",
+        "why_trending": "结合AI技术提升量化投资效率，符合当前AI在金融领域的应用趋势。",
+        "getting_started": "通过官方文档快速了解并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-quickemu-project-quickemu",
+      "source": "github",
+      "full_name": "quickemu-project/quickemu",
+      "owner": "quickemu-project",
+      "name": "quickemu",
+      "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
+      "language": "Shell",
+      "category": "devops",
+      "stars": 16317,
+      "forks": 742,
+      "today_stars": 41,
+      "hot_score": 831.3,
+      "url": "https://github.com/quickemu-project/quickemu",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "快速虚拟机",
+        "chinese_summary": "一键创建并运行优化的 Windows、macOS 和 Linux 虚拟机",
+        "use_case": "适用于需要快速搭建不同操作系统环境的开发者和测试人员。",
+        "tech_highlights": [
+          "简化虚拟机创建过程",
+          "支持多种操作系统",
+          "优化性能"
+        ],
+        "target_users": "开发者、测试人员和需要多操作系统环境的用户",
+        "why_trending": "顺应虚拟化技术的发展趋势，满足多操作系统开发和测试需求，社区活跃度高。",
+        "getting_started": "按照README文件中的步骤快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-Web-Dev-For-Beginners",
+      "source": "github",
+      "full_name": "microsoft/Web-Dev-For-Beginners",
+      "owner": "microsoft",
+      "name": "Web-Dev-For-Beginners",
+      "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 96788,
+      "forks": 15953,
+      "today_stars": 31,
+      "hot_score": 808.6,
+      "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Web 开发初学者",
+        "chinese_summary": "一个为期12周的24课时Web开发入门课程",
+        "use_case": "适合Web开发初学者学习使用",
+        "tech_highlights": [
+          "24课时全面覆盖Web开发基础",
+          "12周系统学习计划"
+        ],
+        "target_users": "Web开发初学者",
+        "why_trending": "符合当前Web技术学习需求，社区活跃度高",
+        "getting_started": "直接访问GitHub页面，跟随课程逐步学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-AUTOMATIC1111-stable-diffusion-webui",
+      "source": "github",
+      "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+      "owner": "AUTOMATIC1111",
+      "name": "stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 165128,
+      "forks": 31641,
+      "today_stars": 27,
+      "hot_score": 791.8,
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "自动1111 稳定扩散 Web 界面",
+        "chinese_summary": "一个基于 Stable Diffusion 的图形用户界面，用于生成图像。",
+        "use_case": "主要用于艺术创作、图像生成和创意设计。",
+        "tech_highlights": [
+          "基于 Stable Diffusion 的图像生成技术",
+          "用户友好的图形界面",
+          "高度可定制"
+        ],
+        "target_users": "艺术家、设计师、创意工作者和 AI 爱好者",
+        "why_trending": "结合了强大的图像生成能力和易用性，满足了创意社区的需求，因此受到欢迎。",
+        "getting_started": "通过安装指南快速设置环境并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-pmndrs",
+      "source": "github",
+      "full_name": "sponsors/pmndrs",
+      "owner": "sponsors",
+      "name": "pmndrs",
+      "description": "🇨🇭 A React renderer for Three.js",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 32511,
+      "forks": 1984,
+      "today_stars": 34,
+      "hot_score": 791.2,
+      "url": "https://github.com/sponsors/pmndrs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Three.js React 渲染器",
+        "chinese_summary": "为 Three.js 提供 React 渲染功能",
+        "use_case": "用于创建基于 Three.js 的交互式 3D 图形应用",
+        "tech_highlights": [
+          "React 组件化",
+          "TypeScript 编程",
+          "Three.js 集成"
+        ],
+        "target_users": "Web 开发者，3D 图形爱好者",
+        "why_trending": "结合了现代前端框架 React 和强大的 3D 库 Three.js，满足了开发者对 3D 内容的需求",
+        "getting_started": "通过 npm 安装并快速阅读文档开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-withastro",
+      "source": "github",
+      "full_name": "sponsors/withastro",
+      "owner": "sponsors",
+      "name": "withastro",
+      "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 62825,
+      "forks": 3812,
+      "today_stars": 31,
+      "hot_score": 789.8,
+      "url": "https://github.com/sponsors/withastro",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Withastro",
+        "chinese_summary": "用于内容驱动型网站的 Web 框架",
+        "use_case": "适用于需要快速构建内容丰富、交互性强的网站",
+        "tech_highlights": [
+          "TypeScript 编程语言",
+          "现代前端技术栈",
+          "内容优先设计"
+        ],
+        "target_users": "前端开发者、内容创作者",
+        "why_trending": "结合了现代前端技术和内容优先的设计理念，满足了当前对高效、美观网站的需求",
+        "getting_started": "通过官方文档快速开始项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
