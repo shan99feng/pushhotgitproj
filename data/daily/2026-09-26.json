@@ -1,0 +1,611 @@
+{
+  "date": "2026-09-26",
+  "since": "daily",
+  "generated_at": "2026-09-27T04:02:35.949040+00:00",
+  "total": 20,
+  "category_counts": {
+    "other": 2,
+    "ai_ml": 5,
+    "frontend": 8,
+    "backend": 1,
+    "systems": 4
+  },
+  "repos": [
+    {
+      "repo_id": "github-sponsors-sindresorhus",
+      "source": "github",
+      "full_name": "sponsors/sindresorhus",
+      "owner": "sponsors",
+      "name": "sindresorhus",
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "language": "",
+      "category": "other",
+      "stars": 511034,
+      "forks": 37118,
+      "today_stars": 556,
+      "hot_score": 6130.8,
+      "url": "https://github.com/sponsors/sindresorhus",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "sindresorhus 的精选列表",
+        "chinese_summary": "收集各种有趣的主题列表",
+        "use_case": "为开发者提供资源和灵感",
+        "tech_highlights": [
+          "包含多种主题的资源列表",
+          "定期更新的内容"
+        ],
+        "target_users": "开发者和对各种主题感兴趣的用户",
+        "why_trending": "由于其丰富的内容和实用性，受到开发者社区的广泛认可",
+        "getting_started": "直接浏览或贡献新的主题列表",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-codecrafters-io-build-your-own-x",
+      "source": "github",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "category": "other",
+      "stars": 549939,
+      "forks": 51654,
+      "today_stars": 369,
+      "hot_score": 4264.0,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "构建你自己的X",
+        "chinese_summary": "通过从零开始重新构建你喜爱的技术，掌握编程。",
+        "use_case": "适用于编程学习者和爱好者，通过实践提升编程技能。",
+        "tech_highlights": [
+          "从零开始的实践项目",
+          "多样化的技术主题",
+          "社区贡献和学习"
+        ],
+        "target_users": "编程初学者和中级开发者",
+        "why_trending": "结合了动手实践和社区互动，符合当前编程学习的趋势。",
+        "getting_started": "选择一个感兴趣的项目，开始动手实践",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 372034,
+      "forks": 58641,
+      "today_stars": 257,
+      "hot_score": 3127.1,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计 primer",
+        "chinese_summary": "学习如何设计大规模系统，准备系统设计面试，包含 Anki 闪卡。",
+        "use_case": "适用于准备系统设计面试或学习系统设计的学生和工程师。",
+        "tech_highlights": [
+          "包含 Anki 闪卡辅助学习",
+          "涵盖多种系统设计场景"
+        ],
+        "target_users": "系统设计面试准备者和学习者",
+        "why_trending": "随着云计算和分布式系统的普及，系统设计成为工程师必备技能；社区活跃，持续更新。",
+        "getting_started": "直接克隆仓库并运行示例代码快速开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ripienaar-free-for-dev",
+      "source": "github",
+      "full_name": "ripienaar/free-for-dev",
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "category": "frontend",
+      "stars": 138652,
+      "forks": 14628,
+      "today_stars": 184,
+      "hot_score": 2354.2,
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ripienaar/free-for-dev",
+        "chinese_summary": "提供给开发运维人员的免费云服务列表",
+        "use_case": "帮助开发运维人员找到免费的云服务进行测试和开发",
+        "tech_highlights": [
+          "免费资源丰富",
+          "涵盖多种云服务类型"
+        ],
+        "target_users": "开发运维人员和IT基础设施开发者",
+        "why_trending": "随着云计算普及，免费资源需求增加，社区贡献活跃",
+        "getting_started": "直接访问GitHub页面浏览和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-avelino",
+      "source": "github",
+      "full_name": "sponsors/avelino",
+      "owner": "sponsors",
+      "name": "avelino",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "category": "backend",
+      "stars": 185764,
+      "forks": 13587,
+      "today_stars": 156,
+      "hot_score": 2086.9,
+      "url": "https://github.com/sponsors/avelino",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Go 优秀框架与库",
+        "chinese_summary": "一个精选的 Go 语言框架、库和软件列表",
+        "use_case": "为开发者提供快速构建 Web 应用、网络服务等的工具",
+        "tech_highlights": [
+          "Go 语言高性能",
+          "代码简洁易读",
+          "丰富的第三方库支持"
+        ],
+        "target_users": "Go 语言开发者",
+        "why_trending": "得益于 Go 语言的流行和其在并发处理上的优势，以及社区的活跃度",
+        "getting_started": "直接访问项目页面，根据需求选择合适的库或框架快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 456292,
+      "forks": 47498,
+      "today_stars": 136,
+      "hot_score": 1925.9,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "免费编程营开源代码库",
+        "chinese_summary": "提供免费的数学、编程和计算机科学学习资源。",
+        "use_case": "在线学习和教学平台，帮助个人提升编程技能。",
+        "tech_highlights": [
+          "使用TypeScript编写",
+          "开源代码库",
+          "丰富的学习资源"
+        ],
+        "target_users": "编程初学者和自学者",
+        "why_trending": "顺应开源和在线教育趋势，社区活跃度高。",
+        "getting_started": "访问官网或GitHub页面开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 124599,
+      "forks": 19282,
+      "today_stars": 78,
+      "hot_score": 1289.6,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一个开源远程桌面应用，支持自托管，替代TeamViewer。",
+        "use_case": "适用于远程访问和控制个人或企业计算机。",
+        "tech_highlights": [
+          "使用Rust编写，保证高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "界面简洁，操作便捷"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "得益于Rust语言的流行和技术优势，以及开源社区的支持和贡献",
+        "getting_started": "访问GitHub仓库，按照README中的说明快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 115106,
+      "forks": 7074,
+      "today_stars": 70,
+      "hot_score": 1206.1,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的自托管照片和视频管理解决方案",
+        "use_case": "适用于需要自托管且高性能的照片和视频管理场景",
+        "tech_highlights": [
+          "高性能",
+          "自托管",
+          "TypeScript 编程语言"
+        ],
+        "target_users": "需要自托管且高性能的照片和视频管理的用户",
+        "why_trending": "得益于其高性能和自托管特性，满足了用户对隐私和性能的需求，同时TypeScript的使用也增加了开发效率",
+        "getting_started": "通过官方文档快速了解项目结构和安装步骤",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-makeplane-plane",
+      "source": "github",
+      "full_name": "makeplane/plane",
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 59921,
+      "forks": 5885,
+      "today_stars": 34,
+      "hot_score": 817.8,
+      "url": "https://github.com/makeplane/plane",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Plane",
+        "chinese_summary": "一款现代项目管理平台，替代 Jira、Linear、Monday 和 ClickUp。",
+        "use_case": "适用于团队项目管理、任务跟踪、文档协作和问题处理。",
+        "tech_highlights": [
+          "基于 TypeScript 开发",
+          "支持多种项目管理工具集成",
+          "现代化用户界面"
+        ],
+        "target_users": "项目管理团队和开发团队",
+        "why_trending": "响应敏捷开发需求，提供灵活的项目管理解决方案；社区活跃，持续更新功能。",
+        "getting_started": "访问 GitHub 仓库，阅读 README 文件快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-kitao",
+      "source": "github",
+      "full_name": "sponsors/kitao",
+      "owner": "sponsors",
+      "name": "kitao",
+      "description": "A retro game engine for Python",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 18000,
+      "forks": 936,
+      "today_stars": 39,
+      "hot_score": 815.5,
+      "url": "https://github.com/sponsors/kitao",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Kitao 游戏引擎",
+        "chinese_summary": "一个用 Rust 编写的复古游戏引擎，用于 Python 开发游戏",
+        "use_case": "适用于需要高性能和跨平台支持的游戏开发",
+        "tech_highlights": [
+          "使用 Rust 提供高性能",
+          "支持 Python 便于开发"
+        ],
+        "target_users": "游戏开发者，特别是需要高性能游戏引擎的开发者",
+        "why_trending": "结合 Rust 的性能优势和 Python 的易用性，满足高性能游戏开发需求",
+        "getting_started": "通过官方文档快速了解并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-dgtlmoon-changedetection.io",
+      "source": "github",
+      "full_name": "dgtlmoon/changedetection.io",
+      "owner": "dgtlmoon",
+      "name": "changedetection.io",
+      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 34582,
+      "forks": 2096,
+      "today_stars": 36,
+      "hot_score": 813.9,
+      "url": "https://github.com/dgtlmoon/changedetection.io",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "网站变更检测工具",
+        "chinese_summary": "用于网站变更检测、网页监控和变更提醒的最佳工具。",
+        "use_case": "适用于跟踪内容变更、价格下降、补货提醒和网站篡改监控。",
+        "tech_highlights": [
+          "简洁易用的界面",
+          "免费版本和付费SaaS计划",
+          "支持多种监控场景"
+        ],
+        "target_users": "网站管理员、电商从业者、内容创作者",
+        "why_trending": "结合了免费和付费服务，满足不同用户需求；易于集成和使用。",
+        "getting_started": "直接访问官网，按照指引快速开始监控网站变更",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-supabase",
+      "source": "github",
+      "full_name": "sponsors/supabase",
+      "owner": "sponsors",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 110791,
+      "forks": 15088,
+      "today_stars": 30,
+      "hot_score": 804.5,
+      "url": "https://github.com/sponsors/supabase",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Supabase",
+        "chinese_summary": "Postgres开发平台，提供专用Postgres数据库构建Web、移动和AI应用。",
+        "use_case": "适用于需要Postgres数据库支持的Web、移动和AI应用开发。",
+        "tech_highlights": [
+          "支持Postgres数据库",
+          "易于集成的API",
+          "开源免费"
+        ],
+        "target_users": "Web、移动和AI应用开发者",
+        "why_trending": "得益于Postgres的强大功能和开源免费的特性，吸引了大量开发者。",
+        "getting_started": "访问官方文档，快速开始使用Supabase",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-openai-openai-cookbook",
+      "source": "github",
+      "full_name": "openai/openai-cookbook",
+      "owner": "openai",
+      "name": "openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
+      "language": "Jupyter Notebook",
+      "category": "ai_ml",
+      "stars": 76219,
+      "forks": 12896,
+      "today_stars": 28,
+      "hot_score": 768.2,
+      "url": "https://github.com/openai/openai-cookbook",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "OpenAI 烹饪书",
+        "chinese_summary": "使用 OpenAI API 的示例和指南",
+        "use_case": "提供使用 OpenAI API 的实践案例和教程",
+        "tech_highlights": [
+          "Jupyter Notebook 编程语言",
+          "OpenAI API 使用示例",
+          "代码和文档结合"
+        ],
+        "target_users": "开发者和对 OpenAI API 感兴趣的学习者",
+        "why_trending": "展示了如何利用 OpenAI API 实现各种应用，符合当前 AI 技术的发展趋势，社区活跃度高",
+        "getting_started": "直接访问 GitHub 仓库，从示例代码开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-AUTOMATIC1111-stable-diffusion-webui",
+      "source": "github",
+      "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+      "owner": "AUTOMATIC1111",
+      "name": "stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 165139,
+      "forks": 31797,
+      "today_stars": 24,
+      "hot_score": 761.8,
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "自动1111 稳定扩散 Web 界面",
+        "chinese_summary": "一个基于 Stable Diffusion 的图形用户界面，用于生成图像",
+        "use_case": "适用于需要生成高质量图像的艺术家、设计师和研究人员",
+        "tech_highlights": [
+          "基于 Stable Diffusion 的图像生成技术",
+          "用户友好的 Web 界面",
+          "支持多种参数调整"
+        ],
+        "target_users": "艺术家、设计师、研究人员和图像生成爱好者",
+        "why_trending": "得益于 Stable Diffusion 的突破性图像生成能力，以及易用的 Web 界面，吸引了大量用户",
+        "getting_started": "通过 GitHub 安装和运行，参考官方文档进行配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-withastro",
+      "source": "github",
+      "full_name": "sponsors/withastro",
+      "owner": "sponsors",
+      "name": "withastro",
+      "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 62844,
+      "forks": 3814,
+      "today_stars": 28,
+      "hot_score": 759.8,
+      "url": "https://github.com/sponsors/withastro",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Withastro",
+        "chinese_summary": "用于内容驱动型网站的 Web 框架",
+        "use_case": "适用于需要快速构建内容丰富的网站",
+        "tech_highlights": [
+          "基于 Astro 技术栈",
+          "TypeScript 编程语言",
+          "支持内容驱动型网站"
+        ],
+        "target_users": "内容创作者和技术开发者",
+        "why_trending": "结合了现代 Web 开发的最佳实践，易于使用且功能强大，受到开发者社区的欢迎",
+        "getting_started": "通过官方文档快速开始项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-Web-Dev-For-Beginners",
+      "source": "github",
+      "full_name": "microsoft/Web-Dev-For-Beginners",
+      "owner": "microsoft",
+      "name": "Web-Dev-For-Beginners",
+      "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 96809,
+      "forks": 15959,
+      "today_stars": 25,
+      "hot_score": 748.6,
+      "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Web 开发初学者",
+        "chinese_summary": "24 节课，12 周，带你入门 Web 开发",
+        "use_case": "适合初学者学习 Web 开发基础，涵盖 HTML、CSS 和 JavaScript 等技术",
+        "tech_highlights": [
+          "课程结构化清晰",
+          "实战项目丰富",
+          "社区支持活跃"
+        ],
+        "target_users": "Web 开发初学者",
+        "why_trending": "由于其系统化的学习路径和丰富的实战项目，吸引了大量初学者，成为学习 Web 开发的热门资源",
+        "getting_started": "直接访问 GitHub 仓库，跟随课程逐步学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-rust-unofficial-awesome-rust",
+      "source": "github",
+      "full_name": "rust-unofficial/awesome-rust",
+      "owner": "rust-unofficial",
+      "name": "awesome-rust",
+      "description": "A curated list of Rust code and resources.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 59572,
+      "forks": 3642,
+      "today_stars": 27,
+      "hot_score": 747.5,
+      "url": "https://github.com/rust-unofficial/awesome-rust",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Rust 不官方的优秀资源",
+        "chinese_summary": "一个精选的 Rust 代码和资源列表",
+        "use_case": "为 Rust 开发者提供学习和参考的资源",
+        "tech_highlights": [
+          "Rust 语言特性",
+          "社区贡献",
+          "资源多样性"
+        ],
+        "target_users": "Rust 开发者和学习者",
+        "why_trending": "Rust 语言的流行趋势和活跃的社区贡献使其资源备受关注",
+        "getting_started": "直接浏览或搜索感兴趣的 Rust 项目和资源",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nautechsystems-nautilus_trader",
+      "source": "github",
+      "full_name": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 29431,
+      "forks": 3895,
+      "today_stars": 29,
+      "hot_score": 736.9,
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纳utilus交易引擎",
+        "chinese_summary": "基于 Rust 语言构建的高性能、确定性的事件驱动交易引擎",
+        "use_case": "适用于高频交易、算法交易等需要高性能和确定性的场景",
+        "tech_highlights": [
+          "使用 Rust 语言实现高性能",
+          "事件驱动架构确保交易确定性",
+          "支持多种交易策略"
+        ],
+        "target_users": "高频交易员、算法交易工程师、金融技术开发者",
+        "why_trending": "得益于 Rust 语言的性能优势和事件驱动架构的可靠性，吸引了大量关注",
+        "getting_started": "通过官方文档快速了解项目结构和开发环境配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-Z4nzu-hackingtool",
+      "source": "github",
+      "full_name": "Z4nzu/hackingtool",
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 79769,
+      "forks": 9039,
+      "today_stars": 24,
+      "hot_score": 730.2,
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Z4nzu 全功能黑客工具",
+        "chinese_summary": "集多种黑客攻击工具于一体的综合平台",
+        "use_case": "适用于黑客攻击测试、安全研究等场景",
+        "tech_highlights": [
+          "多功能集成",
+          "Python 编写",
+          "持续更新"
+        ],
+        "target_users": "黑客、安全研究人员",
+        "why_trending": "因其功能全面且易于使用，受到黑客和安全研究者的广泛关注",
+        "getting_started": "建议先阅读README文件，了解各模块功能",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-trekhleb-javascript-algorithms",
+      "source": "github",
+      "full_name": "trekhleb/javascript-algorithms",
+      "owner": "trekhleb",
+      "name": "javascript-algorithms",
+      "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 196822,
+      "forks": 31020,
+      "today_stars": 20,
+      "hot_score": 729.4,
+      "url": "https://github.com/trekhleb/javascript-algorithms",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "JavaScript 算法实现",
+        "chinese_summary": "用 JavaScript 实现算法和数据结构，并附有解释和进一步阅读链接",
+        "use_case": "供学习算法和数据结构的开发者参考，或用于项目中实现特定算法",
+        "tech_highlights": [
+          "多种算法和数据结构实现",
+          "详细的解释和示例",
+          "易于理解和学习"
+        ],
+        "target_users": "学习算法和数据结构的开发者",
+        "why_trending": "随着算法知识在软件开发中的重要性增加，该项目提供了易于理解的实现和解释，受到广泛欢迎",
+        "getting_started": "直接访问 GitHub 仓库，查看 README 文件开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
