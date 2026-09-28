@@ -1,0 +1,613 @@
+{
+  "date": "2026-09-27",
+  "since": "daily",
+  "generated_at": "2026-09-28T04:03:43.054021+00:00",
+  "total": 20,
+  "category_counts": {
+    "other": 4,
+    "ai_ml": 4,
+    "backend": 3,
+    "frontend": 5,
+    "systems": 4
+  },
+  "repos": [
+    {
+      "repo_id": "github-sponsors-sindresorhus",
+      "source": "github",
+      "full_name": "sponsors/sindresorhus",
+      "owner": "sponsors",
+      "name": "sindresorhus",
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "language": "",
+      "category": "other",
+      "stars": 511563,
+      "forks": 37135,
+      "today_stars": 526,
+      "hot_score": 5830.9,
+      "url": "https://github.com/sponsors/sindresorhus",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "sindresorhus 的精选列表",
+        "chinese_summary": "收集各种有趣主题的精彩列表",
+        "use_case": "为开发者提供各种主题的资源列表，方便查找和学习",
+        "tech_highlights": [
+          "丰富的主题内容",
+          "易于维护的结构"
+        ],
+        "target_users": "开发者和对各种主题感兴趣的用户",
+        "why_trending": "由于其提供广泛且多样化的资源，满足不同用户的需求，因此受到欢迎",
+        "getting_started": "直接浏览或搜索感兴趣的列表即可",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-vinta-awesome-python",
+      "source": "github",
+      "full_name": "vinta/awesome-python",
+      "owner": "vinta",
+      "name": "awesome-python",
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 323600,
+      "forks": 28815,
+      "today_stars": 309,
+      "hot_score": 3641.0,
+      "url": "https://github.com/vinta/awesome-python",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "awesome-python",
+        "chinese_summary": "Python领域工具推荐列表",
+        "use_case": "帮助开发者快速找到适合的Python工具",
+        "tech_highlights": [
+          "全面覆盖Python工具",
+          "社区维护活跃",
+          "分类详细"
+        ],
+        "target_users": "Python开发者和工程师",
+        "why_trending": "由于Python的广泛使用和社区活跃度高，该列表持续受到关注",
+        "getting_started": "直接访问GitHub页面浏览推荐列表",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-codecrafters-io-build-your-own-x",
+      "source": "github",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "category": "other",
+      "stars": 550193,
+      "forks": 51676,
+      "today_stars": 292,
+      "hot_score": 3494.1,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "构建你自己的X",
+        "chinese_summary": "通过重新实现你喜爱的技术来掌握编程。",
+        "use_case": "适用于学习编程、技术爱好者和开发者。",
+        "tech_highlights": [
+          "重新实现技术",
+          "学习编程",
+          "社区贡献"
+        ],
+        "target_users": "编程初学者和技术爱好者",
+        "why_trending": "随着编程学习的普及和技术社区的活跃，该项目受到广泛关注。",
+        "getting_started": "从README开始，跟随项目逐步学习和实践",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 372206,
+      "forks": 58654,
+      "today_stars": 202,
+      "hot_score": 2577.1,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计 primer",
+        "chinese_summary": "学习如何设计大规模系统，准备系统设计面试，包含 Anki 闪卡。",
+        "use_case": "适用于准备系统设计面试和技术面试的工程师。",
+        "tech_highlights": [
+          "涵盖多种系统设计案例",
+          "包含 Anki 闪卡辅助记忆",
+          "Python 实现"
+        ],
+        "target_users": "技术面试准备者和系统设计工程师",
+        "why_trending": "结合系统设计理论与实践案例，利用 Anki 提高记忆效率，符合技术面试趋势。",
+        "getting_started": "直接克隆仓库，按照 README 文件指引开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-avelino",
+      "source": "github",
+      "full_name": "sponsors/avelino",
+      "owner": "sponsors",
+      "name": "avelino",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "category": "backend",
+      "stars": 185911,
+      "forks": 13589,
+      "today_stars": 162,
+      "hot_score": 2146.9,
+      "url": "https://github.com/sponsors/avelino",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Go 优秀框架与库",
+        "chinese_summary": "一个精选的 Go 语言框架、库和软件列表",
+        "use_case": "用于构建 Web 应用、网络服务和其他 Go 项目",
+        "tech_highlights": [
+          "Go 语言高性能",
+          "丰富的框架和库选择",
+          "社区活跃"
+        ],
+        "target_users": "Go 语言开发者",
+        "why_trending": "由于 Go 语言的流行和其在构建现代 Web 应用中的优势，该项目受到广泛关注",
+        "getting_started": "直接浏览或搜索所需框架和库，快速开始项目开发",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-actions-runner-images",
+      "source": "github",
+      "full_name": "actions/runner-images",
+      "owner": "actions",
+      "name": "runner-images",
+      "description": "GitHub Actions runner images",
+      "language": "PowerShell",
+      "category": "other",
+      "stars": 13390,
+      "forks": 3873,
+      "today_stars": 152,
+      "hot_score": 1932.7,
+      "url": "https://github.com/actions/runner-images",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "GitHub Actions 运行器镜像",
+        "chinese_summary": "提供 GitHub Actions 运行器的 Docker 镜像",
+        "use_case": "用于部署和运行 GitHub Actions 工作流",
+        "tech_highlights": [
+          "支持多种编程语言和工具栈",
+          "高度可定制化",
+          "跨平台兼容性"
+        ],
+        "target_users": "GitHub Actions 用户和 DevOps 工程师",
+        "why_trending": "随着 CI/CD 流程自动化需求增加，GitHub Actions 受到广泛欢迎，该镜像提供了灵活的运行环境",
+        "getting_started": "通过 Docker 容器快速部署 GitHub Actions 运行器",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 456382,
+      "forks": 47643,
+      "today_stars": 100,
+      "hot_score": 1565.9,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "freeCodeCamp 开源项目",
+        "chinese_summary": "一个免费提供数学、编程和计算机科学学习资源的开源平台。",
+        "use_case": "用于在线学习编程和相关技能。",
+        "tech_highlights": [
+          "使用 TypeScript 编写代码",
+          "丰富的学习资源和课程"
+        ],
+        "target_users": "编程初学者和自学者",
+        "why_trending": "随着在线教育和开源项目的流行，freeCodeCamp 提供了高质量的免费学习资源，吸引了大量用户。",
+        "getting_started": "访问官网，选择相应的课程开始学习。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 124658,
+      "forks": 19294,
+      "today_stars": 63,
+      "hot_score": 1139.6,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一个用于自托管的开源远程桌面应用，替代TeamViewer。",
+        "use_case": "适用于需要远程访问和控制计算机的场景。",
+        "tech_highlights": [
+          "使用Rust编写，保证高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "界面简洁，操作便捷"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "得益于Rust语言的优势和开源社区的支持，RustDesk在性能和安全性方面表现出色，吸引了大量关注。",
+        "getting_started": "访问GitHub页面，按照README中的说明快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-huggingface-transformers",
+      "source": "github",
+      "full_name": "huggingface/transformers",
+      "owner": "huggingface",
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 166735,
+      "forks": 34696,
+      "today_stars": 48,
+      "hot_score": 1002.2,
+      "url": "https://github.com/huggingface/transformers",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hugging Face Transformers",
+        "chinese_summary": "一个用于文本、视觉、音频和多模态模型的先进机器学习模型框架。",
+        "use_case": "适用于模型训练和推理。",
+        "tech_highlights": [
+          "支持多种模型架构",
+          "丰富的模型库",
+          "易于扩展和自定义"
+        ],
+        "target_users": "机器学习工程师、研究人员、数据科学家",
+        "why_trending": "因其强大的功能和广泛的社区支持，成为机器学习领域的热门项目。",
+        "getting_started": "通过安装库和阅读文档快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-trufflesecurity-trufflehog",
+      "source": "github",
+      "full_name": "trufflesecurity/trufflehog",
+      "owner": "trufflesecurity",
+      "name": "trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "category": "backend",
+      "stars": 28143,
+      "forks": 2601,
+      "today_stars": 53,
+      "hot_score": 974.9,
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "TruffleHog",
+        "chinese_summary": "查找、验证和分析泄露的凭据",
+        "use_case": "主要用于代码仓库中查找和分析可能泄露的敏感信息。",
+        "tech_highlights": [
+          "支持多种版本控制系统",
+          "深度集成多种编程语言",
+          "强大的正则表达式支持"
+        ],
+        "target_users": "开发团队、安全专家和运维人员",
+        "why_trending": "随着数据安全问题的日益突出，TruffleHog 成为了检测和防止敏感信息泄露的重要工具。",
+        "getting_started": "通过安装 Go 环境并运行 `trufflehog` 命令即可快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-kitao",
+      "source": "github",
+      "full_name": "sponsors/kitao",
+      "owner": "sponsors",
+      "name": "kitao",
+      "description": "A retro game engine for Python",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 18177,
+      "forks": 948,
+      "today_stars": 52,
+      "hot_score": 946.0,
+      "url": "https://github.com/sponsors/kitao",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Kitao 游戏引擎",
+        "chinese_summary": "一个用 Rust 编写的复古游戏引擎，适合 Python 开发者。",
+        "use_case": "用于开发复古风格的游戏，支持 Python 语言。",
+        "tech_highlights": [
+          "使用 Rust 编写，性能优秀",
+          "支持 Python 开发者",
+          "复古游戏风格"
+        ],
+        "target_users": "Python 游戏开发者",
+        "why_trending": "结合了 Rust 的高性能和 Python 的易用性，满足了游戏开发的需求，受到开发者欢迎。",
+        "getting_started": "通过官方文档快速了解项目结构和开发流程",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-supabase",
+      "source": "github",
+      "full_name": "sponsors/supabase",
+      "owner": "sponsors",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 110827,
+      "forks": 15239,
+      "today_stars": 34,
+      "hot_score": 844.5,
+      "url": "https://github.com/sponsors/supabase",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Supabase",
+        "chinese_summary": "Postgres 开发平台，提供专用 Postgres 数据库构建 Web、移动和 AI 应用。",
+        "use_case": "适用于需要 Postgres 数据库支持的 Web、移动和 AI 应用开发。",
+        "tech_highlights": [
+          "支持 Postgres 数据库",
+          "易于集成的 API",
+          "丰富的功能模块"
+        ],
+        "target_users": "Web、移动和 AI 应用开发者",
+        "why_trending": "得益于 Postgres 的强大功能和 Supabase 提供的便捷开发体验，吸引了大量开发者。",
+        "getting_started": "通过官方文档快速开始使用 Supabase",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-tailscale-tailscale",
+      "source": "github",
+      "full_name": "tailscale/tailscale",
+      "owner": "tailscale",
+      "name": "tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 36941,
+      "forks": 3252,
+      "today_stars": 37,
+      "hot_score": 826.8,
+      "url": "https://github.com/tailscale/tailscale",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Tailscale",
+        "chinese_summary": "使用 WireGuard 和双因素认证的最简单、最安全的方式",
+        "use_case": "适用于需要简单、安全网络连接的个人和团队",
+        "tech_highlights": [
+          "支持 WireGuard",
+          "内置双因素认证",
+          "易于安装和使用"
+        ],
+        "target_users": "需要简单安全网络连接的个人和团队",
+        "why_trending": "得益于其简单易用和安全性，满足了现代网络安全需求，社区活跃度高",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "category": "systems",
+      "stars": 139065,
+      "forks": 8612,
+      "today_stars": 29,
+      "hot_score": 804.3,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "Windows系统增强工具集合，提升生产力和个性化设置",
+        "use_case": "适用于需要高度定制化和高效操作的Windows用户",
+        "tech_highlights": [
+          "跨平台开发",
+          "C语言编写",
+          "高度模块化"
+        ],
+        "target_users": "Windows系统高级用户和开发者",
+        "why_trending": "因其强大的功能和高度的可定制性，受到广泛好评，社区活跃度高",
+        "getting_started": "访问GitHub页面，按照README文件指引快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-pmndrs",
+      "source": "github",
+      "full_name": "sponsors/pmndrs",
+      "owner": "sponsors",
+      "name": "pmndrs",
+      "description": "🇨🇭 A React renderer for Three.js",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 32576,
+      "forks": 1993,
+      "today_stars": 33,
+      "hot_score": 781.3,
+      "url": "https://github.com/sponsors/pmndrs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Three.js React 渲染器",
+        "chinese_summary": "一款用于 Three.js 的 React 渲染器",
+        "use_case": "用于创建基于 Three.js 的交互式 3D 图形应用",
+        "tech_highlights": [
+          "React 组件化",
+          "TypeScript 编写",
+          "Three.js 集成"
+        ],
+        "target_users": "Web 开发者，3D 图形爱好者",
+        "why_trending": "结合了 React 和 Three.js 的优势，简化了 3D 图形的开发流程，受到开发者欢迎",
+        "getting_started": "通过 npm 安装并快速创建 React 组件",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ClickHouse-ClickHouse",
+      "source": "github",
+      "full_name": "ClickHouse/ClickHouse",
+      "owner": "ClickHouse",
+      "name": "ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "category": "systems",
+      "stars": 50116,
+      "forks": 9017,
+      "today_stars": 29,
+      "hot_score": 760.0,
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ClickHouse",
+        "chinese_summary": "实时分析数据库管理系统",
+        "use_case": "适用于实时数据分析、在线分析处理等场景",
+        "tech_highlights": [
+          "支持SQL查询",
+          "列式存储",
+          "分布式处理"
+        ],
+        "target_users": "数据分析师、数据库管理员",
+        "why_trending": "因其高效的数据处理能力和易于使用的特性，受到广泛关注",
+        "getting_started": "访问官方文档，快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-PostHog-posthog",
+      "source": "github",
+      "full_name": "PostHog/posthog",
+      "owner": "PostHog",
+      "name": "posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 39975,
+      "forks": 3431,
+      "today_stars": 29,
+      "hot_score": 750.2,
+      "url": "https://github.com/PostHog/posthog",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PostHog",
+        "chinese_summary": "PostHog 是一个用于构建自驱动产品的领先平台，提供多种开发工具。",
+        "use_case": "适用于需要实时监控和分析用户行为、性能问题和实验管理的应用场景。",
+        "tech_highlights": [
+          "AI  observability",
+          "全渠道监控（Slack, web, desktop）",
+          "丰富的实验管理功能"
+        ],
+        "target_users": "产品开发人员、数据分析师和项目经理",
+        "why_trending": "得益于其强大的数据分析能力和用户友好的界面，PostHog 在开发者社区中受到广泛关注。",
+        "getting_started": "建议从官方文档开始，快速了解核心功能和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-vitejs",
+      "source": "github",
+      "full_name": "sponsors/vitejs",
+      "owner": "sponsors",
+      "name": "vitejs",
+      "description": "Next generation frontend tooling. It's fast!",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 83051,
+      "forks": 8792,
+      "today_stars": 24,
+      "hot_score": 731.9,
+      "url": "https://github.com/sponsors/vitejs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Vite",
+        "chinese_summary": "下一代前端构建工具，快速高效",
+        "use_case": "适用于现代前端开发，特别是需要快速启动和开发速度的场景",
+        "tech_highlights": [
+          "支持按需编译",
+          "零配置",
+          "热更新速度快"
+        ],
+        "target_users": "前端开发者，特别是需要快速开发和启动的项目",
+        "why_trending": "得益于其快速的启动时间和热更新能力，满足了现代前端开发的需求",
+        "getting_started": "通过npm安装并初始化项目，快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-lukasz-madon-awesome-remote-job",
+      "source": "github",
+      "full_name": "lukasz-madon/awesome-remote-job",
+      "owner": "lukasz-madon",
+      "name": "awesome-remote-job",
+      "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
+      "language": "",
+      "category": "other",
+      "stars": 49021,
+      "forks": 4823,
+      "today_stars": 26,
+      "hot_score": 729.0,
+      "url": "https://github.com/lukasz-madon/awesome-remote-job",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "卢卡斯-马多恩/超赞远程工作",
+        "chinese_summary": "整理了优秀的远程工作和资源列表",
+        "use_case": "为求职者和招聘者提供远程工作的信息",
+        "tech_highlights": [
+          "无技术亮点",
+          "无技术亮点",
+          "无技术亮点"
+        ],
+        "target_users": "求职者、招聘者",
+        "why_trending": "随着远程工作的普及，该列表提供了丰富的资源，受到广泛欢迎",
+        "getting_started": "直接访问 GitHub 仓库浏览和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-laurent22",
+      "source": "github",
+      "full_name": "sponsors/laurent22",
+      "owner": "sponsors",
+      "name": "laurent22",
+      "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 56513,
+      "forks": 6306,
+      "today_stars": 25,
+      "hot_score": 725.2,
+      "url": "https://github.com/sponsors/laurent22",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Joplin - 隐私优先的笔记应用",
+        "chinese_summary": "跨平台的隐私保护笔记应用，支持同步功能。",
+        "use_case": "适用于需要跨设备同步和管理隐私笔记的用户。",
+        "tech_highlights": [
+          "支持多种平台",
+          "注重隐私保护",
+          "支持同步功能"
+        ],
+        "target_users": "需要跨设备管理隐私笔记的用户",
+        "why_trending": "因其强大的隐私保护功能和跨平台支持，在注重隐私的用户中受到欢迎。",
+        "getting_started": "访问GitHub页面，按照README中的说明快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
