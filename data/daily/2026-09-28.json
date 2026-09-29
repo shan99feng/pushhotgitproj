@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-28",
+  "since": "daily",
+  "generated_at": "2026-09-29T04:37:03.709403+00:00",
+  "total": 20,
+  "category_counts": {
+    "other": 3,
+    "ai_ml": 5,
+    "mobile": 1,
+    "systems": 1,
+    "backend": 4,
+    "frontend": 6
+  },
+  "repos": [
+    {
+      "repo_id": "github-codecrafters-io-build-your-own-x",
+      "source": "github",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "category": "other",
+      "stars": 550478,
+      "forks": 51695,
+      "today_stars": 329,
+      "hot_score": 3864.1,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "从零构建你喜爱的技术",
+        "chinese_summary": "通过重新实现你喜爱的技术，学习编程。",
+        "use_case": "适用于希望深入理解技术原理和实现细节的学习者。",
+        "tech_highlights": [
+          "从零开始实现技术",
+          "学习底层原理",
+          "实践编程技能"
+        ],
+        "target_users": "编程初学者和中级开发者",
+        "why_trending": "符合当前编程学习趋势，强调实践和理解，社区活跃。",
+        "getting_started": "阅读项目文档，选择一个项目开始实现",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-vinta-awesome-python",
+      "source": "github",
+      "full_name": "vinta/awesome-python",
+      "owner": "vinta",
+      "name": "awesome-python",
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 323893,
+      "forks": 28829,
+      "today_stars": 316,
+      "hot_score": 3711.0,
+      "url": "https://github.com/vinta/awesome-python",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "优秀 Python 工具合集",
+        "chinese_summary": "提供 Python 中各类工具的推荐列表，帮助用户快速找到所需工具。",
+        "use_case": "适用于需要在 Python 中寻找特定工具或库的开发者。",
+        "tech_highlights": [
+          "全面覆盖 Python 生态系统",
+          "定期更新和维护"
+        ],
+        "target_users": "Python 开发者和工程师",
+        "why_trending": "由于 Python 的广泛使用和持续增长的社区活跃度，该列表成为开发者寻找工具的重要资源。",
+        "getting_started": "直接访问 GitHub 仓库，查看相应分类下的工具推荐。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-yt-dlp-yt-dlp",
+      "source": "github",
+      "full_name": "yt-dlp/yt-dlp",
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 194188,
+      "forks": 16860,
+      "today_stars": 232,
+      "hot_score": 2848.8,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yt-dlp/yt-dlp",
+        "chinese_summary": "一个功能丰富的命令行音频/视频下载工具",
+        "use_case": "用于从各种网站下载音频和视频文件",
+        "tech_highlights": [
+          "支持多种视频网站",
+          "命令行界面",
+          "丰富的功能选项"
+        ],
+        "target_users": "需要下载音频和视频的用户",
+        "why_trending": "由于其强大的功能和广泛的网站支持，吸引了大量用户和开发者",
+        "getting_started": "通过pip安装后，使用简单的命令即可开始下载",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-openai-tart",
+      "source": "github",
+      "full_name": "openai/tart",
+      "owner": "openai",
+      "name": "tart",
+      "description": "macOS and Linux VMs on Apple Silicon to use in CI and other automations",
+      "language": "Swift",
+      "category": "mobile",
+      "stars": 7204,
+      "forks": 383,
+      "today_stars": 211,
+      "hot_score": 2495.8,
+      "url": "https://github.com/openai/tart",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Tart",
+        "chinese_summary": "用于CI和自动化任务的Apple Silicon上的macOS和Linux虚拟机",
+        "use_case": "在CI和自动化任务中运行macOS和Linux环境",
+        "tech_highlights": [
+          "Apple Silicon支持",
+          "轻量级虚拟化",
+          "跨平台兼容性"
+        ],
+        "target_users": "CI/CD工程师和自动化开发者",
+        "why_trending": "得益于M1/M2芯片的普及和技术社区的兴趣",
+        "getting_started": "通过Dockerfile快速启动虚拟机环境",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-kitao",
+      "source": "github",
+      "full_name": "sponsors/kitao",
+      "owner": "sponsors",
+      "name": "kitao",
+      "description": "A retro game engine for Python",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 18256,
+      "forks": 952,
+      "today_stars": 197,
+      "hot_score": 2396.1,
+      "url": "https://github.com/sponsors/kitao",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Kitao 游戏引擎",
+        "chinese_summary": "一个用 Rust 编写的复古游戏引擎，适合 Python 开发者",
+        "use_case": "用于开发复古风格的游戏，支持 Python 开发者",
+        "tech_highlights": [
+          "使用 Rust 编写，性能优秀",
+          "支持 Python 开发者",
+          "具有复古游戏风格"
+        ],
+        "target_users": "Python 开发者和复古游戏爱好者",
+        "why_trending": "结合了 Rust 的高性能和 Python 的易用性，满足了开发者对游戏引擎的新需求",
+        "getting_started": "通过官方文档快速了解项目结构和开发流程",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-avelino",
+      "source": "github",
+      "full_name": "sponsors/avelino",
+      "owner": "sponsors",
+      "name": "avelino",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "category": "backend",
+      "stars": 186055,
+      "forks": 13589,
+      "today_stars": 151,
+      "hot_score": 2037.0,
+      "url": "https://github.com/sponsors/avelino",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Go 优秀框架与库",
+        "chinese_summary": "一个精选的 Go 语言框架、库和软件列表",
+        "use_case": "为 Go 开发者提供丰富的选择，用于构建各种应用程序",
+        "tech_highlights": [
+          "精选优质资源",
+          "易于访问",
+          "持续更新"
+        ],
+        "target_users": "Go 语言开发者",
+        "why_trending": "由于 Go 语言的流行和社区的活跃，该列表成为开发者寻找优质资源的重要参考",
+        "getting_started": "直接访问 GitHub 仓库，浏览分类列表开始探索",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 456479,
+      "forks": 47730,
+      "today_stars": 137,
+      "hot_score": 1935.9,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "freeCodeCamp开源项目",
+        "chinese_summary": "提供免费的数学、编程和计算机科学学习资源",
+        "use_case": "在线自学编程和相关技能",
+        "tech_highlights": [
+          "开源代码库",
+          "丰富的学习课程",
+          "社区驱动"
+        ],
+        "target_users": "编程初学者和自学者",
+        "why_trending": "符合当前在线学习和开源文化趋势，社区活跃",
+        "getting_started": "访问官网，选择学习路径开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-OpenBB-finance",
+      "source": "github",
+      "full_name": "sponsors/OpenBB-finance",
+      "owner": "sponsors",
+      "name": "OpenBB-finance",
+      "description": "Open Data Platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 73606,
+      "forks": 7618,
+      "today_stars": 62,
+      "hot_score": 1106.7,
+      "url": "https://github.com/sponsors/OpenBB-finance",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "OpenBB 财经数据平台",
+        "chinese_summary": "为分析师、量化交易员和AI代理提供开源财经数据平台。",
+        "use_case": "用于金融数据分析、量化交易策略开发和AI模型训练。",
+        "tech_highlights": [
+          "支持多种数据源接入",
+          "提供统一的数据接口",
+          "内置多种金融指标和模型"
+        ],
+        "target_users": "金融分析师、量化交易员、数据科学家和AI开发者",
+        "why_trending": "得益于开源社区的广泛参与和金融数据需求的增长，以及对AI在金融领域的应用日益重视。",
+        "getting_started": "通过官方文档快速了解项目结构并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-qlib",
+      "source": "github",
+      "full_name": "microsoft/qlib",
+      "owner": "microsoft",
+      "name": "qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 49025,
+      "forks": 7750,
+      "today_stars": 55,
+      "hot_score": 1019.0,
+      "url": "https://github.com/microsoft/qlib",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "QLib",
+        "chinese_summary": "一个以AI赋能量化研究的投资平台，支持多种机器学习模型。",
+        "use_case": "适用于量化研究和投资策略开发。",
+        "tech_highlights": [
+          "支持多种机器学习模型",
+          "集成市场动态建模",
+          "支持强化学习"
+        ],
+        "target_users": "量化研究者和投资策略开发者",
+        "why_trending": "得益于AI技术的发展和量化投资的热度，QLib提供了一站式的解决方案，受到广泛关注。",
+        "getting_started": "建议从官方文档开始学习，快速了解项目结构和使用方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-supabase",
+      "source": "github",
+      "full_name": "sponsors/supabase",
+      "owner": "sponsors",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 110869,
+      "forks": 15326,
+      "today_stars": 51,
+      "hot_score": 1014.5,
+      "url": "https://github.com/sponsors/supabase",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Supabase",
+        "chinese_summary": "提供专用PostgreSQL数据库，用于构建Web、移动和AI应用。",
+        "use_case": "适用于需要PostgreSQL数据库支持的Web、移动和AI应用开发。",
+        "tech_highlights": [
+          "支持PostgreSQL数据库",
+          "易于集成的API",
+          "开源免费"
+        ],
+        "target_users": "Web、移动和AI应用开发者",
+        "why_trending": "得益于PostgreSQL的强大功能和开源免费的特性，以及社区的持续支持和贡献。",
+        "getting_started": "通过官方文档快速开始使用Supabase",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-smartstore-Smartstore",
+      "source": "github",
+      "full_name": "smartstore/Smartstore",
+      "owner": "smartstore",
+      "name": "Smartstore",
+      "description": "A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Core 10",
+      "language": "C#",
+      "category": "other",
+      "stars": 1701,
+      "forks": 604,
+      "today_stars": 63,
+      "hot_score": 953.1,
+      "url": "https://github.com/smartstore/Smartstore",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "智能商店",
+        "chinese_summary": "基于 ASP.NET Core 10 的模块化、可扩展且超快的一站式开源电商平台",
+        "use_case": "适用于需要快速构建和扩展的电商平台。",
+        "tech_highlights": [
+          "模块化设计",
+          "高性能",
+          "易于扩展"
+        ],
+        "target_users": "电商平台开发者和企业",
+        "why_trending": "得益于模块化设计和高性能，满足了现代电商平台的需求，社区活跃。",
+        "getting_started": "通过官方文档快速开始项目搭建",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-Z4nzu-hackingtool",
+      "source": "github",
+      "full_name": "Z4nzu/hackingtool",
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 79820,
+      "forks": 9055,
+      "today_stars": 45,
+      "hot_score": 940.2,
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Z4nzu 全能黑客工具",
+        "chinese_summary": "一个集成了多种黑客攻击手段的综合工具",
+        "use_case": "适用于黑客攻击测试、安全研究和漏洞挖掘",
+        "tech_highlights": [
+          "多功能集成",
+          "Python 编写",
+          "自动化攻击"
+        ],
+        "target_users": "黑客、安全研究人员和渗透测试人员",
+        "why_trending": "因其多功能性和易用性，吸引了大量安全爱好者的关注",
+        "getting_started": "通过安装依赖和运行脚本快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-withastro",
+      "source": "github",
+      "full_name": "sponsors/withastro",
+      "owner": "sponsors",
+      "name": "withastro",
+      "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 62905,
+      "forks": 3819,
+      "today_stars": 42,
+      "hot_score": 899.9,
+      "url": "https://github.com/sponsors/withastro",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Withastro",
+        "chinese_summary": "用于内容驱动型网站的 Web 框架",
+        "use_case": "构建博客、新闻网站和知识库等",
+        "tech_highlights": [
+          "基于 Astro 技术栈",
+          "TypeScript 编程语言",
+          "支持内容分发"
+        ],
+        "target_users": "内容创作者和技术开发者",
+        "why_trending": "结合现代 Web 开发趋势，提供高效的内容分发解决方案",
+        "getting_started": "快速阅读官方文档并开始构建项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-trufflesecurity-trufflehog",
+      "source": "github",
+      "full_name": "trufflesecurity/trufflehog",
+      "owner": "trufflesecurity",
+      "name": "trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "category": "backend",
+      "stars": 28171,
+      "forks": 2605,
+      "today_stars": 43,
+      "hot_score": 875.0,
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "TruffleHog",
+        "chinese_summary": "用于查找、验证和分析泄露凭证的工具",
+        "use_case": "主要用于代码仓库的安全审计，防止敏感信息泄露。",
+        "tech_highlights": [
+          "支持多种版本控制系统",
+          "深度解析和分析代码",
+          "高精度的敏感信息检测"
+        ],
+        "target_users": "代码仓库管理员、安全审计人员",
+        "why_trending": "随着数据安全意识提高，敏感信息泄露风险增加，该工具受到广泛关注。",
+        "getting_started": "通过安装Go环境并运行`trufflehog -r <repository>`快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-neovim",
+      "source": "github",
+      "full_name": "sponsors/neovim",
+      "owner": "sponsors",
+      "name": "neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "category": "other",
+      "stars": 102654,
+      "forks": 7140,
+      "today_stars": 34,
+      "hot_score": 841.1,
+      "url": "https://github.com/sponsors/neovim",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Neovim",
+        "chinese_summary": "一个注重扩展性和易用性的 Vim 改进版本",
+        "use_case": "适用于需要高度自定义和高效编辑的开发者",
+        "tech_highlights": [
+          "支持 Lua 作为脚本语言",
+          "改进的性能和稳定性",
+          "丰富的插件生态系统"
+        ],
+        "target_users": "需要高度定制化文本编辑体验的开发者",
+        "why_trending": "得益于 Lua 脚本支持和强大的社区贡献，Neovim 在功能和性能上不断进步，吸引了大量开发者",
+        "getting_started": "通过安装 Neovim 并配置 .vimrc 文件开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-juanfont-headscale",
+      "source": "github",
+      "full_name": "juanfont/headscale",
+      "owner": "juanfont",
+      "name": "headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "category": "backend",
+      "stars": 44209,
+      "forks": 2593,
+      "today_stars": 37,
+      "hot_score": 834.6,
+      "url": "https://github.com/juanfont/headscale",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "头尺度",
+        "chinese_summary": "一个开源的、可自托管的 Tailscale 控制服务器实现",
+        "use_case": "用于企业内部网络的自托管网络管理",
+        "tech_highlights": [
+          "支持自托管",
+          "开源代码",
+          "Go 语言编写"
+        ],
+        "target_users": "需要自托管网络管理的企业和开发者",
+        "why_trending": "随着远程办公和企业网络需求的增长，自托管解决方案越来越受欢迎，同时开源社区的推动也增加了其热度",
+        "getting_started": "通过官方文档快速搭建并使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-calcom-cal.diy",
+      "source": "github",
+      "full_name": "calcom/cal.diy",
+      "owner": "calcom",
+      "name": "cal.diy",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 48719,
+      "forks": 15237,
+      "today_stars": 36,
+      "hot_score": 828.8,
+      "url": "https://github.com/calcom/cal.diy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Cal.diy",
+        "chinese_summary": "一个为所有人提供日程安排的基础架构",
+        "use_case": "适用于个人和企业进行日程管理",
+        "tech_highlights": [
+          "使用 TypeScript 编写",
+          "灵活的自定义功能"
+        ],
+        "target_users": "需要灵活日程管理的个人和团队",
+        "why_trending": "随着远程工作和灵活日程管理需求的增加，该项目受到关注",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-pmndrs",
+      "source": "github",
+      "full_name": "sponsors/pmndrs",
+      "owner": "sponsors",
+      "name": "pmndrs",
+      "description": "🇨🇭 A React renderer for Three.js",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 32599,
+      "forks": 1994,
+      "today_stars": 37,
+      "hot_score": 821.3,
+      "url": "https://github.com/sponsors/pmndrs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Three.js React 渲染器",
+        "chinese_summary": "一个用于 Three.js 的 React 渲染器",
+        "use_case": "用于创建基于 Three.js 的 3D 图形和动画的 React 组件。",
+        "tech_highlights": [
+          "支持 React 生态系统",
+          "简化 Three.js 使用",
+          "类型安全"
+        ],
+        "target_users": "前端开发者，特别是使用 React 构建 3D 应用的开发者",
+        "why_trending": "结合了 React 和 Three.js 的强大功能，满足了开发者对 3D 内容的需求，同时简化了开发流程。",
+        "getting_started": "通过 npm 安装并快速集成到 React 项目中",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-projectdiscovery-nuclei",
+      "source": "github",
+      "full_name": "projectdiscovery/nuclei",
+      "owner": "projectdiscovery",
+      "name": "nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 31612,
+      "forks": 3907,
+      "today_stars": 35,
+      "hot_score": 800.0,
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Nuclei",
+        "chinese_summary": "基于 YAML 的 DSL 的快速可定制漏洞扫描工具",
+        "use_case": "用于发现应用程序、API、网络、DNS 和云配置中的漏洞",
+        "tech_highlights": [
+          "基于 YAML 的简单 DSL",
+          "社区驱动的漏洞库",
+          "高度可定制"
+        ],
+        "target_users": "安全研究人员、开发人员和运维人员",
+        "why_trending": "得益于其强大的社区贡献和易于使用的 YAML DSL，Nuclei 成为网络安全领域的一个热门工具",
+        "getting_started": "通过安装 Go 环境并运行 `go get -u projectdiscovery/nuclei` 快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-vitejs",
+      "source": "github",
+      "full_name": "sponsors/vitejs",
+      "owner": "sponsors",
+      "name": "vitejs",
+      "description": "Next generation frontend tooling. It's fast!",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 83069,
+      "forks": 8797,
+      "today_stars": 26,
+      "hot_score": 751.9,
+      "url": "https://github.com/sponsors/vitejs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Vite",
+        "chinese_summary": "下一代前端构建工具，快速高效",
+        "use_case": "用于构建现代前端应用，特别适合开发大型项目",
+        "tech_highlights": [
+          "支持按需编译",
+          "热更新速度快",
+          "支持多种构建方式"
+        ],
+        "target_users": "前端开发者，特别是需要快速开发和调试的开发者",
+        "why_trending": "得益于其出色的性能和易用性，吸引了大量开发者关注",
+        "getting_started": "通过npm安装并初始化项目，快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
