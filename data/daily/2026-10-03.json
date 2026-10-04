@@ -1,0 +1,612 @@
+{
+  "date": "2026-10-03",
+  "since": "daily",
+  "generated_at": "2026-10-04T04:40:27.525714+00:00",
+  "total": 20,
+  "category_counts": {
+    "ai_ml": 4,
+    "backend": 5,
+    "frontend": 4,
+    "systems": 6,
+    "other": 1
+  },
+  "repos": [
+    {
+      "repo_id": "github-yt-dlp-yt-dlp",
+      "source": "github",
+      "full_name": "yt-dlp/yt-dlp",
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 195325,
+      "forks": 16971,
+      "today_stars": 281,
+      "hot_score": 3339.1,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yt-dlp/yt-dlp",
+        "chinese_summary": "一个功能丰富的命令行音频/视频下载工具",
+        "use_case": "用于从各种网站下载音频和视频文件",
+        "tech_highlights": [
+          "支持多种视频网站",
+          "命令行界面",
+          "高度可配置"
+        ],
+        "target_users": "视频和音频内容下载者",
+        "why_trending": "因其强大的功能和广泛的兼容性，受到社区欢迎",
+        "getting_started": "通过pip安装后，使用帮助文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-avelino",
+      "source": "github",
+      "full_name": "sponsors/avelino",
+      "owner": "sponsors",
+      "name": "avelino",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "category": "backend",
+      "stars": 186800,
+      "forks": 13603,
+      "today_stars": 172,
+      "hot_score": 2247.1,
+      "url": "https://github.com/sponsors/avelino",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Go 优秀框架与库",
+        "chinese_summary": "一个精选的 Go 语言框架、库和软件列表",
+        "use_case": "为开发者提供快速构建 Web 应用、网络服务等的工具",
+        "tech_highlights": [
+          "Go 语言高性能",
+          "丰富的库支持",
+          "易于集成"
+        ],
+        "target_users": "Go 语言开发者",
+        "why_trending": "得益于 Go 语言的流行和其在云原生领域的应用，该列表受到广泛关注",
+        "getting_started": "直接查看列表，选择合适的工具开始项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 373082,
+      "forks": 58733,
+      "today_stars": 125,
+      "hot_score": 1807.2,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计 primer",
+        "chinese_summary": "学习如何设计大规模系统，准备系统设计面试，包含 Anki 闪卡。",
+        "use_case": "适用于准备系统设计面试和技术面试的开发者。",
+        "tech_highlights": [
+          "包含 Anki 闪卡辅助学习",
+          "涵盖多种系统设计场景"
+        ],
+        "target_users": "技术面试准备者和系统设计学习者",
+        "why_trending": "随着云计算和分布式系统的发展，系统设计成为技术面试的重要环节，该项目提供了系统设计的全面指导。",
+        "getting_started": "通过阅读文档和参与练习快速上手",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 80470,
+      "forks": 8953,
+      "today_stars": 118,
+      "hot_score": 1670.6,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "国家安全局/Ghidra",
+        "chinese_summary": "Ghidra 是一个软件逆向工程框架，用于分析和修改二进制代码。",
+        "use_case": "主要用于逆向分析恶意软件、漏洞研究和软件逆向工程。",
+        "tech_highlights": [
+          "开源免费",
+          "支持多种架构",
+          "强大的逆向分析工具"
+        ],
+        "target_users": "软件逆向工程师、安全研究人员、恶意软件分析师",
+        "why_trending": "因其强大的逆向分析功能和开源特性，吸引了大量安全研究者的关注。",
+        "getting_started": "访问 GitHub 页面，下载最新版本并参考官方文档快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 115541,
+      "forks": 7123,
+      "today_stars": 71,
+      "hot_score": 1216.3,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的自托管照片和视频管理解决方案",
+        "use_case": "适用于个人和团队的照片和视频管理，支持自托管。",
+        "tech_highlights": [
+          "高性能",
+          "自托管",
+          "TypeScript 编程语言"
+        ],
+        "target_users": "个人用户、团队和组织",
+        "why_trending": "得益于自托管特性，满足用户对隐私和数据控制的需求；TypeScript 使得代码更加现代化。",
+        "getting_started": "访问 GitHub 仓库，按照 README 文件中的说明快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-openbq-org-OpenBB",
+      "source": "github",
+      "full_name": "openbq-org/OpenBB",
+      "owner": "openbq-org",
+      "name": "OpenBB",
+      "description": "Open Data Platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 73819,
+      "forks": 7636,
+      "today_stars": 61,
+      "hot_score": 1096.8,
+      "url": "https://github.com/openbq-org/OpenBB",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "OpenBB",
+        "chinese_summary": "面向分析师、量化交易员和AI代理的数据平台",
+        "use_case": "用于数据分析、量化交易和AI模型训练",
+        "tech_highlights": [
+          "支持多种数据源",
+          "强大的数据处理能力",
+          "易于扩展的架构"
+        ],
+        "target_users": "金融领域的分析师、量化交易员和AI开发者",
+        "why_trending": "得益于金融数据分析需求的增长和开源社区的支持",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 125075,
+      "forks": 19405,
+      "today_stars": 55,
+      "hot_score": 1059.7,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "开源远程桌面应用，支持自托管，替代TeamViewer。",
+        "use_case": "适用于需要远程访问和控制计算机的场景。",
+        "tech_highlights": [
+          "使用Rust编写，安全可靠",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台兼容性"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "得益于Rust语言的安全性和性能，以及开源社区的支持，RustDesk受到广泛关注。",
+        "getting_started": "访问GitHub页面，按照README中的说明快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 97061,
+      "forks": 6537,
+      "today_stars": 48,
+      "hot_score": 978.7,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "Playwright 是一个用于 Web 测试和自动化框架，支持使用单一 API 测试 Chromium、Firefox 和 WebKit。",
+        "use_case": "主要用于前端 Web 应用的自动化测试。",
+        "tech_highlights": [
+          "支持多浏览器测试",
+          "单一 API 接口",
+          "内置 DevTools API"
+        ],
+        "target_users": "前端开发人员和测试工程师",
+        "why_trending": "因其强大的多浏览器支持和简洁的 API 设计，Playwright 近期在测试社区中备受关注。",
+        "getting_started": "通过 npm 安装并快速阅读官方文档开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-supabase",
+      "source": "github",
+      "full_name": "sponsors/supabase",
+      "owner": "sponsors",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 111062,
+      "forks": 15672,
+      "today_stars": 46,
+      "hot_score": 964.6,
+      "url": "https://github.com/sponsors/supabase",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Supabase",
+        "chinese_summary": "Postgres 开发平台，提供专用 Postgres 数据库构建 Web、移动和 AI 应用。",
+        "use_case": "适用于需要 Postgres 数据库支持的 Web、移动和 AI 应用开发。",
+        "tech_highlights": [
+          "支持 Postgres 数据库",
+          "易于集成的 API",
+          "丰富的功能模块"
+        ],
+        "target_users": "Web、移动和 AI 应用开发者",
+        "why_trending": "得益于 Postgres 强大的数据库功能和 Supabase 提供的便捷开发环境，吸引了大量开发者。",
+        "getting_started": "通过官方文档快速了解 Supabase 的基本使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-makeplane-plane",
+      "source": "github",
+      "full_name": "makeplane/plane",
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 60340,
+      "forks": 5962,
+      "today_stars": 46,
+      "hot_score": 938.1,
+      "url": "https://github.com/makeplane/plane",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Plane",
+        "chinese_summary": "一款开源的项目管理平台，替代 Jira、Linear、Monday 和 ClickUp。",
+        "use_case": "适用于团队项目管理、任务分配、文档协作和问题跟踪。",
+        "tech_highlights": [
+          "基于 TypeScript 开发",
+          "现代项目管理功能",
+          "开源社区支持"
+        ],
+        "target_users": "项目管理者、开发团队和需要项目协作的团队",
+        "why_trending": "结合了多种项目管理工具的优点，提供灵活的自定义选项，受到开发者和团队的欢迎。",
+        "getting_started": "访问 GitHub 仓库，跟随 README 文件快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-kitao",
+      "source": "github",
+      "full_name": "sponsors/kitao",
+      "owner": "sponsors",
+      "name": "kitao",
+      "description": "A retro game engine for Python",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 18381,
+      "forks": 963,
+      "today_stars": 44,
+      "hot_score": 866.4,
+      "url": "https://github.com/sponsors/kitao",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Kitao 游戏引擎",
+        "chinese_summary": "一个用 Rust 编写的复古游戏引擎，适合 Python 开发者。",
+        "use_case": "用于开发复古风格的游戏，支持 Python 开发者。",
+        "tech_highlights": [
+          "使用 Rust 提高性能",
+          "支持 Python 开发者"
+        ],
+        "target_users": "Python 开发者和复古游戏爱好者",
+        "why_trending": "结合 Rust 的高性能和 Python 的易用性，吸引了开发者关注。",
+        "getting_started": "通过官方文档快速了解如何开始使用 Kitao 游戏引擎",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-hagezi-dns-blocklists",
+      "source": "github",
+      "full_name": "hagezi/dns-blocklists",
+      "owner": "hagezi",
+      "name": "dns-blocklists",
+      "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
+      "language": "Text",
+      "category": "other",
+      "stars": 27068,
+      "forks": 823,
+      "today_stars": 42,
+      "hot_score": 863.2,
+      "url": "https://github.com/hagezi/dns-blocklists",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "DNS-阻塞列表",
+        "chinese_summary": "提供DNS阻塞列表，改善网络环境",
+        "use_case": "用于过滤不良网络内容，提升网络安全",
+        "tech_highlights": [
+          "提供多种阻塞列表",
+          "易于集成到各种网络环境中"
+        ],
+        "target_users": "网络管理员、家庭用户",
+        "why_trending": "顺应网络安全需求增长，提升用户上网体验",
+        "getting_started": "直接下载列表并配置到DNS服务器",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nautechsystems-nautilus_trader",
+      "source": "github",
+      "full_name": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 29605,
+      "forks": 3919,
+      "today_stars": 38,
+      "hot_score": 827.1,
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纳utilus交易引擎",
+        "chinese_summary": "一个用Rust编写的高性能、确定性的事件驱动交易引擎",
+        "use_case": "适用于高频交易、算法交易等需要高性能和确定性的场景",
+        "tech_highlights": [
+          "使用Rust编写，确保高性能和安全性",
+          "事件驱动架构，提高系统响应速度",
+          "确定性设计，减少交易延迟"
+        ],
+        "target_users": "高频交易员、算法交易工程师、金融行业开发者",
+        "why_trending": "得益于Rust语言的流行和事件驱动架构在金融领域的应用，该项目受到广泛关注",
+        "getting_started": "建议从官方文档开始，了解项目结构和核心概念",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-caddyserver-caddy",
+      "source": "github",
+      "full_name": "caddyserver/caddy",
+      "owner": "caddyserver",
+      "name": "caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "category": "backend",
+      "stars": 76264,
+      "forks": 5029,
+      "today_stars": 31,
+      "hot_score": 798.2,
+      "url": "https://github.com/caddyserver/caddy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Caddy",
+        "chinese_summary": "快速且可扩展的多平台HTTP/1-2-3网络服务器，自动提供HTTPS",
+        "use_case": "适用于需要高性能、易用性和自动SSL的Web服务器场景。",
+        "tech_highlights": [
+          "自动HTTPS配置",
+          "简洁的配置语言",
+          "丰富的插件生态系统"
+        ],
+        "target_users": "Web开发人员、系统管理员和需要高性能Web服务器的用户",
+        "why_trending": "得益于其易用性和强大的功能，Caddy满足了现代Web服务器的需求，特别是在自动SSL配置方面。",
+        "getting_started": "通过官方文档快速了解Caddy的基本配置和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "category": "systems",
+      "stars": 139197,
+      "forks": 8625,
+      "today_stars": 27,
+      "hot_score": 784.4,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "Windows系统下的多功能工具集合，提升工作效率和个性化设置",
+        "use_case": "适用于需要高度自定义和提高工作效率的Windows用户",
+        "tech_highlights": [
+          "C语言开发",
+          "跨平台兼容",
+          "丰富的功能模块"
+        ],
+        "target_users": "追求高效和个性化设置的Windows用户",
+        "why_trending": "得益于丰富的功能和高度的自定义性，满足了用户对提高工作效率的需求，同时社区活跃度高，持续更新",
+        "getting_started": "访问GitHub页面，按照README文件指引快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-aquasecurity-trivy",
+      "source": "github",
+      "full_name": "aquasecurity/trivy",
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "category": "backend",
+      "stars": 38211,
+      "forks": 723,
+      "today_stars": 29,
+      "hot_score": 748.2,
+      "url": "https://github.com/aquasecurity/trivy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Trivy",
+        "chinese_summary": "用于检测容器、Kubernetes、代码仓库、云环境等中的漏洞、配置错误、秘密和SBOM",
+        "use_case": "用于安全扫描和漏洞管理，确保软件供应链的安全。",
+        "tech_highlights": [
+          "支持多种扫描目标",
+          "提供详细的漏洞信息",
+          "易于集成到CI/CD流程"
+        ],
+        "target_users": "安全工程师、DevOps工程师、软件开发人员",
+        "why_trending": "随着云原生技术的普及，安全扫描工具的需求增加；Trivy因其易用性和多功能性受到欢迎。",
+        "getting_started": "通过Docker安装并运行Trivy，快速开始安全扫描",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-tailscale-tailscale",
+      "source": "github",
+      "full_name": "tailscale/tailscale",
+      "owner": "tailscale",
+      "name": "tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 37132,
+      "forks": 3279,
+      "today_stars": 29,
+      "hot_score": 747.0,
+      "url": "https://github.com/tailscale/tailscale",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Tailscale",
+        "chinese_summary": "使用 WireGuard 和双因素认证的最简单、最安全的方式",
+        "use_case": "适用于需要安全网络连接的个人和团队",
+        "tech_highlights": [
+          "支持 WireGuard",
+          "内置双因素认证",
+          "易于部署和使用"
+        ],
+        "target_users": "需要安全远程访问的个人和团队",
+        "why_trending": "因其简单易用且安全性高，符合当前对网络安全日益增长的需求",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-PostHog-posthog",
+      "source": "github",
+      "full_name": "PostHog/posthog",
+      "owner": "PostHog",
+      "name": "posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 40124,
+      "forks": 3469,
+      "today_stars": 28,
+      "hot_score": 740.3,
+      "url": "https://github.com/PostHog/posthog",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PostHog",
+        "chinese_summary": "PostHog 是一个用于构建自驱动产品的领先平台，提供多种开发工具。",
+        "use_case": "用于产品数据分析、用户行为追踪、A/B 测试等。",
+        "tech_highlights": [
+          "AI 观测",
+          "全渠道监控",
+          "多平台支持"
+        ],
+        "target_users": "产品开发者和数据分析师",
+        "why_trending": "结合 AI 技术和多渠道数据监控，满足现代产品开发需求；社区活跃，持续更新。",
+        "getting_started": "访问官网文档，快速了解并开始使用 PostHog 的各项功能。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ClickHouse-ClickHouse",
+      "source": "github",
+      "full_name": "ClickHouse/ClickHouse",
+      "owner": "ClickHouse",
+      "name": "ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "category": "systems",
+      "stars": 50226,
+      "forks": 9053,
+      "today_stars": 25,
+      "hot_score": 720.1,
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ClickHouse",
+        "chinese_summary": "实时分析数据库管理系统",
+        "use_case": "适用于实时分析和在线分析场景",
+        "tech_highlights": [
+          "支持SQL查询",
+          "高并发处理能力",
+          "内存优化设计"
+        ],
+        "target_users": "数据分析师、数据库管理员",
+        "why_trending": "得益于其高效的数据处理能力和易于使用的特性，吸引了大量用户",
+        "getting_started": "建议从官方文档开始学习，快速了解基本概念和操作",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-ajeetdsouza",
+      "source": "github",
+      "full_name": "sponsors/ajeetdsouza",
+      "owner": "sponsors",
+      "name": "ajeetdsouza",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 39858,
+      "forks": 916,
+      "today_stars": 24,
+      "hot_score": 700.1,
+      "url": "https://github.com/sponsors/ajeetdsouza",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "更智能的cd命令",
+        "chinese_summary": "支持多种主流Shell的智能cd命令",
+        "use_case": "在多种Shell环境中更高效地切换目录",
+        "tech_highlights": [
+          "跨Shell兼容性",
+          "智能路径解析",
+          "命令行增强"
+        ],
+        "target_users": "经常使用命令行的开发者",
+        "why_trending": "得益于Rust语言的性能和安全性，以及对现代Shell环境的支持",
+        "getting_started": "通过Cargo安装并配置到PATH中",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
