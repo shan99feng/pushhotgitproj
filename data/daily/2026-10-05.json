@@ -1,0 +1,613 @@
+{
+  "date": "2026-10-05",
+  "since": "daily",
+  "generated_at": "2026-10-06T05:14:10.715482+00:00",
+  "total": 20,
+  "category_counts": {
+    "backend": 6,
+    "ai_ml": 4,
+    "systems": 3,
+    "frontend": 6,
+    "devops": 1
+  },
+  "repos": [
+    {
+      "repo_id": "github-caddyserver-caddy",
+      "source": "github",
+      "full_name": "caddyserver/caddy",
+      "owner": "caddyserver",
+      "name": "caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "category": "backend",
+      "stars": 77225,
+      "forks": 5079,
+      "today_stars": 515,
+      "hot_score": 5638.8,
+      "url": "https://github.com/caddyserver/caddy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Caddy",
+        "chinese_summary": "快速且可扩展的多平台HTTP/1-2-3网络服务器，自动提供HTTPS",
+        "use_case": "适用于网站托管、API服务、静态文件服务等场景",
+        "tech_highlights": [
+          "自动HTTPS配置",
+          "简洁的配置语言",
+          "丰富的插件生态系统"
+        ],
+        "target_users": "网站开发者、API服务提供者、小型企业",
+        "why_trending": "得益于其易用性和强大的自动配置功能，Caddy在自动化和安全性方面受到欢迎",
+        "getting_started": "通过官方文档快速了解Caddy的基本配置和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-yt-dlp-yt-dlp",
+      "source": "github",
+      "full_name": "yt-dlp/yt-dlp",
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 195805,
+      "forks": 17011,
+      "today_stars": 284,
+      "hot_score": 3369.2,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yt-dlp/yt-dlp",
+        "chinese_summary": "一个功能丰富的命令行音频/视频下载工具",
+        "use_case": "用于从各种网站下载音频和视频文件",
+        "tech_highlights": [
+          "支持多种视频网站",
+          "命令行界面",
+          "丰富的功能选项"
+        ],
+        "target_users": "视频和音频爱好者，内容创作者",
+        "why_trending": "因为它提供了强大的功能和广泛的兼容性，满足了用户对高质量下载工具的需求",
+        "getting_started": "通过pip安装并运行命令即可开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 80868,
+      "forks": 8987,
+      "today_stars": 219,
+      "hot_score": 2680.8,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ghidra",
+        "chinese_summary": "软件逆向工程框架，用于分析和修改软件代码",
+        "use_case": "主要用于逆向分析恶意软件、分析未知软件和进行软件逆向工程",
+        "tech_highlights": [
+          "支持多种文件格式和架构",
+          "强大的解密和反汇编功能",
+          "可扩展的插件架构"
+        ],
+        "target_users": "安全研究人员、逆向工程师和软件开发者",
+        "why_trending": "随着网络安全威胁的增加，软件逆向工程的需求上升，Ghidra 提供了强大的工具支持",
+        "getting_started": "建议从官方文档开始，逐步熟悉界面和基本操作",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-avelino",
+      "source": "github",
+      "full_name": "sponsors/avelino",
+      "owner": "sponsors",
+      "name": "avelino",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "category": "backend",
+      "stars": 187141,
+      "forks": 13603,
+      "today_stars": 172,
+      "hot_score": 2247.2,
+      "url": "https://github.com/sponsors/avelino",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "awesome-go",
+        "chinese_summary": "一个精选的 Go 语言框架、库和软件列表",
+        "use_case": "为 Go 开发者提供丰富的资源选择，帮助快速构建项目",
+        "tech_highlights": [
+          "精选优质资源",
+          "易于使用",
+          "持续更新"
+        ],
+        "target_users": "Go 语言开发者",
+        "why_trending": "随着 Go 语言的流行，开发者需要更多高质量的资源支持，该项目正好满足需求",
+        "getting_started": "直接访问项目页面，根据需求选择合适的资源",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 125214,
+      "forks": 19462,
+      "today_stars": 90,
+      "hot_score": 1409.8,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一个用于自我托管的开源远程桌面应用，替代TeamViewer。",
+        "use_case": "适用于需要远程访问和控制桌面的场景，如技术支持、远程办公等。",
+        "tech_highlights": [
+          "使用Rust编写，保证高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台兼容性强"
+        ],
+        "target_users": "需要远程访问桌面的个人和企业用户",
+        "why_trending": "得益于Rust语言的性能和安全性，以及开源社区的支持，RustDesk受到广泛关注。",
+        "getting_started": "访问GitHub仓库，按照README中的说明进行安装和配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 456816,
+      "forks": 48303,
+      "today_stars": 84,
+      "hot_score": 1406.0,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "freeCodeCamp 开源项目",
+        "chinese_summary": "一个提供免费数学、编程和计算机科学学习资源的开源平台。",
+        "use_case": "适用于自学编程和计算机科学知识的个人，以及教育机构和开发者。",
+        "tech_highlights": [
+          "丰富的学习资源和课程",
+          "社区驱动的持续更新",
+          "多语言支持"
+        ],
+        "target_users": "自学编程和计算机科学的个人",
+        "why_trending": "随着在线教育和开源项目的流行，freeCodeCamp 提供了高质量的免费学习资源，吸引了大量用户。",
+        "getting_started": "访问官网或 GitHub 仓库，选择合适的课程开始学习。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rui314",
+      "source": "github",
+      "full_name": "sponsors/rui314",
+      "owner": "sponsors",
+      "name": "rui314",
+      "description": "mold 🦠: A Modern Linker in Rust 🦀",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 17444,
+      "forks": 571,
+      "today_stars": 92,
+      "hot_score": 1344.2,
+      "url": "https://github.com/sponsors/rui314",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "mold",
+        "chinese_summary": "一个用 Rust 编写的现代链接器",
+        "use_case": "用于构建和链接 Rust 项目",
+        "tech_highlights": [
+          "使用 Rust 编写",
+          "模块化设计",
+          "高性能"
+        ],
+        "target_users": "Rust 开发者和需要高性能链接器的用户",
+        "why_trending": "得益于 Rust 的性能和安全性，以及社区对现代链接器的需求增加",
+        "getting_started": "通过 Cargo 添加到项目中，快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-bobeff-open-source-games",
+      "source": "github",
+      "full_name": "bobeff/open-source-games",
+      "owner": "bobeff",
+      "name": "open-source-games",
+      "description": "A list of open source games.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 15671,
+      "forks": 1323,
+      "today_stars": 85,
+      "hot_score": 1269.5,
+      "url": "https://github.com/bobeff/open-source-games",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "开源游戏合集",
+        "chinese_summary": "一个包含多种开源游戏的列表。",
+        "use_case": "供开发者学习、参考和使用开源游戏代码。",
+        "tech_highlights": [
+          "多种游戏类型",
+          "开源代码",
+          "Python 编写"
+        ],
+        "target_users": "游戏开发者和爱好者",
+        "why_trending": "提供丰富的开源游戏资源，满足不同开发者需求，促进社区交流。",
+        "getting_started": "直接克隆仓库并查看README文件以了解如何使用各个游戏项目。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-antoniaci-blackbird",
+      "source": "github",
+      "full_name": "antoniaci/blackbird",
+      "owner": "antoniaci",
+      "name": "blackbird",
+      "description": "An OSINT tool to search for accounts by username and email in social networks.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 8971,
+      "forks": 1051,
+      "today_stars": 78,
+      "hot_score": 1175.3,
+      "url": "https://github.com/antoniaci/blackbird",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "黑鸟",
+        "chinese_summary": "通过用户名和邮箱在社交网络中搜索账号的开源工具",
+        "use_case": "主要用于社交媒体账号的查找和信息收集",
+        "tech_highlights": [
+          "支持多种社交网络平台",
+          "强大的搜索功能",
+          "开源免费"
+        ],
+        "target_users": "网络安全专家、数据分析师和社交媒体研究人员",
+        "why_trending": "随着开源技术和OSINT需求的增长，该项目受到广泛关注",
+        "getting_started": "通过安装依赖和运行示例代码快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 115643,
+      "forks": 7143,
+      "today_stars": 61,
+      "hot_score": 1116.3,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的自托管照片和视频管理解决方案",
+        "use_case": "适用于需要高效管理个人或企业照片和视频的用户",
+        "tech_highlights": [
+          "基于TypeScript开发",
+          "高性能",
+          "自托管"
+        ],
+        "target_users": "需要自托管照片和视频管理的个人和企业",
+        "why_trending": "得益于其高性能和自托管特性，满足了用户对隐私和控制的需求，同时支持多平台访问",
+        "getting_started": "通过官方文档快速了解项目架构，开始本地部署",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-supabase",
+      "source": "github",
+      "full_name": "sponsors/supabase",
+      "owner": "sponsors",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 111143,
+      "forks": 15869,
+      "today_stars": 46,
+      "hot_score": 964.6,
+      "url": "https://github.com/sponsors/supabase",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Supabase",
+        "chinese_summary": "一站式PostgreSQL开发平台，助力Web、移动和AI应用开发。",
+        "use_case": "适用于需要PostgreSQL数据库支持的Web、移动和AI应用开发。",
+        "tech_highlights": [
+          "支持PostgreSQL数据库",
+          "提供Web、移动和AI应用开发工具",
+          "易于集成和使用"
+        ],
+        "target_users": "Web、移动和AI应用开发者",
+        "why_trending": "得益于PostgreSQL的流行和对现代应用开发需求的支持，Supabase受到开发者欢迎。",
+        "getting_started": "通过官方文档快速开始使用Supabase",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-openai-whisper",
+      "source": "github",
+      "full_name": "openai/whisper",
+      "owner": "openai",
+      "name": "whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 110020,
+      "forks": 13338,
+      "today_stars": 42,
+      "hot_score": 924.1,
+      "url": "https://github.com/openai/whisper",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Whisper",
+        "chinese_summary": "通过大规模弱监督实现稳健的语音识别",
+        "use_case": "适用于音频转文字、语音助手、语音搜索等场景",
+        "tech_highlights": [
+          "大规模弱监督训练",
+          "端到端语音识别模型",
+          "多语言支持"
+        ],
+        "target_users": "语音识别开发者、研究者、音频处理工程师",
+        "why_trending": "结合了最新的深度学习技术，解决了语音识别领域的难题，受到广泛关注",
+        "getting_started": "建议从官方文档开始，快速了解项目结构和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-vitejs",
+      "source": "github",
+      "full_name": "sponsors/vitejs",
+      "owner": "sponsors",
+      "name": "vitejs",
+      "description": "Next generation frontend tooling. It's fast!",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 83187,
+      "forks": 8829,
+      "today_stars": 42,
+      "hot_score": 912.0,
+      "url": "https://github.com/sponsors/vitejs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Vite",
+        "chinese_summary": "下一代前端构建工具，快速高效",
+        "use_case": "适用于现代前端开发，特别是需要快速启动和开发速度的项目",
+        "tech_highlights": [
+          "支持按需编译",
+          "基于 ES Module 的运行时",
+          "热更新无延迟"
+        ],
+        "target_users": "前端开发者，特别是需要快速开发和构建的团队",
+        "why_trending": "因其卓越的启动速度和热更新体验，满足了现代前端开发的需求，受到广泛欢迎",
+        "getting_started": "通过 npm 安装并初始化项目，快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-gitleaks-gitleaks",
+      "source": "github",
+      "full_name": "gitleaks/gitleaks",
+      "owner": "gitleaks",
+      "name": "gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "category": "backend",
+      "stars": 29713,
+      "forks": 2268,
+      "today_stars": 46,
+      "hot_score": 907.3,
+      "url": "https://github.com/gitleaks/gitleaks",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Gitleaks",
+        "chinese_summary": "用于检测代码库中泄露的敏感信息",
+        "use_case": "主要用于检测和防止代码库中泄露的密钥、API 密钥等敏感信息",
+        "tech_highlights": [
+          "支持多种密钥类型检测",
+          "基于规则的匹配引擎",
+          "支持多种版本控制系统"
+        ],
+        "target_users": "开发团队、安全团队和代码托管平台用户",
+        "why_trending": "随着云服务和自动化部署的普及，代码中泄露敏感信息的风险增加，Gitleaks 提供了一种简单有效的解决方案",
+        "getting_started": "通过安装命令行工具并配置规则来快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-tiann",
+      "source": "github",
+      "full_name": "sponsors/tiann",
+      "owner": "sponsors",
+      "name": "tiann",
+      "description": "A Kernel based root solution for Android",
+      "language": "Kotlin",
+      "category": "backend",
+      "stars": 18904,
+      "forks": 4166,
+      "today_stars": 45,
+      "hot_score": 877.7,
+      "url": "https://github.com/sponsors/tiann",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "天南内核",
+        "chinese_summary": "基于内核的Android越狱解决方案",
+        "use_case": "用于提升Android设备的系统权限和功能扩展",
+        "tech_highlights": [
+          "基于内核的深度修改",
+          "提供系统级功能增强"
+        ],
+        "target_users": "需要提升Android设备权限和功能的用户",
+        "why_trending": "随着Android设备安全性和功能需求的增加，内核级修改成为热门话题",
+        "getting_started": "建议先了解基本的Android系统知识，再进行尝试",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-poteto-hiring-without-whiteboards",
+      "source": "github",
+      "full_name": "poteto/hiring-without-whiteboards",
+      "owner": "poteto",
+      "name": "hiring-without-whiteboards",
+      "description": "⭐️ Companies that don't have a broken hiring process",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 52379,
+      "forks": 3946,
+      "today_stars": 36,
+      "hot_score": 831.9,
+      "url": "https://github.com/poteto/hiring-without-whiteboards",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "招聘无白板",
+        "chinese_summary": "提供无白板面试的公司列表",
+        "use_case": "帮助求职者寻找不依赖白板编程的面试机会",
+        "tech_highlights": [
+          "开源项目",
+          "社区贡献"
+        ],
+        "target_users": "求职者和招聘经理",
+        "why_trending": "反映了现代招聘趋势，减少技术偏见，增加多样性",
+        "getting_started": "访问项目页面，查看公司列表并参与贡献",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-projectdiscovery-nuclei",
+      "source": "github",
+      "full_name": "projectdiscovery/nuclei",
+      "owner": "projectdiscovery",
+      "name": "nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 31765,
+      "forks": 3906,
+      "today_stars": 37,
+      "hot_score": 820.2,
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Nuclei",
+        "chinese_summary": "基于 YAML 语法的快速可定制漏洞扫描工具",
+        "use_case": "用于发现应用程序、API、网络、DNS 和云配置中的漏洞",
+        "tech_highlights": [
+          "基于 YAML 的简单 DSL",
+          "社区驱动的漏洞库",
+          "高度可定制"
+        ],
+        "target_users": "安全研究人员、开发人员和运维人员",
+        "why_trending": "得益于其强大的社区支持和易于使用的 YAML 语法，Nuclei 成为漏洞扫描领域的热门工具",
+        "getting_started": "通过安装 Go 环境并运行 `nuclei -h` 快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-sveltejs",
+      "source": "github",
+      "full_name": "sponsors/sveltejs",
+      "owner": "sponsors",
+      "name": "sveltejs",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 88308,
+      "forks": 7272,
+      "today_stars": 32,
+      "hot_score": 814.6,
+      "url": "https://github.com/sponsors/sveltejs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "SvelteJS",
+        "chinese_summary": "用于普通人的 web 开发框架",
+        "use_case": "适用于构建响应式和高效的前端应用",
+        "tech_highlights": [
+          "轻量级虚拟 DOM",
+          "即时编译",
+          "代码生成优化"
+        ],
+        "target_users": "前端开发者，特别是需要高性能应用的开发者",
+        "why_trending": "因其高效的性能和简洁的语法，受到开发者青睐，社区活跃",
+        "getting_started": "通过官方文档快速开始学习和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nautechsystems-nautilus_trader",
+      "source": "github",
+      "full_name": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 29645,
+      "forks": 3928,
+      "today_stars": 34,
+      "hot_score": 787.2,
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纳utilus交易引擎",
+        "chinese_summary": "基于Rust的高性能、确定性事件驱动交易引擎",
+        "use_case": "适用于高频交易、算法交易等需要高性能和确定性的交易场景。",
+        "tech_highlights": [
+          "使用Rust语言开发，确保高性能和安全性",
+          "事件驱动架构，提高系统响应速度和可扩展性",
+          "确定性设计，保证交易的准确性和一致性"
+        ],
+        "target_users": "高频交易员、算法交易工程师、金融IT开发者",
+        "why_trending": "得益于Rust语言的流行和事件驱动架构的优势，以及金融行业对高性能和安全性的需求，该项目受到广泛关注。",
+        "getting_started": "建议从官方文档开始学习，了解项目的基本架构和核心概念",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-1N3-Sn1per",
+      "source": "github",
+      "full_name": "1N3/Sn1per",
+      "owner": "1N3",
+      "name": "Sn1per",
+      "description": "Automated penetration testing &amp; attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
+      "language": "Shell",
+      "category": "devops",
+      "stars": 11374,
+      "forks": 2208,
+      "today_stars": 35,
+      "hot_score": 755.6,
+      "url": "https://github.com/1N3/Sn1per",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Sn1per",
+        "chinese_summary": "自动化渗透测试与攻击面管理平台，提供全面的安全检测与攻击工具。",
+        "use_case": "适用于安全研究人员、渗透测试团队进行网络资产发现、漏洞扫描与利用、报告生成等。",
+        "tech_highlights": [
+          "支持600+漏洞利用工具",
+          "集成90+安全服务",
+          "检测超过10000种安全事件"
+        ],
+        "target_users": "安全研究人员、渗透测试团队、IT安全专业人员",
+        "why_trending": "由于其强大的漏洞利用能力和广泛的集成支持，Sn1per在安全社区中受到广泛关注。",
+        "getting_started": "建议先阅读README文档，了解基本配置与使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
