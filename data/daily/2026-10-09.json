@@ -1,0 +1,611 @@
+{
+  "date": "2026-10-09",
+  "since": "daily",
+  "generated_at": "2026-10-10T04:40:13.791275+00:00",
+  "total": 20,
+  "category_counts": {
+    "backend": 2,
+    "frontend": 8,
+    "ai_ml": 5,
+    "systems": 5
+  },
+  "repos": [
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 82269,
+      "forks": 9139,
+      "today_stars": 273,
+      "hot_score": 3221.5,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "国家安全局/Ghidra",
+        "chinese_summary": "Ghidra 是一个软件逆向工程框架，用于分析和理解二进制代码。",
+        "use_case": "主要用于逆向分析恶意软件、分析二进制文件和进行逆向工程研究。",
+        "tech_highlights": [
+          "开源免费",
+          "基于 Java 开发",
+          "功能强大的逆向工程工具"
+        ],
+        "target_users": "软件逆向工程师、安全研究人员、恶意软件分析师",
+        "why_trending": "由于其强大的逆向工程功能和开源特性，吸引了大量安全研究者的关注和使用。",
+        "getting_started": "建议从 Ghidra 官方文档开始学习，了解基本操作和功能。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-n8n-io-n8n",
+      "source": "github",
+      "full_name": "n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 206850,
+      "forks": 61036,
+      "today_stars": 138,
+      "hot_score": 1911.6,
+      "url": "https://github.com/n8n-io/n8n",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "n8n",
+        "chinese_summary": "一个具备原生AI能力的工作流自动化平台，结合可视化构建与自定义代码。",
+        "use_case": "用于自动化各种工作流任务，如数据处理、任务调度等。",
+        "tech_highlights": [
+          "支持自定义代码扩展",
+          "内置400+集成插件",
+          "支持自托管和云部署"
+        ],
+        "target_users": "需要自动化工作流的企业和个人开发者",
+        "why_trending": "因其强大的工作流自动化能力和易用性，受到开发者社区的广泛关注。",
+        "getting_started": "通过官方文档快速了解基本操作，开始构建工作流",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-Z4nzu-hackingtool",
+      "source": "github",
+      "full_name": "Z4nzu/hackingtool",
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 80635,
+      "forks": 9129,
+      "today_stars": 110,
+      "hot_score": 1590.7,
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hackingtool",
+        "chinese_summary": "集多种黑客工具于一身的综合工具",
+        "use_case": "适用于黑客进行安全测试和渗透测试",
+        "tech_highlights": [
+          "多功能集成",
+          "Python 编写",
+          "持续更新"
+        ],
+        "target_users": "安全测试人员、黑客",
+        "why_trending": "随着网络安全威胁的增加，此类工具受到广泛关注；社区活跃度高，更新频繁",
+        "getting_started": "阅读 README 文件，按照指示安装和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 125339,
+      "forks": 19561,
+      "today_stars": 106,
+      "hot_score": 1569.8,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一个用于自我托管的开源远程桌面应用，替代TeamViewer。",
+        "use_case": "适用于需要远程访问和控制计算机的场景。",
+        "tech_highlights": [
+          "使用Rust编写，保证高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台兼容性"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "得益于Rust语言的优势和开源社区的支持，RustDesk在性能和安全性方面表现出色，吸引了大量关注。",
+        "getting_started": "访问GitHub仓库，按照README中的说明快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 115882,
+      "forks": 7165,
+      "today_stars": 94,
+      "hot_score": 1446.4,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的自托管照片和视频管理解决方案",
+        "use_case": "适用于需要自托管且高性能的照片和视频管理场景",
+        "tech_highlights": [
+          "高性能",
+          "自托管",
+          "TypeScript 编程语言"
+        ],
+        "target_users": "需要自托管的照片和视频管理解决方案的用户",
+        "why_trending": "得益于高性能和自托管特性，吸引了大量寻求隐私和控制权的用户",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-langchain-ai-langchain",
+      "source": "github",
+      "full_name": "langchain-ai/langchain",
+      "owner": "langchain-ai",
+      "name": "langchain",
+      "description": "The agent engineering platform.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 147523,
+      "forks": 24751,
+      "today_stars": 80,
+      "hot_score": 1316.9,
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Langchain",
+        "chinese_summary": "基于 Python 的智能代理工程平台。",
+        "use_case": "用于构建和管理智能代理系统。",
+        "tech_highlights": [
+          "支持多种 AI 模型集成",
+          "模块化设计便于扩展",
+          "提供丰富的 API 接口"
+        ],
+        "target_users": "AI 工程师、研究人员和开发者",
+        "why_trending": "得益于 AI 技术的发展和社区的积极参与，Langchain 成为热门开源项目。",
+        "getting_started": "通过官方文档快速了解并开始使用 Langchain",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 97398,
+      "forks": 6574,
+      "today_stars": 75,
+      "hot_score": 1248.9,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "Playwright 是一个用于 Web 测试和自动化框架，支持使用单一 API 测试 Chromium、Firefox 和 WebKit。",
+        "use_case": "主要用于 Web 应用的自动化测试和前端自动化任务。",
+        "tech_highlights": [
+          "支持多种浏览器引擎",
+          "单一 API 接口",
+          "内置性能分析工具"
+        ],
+        "target_users": "Web 测试工程师、前端开发者",
+        "why_trending": "因其强大的跨浏览器测试能力和简洁的 API 设计，受到开发者欢迎。",
+        "getting_started": "通过 npm 安装并快速阅读官方文档开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-emilk-egui",
+      "source": "github",
+      "full_name": "emilk/egui",
+      "owner": "emilk",
+      "name": "egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 31114,
+      "forks": 2184,
+      "today_stars": 75,
+      "hot_score": 1199.3,
+      "url": "https://github.com/emilk/egui",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "egui",
+        "chinese_summary": "一个使用Rust编写的简单易用的即时模式GUI库，支持Web和本地运行",
+        "use_case": "适用于需要跨平台GUI的应用开发",
+        "tech_highlights": [
+          "即时模式设计",
+          "跨平台支持",
+          "使用Rust编写"
+        ],
+        "target_users": "希望使用Rust进行GUI开发的开发者",
+        "why_trending": "得益于Rust语言的性能和安全性，以及即时模式GUI的便捷性，egui受到了广泛的关注",
+        "getting_started": "通过官方文档快速了解基本概念和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-upscayl-upscayl",
+      "source": "github",
+      "full_name": "upscayl/upscayl",
+      "owner": "upscayl",
+      "name": "upscayl",
+      "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 50369,
+      "forks": 2574,
+      "today_stars": 72,
+      "hot_score": 1190.2,
+      "url": "https://github.com/upscayl/upscayl",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Upscayl - 免费开源AI图像放大器",
+        "chinese_summary": "Upscayl 是一个免费开源的AI图像放大器，支持Linux、MacOS和Windows。",
+        "use_case": "用于提升图像分辨率，适用于图像处理和修复。",
+        "tech_highlights": [
+          "基于AI技术实现图像放大",
+          "跨平台兼容性",
+          "开源免费"
+        ],
+        "target_users": "图像处理爱好者、专业摄影师和开发者",
+        "why_trending": "得益于AI技术的发展和开源社区的支持，Upscayl 提供了强大的图像处理功能，满足了用户对高质量图像的需求。",
+        "getting_started": "通过GitHub克隆项目并按照README文档进行安装和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-darkroomengineering",
+      "source": "github",
+      "full_name": "sponsors/darkroomengineering",
+      "owner": "sponsors",
+      "name": "darkroomengineering",
+      "description": "Smooth scroll as it should be",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 16324,
+      "forks": 711,
+      "today_stars": 72,
+      "hot_score": 1141.3,
+      "url": "https://github.com/sponsors/darkroomengineering",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "暗室工程赞助者",
+        "chinese_summary": "实现平滑滚动效果",
+        "use_case": "适用于需要平滑滚动效果的网页和应用",
+        "tech_highlights": [
+          "使用 TypeScript 编写",
+          "提供多种滚动效果",
+          "易于集成和自定义"
+        ],
+        "target_users": "前端开发者和需要平滑滚动效果的项目",
+        "why_trending": "随着对用户体验要求的提高，平滑滚动成为必备功能，该项目提供了一种实现方式",
+        "getting_started": "通过 npm 安装并快速集成到项目中",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-openai-openai-cookbook",
+      "source": "github",
+      "full_name": "openai/openai-cookbook",
+      "owner": "openai",
+      "name": "openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
+      "language": "Jupyter Notebook",
+      "category": "ai_ml",
+      "stars": 76521,
+      "forks": 12930,
+      "today_stars": 60,
+      "hot_score": 1088.4,
+      "url": "https://github.com/openai/openai-cookbook",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "OpenAI 烹饪书",
+        "chinese_summary": "使用 OpenAI API 的示例和指南",
+        "use_case": "提供多种使用 OpenAI API 的示例，帮助开发者快速上手。",
+        "tech_highlights": [
+          "Jupyter Notebook 格式",
+          "丰富的 API 示例"
+        ],
+        "target_users": "对 OpenAI API 感兴趣的开发者",
+        "why_trending": "展示了如何利用 OpenAI API 实现各种有趣的功能，符合当前 AI 技术的热门趋势。",
+        "getting_started": "直接运行 Jupyter Notebook 中的示例代码即可快速开始。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-makeplane-plane",
+      "source": "github",
+      "full_name": "makeplane/plane",
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 60614,
+      "forks": 6016,
+      "today_stars": 60,
+      "hot_score": 1078.3,
+      "url": "https://github.com/makeplane/plane",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Plane",
+        "chinese_summary": "现代项目管理平台，用于任务、冲刺、文档管理及问题排查。",
+        "use_case": "适用于团队项目管理、敏捷开发、文档协作及问题跟踪。",
+        "tech_highlights": [
+          "基于 TypeScript 开发",
+          "支持多种项目管理工具集成",
+          "现代化用户界面"
+        ],
+        "target_users": "项目管理者、开发团队、产品经理",
+        "why_trending": "响应敏捷开发需求，提供灵活的项目管理工具，满足现代团队协作需求。",
+        "getting_started": "访问 GitHub 页面，跟随 README 快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-sharkdp",
+      "source": "github",
+      "full_name": "sponsors/sharkdp",
+      "owner": "sponsors",
+      "name": "sharkdp",
+      "description": "A command-line benchmarking tool",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 29040,
+      "forks": 522,
+      "today_stars": 60,
+      "hot_score": 1046.3,
+      "url": "https://github.com/sponsors/sharkdp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "鲨鱼快照",
+        "chinese_summary": "一个命令行基准测试工具",
+        "use_case": "用于评估和比较不同命令行工具的性能",
+        "tech_highlights": [
+          "使用 Rust 编写",
+          "跨平台兼容性",
+          "支持多种基准测试"
+        ],
+        "target_users": "系统管理员、开发者和性能测试人员",
+        "why_trending": "得益于 Rust 的高性能和安全性，以及对现代命令行工具性能评估的需求增加",
+        "getting_started": "通过 Cargo 安装并运行基准测试",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-jesseduffield",
+      "source": "github",
+      "full_name": "sponsors/jesseduffield",
+      "owner": "sponsors",
+      "name": "jesseduffield",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "category": "backend",
+      "stars": 83064,
+      "forks": 3068,
+      "today_stars": 55,
+      "hot_score": 1041.9,
+      "url": "https://github.com/sponsors/jesseduffield",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Git 终端简易界面",
+        "chinese_summary": "一个用于执行 Git 命令的简单终端界面",
+        "use_case": "适用于需要通过终端操作 Git 仓库的开发者",
+        "tech_highlights": [
+          "使用 Go 语言开发",
+          "提供简单易用的终端 UI"
+        ],
+        "target_users": "Git 仓库维护者和开发者",
+        "why_trending": "随着 Git 使用的普及，简化 Git 操作的工具受到欢迎",
+        "getting_started": "通过安装 Go 环境并运行项目代码快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ventoy-Ventoy",
+      "source": "github",
+      "full_name": "ventoy/Ventoy",
+      "owner": "ventoy",
+      "name": "Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "category": "systems",
+      "stars": 79854,
+      "forks": 4974,
+      "today_stars": 55,
+      "hot_score": 1040.2,
+      "url": "https://github.com/ventoy/Ventoy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ventoy",
+        "chinese_summary": "一个全新的可引导USB解决方案",
+        "use_case": "用于创建可引导USB驱动器，方便快速安装操作系统",
+        "tech_highlights": [
+          "支持多种操作系统安装",
+          "无需安装即可引导",
+          "易于使用和管理"
+        ],
+        "target_users": "需要快速安装操作系统的用户",
+        "why_trending": "因其简单高效的操作方式和广泛的兼容性，受到用户喜爱",
+        "getting_started": "访问项目主页，按照文档说明操作即可快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-tabler-tabler-icons",
+      "source": "github",
+      "full_name": "tabler/tabler-icons",
+      "owner": "tabler",
+      "name": "tabler-icons",
+      "description": "A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 22161,
+      "forks": 1232,
+      "today_stars": 53,
+      "hot_score": 964.6,
+      "url": "https://github.com/tabler/tabler-icons",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Tabler 图标集",
+        "chinese_summary": "一套包含超过 6200 个 MIT 许可的高质量 SVG 图标，适用于网页项目。",
+        "use_case": "适用于需要丰富图标资源的网页设计和开发。",
+        "tech_highlights": [
+          "MIT 许可免费使用",
+          "超过 6200 个图标",
+          "高质量 SVG 格式"
+        ],
+        "target_users": "网页设计师和前端开发者",
+        "why_trending": "因其丰富的图标资源和高质量的 SVG 格式，满足了开发者对图标资源的需求，受到广泛欢迎。",
+        "getting_started": "直接下载或通过 npm 安装即可快速使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nautechsystems-nautilus_trader",
+      "source": "github",
+      "full_name": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 29780,
+      "forks": 3954,
+      "today_stars": 50,
+      "hot_score": 947.4,
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纳utilus交易引擎",
+        "chinese_summary": "基于 Rust 的高性能、确定性事件驱动交易引擎",
+        "use_case": "适用于高频交易、算法交易等需要高性能和确定性的交易场景。",
+        "tech_highlights": [
+          "Rust 语言的高性能和安全性",
+          "事件驱动的架构设计",
+          "确定性的交易执行"
+        ],
+        "target_users": "高频交易员、算法交易工程师、金融技术开发者",
+        "why_trending": "得益于 Rust 的性能优势和事件驱动架构的广泛应用，以及金融行业对高性能交易系统的迫切需求。",
+        "getting_started": "建议先阅读官方文档，了解基本概念和架构，然后从简单的示例开始尝试。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-mitmproxy-mitmproxy",
+      "source": "github",
+      "full_name": "mitmproxy/mitmproxy",
+      "owner": "mitmproxy",
+      "name": "mitmproxy",
+      "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 45387,
+      "forks": 4774,
+      "today_stars": 46,
+      "hot_score": 925.7,
+      "url": "https://github.com/mitmproxy/mitmproxy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "mitmproxy",
+        "chinese_summary": "一个支持 TLS 的交互式 HTTP 代理，用于渗透测试和软件开发。",
+        "use_case": "主要用于网络流量拦截、修改和调试。",
+        "tech_highlights": [
+          "支持 TLS 加密流量拦截",
+          "交互式操作界面",
+          "灵活的插件系统"
+        ],
+        "target_users": "渗透测试人员和软件开发者",
+        "why_trending": "因其强大的网络流量操控能力，满足了安全测试和开发调试的需求，社区活跃。",
+        "getting_started": "通过官方文档快速了解基本用法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-paperless-ngx-paperless-ngx",
+      "source": "github",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "owner": "paperless-ngx",
+      "name": "paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 46450,
+      "forks": 3215,
+      "today_stars": 45,
+      "hot_score": 916.7,
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纸less-ngx",
+        "chinese_summary": "一款强大的文档管理系统，支持扫描、索引和归档所有文档。",
+        "use_case": "适用于需要高效管理大量文档的企业和个人。",
+        "tech_highlights": [
+          "支持多种文档格式",
+          "强大的OCR功能",
+          "社区支持"
+        ],
+        "target_users": "需要高效管理文档的企业和个人用户",
+        "why_trending": "得益于其强大的OCR功能和社区支持，能够满足用户对文档管理的高需求。",
+        "getting_started": "通过官方文档快速了解安装和配置步骤",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-poteto-hiring-without-whiteboards",
+      "source": "github",
+      "full_name": "poteto/hiring-without-whiteboards",
+      "owner": "poteto",
+      "name": "hiring-without-whiteboards",
+      "description": "⭐️ Companies that don't have a broken hiring process",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 52520,
+      "forks": 3957,
+      "today_stars": 42,
+      "hot_score": 892.0,
+      "url": "https://github.com/poteto/hiring-without-whiteboards",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "招聘无白板",
+        "chinese_summary": "提供无白板面试的公司列表",
+        "use_case": "帮助求职者寻找不依赖白板编程的面试机会",
+        "tech_highlights": [
+          "开源项目",
+          "社区贡献"
+        ],
+        "target_users": "求职者和招聘者",
+        "why_trending": "随着技术面试争议增加，无白板面试成为讨论热点，项目受到关注",
+        "getting_started": "访问项目页面，查看公司列表并参与贡献",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
