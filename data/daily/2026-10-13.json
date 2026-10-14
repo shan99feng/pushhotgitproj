@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-13",
+  "since": "daily",
+  "generated_at": "2026-10-14T03:50:08.461028+00:00",
+  "total": 20,
+  "category_counts": {
+    "backend": 4,
+    "other": 1,
+    "ai_ml": 5,
+    "frontend": 3,
+    "systems": 7
+  },
+  "repos": [
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 86465,
+      "forks": 9645,
+      "today_stars": 1550,
+      "hot_score": 15993.7,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "国家安全局/Ghidra",
+        "chinese_summary": "Ghidra 是一个软件逆向工程框架，用于分析和修改二进制代码。",
+        "use_case": "主要用于逆向分析恶意软件、分析二进制文件和逆向工程。",
+        "tech_highlights": [
+          "开源免费",
+          "支持多种架构",
+          "图形化用户界面"
+        ],
+        "target_users": "软件逆向工程师、安全研究人员",
+        "why_trending": "随着网络安全威胁的增加，逆向工程的需求上升，Ghidra 作为强大的逆向工程工具受到关注。",
+        "getting_started": "访问 GitHub 页面，下载最新版本并参考官方文档快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-codecrafters-io-build-your-own-x",
+      "source": "github",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "category": "other",
+      "stars": 553082,
+      "forks": 51903,
+      "today_stars": 308,
+      "hot_score": 3654.3,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "构建你自己的X",
+        "chinese_summary": "通过从零开始重构你喜爱的技术，掌握编程。",
+        "use_case": "适用于希望深入理解技术原理和实现细节的学习者。",
+        "tech_highlights": [
+          "从零开始重构技术",
+          "学习底层实现",
+          "增强编程技能"
+        ],
+        "target_users": "编程初学者和中级开发者",
+        "why_trending": "符合当前学习编程的趋势，强调实践和理解，社区活跃。",
+        "getting_started": "从README开始，跟随教程逐步构建项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 374135,
+      "forks": 58865,
+      "today_stars": 167,
+      "hot_score": 2227.3,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计入门",
+        "chinese_summary": "学习如何设计大规模系统，准备系统设计面试，包含Anki闪卡。",
+        "use_case": "适用于准备系统设计面试和技术面试的工程师。",
+        "tech_highlights": [
+          "涵盖广泛的设计案例",
+          "包含Anki闪卡辅助学习",
+          "Python编写，易于理解"
+        ],
+        "target_users": "技术面试准备中的工程师和学生",
+        "why_trending": "随着云计算和分布式系统的发展，系统设计成为技术面试的重要环节；该项目提供系统化学习资源，受到广泛欢迎。",
+        "getting_started": "直接访问GitHub页面，按照README中的指导开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-n8n-io-n8n",
+      "source": "github",
+      "full_name": "n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 207286,
+      "forks": 61124,
+      "today_stars": 150,
+      "hot_score": 2031.7,
+      "url": "https://github.com/n8n-io/n8n",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "n8n",
+        "chinese_summary": "一个具备原生AI能力的工作流自动化平台，结合可视化构建与自定义代码，支持自托管或云托管，集成400多项服务。",
+        "use_case": "适用于需要自动化工作流的企业和个人，特别是那些希望集成多种服务并加入AI功能的用户。",
+        "tech_highlights": [
+          "原生AI支持",
+          "丰富的集成库",
+          "可视化构建"
+        ],
+        "target_users": "需要自动化工作流的企业和个人开发者",
+        "why_trending": "由于其强大的工作流自动化能力和易于集成多种服务的特点，n8n受到了广泛的关注和使用，特别是在AI和自动化领域。",
+        "getting_started": "建议从官方文档开始，了解基本的工作流构建和集成方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-Z4nzu-hackingtool",
+      "source": "github",
+      "full_name": "Z4nzu/hackingtool",
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 81050,
+      "forks": 9146,
+      "today_stars": 147,
+      "hot_score": 1960.9,
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Z4nzu 全功能黑客工具",
+        "chinese_summary": "集成了多种黑客攻击工具的全能工具箱",
+        "use_case": "适用于黑客、安全研究人员进行网络攻击测试和安全评估",
+        "tech_highlights": [
+          "多功能集成",
+          "Python 编写",
+          "自动化攻击"
+        ],
+        "target_users": "黑客、安全研究人员",
+        "why_trending": "随着网络安全威胁的增加，自动化攻击工具受到关注；开源社区活跃",
+        "getting_started": "安装依赖后，通过命令行运行相应模块快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-supabase",
+      "source": "github",
+      "full_name": "sponsors/supabase",
+      "owner": "sponsors",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 111507,
+      "forks": 16753,
+      "today_stars": 98,
+      "hot_score": 1484.7,
+      "url": "https://github.com/sponsors/supabase",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Supabase",
+        "chinese_summary": "提供专用PostgreSQL数据库，用于构建Web、移动和AI应用。",
+        "use_case": "适用于需要PostgreSQL数据库支持的Web、移动和AI应用开发。",
+        "tech_highlights": [
+          "支持PostgreSQL数据库",
+          "提供API和SDK",
+          "易于集成到项目中"
+        ],
+        "target_users": "Web、移动和AI应用开发者",
+        "why_trending": "得益于PostgreSQL的强大功能和易用性，以及Supabase简化数据库集成的特性，吸引了大量开发者。",
+        "getting_started": "通过官方文档快速了解Supabase的基本用法和API",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-emilk-egui",
+      "source": "github",
+      "full_name": "emilk/egui",
+      "owner": "emilk",
+      "name": "egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 31407,
+      "forks": 2202,
+      "today_stars": 87,
+      "hot_score": 1319.7,
+      "url": "https://github.com/emilk/egui",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "egui",
+        "chinese_summary": "一个使用Rust编写的易于使用的即时模式GUI库，支持Web和本地运行",
+        "use_case": "适用于需要跨平台GUI的应用开发",
+        "tech_highlights": [
+          "易于使用",
+          "跨平台支持",
+          "高性能"
+        ],
+        "target_users": "应用开发者和游戏开发者",
+        "why_trending": "因其简洁易用且性能优秀，受到开发者欢迎，特别是在Web和本地应用开发领域",
+        "getting_started": "通过官方文档快速开始项目集成",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ventoy-Ventoy",
+      "source": "github",
+      "full_name": "ventoy/Ventoy",
+      "owner": "ventoy",
+      "name": "Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "category": "systems",
+      "stars": 80014,
+      "forks": 4986,
+      "today_stars": 62,
+      "hot_score": 1110.3,
+      "url": "https://github.com/ventoy/Ventoy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ventoy",
+        "chinese_summary": "一个全新的可引导USB解决方案",
+        "use_case": "用于安装操作系统、备份系统、快速部署等场景",
+        "tech_highlights": [
+          "支持多种操作系统安装",
+          "无需安装即可引导",
+          "易于使用和维护"
+        ],
+        "target_users": "IT管理员、开发者、系统维护人员",
+        "why_trending": "因其便捷性和灵活性，满足了用户快速部署和安装操作系统的需要",
+        "getting_started": "访问GitHub页面，按照README文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-mitmproxy-mitmproxy",
+      "source": "github",
+      "full_name": "mitmproxy/mitmproxy",
+      "owner": "mitmproxy",
+      "name": "mitmproxy",
+      "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 45543,
+      "forks": 4794,
+      "today_stars": 62,
+      "hot_score": 1085.8,
+      "url": "https://github.com/mitmproxy/mitmproxy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "mitmproxy",
+        "chinese_summary": "一个支持 TLS 的交互式 HTTP 代理，用于渗透测试和软件开发。",
+        "use_case": "主要用于网络流量分析、中间人攻击模拟和开发调试。",
+        "tech_highlights": [
+          "支持 TLS 代理",
+          "交互式操作",
+          "灵活的插件系统"
+        ],
+        "target_users": "渗透测试人员、软件开发者和安全研究人员",
+        "why_trending": "因其强大的网络流量操控能力和灵活性，满足了安全测试和开发中的多样化需求。",
+        "getting_started": "通过安装 Python 环境并运行 mitmproxy 命令快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nautechsystems-nautilus_trader",
+      "source": "github",
+      "full_name": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 29959,
+      "forks": 4006,
+      "today_stars": 56,
+      "hot_score": 1007.7,
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纳utilus交易引擎",
+        "chinese_summary": "一个用Rust编写的高性能、确定性的事件驱动交易引擎",
+        "use_case": "适用于高频交易、算法交易等高要求的交易场景",
+        "tech_highlights": [
+          "Rust语言编写，性能高",
+          "事件驱动架构，响应快",
+          "确定性设计，减少不确定性"
+        ],
+        "target_users": "高频交易员、算法交易工程师",
+        "why_trending": "得益于Rust语言的性能优势和事件驱动架构的广泛应用，以及开源社区的支持",
+        "getting_started": "通过官方文档快速了解项目结构和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "category": "systems",
+      "stars": 139280,
+      "forks": 8644,
+      "today_stars": 46,
+      "hot_score": 974.4,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "Windows系统增强工具集合，提升生产力和个性化设置",
+        "use_case": "适用于需要高效操作和自定义Windows系统的用户",
+        "tech_highlights": [
+          "跨平台兼容",
+          "C语言编写",
+          "模块化设计"
+        ],
+        "target_users": "Windows系统高级用户",
+        "why_trending": "因其强大的功能和高度的自定义性，满足了用户对系统效率和个性化的需求",
+        "getting_started": "访问GitHub页面，按照README文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-dgtlmoon-changedetection.io",
+      "source": "github",
+      "full_name": "dgtlmoon/changedetection.io",
+      "owner": "dgtlmoon",
+      "name": "changedetection.io",
+      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 34978,
+      "forks": 2144,
+      "today_stars": 42,
+      "hot_score": 874.4,
+      "url": "https://github.com/dgtlmoon/changedetection.io",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "变更检测",
+        "chinese_summary": "用于网站变更检测、网页监控和内容变化提醒",
+        "use_case": "适用于跟踪内容变化、价格下降、库存恢复提醒和网站篡改监控",
+        "tech_highlights": [
+          "简洁易用的界面",
+          "免费的基础服务",
+          "可选的SaaS计划"
+        ],
+        "target_users": "网站管理员、电商从业者、内容监控者",
+        "why_trending": "结合了免费服务和SaaS模式，满足不同用户需求；易于集成到现有系统",
+        "getting_started": "直接访问网站或通过GitHub克隆项目开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-oven-sh-bun",
+      "source": "github",
+      "full_name": "oven-sh/bun",
+      "owner": "oven-sh",
+      "name": "bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 96229,
+      "forks": 5118,
+      "today_stars": 35,
+      "hot_score": 848.3,
+      "url": "https://github.com/oven-sh/bun",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Bun",
+        "chinese_summary": "一个快速的 JavaScript 运行时、打包工具、测试运行器和包管理器",
+        "use_case": "适用于需要高性能的 Web 开发和 Node.js 应用",
+        "tech_highlights": [
+          "使用 Rust 编写，性能卓越",
+          "支持现代 JavaScript 和 TypeScript",
+          "内置多种工具，简化开发流程"
+        ],
+        "target_users": "Web 开发者、Node.js 应用开发者",
+        "why_trending": "得益于其卓越的性能和丰富的功能，吸引了大量开发者关注",
+        "getting_started": "通过 `npm install -g bun` 安装后，即可开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-UFund-Me-Qbot",
+      "source": "github",
+      "full_name": "UFund-Me/Qbot",
+      "owner": "UFund-Me",
+      "name": "Qbot",
+      "description": "[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot ✨ :news: qbot-mini: https://github.com/Charmve/iQuant",
+      "language": "Jupyter Notebook",
+      "category": "ai_ml",
+      "stars": 18644,
+      "forks": 2613,
+      "today_stars": 37,
+      "hot_score": 797.1,
+      "url": "https://github.com/UFund-Me/Qbot",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Qbot",
+        "chinese_summary": "AI驱动的量化交易机器人，支持本地部署。",
+        "use_case": "适用于希望利用AI进行量化交易的个人和机构。",
+        "tech_highlights": [
+          "AI算法优化交易策略",
+          "本地部署无需云服务",
+          "详尽的在线文档"
+        ],
+        "target_users": "量化交易者、投资机构和对AI交易感兴趣的开发者。",
+        "why_trending": "随着AI在金融领域的应用日益广泛，Qbot提供了一种易于部署的解决方案，满足了市场对自动化交易工具的需求。",
+        "getting_started": "通过阅读在线文档快速开始使用Qbot。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-jj-vcs-jj",
+      "source": "github",
+      "full_name": "jj-vcs/jj",
+      "owner": "jj-vcs",
+      "name": "jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 32032,
+      "forks": 1246,
+      "today_stars": 34,
+      "hot_score": 790.6,
+      "url": "https://github.com/jj-vcs/jj",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "jj",
+        "chinese_summary": "一个简单且强大的Git兼容版本控制系统",
+        "use_case": "适用于需要Git兼容性且追求简洁高效的版本控制场景",
+        "tech_highlights": [
+          "Rust 语言编写，性能优秀",
+          "Git 兼容性强",
+          "功能简洁但强大"
+        ],
+        "target_users": "追求高效简洁版本控制的开发者",
+        "why_trending": "得益于Rust的性能优势和简洁高效的特性，吸引了大量关注",
+        "getting_started": "通过文档快速了解基本命令，开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-usememos",
+      "source": "github",
+      "full_name": "sponsors/usememos",
+      "owner": "sponsors",
+      "name": "usememos",
+      "description": "A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 63768,
+      "forks": 4859,
+      "today_stars": 31,
+      "hot_score": 790.5,
+      "url": "https://github.com/sponsors/usememos",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "使用备忘录",
+        "chinese_summary": "快速记录笔记，通过搜索、标签或日期快速查找。",
+        "use_case": "个人日常笔记管理，团队协作中的知识分享。",
+        "tech_highlights": [
+          "Go 语言开发",
+          "自托管特性",
+          "搜索和标签功能"
+        ],
+        "target_users": "需要管理个人或团队笔记的用户",
+        "why_trending": "自托管特性满足隐私和控制需求，Go 语言高效稳定。",
+        "getting_started": "克隆仓库，按照 README 文件指引快速启动",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-trufflesecurity-trufflehog",
+      "source": "github",
+      "full_name": "trufflesecurity/trufflehog",
+      "owner": "trufflesecurity",
+      "name": "trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "category": "backend",
+      "stars": 28495,
+      "forks": 2639,
+      "today_stars": 32,
+      "hot_score": 765.5,
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "TruffleHog",
+        "chinese_summary": "查找、验证和分析泄露的凭证",
+        "use_case": "主要用于检测代码仓库中泄露的敏感信息，如API密钥、密码等。",
+        "tech_highlights": [
+          "使用Go语言开发",
+          "基于Git的版本控制系统进行扫描",
+          "支持多种文件格式"
+        ],
+        "target_users": "开发团队、安全工程师和运维人员",
+        "why_trending": "随着数据安全意识的提高和数据泄露事件的频发，TruffleHog因其高效性和易用性受到广泛关注。",
+        "getting_started": "通过安装Go环境并运行`trufflehog -r <repository>`快速开始扫描",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-vitejs",
+      "source": "github",
+      "full_name": "sponsors/vitejs",
+      "owner": "sponsors",
+      "name": "vitejs",
+      "description": "Next generation frontend tooling. It's fast!",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 83359,
+      "forks": 8856,
+      "today_stars": 26,
+      "hot_score": 752.1,
+      "url": "https://github.com/sponsors/vitejs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Vite",
+        "chinese_summary": "下一代前端构建工具，快速高效",
+        "use_case": "适用于现代前端开发，特别是需要快速启动和开发速度的项目",
+        "tech_highlights": [
+          "基于 ES 模块的原生支持",
+          "零配置的开发服务器",
+          "支持按需编译"
+        ],
+        "target_users": "前端开发者，特别是需要快速开发体验的团队",
+        "why_trending": "得益于其极快的启动速度和高效的开发体验，吸引了大量开发者关注",
+        "getting_started": "通过 npm 安装并快速启动项目，体验其开发速度",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-traefik",
+      "source": "github",
+      "full_name": "sponsors/traefik",
+      "owner": "sponsors",
+      "name": "traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "category": "backend",
+      "stars": 65199,
+      "forks": 6245,
+      "today_stars": 26,
+      "hot_score": 741.4,
+      "url": "https://github.com/sponsors/traefik",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Traefik",
+        "chinese_summary": "云原生应用代理，简化服务发现与负载均衡",
+        "use_case": "用于Kubernetes集群中的服务发现与负载均衡",
+        "tech_highlights": [
+          "支持多种后端服务发现机制",
+          "内置多种认证与授权插件",
+          "轻量级且高度可配置"
+        ],
+        "target_users": "Kubernetes集群管理员与开发者",
+        "why_trending": "因其强大的服务发现与负载均衡能力，以及与云原生生态的高度集成，Traefik受到广泛欢迎",
+        "getting_started": "通过Docker快速部署并配置基本路由规则",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-GyulyVGC",
+      "source": "github",
+      "full_name": "sponsors/GyulyVGC",
+      "owner": "sponsors",
+      "name": "GyulyVGC",
+      "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 41509,
+      "forks": 1968,
+      "today_stars": 27,
+      "hot_score": 731.8,
+      "url": "https://github.com/sponsors/GyulyVGC",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "网络流量监控器",
+        "chinese_summary": "舒适地监控网络流量",
+        "use_case": "适用于需要实时监控网络流量的个人和企业。",
+        "tech_highlights": [
+          "使用 Rust 语言开发",
+          "提供舒适易用的界面"
+        ],
+        "target_users": "网络管理员和技术爱好者",
+        "why_trending": "Rust 语言的性能和安全性受到开发者青睐，该项目结合了网络监控的需求。",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
