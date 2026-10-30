@@ -1,0 +1,611 @@
+{
+  "date": "2026-10-29",
+  "since": "daily",
+  "generated_at": "2026-10-30T04:43:15.590814+00:00",
+  "total": 20,
+  "category_counts": {
+    "backend": 4,
+    "frontend": 7,
+    "systems": 4,
+    "other": 1,
+    "ai_ml": 4
+  },
+  "repos": [
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 95929,
+      "forks": 10818,
+      "today_stars": 435,
+      "hot_score": 4848.2,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "国家安全局/Ghidra",
+        "chinese_summary": "Ghidra 是一个软件逆向工程框架",
+        "use_case": "主要用于软件逆向分析、漏洞挖掘和恶意软件分析",
+        "tech_highlights": [
+          "开源免费",
+          "支持多种架构",
+          "功能强大"
+        ],
+        "target_users": "软件逆向工程师、安全研究人员",
+        "why_trending": "随着网络安全威胁的增加，软件逆向工程的需求上升，Ghidra 作为强大的开源工具受到关注",
+        "getting_started": "访问 GitHub 页面，下载最新版本并参考官方文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ripienaar-free-for-dev",
+      "source": "github",
+      "full_name": "ripienaar/free-for-dev",
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "category": "frontend",
+      "stars": 140691,
+      "forks": 15010,
+      "today_stars": 314,
+      "hot_score": 3654.8,
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ripienaar/free-for-dev",
+        "chinese_summary": "提供给开发人员和运维人员的免费云服务列表",
+        "use_case": "帮助开发者和运维人员找到免费的云服务进行测试和开发",
+        "tech_highlights": [
+          "免费资源丰富",
+          "涵盖多种云服务类型"
+        ],
+        "target_users": "开发人员和运维人员",
+        "why_trending": "随着云计算的普及，越来越多的云服务提供免费试用，该列表帮助用户快速找到合适的免费资源",
+        "getting_started": "直接访问项目页面查看免费服务列表",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 127539,
+      "forks": 20160,
+      "today_stars": 160,
+      "hot_score": 2110.6,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一个开源远程桌面应用，支持自我托管。",
+        "use_case": "适用于需要远程访问和控制计算机的场景。",
+        "tech_highlights": [
+          "使用 Rust 语言开发，保证高性能和安全性",
+          "支持自我托管，无需依赖第三方服务"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "得益于 Rust 的高性能和安全性，以及开源社区的支持，RustDesk 受到广泛关注。",
+        "getting_started": "访问项目页面，按照文档说明进行安装和配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-Developer-Y-cs-video-courses",
+      "source": "github",
+      "full_name": "Developer-Y/cs-video-courses",
+      "owner": "Developer-Y",
+      "name": "cs-video-courses",
+      "description": "List of Computer Science courses with video lectures.",
+      "language": "",
+      "category": "other",
+      "stars": 84266,
+      "forks": 11576,
+      "today_stars": 159,
+      "hot_score": 2082.6,
+      "url": "https://github.com/Developer-Y/cs-video-courses",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "计算机科学视频课程列表",
+        "chinese_summary": "提供计算机科学课程列表，包含视频讲座。",
+        "use_case": "供学习者查找和学习计算机科学相关课程。",
+        "tech_highlights": [
+          "课程资源丰富",
+          "视频格式多样"
+        ],
+        "target_users": "计算机科学学习者和教育工作者",
+        "why_trending": "随着在线教育的兴起，提供便捷的学习资源成为趋势。",
+        "getting_started": "直接访问项目页面，浏览课程列表开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-n8n-io-n8n",
+      "source": "github",
+      "full_name": "n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 209067,
+      "forks": 61305,
+      "today_stars": 154,
+      "hot_score": 2072.0,
+      "url": "https://github.com/n8n-io/n8n",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "n8n",
+        "chinese_summary": "基于AI的工作流自动化平台，结合可视化构建与自定义代码，提供400+集成。",
+        "use_case": "适用于需要自动化流程的企业和个人。",
+        "tech_highlights": [
+          "支持自定义代码和可视化构建",
+          "内置AI功能",
+          "多平台支持（自托管或云）"
+        ],
+        "target_users": "需要自动化工作流的企业和个人开发者",
+        "why_trending": "结合AI和工作流自动化，满足现代企业需求；社区活跃，持续更新。",
+        "getting_started": "访问官方文档，快速开始自动化流程",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "category": "systems",
+      "stars": 140251,
+      "forks": 8673,
+      "today_stars": 97,
+      "hot_score": 1484.7,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "Windows系统增强工具集合，提高生产力和个性化设置",
+        "use_case": "适用于需要高效操作和自定义Windows系统的用户",
+        "tech_highlights": [
+          "跨平台兼容",
+          "C语言开发",
+          "模块化设计"
+        ],
+        "target_users": "追求高效操作和个性化设置的Windows用户",
+        "why_trending": "结合了多种实用工具，满足用户多样化需求；社区活跃，持续更新",
+        "getting_started": "访问GitHub页面，按照README快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 458203,
+      "forks": 48726,
+      "today_stars": 88,
+      "hot_score": 1446.1,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "免费编程营开源代码库",
+        "chinese_summary": "提供免费的数学、编程和计算机科学学习资源。",
+        "use_case": "在线学习编程和计算机科学知识。",
+        "tech_highlights": [
+          "使用TypeScript开发",
+          "开源代码库",
+          "丰富的学习资源"
+        ],
+        "target_users": "编程初学者和自学者",
+        "why_trending": "符合当前在线学习和开源技术趋势，社区活跃。",
+        "getting_started": "访问官网或GitHub页面开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 98836,
+      "forks": 6737,
+      "today_stars": 82,
+      "hot_score": 1319.5,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "Playwright 是一个用于 Web 测试和自动化框架，支持使用单一 API 测试 Chromium、Firefox 和 WebKit。",
+        "use_case": "适用于需要跨浏览器测试的 Web 应用开发和维护。",
+        "tech_highlights": [
+          "支持多浏览器测试",
+          "单一 API 接口",
+          "内置屏幕截图和视频录制"
+        ],
+        "target_users": "Web 应用开发者和测试工程师",
+        "why_trending": "因其强大的跨浏览器测试能力和简洁的 API 设计，受到广泛关注。",
+        "getting_started": "通过官方文档快速开始使用 Playwright 进行自动化测试",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-langchain-ai-langchain",
+      "source": "github",
+      "full_name": "langchain-ai/langchain",
+      "owner": "langchain-ai",
+      "name": "langchain",
+      "description": "The agent engineering platform.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 148690,
+      "forks": 24976,
+      "today_stars": 76,
+      "hot_score": 1277.2,
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Langchain",
+        "chinese_summary": "一个代理工程平台，用于构建和管理AI代理。",
+        "use_case": "用于构建复杂的AI代理系统，如聊天机器人和自动化助手。",
+        "tech_highlights": [
+          "模块化设计",
+          "灵活的代理管理",
+          "强大的API集成"
+        ],
+        "target_users": "AI开发者和工程师",
+        "why_trending": "得益于AI代理的广泛应用和社区的积极参与，Langchain因其灵活性和易用性而受到关注。",
+        "getting_started": "通过官方文档快速了解基本概念和快速入门指南。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-antoniaci-blackbird",
+      "source": "github",
+      "full_name": "antoniaci/blackbird",
+      "owner": "antoniaci",
+      "name": "blackbird",
+      "description": "An OSINT tool to search for accounts by username and email in social networks.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 9466,
+      "forks": 1132,
+      "today_stars": 83,
+      "hot_score": 1227.6,
+      "url": "https://github.com/antoniaci/blackbird",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "黑鸟",
+        "chinese_summary": "通过用户名和邮箱在社交网络中搜索账号的开源工具",
+        "use_case": "用于社交媒体账号的查找和监控",
+        "tech_highlights": [
+          "支持多种社交网络平台",
+          "强大的搜索功能",
+          "开源免费"
+        ],
+        "target_users": "安全研究人员、社交媒体分析师",
+        "why_trending": "随着社交媒体数据的重要性增加，此类工具的需求上升；开源社区活跃",
+        "getting_started": "阅读README文件，按照指示安装和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ranaroussi-yfinance",
+      "source": "github",
+      "full_name": "ranaroussi/yfinance",
+      "owner": "ranaroussi",
+      "name": "yfinance",
+      "description": "Download market data from Yahoo! Finance's API",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 25740,
+      "forks": 3470,
+      "today_stars": 78,
+      "hot_score": 1221.1,
+      "url": "https://github.com/ranaroussi/yfinance",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yfinance",
+        "chinese_summary": "从雅虎财经API下载市场数据",
+        "use_case": "用于金融数据分析、量化交易和市场研究",
+        "tech_highlights": [
+          "支持多种金融数据下载",
+          "易于集成到Python项目中",
+          "实时数据更新"
+        ],
+        "target_users": "金融分析师、量化交易员、数据科学家",
+        "why_trending": "得益于Python生态系统的强大支持和金融数据需求的增长",
+        "getting_started": "通过pip安装并查阅文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-jrouwe-JoltPhysics",
+      "source": "github",
+      "full_name": "jrouwe/JoltPhysics",
+      "owner": "jrouwe",
+      "name": "JoltPhysics",
+      "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
+      "language": "C++",
+      "category": "systems",
+      "stars": 11922,
+      "forks": 975,
+      "today_stars": 81,
+      "hot_score": 1217.6,
+      "url": "https://github.com/jrouwe/JoltPhysics",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "JoltPhysics",
+        "chinese_summary": "一个多核友好的刚体物理和碰撞检测库，适用于游戏和VR应用。",
+        "use_case": "用于游戏开发中的物理模拟和碰撞检测。",
+        "tech_highlights": [
+          "多核友好设计",
+          "适用于VR应用",
+          "被知名游戏使用"
+        ],
+        "target_users": "游戏开发者和VR应用开发者",
+        "why_trending": "因其高性能和多核支持，被知名游戏采用，吸引了大量关注。",
+        "getting_started": "建议先阅读官方文档，了解基本概念和API使用方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-tailscale-tailscale",
+      "source": "github",
+      "full_name": "tailscale/tailscale",
+      "owner": "tailscale",
+      "name": "tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 38321,
+      "forks": 3387,
+      "today_stars": 69,
+      "hot_score": 1148.3,
+      "url": "https://github.com/tailscale/tailscale",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Tailscale",
+        "chinese_summary": "使用 WireGuard 和双因素认证的简单安全网络连接工具",
+        "use_case": "适用于需要简单安全网络连接的企业和个人",
+        "tech_highlights": [
+          "支持 WireGuard",
+          "内置双因素认证",
+          "易于安装和使用"
+        ],
+        "target_users": "需要简单安全网络连接的企业和个人用户",
+        "why_trending": "得益于其简单易用和安全性，满足了现代网络连接的需求，受到开发者和安全专家的青睐",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-makeplane-plane",
+      "source": "github",
+      "full_name": "makeplane/plane",
+      "owner": "makeplane",
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 61708,
+      "forks": 6236,
+      "today_stars": 64,
+      "hot_score": 1119.0,
+      "url": "https://github.com/makeplane/plane",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Plane",
+        "chinese_summary": "开源的项目管理平台，替代 Jira、Linear、Monday 和 ClickUp。",
+        "use_case": "适用于团队项目管理、任务分配、文档协作和问题跟踪。",
+        "tech_highlights": [
+          "基于 TypeScript 开发",
+          "现代项目管理功能",
+          "开源社区支持"
+        ],
+        "target_users": "项目管理者、开发团队、产品团队",
+        "why_trending": "结合了多种项目管理工具的优点，开源社区活跃，持续更新功能。",
+        "getting_started": "访问 GitHub 仓库，跟随 README 快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-gitleaks-gitleaks",
+      "source": "github",
+      "full_name": "gitleaks/gitleaks",
+      "owner": "gitleaks",
+      "name": "gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "category": "backend",
+      "stars": 30509,
+      "forks": 2321,
+      "today_stars": 47,
+      "hot_score": 918.4,
+      "url": "https://github.com/gitleaks/gitleaks",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Gitleaks",
+        "chinese_summary": "用于检测代码库中泄露的敏感信息",
+        "use_case": "主要用于检测和防止在代码库中泄露API密钥、访问令牌等敏感信息",
+        "tech_highlights": [
+          "支持多种加密格式检测",
+          "深度集成Git流水线",
+          "实时扫描与报告"
+        ],
+        "target_users": "开发团队、安全团队、CI/CD管理员",
+        "why_trending": "随着云服务和API使用的增加，敏感信息泄露的风险上升，Gitleaks提供了一种简单有效的方式来检测和防止这种风险",
+        "getting_started": "通过安装命令行工具并配置扫描规则快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-Infisical",
+      "source": "github",
+      "full_name": "sponsors/Infisical",
+      "owner": "sponsors",
+      "name": "Infisical",
+      "description": "Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 30145,
+      "forks": 2399,
+      "today_stars": 46,
+      "hot_score": 907.9,
+      "url": "https://github.com/sponsors/Infisical",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Infisical",
+        "chinese_summary": "用于安全存储密钥、证书、访问权限和AI代理的开源平台",
+        "use_case": "适用于需要安全管理和存储敏感信息的场景",
+        "tech_highlights": [
+          "支持多种类型的敏感信息管理",
+          "基于云的安全存储解决方案",
+          "易于集成的API接口"
+        ],
+        "target_users": "需要管理敏感信息的安全团队和开发人员",
+        "why_trending": "随着云安全需求的增加，Infisical提供了一种易于使用的解决方案，满足了市场对安全存储的需求",
+        "getting_started": "通过官方文档快速了解如何开始使用Infisical",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-Data-Science-For-Beginners",
+      "source": "github",
+      "full_name": "microsoft/Data-Science-For-Beginners",
+      "owner": "microsoft",
+      "name": "Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "language": "Jupyter Notebook",
+      "category": "ai_ml",
+      "stars": 37832,
+      "forks": 7614,
+      "today_stars": 41,
+      "hot_score": 867.8,
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "数据科学入门",
+        "chinese_summary": "适合初学者的10周20课时数据科学课程",
+        "use_case": "适用于数据科学初学者的学习和实践",
+        "tech_highlights": [
+          "Jupyter Notebook 教程",
+          "涵盖数据科学基础概念",
+          "实战项目练习"
+        ],
+        "target_users": "数据科学初学者",
+        "why_trending": "易于上手的数据科学学习资源，符合当前数据科学普及趋势",
+        "getting_started": "直接访问GitHub页面，跟随教程开始学习",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-projectdiscovery-nuclei",
+      "source": "github",
+      "full_name": "projectdiscovery/nuclei",
+      "owner": "projectdiscovery",
+      "name": "nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 32449,
+      "forks": 3955,
+      "today_stars": 41,
+      "hot_score": 861.1,
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Nuclei",
+        "chinese_summary": "基于 YAML 语法的快速可定制化漏洞扫描工具",
+        "use_case": "用于检测应用程序、API、网络、DNS 和云配置中的漏洞",
+        "tech_highlights": [
+          "基于 YAML 的简单 DSL",
+          "社区驱动的漏洞库",
+          "高度可定制"
+        ],
+        "target_users": "安全研究人员、开发人员和运维人员",
+        "why_trending": "得益于其强大的社区支持和易于使用的 YAML 语法，Nuclei 成为漏洞扫描领域的热门工具",
+        "getting_started": "通过安装 Go 环境并运行 `go get -u projectdiscovery/nuclei` 快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ggml-org-whisper.cpp",
+      "source": "github",
+      "full_name": "ggml-org/whisper.cpp",
+      "owner": "ggml-org",
+      "name": "whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "language": "C++",
+      "category": "systems",
+      "stars": 54789,
+      "forks": 6256,
+      "today_stars": 37,
+      "hot_score": 843.9,
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "whisper.cpp",
+        "chinese_summary": "C/C++实现的OpenAI Whisper模型",
+        "use_case": "用于语音识别和转录",
+        "tech_highlights": [
+          "跨平台兼容性强",
+          "性能优化",
+          "开源"
+        ],
+        "target_users": "开发者、语音识别应用开发者",
+        "why_trending": "得益于OpenAI Whisper模型的广泛影响力和C/C++的高效性，该项目受到广泛关注",
+        "getting_started": "通过README快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-poteto-hiring-without-whiteboards",
+      "source": "github",
+      "full_name": "poteto/hiring-without-whiteboards",
+      "owner": "poteto",
+      "name": "hiring-without-whiteboards",
+      "description": "⭐️ Companies that don't have a broken hiring process",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 52994,
+      "forks": 3980,
+      "today_stars": 35,
+      "hot_score": 822.4,
+      "url": "https://github.com/poteto/hiring-without-whiteboards",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "招聘无白板",
+        "chinese_summary": "提供无白板面试的公司列表",
+        "use_case": "帮助求职者找到不依赖白板面试的公司",
+        "tech_highlights": [
+          "开源项目",
+          "社区贡献"
+        ],
+        "target_users": "求职者和招聘经理",
+        "why_trending": "随着技术发展，白板面试的争议增加，该项目受到关注",
+        "getting_started": "直接访问项目页面查看公司列表",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
