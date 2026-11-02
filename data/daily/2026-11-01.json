@@ -1,0 +1,610 @@
+{
+  "date": "2026-11-01",
+  "since": "daily",
+  "generated_at": "2026-11-02T04:49:36.497459+00:00",
+  "total": 20,
+  "category_counts": {
+    "other": 3,
+    "frontend": 6,
+    "ai_ml": 5,
+    "backend": 2,
+    "systems": 4
+  },
+  "repos": [
+    {
+      "repo_id": "github-sponsors-sindresorhus",
+      "source": "github",
+      "full_name": "sponsors/sindresorhus",
+      "owner": "sponsors",
+      "name": "sindresorhus",
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "language": "",
+      "category": "other",
+      "stars": 528902,
+      "forks": 37978,
+      "today_stars": 548,
+      "hot_score": 6052.3,
+      "url": "https://github.com/sponsors/sindresorhus",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "sindresorhus 的精选列表",
+        "chinese_summary": "一个包含各种有趣主题的精选列表",
+        "use_case": "用于查找和分享各种主题的资源",
+        "tech_highlights": [
+          "丰富的主题内容",
+          "社区贡献"
+        ],
+        "target_users": "开发者、技术爱好者",
+        "why_trending": "由于其广泛的内容覆盖和社区参与度高，吸引了大量用户",
+        "getting_started": "直接浏览或贡献自己的列表",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-ripienaar-free-for-dev",
+      "source": "github",
+      "full_name": "ripienaar/free-for-dev",
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "category": "frontend",
+      "stars": 141442,
+      "forks": 15148,
+      "today_stars": 410,
+      "hot_score": 4615.1,
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "ripienaar/free-for-dev",
+        "chinese_summary": "列出对开发运维和基础设施开发人员感兴趣的免费服务",
+        "use_case": "为开发运维和基础设施开发人员提供免费服务的选择",
+        "tech_highlights": [
+          "免费资源列表",
+          "SaaS, PaaS 和 IaaS 服务"
+        ],
+        "target_users": "开发运维和基础设施开发人员",
+        "why_trending": "由于云服务的普及和开源社区的支持，免费资源的需求增加",
+        "getting_started": "直接访问 GitHub 仓库查看免费服务列表",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-yt-dlp-yt-dlp",
+      "source": "github",
+      "full_name": "yt-dlp/yt-dlp",
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 204553,
+      "forks": 17964,
+      "today_stars": 317,
+      "hot_score": 3701.1,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yt-dlp/yt-dlp",
+        "chinese_summary": "一个功能丰富的命令行音频/视频下载工具",
+        "use_case": "用于从各种在线视频平台下载音频和视频文件",
+        "tech_highlights": [
+          "支持多种视频平台",
+          "高度可定制",
+          "持续更新"
+        ],
+        "target_users": "视频爱好者和开发者",
+        "why_trending": "因其强大的功能和广泛的平台支持，以及社区的活跃度",
+        "getting_started": "通过pip安装后，使用简单的命令行指令即可开始下载",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-codecrafters-io-build-your-own-x",
+      "source": "github",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "category": "other",
+      "stars": 558402,
+      "forks": 52254,
+      "today_stars": 280,
+      "hot_score": 3374.7,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "从零构建你喜爱的技术",
+        "chinese_summary": "通过重新实现你喜爱的技术来学习编程",
+        "use_case": "适用于希望深入理解技术原理的开发者",
+        "tech_highlights": [
+          "从零开始实现技术",
+          "学习底层原理",
+          "实践与理论结合"
+        ],
+        "target_users": "希望提升编程技能的开发者",
+        "why_trending": "符合当前学习编程的趋势，强调实践与理解",
+        "getting_started": "阅读项目文档，选择一个技术开始实现",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-avelino",
+      "source": "github",
+      "full_name": "sponsors/avelino",
+      "owner": "sponsors",
+      "name": "avelino",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "category": "backend",
+      "stars": 191585,
+      "forks": 13690,
+      "today_stars": 175,
+      "hot_score": 2278.2,
+      "url": "https://github.com/sponsors/avelino",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Go 优秀框架与库精选",
+        "chinese_summary": "一个精选的 Go 语言框架、库和软件列表",
+        "use_case": "为 Go 开发者提供优秀的第三方库和框架选择",
+        "tech_highlights": [
+          "涵盖广泛的技术资源",
+          "定期更新和维护"
+        ],
+        "target_users": "Go 语言开发者",
+        "why_trending": "随着 Go 语言的流行，社区对高质量资源的需求增加",
+        "getting_started": "直接浏览或搜索所需资源，无需安装",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-vuejs-core",
+      "source": "github",
+      "full_name": "vuejs/core",
+      "owner": "vuejs",
+      "name": "core",
+      "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 55028,
+      "forks": 9268,
+      "today_stars": 154,
+      "hot_score": 2014.1,
+      "url": "https://github.com/vuejs/core",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Vue.js 核心库",
+        "chinese_summary": "Vue.js 是一个渐进式、可逐步采用的 JavaScript 框架，用于构建网页用户界面。",
+        "use_case": "主要用于构建响应式和可维护的用户界面。",
+        "tech_highlights": [
+          "模板语法简洁易懂",
+          "双向数据绑定",
+          "虚拟 DOM 优化性能"
+        ],
+        "target_users": "前端开发者，特别是需要构建复杂交互界面的开发者",
+        "why_trending": "因其简洁易学、性能优秀和社区活跃而受到欢迎，适合快速开发和维护。",
+        "getting_started": "通过官方文档快速了解 Vue.js 的基本用法和概念",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 376470,
+      "forks": 59123,
+      "today_stars": 126,
+      "hot_score": 1817.6,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计 primer",
+        "chinese_summary": "学习如何设计大规模系统，为系统设计面试做准备，包含 Anki 闪卡。",
+        "use_case": "适用于准备系统设计面试的开发者和学习设计大规模系统的工程师。",
+        "tech_highlights": [
+          "包含 Anki 闪卡帮助记忆关键概念",
+          "提供系统设计面试的全面指南"
+        ],
+        "target_users": "准备系统设计面试的开发者和学习系统设计的工程师",
+        "why_trending": "随着云计算和分布式系统的发展，系统设计成为工程师必备技能，该项目提供系统设计的全面学习资源，因此受到关注。",
+        "getting_started": "通过阅读文档和完成练习快速上手",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-f",
+      "source": "github",
+      "full_name": "sponsors/f",
+      "owner": "sponsors",
+      "name": "f",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "MDX",
+      "category": "other",
+      "stars": 175559,
+      "forks": 22402,
+      "today_stars": 121,
+      "hot_score": 1734.4,
+      "url": "https://github.com/sponsors/f",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Awesome ChatGPT 提示",
+        "chinese_summary": "分享、发现和收集社区的提示，支持自托管以保护隐私。",
+        "use_case": "适用于需要自定义 ChatGPT 对话提示的组织和个人。",
+        "tech_highlights": [
+          "开源自托管",
+          "社区贡献内容",
+          "MDX 格式"
+        ],
+        "target_users": "需要自定义 ChatGPT 对话提示的组织和个人",
+        "why_trending": "结合了 AI 和社区贡献的力量，满足了用户对个性化和隐私保护的需求。",
+        "getting_started": "通过阅读文档快速了解如何使用和贡献内容",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-upscayl-upscayl",
+      "source": "github",
+      "full_name": "upscayl/upscayl",
+      "owner": "upscayl",
+      "name": "upscayl",
+      "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 51596,
+      "forks": 2680,
+      "today_stars": 124,
+      "hot_score": 1711.3,
+      "url": "https://github.com/upscayl/upscayl",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Upscayl",
+        "chinese_summary": "一款免费开源的AI图像放大工具，支持Linux、MacOS和Windows。",
+        "use_case": "用于放大图像分辨率，提高图像清晰度。",
+        "tech_highlights": [
+          "基于AI技术实现图像放大",
+          "跨平台支持"
+        ],
+        "target_users": "需要放大图像分辨率的用户",
+        "why_trending": "得益于AI技术的发展和开源社区的支持，提供了解决图像放大问题的新方案。",
+        "getting_started": "通过GitHub获取源码并按照README文件进行安装和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-freeCodeCamp",
+      "source": "github",
+      "full_name": "sponsors/freeCodeCamp",
+      "owner": "sponsors",
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 458390,
+      "forks": 48185,
+      "today_stars": 84,
+      "hot_score": 1406.1,
+      "url": "https://github.com/sponsors/freeCodeCamp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "freeCodeCamp开源项目",
+        "chinese_summary": "一个提供免费数学、编程和计算机科学学习资源的开源平台。",
+        "use_case": "适用于自学编程和计算机科学知识，以及贡献开源代码。",
+        "tech_highlights": [
+          "丰富的学习资源和课程",
+          "使用TypeScript开发",
+          "社区驱动的持续更新"
+        ],
+        "target_users": "自学编程者、初学者和贡献者",
+        "why_trending": "由于其免费且高质量的学习资源，以及社区的积极参与，吸引了大量学习者和贡献者。",
+        "getting_started": "访问官网或GitHub仓库，选择合适的课程开始学习或贡献代码。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-immich-app-immich",
+      "source": "github",
+      "full_name": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 117924,
+      "forks": 7445,
+      "today_stars": 89,
+      "hot_score": 1397.2,
+      "url": "https://github.com/immich-app/immich",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Immich",
+        "chinese_summary": "高性能的自托管照片和视频管理解决方案",
+        "use_case": "适用于个人和团队的照片和视频管理，支持自托管部署。",
+        "tech_highlights": [
+          "高性能处理能力",
+          "自托管特性",
+          "多平台支持"
+        ],
+        "target_users": "个人用户、团队和组织",
+        "why_trending": "得益于其高性能和自托管特性，满足了用户对隐私和控制的高需求，同时支持多种平台。",
+        "getting_started": "访问GitHub页面，按照README中的步骤快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 99074,
+      "forks": 6777,
+      "today_stars": 89,
+      "hot_score": 1389.6,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "Playwright 是一个用于 Web 测试和自动化框架，支持使用单一 API 测试 Chromium、Firefox 和 WebKit。",
+        "use_case": "主要用于 Web 应用的自动化测试。",
+        "tech_highlights": [
+          "支持多浏览器测试",
+          "单一 API 接口",
+          "性能优化"
+        ],
+        "target_users": "Web 测试工程师和自动化测试开发者",
+        "why_trending": "因其强大的多浏览器支持和简洁的 API 设计，受到开发者欢迎。",
+        "getting_started": "通过官方文档快速开始使用 Playwright 进行自动化测试",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-jrouwe-JoltPhysics",
+      "source": "github",
+      "full_name": "jrouwe/JoltPhysics",
+      "owner": "jrouwe",
+      "name": "JoltPhysics",
+      "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
+      "language": "C++",
+      "category": "systems",
+      "stars": 12127,
+      "forks": 995,
+      "today_stars": 74,
+      "hot_score": 1148.4,
+      "url": "https://github.com/jrouwe/JoltPhysics",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "JoltPhysics",
+        "chinese_summary": "一个多核友好的刚体物理和碰撞检测库，适用于游戏和VR应用。",
+        "use_case": "用于游戏开发中的物理模拟和碰撞检测。",
+        "tech_highlights": [
+          "多核友好设计",
+          "适用于游戏和VR应用",
+          "被知名游戏使用"
+        ],
+        "target_users": "游戏开发者和VR应用开发者",
+        "why_trending": "因其高性能和多核支持，被知名游戏采用，吸引了大量关注。",
+        "getting_started": "建议从官方文档开始学习，了解基本概念和API使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-paperless-ngx-paperless-ngx",
+      "source": "github",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "owner": "paperless-ngx",
+      "name": "paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 47544,
+      "forks": 3327,
+      "today_stars": 66,
+      "hot_score": 1127.7,
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纸less-ngx",
+        "chinese_summary": "一款强大的文档管理系统，支持扫描、索引和归档所有文档。",
+        "use_case": "适用于需要高效管理大量文档的企业和个人。",
+        "tech_highlights": [
+          "支持多种文档格式",
+          "强大的OCR功能",
+          "灵活的自定义配置"
+        ],
+        "target_users": "需要高效管理文档的企业和个人用户",
+        "why_trending": "得益于其强大的OCR功能和社区支持，能够满足用户对文档管理的高需求。",
+        "getting_started": "通过官方文档快速了解安装和配置步骤",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-tailscale-tailscale",
+      "source": "github",
+      "full_name": "tailscale/tailscale",
+      "owner": "tailscale",
+      "name": "tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 38497,
+      "forks": 3409,
+      "today_stars": 55,
+      "hot_score": 1008.5,
+      "url": "https://github.com/tailscale/tailscale",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Tailscale",
+        "chinese_summary": "使用 WireGuard 和双因素认证的最简单、最安全的方式。",
+        "use_case": "适用于需要简单安全网络连接的个人和企业。",
+        "tech_highlights": [
+          "支持 WireGuard",
+          "内置双因素认证",
+          "易于部署和使用"
+        ],
+        "target_users": "需要简单安全网络连接的个人和企业用户",
+        "why_trending": "得益于其简单易用性和安全性，特别是在远程工作和网络安全方面。",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "category": "systems",
+      "stars": 140399,
+      "forks": 8687,
+      "today_stars": 49,
+      "hot_score": 1004.7,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "Windows系统增强工具集合，提升生产力和个性化定制",
+        "use_case": "适用于需要高度定制化和高效操作的Windows用户",
+        "tech_highlights": [
+          "跨平台兼容",
+          "C语言开发",
+          "模块化设计"
+        ],
+        "target_users": "Windows高级用户和开发者",
+        "why_trending": "因其强大的功能和高度的可定制性，满足了用户对系统优化的高需求",
+        "getting_started": "通过GitHub克隆仓库并按照README文档进行安装和配置",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-electron-electron",
+      "source": "github",
+      "full_name": "electron/electron",
+      "owner": "electron",
+      "name": "electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "category": "systems",
+      "stars": 123703,
+      "forks": 17916,
+      "today_stars": 42,
+      "hot_score": 929.2,
+      "url": "https://github.com/electron/electron",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Electron",
+        "chinese_summary": "使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用",
+        "use_case": "开发跨平台的桌面应用程序",
+        "tech_highlights": [
+          "基于 Chromium 和 Node.js",
+          "使用 Web 技术开发桌面应用",
+          "跨平台兼容性"
+        ],
+        "target_users": "前端开发者、跨平台应用开发者",
+        "why_trending": "顺应 Web 技术的发展趋势，提供了一种新的开发桌面应用的方式，社区活跃度高",
+        "getting_started": "通过官方文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-hyprwm-Hyprland",
+      "source": "github",
+      "full_name": "hyprwm/Hyprland",
+      "owner": "hyprwm",
+      "name": "Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "category": "systems",
+      "stars": 39471,
+      "forks": 2133,
+      "today_stars": 38,
+      "hot_score": 839.6,
+      "url": "https://github.com/hyprwm/Hyprland",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hyprland",
+        "chinese_summary": "Hyprland 是一个独立的、高度可定制的动态拼图 Wayland 桌面环境，注重美观。",
+        "use_case": "适用于追求美观和高度定制化桌面环境的用户。",
+        "tech_highlights": [
+          "高度可定制",
+          "动态拼图布局",
+          "Wayland 支持"
+        ],
+        "target_users": "追求美观和高度定制化桌面环境的用户",
+        "why_trending": "因其高度可定制性和美观的设计，Hyprland 在追求个性化桌面体验的用户中受到欢迎。",
+        "getting_started": "通过官方文档快速了解 Hyprland 的基本配置和使用方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-qlib",
+      "source": "github",
+      "full_name": "microsoft/qlib",
+      "owner": "microsoft",
+      "name": "qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 49921,
+      "forks": 7879,
+      "today_stars": 36,
+      "hot_score": 829.8,
+      "url": "https://github.com/microsoft/qlib",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "QLib",
+        "chinese_summary": "一个以AI驱动的量化投资平台，支持多种机器学习模型。",
+        "use_case": "用于量化研究和投资策略的开发与实施。",
+        "tech_highlights": [
+          "支持多种机器学习模型",
+          "集成市场动态建模",
+          "支持强化学习"
+        ],
+        "target_users": "量化分析师、数据科学家、AI工程师",
+        "why_trending": "结合AI技术提升量化投资效率，符合当前AI在金融领域的应用趋势。",
+        "getting_started": "建议从官方文档开始学习，快速了解项目结构和使用方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-hummingbot",
+      "source": "github",
+      "full_name": "sponsors/hummingbot",
+      "owner": "sponsors",
+      "name": "hummingbot",
+      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 20903,
+      "forks": 5085,
+      "today_stars": 36,
+      "hot_score": 792.0,
+      "url": "https://github.com/sponsors/hummingbot",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hummingbot",
+        "chinese_summary": "帮助用户创建和部署高频加密货币交易机器人",
+        "use_case": "适用于希望利用自动化交易策略进行加密货币交易的用户。",
+        "tech_highlights": [
+          "支持多种加密货币交易所",
+          "可编程交易策略",
+          "模块化设计"
+        ],
+        "target_users": "加密货币交易者和高频交易爱好者",
+        "why_trending": "得益于区块链技术的发展和高频交易策略的流行，Hummingbot 成为热门开源项目。",
+        "getting_started": "通过官方文档快速了解并开始使用 Hummingbot",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
