@@ -1,0 +1,612 @@
+{
+  "date": "2026-11-06",
+  "since": "daily",
+  "generated_at": "2026-11-07T04:56:07.719932+00:00",
+  "total": 20,
+  "category_counts": {
+    "ai_ml": 5,
+    "frontend": 4,
+    "backend": 1,
+    "systems": 10
+  },
+  "repos": [
+    {
+      "repo_id": "github-donnemartin-system-design-primer",
+      "source": "github",
+      "full_name": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 377162,
+      "forks": 59201,
+      "today_stars": 190,
+      "hot_score": 2457.7,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "系统设计 primer",
+        "chinese_summary": "学习如何设计大规模系统，准备系统设计面试，包含 Anki 闪卡。",
+        "use_case": "适用于准备系统设计面试和技术面试的工程师。",
+        "tech_highlights": [
+          "包含 Anki 闪卡帮助记忆关键概念",
+          "提供系统设计面试的实战指导"
+        ],
+        "target_users": "技术面试准备中的工程师和架构师",
+        "why_trending": "随着云计算和分布式系统的发展，系统设计成为工程师必备技能，该项目提供系统化学习资源，因此受到关注。",
+        "getting_started": "直接访问 GitHub 仓库，按照 README 中的指导开始学习。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-Unleash-unleash",
+      "source": "github",
+      "full_name": "Unleash/unleash",
+      "owner": "Unleash",
+      "name": "unleash",
+      "description": "Open-source feature management platform",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 14126,
+      "forks": 931,
+      "today_stars": 180,
+      "hot_score": 2215.0,
+      "url": "https://github.com/Unleash/unleash",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Unleash",
+        "chinese_summary": "开源功能管理平台，实现功能开关与控制",
+        "use_case": "用于管理应用中的功能开关，实现渐进式发布和A/B测试",
+        "tech_highlights": [
+          "支持多种环境部署",
+          "灵活的策略配置",
+          "丰富的插件生态"
+        ],
+        "target_users": "开发团队、产品经理、运维人员",
+        "why_trending": "顺应微服务和DevOps趋势，提供便捷的功能管理解决方案",
+        "getting_started": "通过官方文档快速了解项目结构，开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-Homebrew",
+      "source": "github",
+      "full_name": "sponsors/Homebrew",
+      "owner": "sponsors",
+      "name": "Homebrew",
+      "description": "🍺 The Package Manager for Everywhere",
+      "language": "Ruby",
+      "category": "backend",
+      "stars": 50343,
+      "forks": 11436,
+      "today_stars": 174,
+      "hot_score": 2210.2,
+      "url": "https://github.com/sponsors/Homebrew",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Homebrew",
+        "chinese_summary": "一个用于各种环境的包管理工具",
+        "use_case": "用于安装和管理各种软件包",
+        "tech_highlights": [
+          "Ruby 编程语言实现",
+          "跨平台支持",
+          "丰富的包库"
+        ],
+        "target_users": "开发者和系统管理员",
+        "why_trending": "因其强大的包管理和跨平台支持，受到广泛欢迎",
+        "getting_started": "通过命令行快速安装和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-astral-sh-ruff",
+      "source": "github",
+      "full_name": "astral-sh/ruff",
+      "owner": "astral-sh",
+      "name": "ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 50735,
+      "forks": 2613,
+      "today_stars": 169,
+      "hot_score": 2160.5,
+      "url": "https://github.com/astral-sh/ruff",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Ruff",
+        "chinese_summary": "一个用 Rust 编写的超快 Python 代码检查和格式化工具",
+        "use_case": "用于 Python 代码的静态分析和自动格式化",
+        "tech_highlights": [
+          "用 Rust 编写，性能卓越",
+          "支持 Python 代码的快速检查和格式化",
+          "丰富的规则集和插件支持"
+        ],
+        "target_users": "Python 开发者和团队",
+        "why_trending": "因其卓越的性能和强大的功能，吸引了大量 Python 开发者的关注",
+        "getting_started": "通过 pip 安装并快速配置即可开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 128486,
+      "forks": 20412,
+      "today_stars": 161,
+      "hot_score": 2120.9,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一个用于自我托管的开源远程桌面应用，替代TeamViewer。",
+        "use_case": "适用于需要远程访问和控制桌面的场景。",
+        "tech_highlights": [
+          "使用Rust编写，性能优越且安全",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台兼容性强"
+        ],
+        "target_users": "需要远程访问桌面的个人和企业用户",
+        "why_trending": "得益于Rust语言的安全性和性能，以及开源社区的推动，RustDesk受到了广泛关注。",
+        "getting_started": "访问GitHub页面，按照README中的步骤快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-vitejs",
+      "source": "github",
+      "full_name": "sponsors/vitejs",
+      "owner": "sponsors",
+      "name": "vitejs",
+      "description": "Next generation frontend tooling. It's fast!",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 83846,
+      "forks": 9241,
+      "today_stars": 160,
+      "hot_score": 2092.3,
+      "url": "https://github.com/sponsors/vitejs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Vite",
+        "chinese_summary": "下一代前端构建工具，快速高效",
+        "use_case": "适用于现代前端开发，特别是需要快速启动和开发速度的项目",
+        "tech_highlights": [
+          "基于 ES 模块的直接导入",
+          "零配置的开发服务器",
+          "支持热更新"
+        ],
+        "target_users": "前端开发者，特别是需要快速开发和启动速度的项目",
+        "why_trending": "得益于其极快的启动速度和高效的开发体验，吸引了大量开发者",
+        "getting_started": "通过 npm 安装并初始化项目，快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-sharkdp",
+      "source": "github",
+      "full_name": "sponsors/sharkdp",
+      "owner": "sponsors",
+      "name": "sharkdp",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 45091,
+      "forks": 1299,
+      "today_stars": 160,
+      "hot_score": 2065.4,
+      "url": "https://github.com/sponsors/sharkdp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "鲨鱼搜索",
+        "chinese_summary": "一个简单、快速且用户友好的‘find’替代工具",
+        "use_case": "用于文件搜索和管理",
+        "tech_highlights": [
+          "使用 Rust 编写",
+          "高性能",
+          "用户友好"
+        ],
+        "target_users": "开发人员和系统管理员",
+        "why_trending": "得益于 Rust 的性能优势和简洁的命令行界面，吸引了大量开发者关注",
+        "getting_started": "通过 Cargo 安装并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-sveltejs",
+      "source": "github",
+      "full_name": "sponsors/sveltejs",
+      "owner": "sponsors",
+      "name": "sveltejs",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 88658,
+      "forks": 6795,
+      "today_stars": 152,
+      "hot_score": 2014.8,
+      "url": "https://github.com/sponsors/sveltejs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "SvelteJS",
+        "chinese_summary": "用于普通开发者的Web开发框架",
+        "use_case": "适用于构建响应式Web应用",
+        "tech_highlights": [
+          "轻量级虚拟DOM",
+          "编译时优化",
+          "代码生成高效"
+        ],
+        "target_users": "前端开发者，特别是需要高效渲染性能的",
+        "why_trending": "因其高效的性能和简洁的语法，受到开发者欢迎",
+        "getting_started": "通过官方文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-tokio-rs",
+      "source": "github",
+      "full_name": "sponsors/tokio-rs",
+      "owner": "sponsors",
+      "name": "tokio-rs",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 33707,
+      "forks": 4508,
+      "today_stars": 149,
+      "hot_score": 1942.8,
+      "url": "https://github.com/sponsors/tokio-rs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Tokio 异步运行时",
+        "chinese_summary": "用 Rust 编写可靠异步应用的运行时框架",
+        "use_case": "适用于需要高性能网络服务和异步 I/O 的场景",
+        "tech_highlights": [
+          "基于 Rust 的高性能异步模型",
+          "丰富的异步库支持",
+          "灵活的调度和定时器"
+        ],
+        "target_users": "Rust 开发者，特别是需要构建异步应用的开发者",
+        "why_trending": "得益于 Rust 的流行和异步编程的需求增长，Tokio 成为构建高性能网络服务的首选",
+        "getting_started": "通过官方文档快速了解并开始使用 Tokio",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-bobeff-open-source-games",
+      "source": "github",
+      "full_name": "bobeff/open-source-games",
+      "owner": "bobeff",
+      "name": "open-source-games",
+      "description": "A list of open source games.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 17758,
+      "forks": 1630,
+      "today_stars": 146,
+      "hot_score": 1884.9,
+      "url": "https://github.com/bobeff/open-source-games",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "开源游戏合集",
+        "chinese_summary": "一个包含多种开源游戏的列表。",
+        "use_case": "供开发者学习、参考和修改开源游戏代码。",
+        "tech_highlights": [
+          "游戏多样性",
+          "开源许可"
+        ],
+        "target_users": "游戏开发者和爱好者",
+        "why_trending": "随着开源文化的发展和游戏开发技术的普及，越来越多的开发者参与到开源游戏项目中。",
+        "getting_started": "直接访问项目页面，查看README文件中的安装和运行指南。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nushell-nushell",
+      "source": "github",
+      "full_name": "nushell/nushell",
+      "owner": "nushell",
+      "name": "nushell",
+      "description": "A new type of shell",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 41010,
+      "forks": 2344,
+      "today_stars": 131,
+      "hot_score": 1771.3,
+      "url": "https://github.com/nushell/nushell",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "NuShell",
+        "chinese_summary": "一种新型的命令行界面",
+        "use_case": "替代传统的命令行界面，提供更强大的数据处理能力",
+        "tech_highlights": [
+          "基于Rust开发",
+          "支持多种数据源",
+          "模块化设计"
+        ],
+        "target_users": "数据科学家、开发人员和系统管理员",
+        "why_trending": "得益于其强大的数据处理能力和模块化设计，吸引了大量关注",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-oven-sh-bun",
+      "source": "github",
+      "full_name": "oven-sh/bun",
+      "owner": "oven-sh",
+      "name": "bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 96668,
+      "forks": 5272,
+      "today_stars": 119,
+      "hot_score": 1688.5,
+      "url": "https://github.com/oven-sh/bun",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "bun",
+        "chinese_summary": "一款快速的 JavaScript 运行时、打包工具、测试运行器和包管理器",
+        "use_case": "适用于需要快速启动和高效运行的 Web 开发项目",
+        "tech_highlights": [
+          "超快速性能",
+          "单文件打包",
+          "内置测试运行器"
+        ],
+        "target_users": "Web 开发者和 Node.js 用户",
+        "why_trending": "因其卓越的性能和简化的工作流程，吸引了大量关注",
+        "getting_started": "通过命令行快速安装和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-antoniaci-blackbird",
+      "source": "github",
+      "full_name": "antoniaci/blackbird",
+      "owner": "antoniaci",
+      "name": "blackbird",
+      "description": "An OSINT tool to search for accounts by username and email in social networks.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 9870,
+      "forks": 1398,
+      "today_stars": 121,
+      "hot_score": 1609.4,
+      "url": "https://github.com/antoniaci/blackbird",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "黑鸟",
+        "chinese_summary": "通过用户名和邮箱在社交网络中搜索账号的开源工具",
+        "use_case": "用于社交媒体账号的查找和监控",
+        "tech_highlights": [
+          "支持多种社交网络平台",
+          "强大的搜索功能",
+          "开源免费"
+        ],
+        "target_users": "社交媒体分析师、网络安全专家和普通用户",
+        "why_trending": "由于其强大的功能和开源特性，吸引了大量开发者和安全研究人员的兴趣",
+        "getting_started": "通过安装依赖和运行示例代码快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 99481,
+      "forks": 6808,
+      "today_stars": 85,
+      "hot_score": 1349.8,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright 测试框架",
+        "chinese_summary": "Playwright 是一个用于 Web 测试和自动化框架，支持使用单一 API 测试 Chromium、Firefox 和 WebKit。",
+        "use_case": "主要用于前端 Web 应用的自动化测试。",
+        "tech_highlights": [
+          "支持多浏览器测试",
+          "单一 API 接口",
+          "内置性能测试"
+        ],
+        "target_users": "前端开发者和测试工程师",
+        "why_trending": "因其强大的多浏览器支持和简洁的 API 设计，受到广泛欢迎。",
+        "getting_started": "建议从官方文档开始，快速了解基本用法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-helix-editor-helix",
+      "source": "github",
+      "full_name": "helix-editor/helix",
+      "owner": "helix-editor",
+      "name": "helix",
+      "description": "A post-modern modal text editor.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 46901,
+      "forks": 4008,
+      "today_stars": 85,
+      "hot_score": 1317.1,
+      "url": "https://github.com/helix-editor/helix",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Helix 编辑器",
+        "chinese_summary": "一款现代模式化文本编辑器",
+        "use_case": "适用于需要高效文本编辑和复杂操作的场景",
+        "tech_highlights": [
+          "使用 Rust 语言开发",
+          "支持多种编程语言",
+          "高度可定制"
+        ],
+        "target_users": "程序员、开发者",
+        "why_trending": "得益于 Rust 的性能和社区支持，Helix 在功能和性能上满足了现代开发的需求",
+        "getting_started": "通过官方文档快速了解基本操作和插件使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "category": "systems",
+      "stars": 140660,
+      "forks": 8704,
+      "today_stars": 75,
+      "hot_score": 1264.8,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "增强Windows生产力和自定义的实用工具集合",
+        "use_case": "提高Windows操作效率，自定义桌面体验",
+        "tech_highlights": [
+          "跨平台兼容",
+          "C语言高效开发",
+          "模块化设计"
+        ],
+        "target_users": "Windows系统高级用户和开发者",
+        "why_trending": "结合了多种实用功能，满足个性化需求，社区活跃度高",
+        "getting_started": "访问GitHub页面，跟随README快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-langchain-ai-langchain",
+      "source": "github",
+      "full_name": "langchain-ai/langchain",
+      "owner": "langchain-ai",
+      "name": "langchain",
+      "description": "The agent engineering platform.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 149143,
+      "forks": 25087,
+      "today_stars": 66,
+      "hot_score": 1177.4,
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Langchain",
+        "chinese_summary": "一个代理工程平台，用于构建和管理AI代理。",
+        "use_case": "用于构建复杂的AI代理系统，支持多任务和多模态交互。",
+        "tech_highlights": [
+          "支持多模态交互",
+          "模块化设计",
+          "易于扩展"
+        ],
+        "target_users": "AI代理开发者和研究者",
+        "why_trending": "得益于AI代理技术的发展和社区的积极参与，Langchain因其灵活性和易用性而受到关注。",
+        "getting_started": "通过官方文档快速了解项目结构和快速开始指南",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-GyulyVGC",
+      "source": "github",
+      "full_name": "sponsors/GyulyVGC",
+      "owner": "sponsors",
+      "name": "GyulyVGC",
+      "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 41940,
+      "forks": 1958,
+      "today_stars": 58,
+      "hot_score": 1042.3,
+      "url": "https://github.com/sponsors/GyulyVGC",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "GyulyVGC",
+        "chinese_summary": "舒适地监控网络流量",
+        "use_case": "适用于需要实时监控网络流量的个人和团队。",
+        "tech_highlights": [
+          "使用 Rust 语言开发",
+          "提供实时监控功能",
+          "界面友好"
+        ],
+        "target_users": "网络管理员、安全专家和开发人员",
+        "why_trending": "由于 Rust 语言的安全性和性能，以及对实时监控需求的增加，该项目受到关注。",
+        "getting_started": "通过官方文档快速开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-huggingface-transformers",
+      "source": "github",
+      "full_name": "huggingface/transformers",
+      "owner": "huggingface",
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 168613,
+      "forks": 35123,
+      "today_stars": 49,
+      "hot_score": 1012.7,
+      "url": "https://github.com/huggingface/transformers",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hugging Face Transformers",
+        "chinese_summary": "用于文本、视觉、音频和多模态模型的先进机器学习模型框架",
+        "use_case": "适用于模型训练和推理",
+        "tech_highlights": [
+          "支持多种模型架构",
+          "易于扩展和定制",
+          "提供丰富的预训练模型"
+        ],
+        "target_users": "机器学习工程师、数据科学家",
+        "why_trending": "因其强大的功能和广泛的社区支持而受到关注，推动了自然语言处理和多模态模型的发展",
+        "getting_started": "通过安装库和阅读文档快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-servo",
+      "source": "github",
+      "full_name": "sponsors/servo",
+      "owner": "sponsors",
+      "name": "servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 38407,
+      "forks": 3885,
+      "today_stars": 55,
+      "hot_score": 1008.4,
+      "url": "https://github.com/sponsors/servo",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Servo 浏览器引擎",
+        "chinese_summary": "Servo 是一个轻量级、高性能的 Web 技术嵌入式引擎。",
+        "use_case": "适用于需要高性能 Web 渲染能力的应用场景。",
+        "tech_highlights": [
+          "基于 Rust 语言开发",
+          "模块化设计",
+          "异步处理"
+        ],
+        "target_users": "需要高性能 Web 渲染能力的开发者",
+        "why_trending": "Servo 采用 Rust 语言，结合现代 Web 技术，满足高性能和安全性的需求，受到开发者关注。",
+        "getting_started": "通过官方文档快速了解 Servo 的基本概念和使用方法。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
