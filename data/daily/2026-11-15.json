@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-15",
+  "since": "daily",
+  "generated_at": "2026-11-16T05:06:05.981160+00:00",
+  "total": 20,
+  "category_counts": {
+    "ai_ml": 6,
+    "other": 1,
+    "frontend": 5,
+    "backend": 4,
+    "systems": 4
+  },
+  "repos": [
+    {
+      "repo_id": "github-yt-dlp-yt-dlp",
+      "source": "github",
+      "full_name": "yt-dlp/yt-dlp",
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 208162,
+      "forks": 18359,
+      "today_stars": 284,
+      "hot_score": 3371.8,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "yt-dlp/yt-dlp",
+        "chinese_summary": "一个功能丰富的命令行音视频下载工具",
+        "use_case": "用于从各种在线视频平台下载音视频文件",
+        "tech_highlights": [
+          "支持多种音视频格式",
+          "强大的解析和下载功能",
+          "跨平台兼容性"
+        ],
+        "target_users": "视频爱好者、开发者和内容创作者",
+        "why_trending": "因其强大的功能和广泛的平台支持，以及社区的持续维护和更新",
+        "getting_started": "通过pip安装后，使用命令行即可快速开始下载",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-f",
+      "source": "github",
+      "full_name": "sponsors/f",
+      "owner": "sponsors",
+      "name": "f",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "MDX",
+      "category": "other",
+      "stars": 177580,
+      "forks": 22645,
+      "today_stars": 276,
+      "hot_score": 3284.9,
+      "url": "https://github.com/sponsors/f",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Awesome ChatGPT 提示",
+        "chinese_summary": "分享、发现和收集来自社区的 ChatGPT 提示。",
+        "use_case": "用于自定义和丰富 ChatGPT 的对话内容。",
+        "tech_highlights": [
+          "开源免费",
+          "社区驱动",
+          "MDX 格式"
+        ],
+        "target_users": "ChatGPT 用户和开发者",
+        "why_trending": "随着 ChatGPT 的流行，用户对自定义提示的需求增加，该项目提供了一个集中的平台来分享和发现高质量的提示。",
+        "getting_started": "直接访问 GitHub 仓库，按照 README 文件中的说明开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-n8n-io-n8n",
+      "source": "github",
+      "full_name": "n8n-io/n8n",
+      "owner": "n8n-io",
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 210609,
+      "forks": 61535,
+      "today_stars": 149,
+      "hot_score": 2022.3,
+      "url": "https://github.com/n8n-io/n8n",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "n8n",
+        "chinese_summary": "一个具有内置AI能力的工作流自动化平台，结合可视化构建和自定义代码。",
+        "use_case": "用于自动化各种工作流任务，如数据处理、API集成等。",
+        "tech_highlights": [
+          "支持自定义代码和可视化构建",
+          "内置AI功能",
+          "400+插件集成"
+        ],
+        "target_users": "需要自动化工作流的开发者和企业",
+        "why_trending": "结合AI和丰富的插件生态，满足复杂自动化需求；社区活跃，持续更新。",
+        "getting_started": "通过官方文档快速了解基本操作并开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-NationalSecurityAgency-ghidra",
+      "source": "github",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "category": "backend",
+      "stars": 100227,
+      "forks": 11394,
+      "today_stars": 142,
+      "hot_score": 1920.1,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "国家安全局/Ghidra",
+        "chinese_summary": "Ghidra 是一个软件逆向工程框架",
+        "use_case": "主要用于分析和逆向工程二进制文件，帮助理解软件内部结构。",
+        "tech_highlights": [
+          "支持多种架构和操作系统",
+          "强大的反汇编和反编译功能",
+          "开源且免费"
+        ],
+        "target_users": "软件逆向工程师、安全研究人员",
+        "why_trending": "由于其强大的逆向工程能力和开源特性，吸引了大量安全研究者的关注。",
+        "getting_started": "建议从官方文档开始学习，了解基本操作和功能。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-rustdesk",
+      "source": "github",
+      "full_name": "sponsors/rustdesk",
+      "owner": "sponsors",
+      "name": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 129629,
+      "forks": 20744,
+      "today_stars": 133,
+      "hot_score": 1841.3,
+      "url": "https://github.com/sponsors/rustdesk",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "RustDesk",
+        "chinese_summary": "一款开源远程桌面应用，支持自托管，替代 TeamViewer。",
+        "use_case": "适用于需要远程访问和控制计算机的场景。",
+        "tech_highlights": [
+          "使用 Rust 语言开发，保证高性能和安全性",
+          "支持自托管，无需依赖第三方服务",
+          "跨平台设计，支持 Windows、Linux 和 macOS"
+        ],
+        "target_users": "需要远程访问计算机的个人和企业用户",
+        "why_trending": "得益于 Rust 的安全性和性能，以及开源社区的支持，RustDesk 受到广泛关注。",
+        "getting_started": "通过官方文档快速了解安装和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-playwright",
+      "source": "github",
+      "full_name": "microsoft/playwright",
+      "owner": "microsoft",
+      "name": "playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 100279,
+      "forks": 6886,
+      "today_stars": 87,
+      "hot_score": 1370.1,
+      "url": "https://github.com/microsoft/playwright",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Playwright",
+        "chinese_summary": "用于Web测试和自动化，提供单一API测试Chromium、Firefox和WebKit。",
+        "use_case": "适用于Web应用的自动化测试和前端开发。",
+        "tech_highlights": [
+          "单一API支持多浏览器",
+          "内置等待和重试机制",
+          "支持Node.js和Python"
+        ],
+        "target_users": "Web测试工程师、前端开发者",
+        "why_trending": "因其强大的跨浏览器测试能力，以及简化测试流程的特点，受到开发者欢迎。",
+        "getting_started": "通过npm安装并快速开始编写测试脚本。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-huggingface-transformers",
+      "source": "github",
+      "full_name": "huggingface/transformers",
+      "owner": "huggingface",
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 169032,
+      "forks": 35214,
+      "today_stars": 68,
+      "hot_score": 1202.8,
+      "url": "https://github.com/huggingface/transformers",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Hugging Face Transformers",
+        "chinese_summary": "用于文本、视觉、音频和多模态模型的先进机器学习模型框架。",
+        "use_case": "适用于模型的训练和推理。",
+        "tech_highlights": [
+          "支持多种模型架构",
+          "丰富的模型库",
+          "易于扩展和定制"
+        ],
+        "target_users": "机器学习工程师、研究人员、数据科学家",
+        "why_trending": "因其强大的模型支持和易用性，以及在自然语言处理领域的广泛应用。",
+        "getting_started": "通过安装库和查看文档快速开始使用。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-sveltejs",
+      "source": "github",
+      "full_name": "sponsors/sveltejs",
+      "owner": "sponsors",
+      "name": "sveltejs",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 88781,
+      "forks": 6051,
+      "today_stars": 58,
+      "hot_score": 1074.8,
+      "url": "https://github.com/sponsors/sveltejs",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "SvelteJS",
+        "chinese_summary": "用于构建高效Web应用的前端框架",
+        "use_case": "适用于构建响应式、高性能的Web应用",
+        "tech_highlights": [
+          "编译时构建",
+          "轻量级代码",
+          "即时渲染"
+        ],
+        "target_users": "前端开发者，特别是需要高效渲染和性能的应用",
+        "why_trending": "因其编译时构建和轻量级代码，能够显著提高应用性能，符合现代Web开发趋势",
+        "getting_started": "通过官方文档快速开始学习和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-mitmproxy-mitmproxy",
+      "source": "github",
+      "full_name": "mitmproxy/mitmproxy",
+      "owner": "mitmproxy",
+      "name": "mitmproxy",
+      "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 46999,
+      "forks": 4985,
+      "today_stars": 57,
+      "hot_score": 1037.2,
+      "url": "https://github.com/mitmproxy/mitmproxy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "mitmproxy",
+        "chinese_summary": "一个支持 TLS 的交互式 HTTP 代理，用于渗透测试和软件开发。",
+        "use_case": "主要用于网络流量拦截、修改和调试。",
+        "tech_highlights": [
+          "支持 TLS 加密流量拦截",
+          "交互式操作界面",
+          "灵活的插件系统"
+        ],
+        "target_users": "渗透测试人员和软件开发者",
+        "why_trending": "因其强大的网络流量操控能力和灵活性，受到安全测试和开发社区的广泛关注。",
+        "getting_started": "通过官方文档快速了解基本用法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-microsoft-PowerToys",
+      "source": "github",
+      "full_name": "microsoft/PowerToys",
+      "owner": "microsoft",
+      "name": "PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "category": "systems",
+      "stars": 141027,
+      "forks": 8749,
+      "today_stars": 47,
+      "hot_score": 984.9,
+      "url": "https://github.com/microsoft/PowerToys",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "PowerToys",
+        "chinese_summary": "Windows系统增强工具集合，提高生产力和个性化设置",
+        "use_case": "适用于需要提高Windows系统效率和自定义设置的用户",
+        "tech_highlights": [
+          "跨平台开发",
+          "C语言编写",
+          "插件式扩展"
+        ],
+        "target_users": "Windows系统高级用户和开发者",
+        "why_trending": "因其强大的功能和高度的自定义性，受到广泛好评，社区活跃度高",
+        "getting_started": "访问GitHub页面，按照README文件指引快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-openai-openai-cookbook",
+      "source": "github",
+      "full_name": "openai/openai-cookbook",
+      "owner": "openai",
+      "name": "openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
+      "language": "Jupyter Notebook",
+      "category": "ai_ml",
+      "stars": 77175,
+      "forks": 13074,
+      "today_stars": 40,
+      "hot_score": 888.7,
+      "url": "https://github.com/openai/openai-cookbook",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "OpenAI 烹饪书",
+        "chinese_summary": "使用 OpenAI API 的示例和指南",
+        "use_case": "提供多种使用 OpenAI API 的示例，帮助开发者快速上手。",
+        "tech_highlights": [
+          "Jupyter Notebook 编程语言",
+          "丰富的示例和指南"
+        ],
+        "target_users": "对 OpenAI API 感兴趣的开发者",
+        "why_trending": "展示了如何利用 OpenAI API 解决实际问题，符合当前 AI 技术的发展趋势。",
+        "getting_started": "直接运行 Jupyter Notebook 中的示例代码即可快速上手。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-Z4nzu",
+      "source": "github",
+      "full_name": "sponsors/Z4nzu",
+      "owner": "sponsors",
+      "name": "Z4nzu",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 81951,
+      "forks": 9244,
+      "today_stars": 38,
+      "hot_score": 871.4,
+      "url": "https://github.com/sponsors/Z4nzu",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "全能黑客工具",
+        "chinese_summary": "一个集成了多种黑客工具的综合平台",
+        "use_case": "适用于黑客、安全研究人员进行漏洞扫描、渗透测试等",
+        "tech_highlights": [
+          "功能集成",
+          "跨平台兼容",
+          "自动化脚本"
+        ],
+        "target_users": "黑客、安全研究人员",
+        "why_trending": "随着网络安全威胁的增加，自动化黑客工具受到广泛关注，该项目因其全面性和易用性而受到欢迎",
+        "getting_started": "安装依赖后直接运行脚本即可开始使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-LibreTranslate",
+      "source": "github",
+      "full_name": "sponsors/LibreTranslate",
+      "owner": "sponsors",
+      "name": "LibreTranslate",
+      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "language": "Python",
+      "category": "ai_ml",
+      "stars": 17765,
+      "forks": 1864,
+      "today_stars": 44,
+      "hot_score": 865.0,
+      "url": "https://github.com/sponsors/LibreTranslate",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "LibreTranslate",
+        "chinese_summary": "免费开源的机器翻译API，支持离线使用。",
+        "use_case": "适用于需要自托管且支持离线的机器翻译场景。",
+        "tech_highlights": [
+          "自托管",
+          "离线能力",
+          "易于安装"
+        ],
+        "target_users": "需要自托管机器翻译服务的开发者和组织",
+        "why_trending": "由于其开源、自托管和离线能力，吸引了大量寻求隐私和控制权的用户。",
+        "getting_started": "通过官方文档快速开始安装和使用",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-trufflesecurity-trufflehog",
+      "source": "github",
+      "full_name": "trufflesecurity/trufflehog",
+      "owner": "trufflesecurity",
+      "name": "trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "category": "backend",
+      "stars": 29385,
+      "forks": 2756,
+      "today_stars": 41,
+      "hot_score": 856.8,
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "TruffleHog",
+        "chinese_summary": "查找、验证和分析泄露的凭证",
+        "use_case": "主要用于代码仓库中查找和分析敏感信息泄露",
+        "tech_highlights": [
+          "支持多种版本控制系统",
+          "深度集成Go语言",
+          "高效的数据挖掘算法"
+        ],
+        "target_users": "安全工程师、开发团队、系统管理员",
+        "why_trending": "随着数据安全意识提升，开源安全工具受到广泛关注，TruffleHog因其高效性和易用性而受到青睐",
+        "getting_started": "通过安装Go环境并运行`trufflehog -r <repository>`快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-facebookresearch-faiss",
+      "source": "github",
+      "full_name": "facebookresearch/faiss",
+      "owner": "facebookresearch",
+      "name": "faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "category": "systems",
+      "stars": 41709,
+      "forks": 4644,
+      "today_stars": 38,
+      "hot_score": 842.0,
+      "url": "https://github.com/facebookresearch/faiss",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "FAISS",
+        "chinese_summary": "一个用于高效相似搜索和密集向量聚类的库",
+        "use_case": "适用于大规模数据集的相似度搜索和聚类任务",
+        "tech_highlights": [
+          "支持多种向量量化方法",
+          "高效的索引和搜索算法",
+          "跨平台兼容性"
+        ],
+        "target_users": "数据科学家、机器学习工程师和科研人员",
+        "why_trending": "得益于其在大规模数据集上的高效性能和广泛的应用场景，吸引了大量关注",
+        "getting_started": "建议从官方文档开始，快速了解基本概念和使用方法",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-projectdiscovery-nuclei",
+      "source": "github",
+      "full_name": "projectdiscovery/nuclei",
+      "owner": "projectdiscovery",
+      "name": "nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "category": "backend",
+      "stars": 32961,
+      "forks": 4016,
+      "today_stars": 36,
+      "hot_score": 811.8,
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Nuclei",
+        "chinese_summary": "基于 YAML 的 DSL 的快速可定制漏洞扫描工具",
+        "use_case": "用于发现应用程序、API、网络、DNS 和云配置中的漏洞",
+        "tech_highlights": [
+          "基于 YAML 的简单 DSL",
+          "社区驱动的漏洞库",
+          "高度可定制"
+        ],
+        "target_users": "安全研究人员、开发人员和运维人员",
+        "why_trending": "得益于其灵活性和强大的社区支持，能够快速响应新的安全威胁",
+        "getting_started": "通过安装 Go 环境并运行 `nuclei -h` 快速开始",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-sponsors-withastro",
+      "source": "github",
+      "full_name": "sponsors/withastro",
+      "owner": "sponsors",
+      "name": "withastro",
+      "description": "The web framework for content-driven websites.",
+      "language": "TypeScript",
+      "category": "frontend",
+      "stars": 63976,
+      "forks": 3922,
+      "today_stars": 29,
+      "hot_score": 770.6,
+      "url": "https://github.com/sponsors/withastro",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Withastro",
+        "chinese_summary": "用于内容驱动型网站的 Web 框架",
+        "use_case": "适用于需要高效构建内容丰富的网站",
+        "tech_highlights": [
+          "基于 Astro 技术栈",
+          "TypeScript 编程语言",
+          "内容驱动型网站优化"
+        ],
+        "target_users": "内容创作者和技术开发者",
+        "why_trending": "结合现代前端技术，提供高效的内容发布解决方案，受到开发者关注",
+        "getting_started": "通过官方文档快速开始项目",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-nautechsystems-nautilus_trader",
+      "source": "github",
+      "full_name": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "category": "systems",
+      "stars": 31566,
+      "forks": 4283,
+      "today_stars": 31,
+      "hot_score": 759.9,
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "纳utilus 交易引擎",
+        "chinese_summary": "一个用 Rust 编写的高性能交易引擎，具有确定性的事件驱动架构。",
+        "use_case": "适用于高频交易、算法交易和量化交易等场景。",
+        "tech_highlights": [
+          "使用 Rust 编写，性能高且安全",
+          "确定性的事件驱动架构",
+          "模块化设计，易于扩展"
+        ],
+        "target_users": "高频交易员、量化交易员和交易系统开发者",
+        "why_trending": "得益于 Rust 的性能优势和事件驱动架构的广泛应用，吸引了大量关注。",
+        "getting_started": "建议从官方文档开始，了解基本概念和架构设计",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-aquasecurity-trivy",
+      "source": "github",
+      "full_name": "aquasecurity/trivy",
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "category": "backend",
+      "stars": 39385,
+      "forks": 887,
+      "today_stars": 28,
+      "hot_score": 739.5,
+      "url": "https://github.com/aquasecurity/trivy",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Trivy",
+        "chinese_summary": "用于检测容器、Kubernetes、代码仓库、云环境等中的漏洞、配置错误、密钥和SBOM",
+        "use_case": "用于安全扫描和合规检查",
+        "tech_highlights": [
+          "支持多种扫描目标",
+          "开源且社区活跃",
+          "集成多种安全数据库"
+        ],
+        "target_users": "安全工程师、DevOps工程师、系统管理员",
+        "why_trending": "随着容器化和云原生技术的普及，安全扫描工具需求增加；Trivy因其易用性和多功能性受到欢迎",
+        "getting_started": "通过Docker安装并运行Trivy，快速进行安全扫描",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    },
+    {
+      "repo_id": "github-GoogleChrome-lighthouse",
+      "source": "github",
+      "full_name": "GoogleChrome/lighthouse",
+      "owner": "GoogleChrome",
+      "name": "lighthouse",
+      "description": "Automated auditing, performance metrics, and best practices for the web.",
+      "language": "JavaScript",
+      "category": "frontend",
+      "stars": 31121,
+      "forks": 9793,
+      "today_stars": 28,
+      "hot_score": 729.3,
+      "url": "https://github.com/GoogleChrome/lighthouse",
+      "topics": [],
+      "structured_summary": {
+        "chinese_name": "Lighthouse",
+        "chinese_summary": "网页性能评估工具，提供自动化审计和最佳实践建议。",
+        "use_case": "用于网站性能优化、SEO 和用户体验评估。",
+        "tech_highlights": [
+          "基于Web性能最佳实践的自动化审计",
+          "强大的报告生成能力",
+          "支持多种平台和框架"
+        ],
+        "target_users": "网站开发者、性能工程师、前端工程师",
+        "why_trending": "随着对网页性能和用户体验要求的提高，Lighthouse 成为优化工具的首选，同时其社区活跃度也推动了其热度。",
+        "getting_started": "通过npm安装lighthouse CLI，运行命令即可开始评估。",
+        "model_used": "Qwen/Qwen2.5-7B-Instruct"
+      }
+    }
+  ]
+}
